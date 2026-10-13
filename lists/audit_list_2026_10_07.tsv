@@ -1,0 +1,27 @@
+order	tier	name	repo	last_push	installs	python_kb	stars
+1	4	niceDarkTheme	aaortizb/niceDarkTheme	2026-10-07		15	0
+2	4	LSP-tombi	sublimelsp/LSP-tombi	2026-10-06		10	0
+3	4	LSP-zuban	sublimelsp/LSP-zuban	2026-10-06		8	0
+4	4	LSP-oxfmt	sublimelsp/LSP-oxfmt	2026-10-06		4	0
+5	4	LSP-oxlint	sublimelsp/LSP-oxlint	2026-10-06		5	0
+6	4	LSP-pawnforge	NiceFeatures/LSP-pawnforge	2026-10-05		7	0
+7	4	DeWatermark	djrobby/DeWatermark	2026-10-02		6	0
+8	4	FindInFilesWalker	aletez/find_in_files_walker	2026-09-29		13	1
+9	4	LSP-vibescript	mgomes/LSP-vibescript	2026-09-28		5	0
+10	4	LSP-systemd	sublimelsp/LSP-systemd	2026-09-27		4	0
+11	4	LSP-nsis	idleberg/sublime-lsp-nsis	2026-09-24		4	0
+12	4	Ruby Block Converter	irohiroki/RubyBlockConverter	2026-09-20		7	19
+13	4	ParentalControl	ilyakam/ParentalControl	2026-09-12		14	3
+14	4	Theme - DAneo	SublimeText/Theme-DAneo	2026-08-28		8	51
+15	4	SublimeLinter-contrib-oxlint	IPWright83/SublimeLinter-contrib-oxlint	2026-08-27		21	0
+16	4	Jasmine Scaffold	cdwmyk/jasmine-scaffold-sublime-text	2026-08-27		4	6
+17	4	LSP-gh-actions	sublimelsp/LSP-gh-actions	2026-08-06		4	0
+18	4	LSP-promql	prometheus-community/sublimelsp-promql	2026-07-19		5	3
+19	4	LSP-Grammarly	sublimelsp/LSP-Grammarly	2026-05-25		8	25
+20	4	Theme - Timeless	iccir/Timeless-Theme	2026-05-22		7	15
+21	4	Copy Python Import	odiroot/copy_python_import	2026-05-20		10	0
+22	4	LSP-serenata	sublimelsp/LSP-serenata	2026-04-29		5	2
+23	4	LSP-wren-lsp	sublimelsp/LSP-wren-lsp	2026-04-14		5	1
+24	4	Color Scheme - Dracula Neue	facelessuser/sublime-dracula-scheme	2025-11-16		5	63
+25	4	EZWebSequenceDiagrams	patrickayoup/sublimetext-sequencediagrams	2025-07-06		5	4
+26	4	Pastery	apas/pastery	2025-02-18		6	7

@@ -1,0 +1,31 @@
+order	installs_rank	pkg	repo	pushed_days_ago	py_kb	stars
+1	1180	LSP-yaml	sublimelsp/LSP-yaml	0	1	28
+2	1571	SublimeLinter-contrib-Powershell	EdrisT/SublimeLinter-contrib-Powershell	4	1	2
+3	2571	SublimeLinter-ghc	SublimeLinter/SublimeLinter-ghc	7	3	8
+4	1152	MayaSublime	justinfx/MayaSublime	8	16	153
+5	1051	Laravel Goto	absszero/LaravelGoto	65	95	11
+6	1355	SetSyntax	colinta/SublimeSetSyntax	74	3	3
+7	1158	HTML (C#)	michaelblyons/SublimeSyntax-HTML-CSharp	100	1	6
+8	3034	Meetio	mauroreisvieira/meetio	109	3	74
+9	3436	FileTabRename	LDprg/FileTabRename	139	1	3
+10	1045	Restructured Text (RST) Snippets	mgaitan/sublime-rst-completion	160	67	248
+11	3136	Just	nk9/just_sublime	181	3	17
+12	1155	TextFormatting	colinta/SublimeTextFormatting	185	11	6
+13	1085	RustFmt	mitranim/sublime-rust-fmt	270	37	30
+14	1508	Unicode Escape	iahu/unicode-escape	536	3	6
+15	1615	Visual studio code	stoivo/sublime-open-in-vscode	579	3	1
+16	3657	AsciiGraph	divinites/AsciiGraph	632	3	6
+17	1321	CursorRuler	icylace/CursorRuler	647	12	65
+18	1306	Unity Shader	waqiju/unity_shader_st3	728	17	95
+19	2060	GithubEmoji	akatopo/GithubEmoji	814	2	34
+20	3108	OpenFilesLister	bantya/OpenFilesLister	855	2	5
+21	2864	JsRun	sindresorhus/sublime-jsrun	891	1	248
+22	1796	Better RSpec	fnando/sublime-better-rspec	918	2	13
+23	2308	Merge Windows	chinchin96/SublimeText-Merge-Windows	927	1	23
+24	2353	SublimeLinter-contrib-cloudformation	fatbasstard/SublimeLinter-contrib-cloudformation	929	2	6
+25	1160	Expand Selection to Quotes	kek/sublime-expand-selection-to-quotes	973	1	105
+26	2332	LuaFormatter	Koihik/sublime-lua-format	1010	3	7
+27	1828	Fold Python Docstrings	alecthomas/SublimeFoldPythonDocstrings	1043	1	16
+28	2634	ExtendScript	seblavoie/sublime-extendscript	1051	2	14
+29	2301	View Bookmarks	adam-zethraeus/SublimeViewBookmarks	1075	1	7
+30	1593	GitCommitMsg	cbumgard/GitCommitMsg	1080	3	357

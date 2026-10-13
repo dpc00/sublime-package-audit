@@ -1,0 +1,10 @@
+order	installs_rank	pkg	repo	pushed_days_ago	py_kb	stars
+1	1216	OpenAI completion	yaroslavyaroslav/OpenAI-sublime-text	4	117	466
+2	1152	MayaSublime	justinfx/MayaSublime	8	16	153
+3	1247	CNC Sinumerik	deathaxe/sublime-s840d	25	55	27
+4	1051	Laravel Goto	absszero/LaravelGoto	65	95	11
+5	1045	Restructured Text (RST) Snippets	mgaitan/sublime-rst-completion	160	67	248
+6	1155	TextFormatting	colinta/SublimeTextFormatting	185	11	6
+7	1085	RustFmt	mitranim/sublime-rust-fmt	270	37	30
+8	1321	CursorRuler	icylace/CursorRuler	647	12	65
+9	1306	Unity Shader	waqiju/unity_shader_st3	728	17	95

@@ -1,0 +1,106 @@
+﻿order	name	repo	last_push	installs	python_kb
+1	FTPSync	NoxArt/SublimeText2-FTPSync	2026-10-07	209349	434
+2	WordingStatus	evandrocoan/WordingStatus	2026-10-06	126629	14
+3	PlantUmlDiagrams	evandrocoan/PlantUmlDiagrams	2026-10-06	15939	24
+4	Compare Side-By-Side	kaste/Compare-Side-By-Side	2026-10-06	371744	46
+5	FileSystem Autocompletion	lingo/sublime-fscompletion	2026-10-06	29465	21
+6	Translator	dmytrovoytko/SublimeText-Translate	2026-10-05	15672	66
+7	FileIcons Mono	braver/FileIcons	2026-10-05	45750	0
+8	FileIcons	braver/FileIcons	2026-10-05	319583	0
+9	Solarized Color Scheme	braver/Solarized	2026-10-05	144516	0
+10	DoxyDoxygen	20Tauri/DoxyDoxygen	2026-10-05	39737	0
+11	DocBlockr 2021 (DoxyDoxygen powered)	20Tauri/DoxyDoxygen	2026-10-05	21963	0
+12	LocalizedMenu	zam1024t/LocalizedMenu	2026-10-04	235619	9
+13	Package Control	sublimehq/package_control	2026-10-04	25537847	2258
+14	Open URL	noahcoad/SublimeOpenUrl	2026-10-03	24471	198
+15	ExportHtml	facelessuser/ExportHtml	2026-10-03	53443	141
+16	LaTeXTools	SublimeText/LaTeXTools	2026-10-03	370600	589
+17	RSpec	SublimeText/RSpec	2026-09-29	43321	10
+18	SystemVerilog	TheClams/SystemVerilog	2026-09-28	68206	375
+19	MarkdownTOC	naokazuterada/MarkdownTOC	2026-09-27	37385	102
+20	PackageDev	SublimeText/PackageDev	2026-09-26	112690	225
+21	CodeFormatter	akalongman/sublimetext-codeformatter	2026-09-26	333825	638
+22	wpseek WordPress Developer Assistant	wpseek/sublime-text-2-wpseek	2026-09-26	23377	2
+23	Terminal	SublimeText/Terminal	2026-09-26	964071	8
+24	LSP-json	sublimelsp/LSP-json	2026-09-23	35091	15
+25	BootstrapAutocomplete	jfcherng-sublime/ST-BootstrapAutocomplete	2026-09-23	27260	130
+26	LSP-pyright	sublimelsp/LSP-pyright	2026-09-21	39208	316
+27	Color Highlight	SublimeText/ColorHighlight	2026-09-21	322462	66
+28	Google Spell Check	noahcoad/SublimeGoogleSpellCheck	2026-09-19	63366	25
+29	SSH Config	robballou/sublimetext-sshconfig	2026-09-19	17451	13
+30	TypeScript	microsoft/TypeScript-Sublime-Plugin	2026-09-14	556870	177
+31	Gitignore	vilhelmen/Sublime-Gitignore	2026-09-11	62905	3
+32	Clickable URLs	pakhromov/ClickableUrls	2026-09-10	41636	12
+33	Theme - Monokai Pro	monokai-pro/sublime-text	2026-09-08	120430	0
+34	Git blame	frou/st3-gitblame	2026-09-06	54942	33
+35	Auto Close HTML Tags	sh4nks/sublime-text-plugin-autoclose	2026-08-24	116057	4
+36	MarkdownEditing	SublimeText-Markdown/MarkdownEditing	2026-08-21	678878	253
+37	PlainTasks	SublimeText/PlainTasks	2026-08-06	208033	113
+38	UnicodeConverter	leibnizli/UnicodeConverter	2026-08-01	71879	6
+39	Rust Enhanced	rust-lang/rust-enhanced	2026-07-29	120882	277
+40	RegReplace	facelessuser/RegReplace	2026-07-27	48358	102
+41	Theme - Kronuz	Kronuz/kronuz-theme-sublime	2026-07-25	15880	0
+42	Indent XML	braver/IndentXML	2026-07-25	524558	6
+43	SideBarTools	braver/SideBarTools	2026-07-25	80646	13
+44	Handlebars	daaain/Handlebars	2026-07-16	156147	0
+45	Terraform	SublimeText/Terraform	2026-06-15	76200	0
+46	GitHub Theme	mauroreisvieira/github-sublime-theme	2026-06-15	61875	0
+47	Visual Studio Code Plus Scheme	vbasky/sublime-vscode-plus	2026-06-06	18293	0
+48	Brackets Color Scheme	jwortmann/brackets-color-scheme	2026-06-02	49233	0
+49	Generic Config	skozlovf/Sublime-GenericConfig	2026-04-29	21449	0
+50	FileDiffs	colinta/SublimeFileDiffs	2026-04-29	337876	21
+51	SyncedSideBar	TheSpyder/SyncedSideBar	2026-04-21	229023	7
+52	JsPrettier	jonlabelle/SublimeJsPrettier	2026-04-14	207228	69
+53	Trimmer	jonlabelle/Trimmer	2026-04-14	163276	20
+54	Elixir	elixir-editors/elixir-tmbundle	2026-04-10	55582	3
+55	GitHubTools	braver/GitHubTools	2026-04-04	146443	11
+56	Verilog Gadget	poucotm/Verilog-Gadget	2026-03-27	18724	58
+57	Ngx HTML	princemaple/ngx-html-syntax	2026-03-26	32235	15
+58	phpfmt	driade/phpfmt8	2026-03-26	177064	106
+59	Phpcs	benmatselby/sublime-phpcs	2026-03-18	430488	39
+60	CoolBase64	kamryn404/CoolBase64-sublime	2026-03-04	18625	3
+61	Catppuccin color schemes	catppuccin/sublime-text	2026-02-23	22420	0
+62	WordPress Customizer	ahmadawais/Sublime-WP-Customizer	2026-02-13	15585	0
+63	Neon Color Scheme	MattDMo/Neon-color-scheme	2026-02-05	51503	0
+64	Theme - Spacegray	SublimeText/Spacegray	2026-01-25	519164	0
+65	ColorHelper	facelessuser/ColorHelper	2026-01-19	138872	1024
+66	DashDoc	farcaller/DashDoc	2026-01-11	90584	3
+67	Less	SublimeText/Less	2026-01-10	706373	68
+68	Tailwind CSS	SublimeText/TailwindCSS	2025-12-10	16527	0
+69	PostCSS	SublimeText/PostCSS	2025-12-10	18575	0
+70	HexViewer	facelessuser/HexViewer	2025-12-03	214285	192
+71	RawLineEdit	facelessuser/RawLineEdit	2025-11-28	50703	38
+72	SublimeLinter-contrib-htmlhint	htmlhint/SublimeLinter-contrib-htmlhint	2025-11-12	34675	2
+73	LanguageTool	gtarawneh/languagetool-sublime	2025-11-10	15909	19
+74	Theme - One	AmjadHD/sublime_one_theme	2025-11-06	119996	0
+75	CMake	zyxar/Sublime-CMakeLists	2025-10-16	101655	4
+76	SQF Language	JonBons/Sublime-SQF-Language	2025-10-07	23060	8
+77	Prettierd Format	smastrom/sublime-prettierd-format	2025-09-28	19917	6
+78	Table Editor	SublimeText/TableEditor	2025-09-07	55983	121
+79	CoolFormat	edokan/Sublime-CoolFormat	2025-08-20	36931	5
+80	UIkitCompletions	dlzi/UIkitCompletions	2025-08-15	26551	29
+81	Dictionaries	titoBouzout/Dictionaries	2025-08-11	23812	1
+82	INI	jwortmann/ini-syntax	2025-07-01	119471	1
+83	Dracula Color Scheme	dracula/sublime	2025-06-24	271514	0
+84	MultiEditUtils	philippotto/Sublime-MultiEditUtils	2025-06-13	25080	43
+85	PHP Getters and Setters	SublimeText/PHPGettersSetters	2025-06-06	57104	17
+86	x86 and x86_64 Assembly	13xforever/x86-assembly-textmate-bundle	2025-05-13	40296	0
+87	Laravel Blade	SublimeText/Blade	2025-05-01	464122	0
+88	zenburn	colinta/zenburn	2025-04-13	34253	0
+89	Clipboard Manager	colinta/SublimeClipboardManager	2025-04-13	40547	13
+90	ChangeQuotes	colinta/SublimeChangeQuotes	2025-04-13	50222	19
+91	Calculate	colinta/SublimeCalculate	2025-04-13	16832	13
+92	Bracketeer	colinta/SublimeBracketeer	2025-04-13	53508	19
+93	ApacheConf	colinta/ApacheConf.tmLanguage	2025-04-13	126711	0
+94	Transparency	vhanla/SublimeTextTrans	2025-02-15	32481	12
+95	React + Js Snippets	HelloXiuXiu/react-js-snippets	2025-02-09	63363	0
+96	ESLint-Formatter	elicwhite/ESLint-Formatter	2025-02-07	50627	10
+97	GitHubinator	ehamiter/GitHubinator	2025-01-28	30104	9
+98	ClangAutoComplete	pl-ca/ClangAutoComplete	2024-12-16	47232	8
+99	PostgreSQL Syntax Highlighting	tkopets/sublime-postgresql-syntax	2024-12-13	26975	0
+100	Emacs Pro Essentials	sublime-emacs/sublemacspro	2024-12-09	36265	149
+101	RainbowBrackets	absop/RainbowBrackets	2024-11-13	36987	145
+102	Predawn	jamiewilson/predawn	2024-10-30	412069	0
+103	Twig	Sublime-Instincts/BetterTwig	2024-10-28	204084	0
+104	Clang Format	rosshemsley/SublimeClangFormat	2024-10-21	59680	13
+105	DictionaryAutoComplete	Zinggi/DictionaryAutoComplete	2024-10-08	23033	16
