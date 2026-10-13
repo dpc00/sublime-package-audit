@@ -1,0 +1,12 @@
+﻿order	name	repo	last_push	installs	python_kb
+1	ayu	dempfi/ayu	2026-09-27	547069	10
+2	EasyClangComplete	niosus/EasyClangComplete	2026-06-09	54478	1577
+3	PHPGrammar	gerardroche/sublime-php-grammar	2024-05-05	57062	7
+4	FileManager	math2001/FileManager	2024-03-21	35934	69
+5	SideBarFolders	titoBouzout/SideBarFolders	2024-03-09	59558	4
+6	Lua Love	szensk/subllualove	2023-12-04	34984	7
+7	SublimeCodeIntel	SublimeCodeIntel/SublimeCodeIntel	2023-08-28	1857662	142
+8	Filter Lines	davidpeckham/sublime-filterlines	2023-03-15	40078	6
+9	SublimeERB	eddorre/SublimeERB	2023-03-05	56606	4
+10	Ecmascript Syntax	bathos/Ecmascript-Sublime	2023-03-01	24448	27
+11	SublimeAStyleFormatter	timonwong/SublimeAStyleFormatter	2023-01-03	162451	173

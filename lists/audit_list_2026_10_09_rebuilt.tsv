@@ -1,0 +1,37 @@
+﻿order	tier	pkg	repo	last_commit_days	commits_last_year	issues	closed_ratio	stars	py_kb	owner
+1	N	ACP	debjan/sublime-acp	1	46	0	-1	6	318	User
+2	N	Task List	noahcoad/SublimeTaskList	18	26	0	-1	0	7	User
+3	N	LSP-ember	ijlee2/LSP-ember	18	19	0	-1	2	4	User
+4	N	Candela Color Schemes	schovi/candela-themes-sublime	4	13	0	-1	0	2	User
+5	N	AutoOpenReadme	noahcoad/SublimeAutoOpenReadme	30	12	0	-1	0	4	User
+6	N	Symbols	ziishaned/sublime-text-symbols	10	5	0	-1	2	34	User
+7	N	SublimeLinter-contrib-Powershell	EdrisT/SublimeLinter-contrib-Powershell	3	2	1	1	2	2	User
+8	N	SublimeLinter-contrib-makensis	idleberg/SublimeLinter-contrib-makensis	51	1	0	-1	0	3	User
+9	A	LSP-Deno	sublimelsp/LSP-Deno	1	13	11	0.91	11	9	Organization
+10	A	LSP-cspell	sublimelsp/LSP-cspell	12	12	10	0.8	13	5	Organization
+11	A	LSP-some-sass	sublimelsp/LSP-some-sass	10	13	3	0.67	3	3	Organization
+12	A	LSP-Bicep	sublimelsp/LSP-Bicep	0	9	3	0.67	0	2	Organization
+13	B	Laravel Goto	absszero/LaravelGoto	64	19	9	1	11	95	User
+14	B	Meetio	meetio-theme/sublime-meetio-theme	319	2	49	1	74	4	Organization
+15	B	Phpcs	benmatselby/sublime-phpcs	205	14	163	0.96	807	39	User
+16	B	Just	nk9/just_sublime	180	11	26	0.92	17	3	User
+17	B	RustFmt	mitranim/sublime-rust-fmt	269	1	11	0.91	30	38	User
+18	C	LSP-lean	sublimelsp/LSP-lean	21	45	4	0	1	66	Organization
+19	D	Atlas Ragnarok Color Scheme	AyoubTadlaoui/atlas-ragnarok	142	30	1	1	1	5	User
+20	D	Atomic Color Scheme	gerardbm/atomic	327	5	1	1	80	512	User
+21	D	TextFormatting	colinta/SublimeTextFormatting	184	3	2	1	6	12	User
+22	D	Less	SublimeText/Less	272	2	2	1	7	68	Organization
+23	D	LSP-ltex-ls-plus	sublimelsp/LSP-ltex-ls-plus	115	5	2	0.5	0	7	Organization
+24	D	Restructured Text (RST) Snippets	mgaitan/sublime-rst-completion	159	2	65	0.48	248	68	User
+25	D	Estomato	rakibulhaq/estomato	116	4	3	0	5	4	User
+26	D	SetSyntax	colinta/SublimeSetSyntax	72	1	1	0	3	3	User
+27	D	LSP-VHDL-ls	martinbarez/LSP-VHDL-ls	100	2	0	-1	0	3	User
+28	E	Unicode Escape	iahu/unicode-escape	534	0	4	1	6	3	User
+29	E	Visual studio code	stoivo/sublime-open-in-vscode	578	0	3	1	1	4	User
+30	E	Guna	poucotm/Guna	497	0	44	0.93	180	77	User
+31	E	Calculate	colinta/SublimeCalculate	544	0	15	0.93	41	13	User
+32	E	Djaneiro	squ1b3r/Djaneiro	646	0	71	0.87	853	17	User
+33	E	CMake	zyxar/Sublime-CMakeLists	415	0	27	0.85	86	4	User
+34	E	Unity Shader	waqiju/unity_shader_st3	727	0	12	0.75	95	18	User
+35	E	Citer	mangecoeur/Citer	424	0	32	0.69	68	156	User
+36	E	CursorRuler	icylace/CursorRuler	646	0	16	0.69	65	12	User

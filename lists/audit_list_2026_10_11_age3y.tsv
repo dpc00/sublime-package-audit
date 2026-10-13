@@ -1,0 +1,16 @@
+order	installs_rank	pkg	repo	pushed_days_ago	py_kb	stars
+1	1152	MayaSublime	justinfx/MayaSublime	8	16	153
+2	1051	Laravel Goto	absszero/LaravelGoto	65	95	11
+3	1045	Restructured Text (RST) Snippets	mgaitan/sublime-rst-completion	160	67	248
+4	1155	TextFormatting	colinta/SublimeTextFormatting	185	11	6
+5	1085	RustFmt	mitranim/sublime-rust-fmt	270	37	30
+6	1321	CursorRuler	icylace/CursorRuler	647	12	65
+7	1306	Unity Shader	waqiju/unity_shader_st3	728	17	95
+8	1198	Pywin32	SublimeText/Pywin32	803	3800	82
+9	1276	ESLint Fix	kufii/Sublime-ESLint-Fix	933	4	10
+10	1195	Open-Include	titoBouzout/Open-Include	946	62	132
+11	2731	FindResultsApplyChanges	titoBouzout/FindResultsApplyChanges	946	7	51
+12	1639	CiteBibtex	sjpfenninger/citebibtex	1037	139	21
+13	2955	Python Import Magic	alecthomas/SublimePythonImportMagic	1044	119	33
+14	3502	GitHubChecks	randy3k/GitHubChecks	1068	29	5
+15	2433	Thesaurus	Nucc/Thesaurus	1087	4	21

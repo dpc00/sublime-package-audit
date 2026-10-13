@@ -1,0 +1,20 @@
+order	name	repo	installs	last_push	python_kb	note
+1	LSP	sublimelsp/LSP	216059	2026-10-07	1559	only an incidental install on record
+2	A File Icon	SublimeText/AFileIcon	1351904	2026-10-05	17	only an incidental install on record
+3	Debugger	daveleroy/SublimeDebugger	25001	2026-09-29	553	only an incidental install on record
+4	StringEncode	colinta/SublimeStringEncode	37018	2026-09-29	21	only an incidental install on record
+5	Markdown Images	xsleonard/sublime-MarkdownImages	17654	2026-08-30	18	only an incidental install on record
+6	NeoVintageous	NeoVintageous/NeoVintageous	28394	2026-08-21	2200	only an incidental install on record
+7	EditorConfig	sindresorhus/editorconfig-sublime	224021	2026-03-22	26	only an incidental install on record
+8	GitGutter	jisaacks/GitGutter	916782	2026-03-21	167	only an incidental install on record
+9	MarkdownPreview	facelessuser/MarkdownPreview	952597	2026-03-21	65	only an incidental install on record
+10	ColorConverter	braver/ColorConverter	72271	2026-03-11	10	only an incidental install on record
+11	CoffeeScript	SublimeText/CoffeeScript	312257	2026-03-06	33	only an incidental install on record
+12	TabsExtra	facelessuser/TabsExtra	28407	2026-02-16	73	only an incidental install on record
+13	ApplySyntax	facelessuser/ApplySyntax	87753	2025-12-03	43	only an incidental install on record
+14	ScopeHunter	facelessuser/ScopeHunter	17310	2025-11-27	51	only an incidental install on record
+15	EasyDiff	facelessuser/EasyDiff	53829	2025-11-27	102	only an incidental install on record
+16	Wrap Plus	ehuss/Sublime-Wrap-Plus	23884	2025-05-19	59	only an incidental install on record
+17	Simple FTP Deploy	HexRx/simple-ftp-deploy	52713	2024-12-02	14	only an incidental install on record
+18	xpath	rawsp33d/sublime-xpath	31563	2024-11-08	111	only an incidental install on record
+19	Sass	SublimeText/Sass	1697239	2024-11-02	68	only an incidental install on record

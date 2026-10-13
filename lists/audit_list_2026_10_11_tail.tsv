@@ -1,0 +1,78 @@
+order	installs_rank	pkg	repo	pushed_days_ago	py_kb	stars
+1	5577	LSP-esphome	sublimelsp/LSP-esphome	0	1	1
+2	4556	LSP-Bicep	sublimelsp/LSP-Bicep	2	2	0
+3	4421	SublimeLinter-contrib-makefile	giampaolo/SublimeLinter-contrib-makefile	5	17	4
+4	5251	Candela Color Schemes	schovi/candela-themes-sublime	6	2	0
+5	5708	Sonokai	huyhoang8398/Sonokai	6	0	1
+6	4509	RandomCase	dcowsill/randomcase	7	0	0
+7	4060	Bicep	rwols/sublime-bicep	8	0	2
+8	5270	LSP-lean	sublimelsp/LSP-lean	8	65	1
+9	5719	Expr	guille/sublime-expr	9	0	0
+10	4099	SublimeLinter-contrib-checkmake	mcw0933/SublimeLinter-contrib-checkmake	10	0	1
+11	3775	Simple Ifdef	rumly111/simpleifdef	12	2	2
+12	3980	DFormat	dmi7ry/dfmt-sublime	12	1	0
+13	5528	Symbols	ziishaned/sublime-text-symbols	12	33	2
+14	4336	IrView	guilhermeleobas/IRView	13	3	1
+15	4559	LSP-some-sass	sublimelsp/LSP-some-sass	13	3	3
+16	5668	systemd	macowie/sublime-systemd	14	0	0
+17	4070	Theme - Sone	predragnikolic/Sone	17	0	7
+18	5729	DeepSeaFoam	Zanark/DeepSeaFoam-SublimeText	19	0	0
+19	5716	LSP-ember	ijlee2/LSP-ember	20	3	2
+20	5638	LSP-bitbake	sublimelsp/LSP-bitbake	27	0	0
+21	5717	AutoOpenReadme	noahcoad/SublimeAutoOpenReadme	32	3	0
+22	4985	SublimeLinter-contrib-vala-lint	colinkiama/SublimeLinter-contrib-vala-lint	37	5	0
+23	3941	SublimeLinter-contrib-makensis	idleberg/SublimeLinter-contrib-makensis	53	2	0
+24	4177	makensis	idleberg/sublime-makensis	53	0	0
+25	5694	Mar	marlanghq/mar-sublime	58	0	0
+26	5715	SublimeLinter-contrib-todo	Taffer/SublimeLinter-contrib-todo	58	0	0
+27	5541	SublimeLinter-contrib-GDScriptFormatterLinter	Taffer/GDScript-formatter-linter	63	0	0
+28	4772	Selenized Color Scheme	braver/Selenized	78	0	5
+29	4363	LSP-VHDL-ls	martinbarez/LSP-VHDL-ls	102	3	0
+30	4756	Wakame Color Scheme	toshimaru/sublime-wakame	102	0	2
+31	5205	RBS	soutaro/sublime-rbs-plugin	108	0	6
+32	5114	LSP-ltex-ls-plus	sublimelsp/LSP-ltex-ls-plus	117	6	0
+33	5472	Estomato	rakibulhaq/estomato	118	3	5
+34	4350	LSP-vetur	sublimelsp/LSP-vetur	129	0	0
+35	5337	Sequoia Color Scheme	Sequoia-Theme/sublime-text	132	0	0
+36	5351	Serendipity Color Scheme	Serendipity-Theme/sublime-text	132	0	0
+37	5491	Borliana Color Scheme	Avijit-1234/Borliana-Color-Scheme	133	0	0
+38	5551	Atlas Ragnarok Color Scheme	AyoubTadlaoui/atlas-ragnarok	139	5	1
+39	5699	ISF	newrosesystems/isf-syntax	145	0	0
+40	5499	Makinda Color Scheme	makindajack/makinda-themes	158	0	4
+41	3704	Theme - Treble	53v3n3d4/Theme-Treble	161	0	6
+42	5593	AL	SShadowS/sublime-al	186	0	0
+43	4997	Lean	LexouDuck/SublimeText-Lean	197	0	1
+44	5697	SublimeLinter-contrib-jsfx-lint	jamesWalker55/sublime-jsfx-lint	209	0	0
+45	5359	Pep	pedrorgirardi/Pep	233	129	18
+46	4344	Candy Dark Color Scheme	rahulsharmagg/Candy-Dark	245	0	3
+47	5537	SublimeLinter-contrib-flog	icnagy/SublimeLinter-contrib-flog	262	0	0
+48	4269	Cataracted Dark Color Scheme	nonisolated/cataracted-dark-sublime-text	304	0	0
+49	5118	Hypeon Color Scheme	apehex/sublime-hypeon-scheme	390	0	1
+50	4672	Fuse Snippets	igorls/fuse-snippets	408	0	1
+51	5695	Ribosome Syntax	JesseTG/ribosome-sublime	417	0	0
+52	5244	SublimeLinter-any-lsp	kaste/SublimeLinter-any-lsp	434	45	11
+53	4733	JellyFish Color Scheme	anubhavkrishna1/sublime-jellyfish	449	0	2
+54	5318	Shadowenv	Shopify/sublime-shadowenv	516	2	2
+55	4282	SublimeLinter-addon-goto-flash	kaste/SublimeLinter-addon-goto-flash	562	10	1
+56	4643	templatejs	yanhaijing/template.js	574	0	1316
+57	3960	Yin color scheme	zhuoqyin/yin-color-scheme	590	0	0
+58	3849	With Python	nneonneo/sublime-replace-with-python	620	5	10
+59	4845	Fight Color Scheme	ghyatzo/fight-color-scheme	656	0	1
+60	4214	SublimeLinter-contrib-codespell	kaste/SublimeLinter-contrib-codespell	732	0	5
+61	4108	Aethra Color Scheme	vlasikhin/Aethra	735	0	3
+62	4316	SmarterLineMoves	trych/SmarterLineMoves	736	7	16
+63	4479	EdgeOS	lojoja/sublime-syntax-edgeos	743	0	4
+64	4252	NoDialogs	maximsmol/NoDialogs	800	31	3
+65	5328	SublimeLinter-contrib-revive	jsmith0684/SublimeLinter-contrib-revive	803	0	1
+66	4790	SublimeLinter-contrib-selene	alihsaas/SublimeLinter-contrib-selene	810	0	3
+67	4128	SublimeLinter-contrib-xsim	mzh330521/SublimeLinter-contrib-xsim	865	1	9
+68	3929	TypoScriptr	kitzberger/SublimeTypoScriptr	887	1	2
+69	4585	StrapdownJS Boilerplate	sonokamome/StrapdownJS-Boilerplate	914	0	1
+70	4918	Comments-only Color Scheme	cyevgeniy/sublime-comments-only	916	0	0
+71	4486	Color Scheme Categorizer	maxim/ColorSchemeCategorizer	937	2	0
+72	5195	npc_sheets	aurule/npc_sheets	938	0	0
+73	3948	Theme - AquaSoda	Astramata/Theme-AquaSoda	946	0	2
+74	5007	PreventFakeClones	titoBouzout/PreventFakeClones	947	4	8
+75	3687	Expand Group	evanliomain/sublime-ExpandGroup	1015	6	8
+76	4752	SublimeLinter-contrib-djlint	christopherpickering/Sublimelinter-contrib-djlint	1031	0	2
+77	4519	SublimeLinter-contrib-staticcheck	patrickrgaffney/SublimeLinter-contrib-staticcheck	1055	3	3

@@ -1,0 +1,39 @@
+tier	name	source	last_update	note
+1	ACP	Package Control; github.com/debjan/sublime-acp	2026-10-08	Agent Client Protocol plugin (6 stars)
+1	Claude Code IDE	Package Control; Cognisant-llc/sublime-claude-code (homepage cognisant.io)	2026-09-13	in-editor diff review, live selection; a clone already sits in tools\sublime-claude-code
+1	ClaudeSublime	Package Control; gitlab.com/petr.jakub/claudesublime	2026-09-11	runs Claude Code in a panel; a clone already sits in tools\claudesublime
+1	Yollama	Package Control; gitlab.com/izen-sama/yollama (channel still names mwwaa/yollama, now 404)	2026-05-22	Ollama chat and completion; channel homepage is stale
+1	AiComplete	Package Control; gitlab.com/chinag32/AiComplete	2025-12-01	Gemini API completion
+1	NinetyFive	Package Control; ninetyfive.gg	unknown	commercial code-suggestion service; no repo found; needs an account
+skip	Tabnine	Package Control	2022-06-08	unmaintained
+skip	Kite Python Autocomplete	Package Control; kiteco/KiteSublime	2021-10-25	service shut down
+skip	Sourcegraph	Package Control (Sublime Text 3)	old	code search, not an AI assistant
+skip	Mistral	Package Control; giampierod/mistral-sublime	2015-03-14	OpenStack Mistral workflow language, not AI
+skip	Python Data Science Snippets	Package Control	n/a	snippets only
+skip	WhizzML	Package Control	n/a	ML scripting language syntax
+skip	GROQ Syntax Highlighting	Package Control	n/a	GROQ is a query language, not Groq AI
+skip	WordPress Developer Resources / Search WordPress Codex x2 / Vercel Snippets / phpfmt	Package Control	n/a	keyword noise
+2	OpenAI-sublime-text llm_runner (core of OpenAI completion)	github.com/yaroslavyaroslav/llm_runner	2026-08-05	Rust core package of the already-tested OpenAI completion
+2	sublime-simpleai	github.com/james2doyle/sublime-simpleai	2026-06-24	OpenAI-compatible APIs in ST4
+2	llm-completion	github.com/pickledish/llm-completion	2025-09-17	phantom-style LLM completion
+2	SublimeText-LLMConnector	github.com/moisestohias/SublimeText-LLMConnector	2025-11-29	chat with LLMs
+2	sublime-gemini	github.com/phreakocious/sublime-gemini	2026-01-07	wraps the gemini-cli app
+2	GeminiAssistant	github.com/radda-ui/GeminiAssistant	2026-04-11	Gemini API assistant
+2	CopilotSublime	github.com/mortalis13/CopilotSublime	2026-07-01	Copilot integration
+2	subgpt	github.com/lostineverland/subgpt	2026-05-24	ChatGPT plug-in
+2	sublime-text-chatgpt	github.com/lazyjerry/sublime-text-chatgpt	2025-04-20	ChatGPT code generation (Traditional Chinese)
+2	sublime-claude (KalimeroMK)	github.com/KalimeroMK/sublime-claude	2026-09-13	Claude plugin, no description
+2	ollama-sublime (KalimeroMK)	github.com/KalimeroMK/ollama-sublime	2025-10-30	run Ollama models
+2	sublime-claude-session	github.com/mommcilo/sublime-claude-session	2026-06-06	Claude sessions
+2	Claude-Sublime	github.com/Stjopchi/Claude-Sublime	2026-04-19	no description
+2	ClaudeCode-Sublime-Windows	github.com/alexju/ClaudeCode-Sublime-Windows	2026-07-27	Windows revision of a Linux repo
+2	Sublime-MCP (Mhdd-24)	github.com/Mhdd-24/Sublime-MCP	2026-10-05	MCP server, macOS/Windows/Linux
+2	sublime-text-mcp (OmkarGowda990)	github.com/OmkarGowda990/sublime-text-mcp	2026-05-10	MCP server
+2	sublime-mcp (stefanobaghino)	github.com/stefanobaghino/sublime-mcp	2026-07-26	runs Python inside ST over MCP
+2	sublime-context-MCP	github.com/joelekstrom/sublime-context-MCP	2025-11-05	editor details over MCP
+2	NotMyCommitMessage	github.com/predragnikolic/NotMyCommitMessage	2025-05-21	commit messages with Ollama
+3-reviewed	sublime-claude (tommo, deprecated)	github.com/tommo/sublime-claude	2026-09-21	code-reviewed and load-tested this session
+3-reviewed	submarine (tommo)	github.com/tommo/submarine	2026-10-08	code-reviewed (two passes) and load-tested this session
+3-reviewed	AiSDK (Donald's own)	github.com/dpc00/AiSDK	2026-10-11	fixed this session
+3-reviewed	already in .tested_packages.tsv (27 AI packages incl. OpenAI completion, LSP-copilot, Codeium, Pieces, Nano Bots, Claudette, LLM, Limitcode, Agentic, MCP Commander, MCPServer, MCPHelper, AI Bridge, Codex, GeminiCLI, TermMate, Sema, AhuAIComplete, CodeContinue, AskPerplexity, TokensCounter, AssistantAI, DeWatermark, Gemini)	Package Control	various	not repeated, per his "if we haven't already"
+4-not-ST	Astro-Code-Editor-Ai (Tauri editor), sublime-aio (asyncio API), aidenmitchell/sublime-mcp-server (Sublime Security API), Sublime-Note/draft plugins, gemini syntax files, old ChatGPT/Codex repos from 2023 (eusonlito, necarlson97)	github	various	not AI plugins for Sublime Text, or unmaintained
