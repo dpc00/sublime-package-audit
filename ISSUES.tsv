@@ -1,5 +1,4 @@
 repository	number	title	state	created	closed	url
-anthropics/claude-code	83904	C:/Program Files/Git/doctor recommends removing extensions solely for zero usage, with no allowance for "not yet trained on it"	closed	2026-08-04	2026-09-07	https://github.com/anthropics/claude-code/issues/83904
 1jehuang/jcode	1148	auth-test retries a hard usage-limit exhaustion as if it were a transient rate limit (~6min needless wait)	closed	2026-09-01	2026-09-03	https://github.com/1jehuang/jcode/issues/1148
 ThatOneCheat/list-coding-agents	2	9 known-CLI names missing from $KnownCli / $BrandWords	closed	2026-09-09	2026-09-13	https://github.com/ThatOneCheat/list-coding-agents/issues/2
 cepthomas/Notr	1	Notr: Help opens a broken/dead link on a normal Package Control install	closed	2026-09-09	2026-09-12	https://github.com/cepthomas/Notr/issues/1
@@ -7,7 +6,6 @@ tonylchang/sublime-llm	2	OpenAI 429 errors always say "rate limit", even when th
 Monnoroch/ColorHighlighter	486	plugin_loaded() crashes on Sublime Text 4: resource "Mariana.sublime-color-scheme" not found	open	2026-09-10		https://github.com/Monnoroch/ColorHighlighter/issues/486
 kylebebak/Requester	41	FileExistsError on Windows when writing history backup file	open	2026-09-10		https://github.com/kylebebak/Requester/issues/41
 SublimeLinter/SublimeLinter	1993	Fresh install of a linter plugin reliably crashes with ImportError ("No module named 'SublimeLinter'") via the __allo__.py lift/reload race	closed	2026-09-11	2026-09-21	https://github.com/SublimeLinter/SublimeLinter/issues/1993
-anthropics/claude-code	93529	Parked-permission "retirement" always stamps toolDenialKind:"user-rejected", even when the actual cause is an internal session reset (e.g. after /mcp reconnect), not a real user action	open	2026-09-11		https://github.com/anthropics/claude-code/issues/93529
 can1357/oh-my-pi	11675	Windows install.ps1 fails: $ErrorActionPreference="Stop" turns bun's normal stderr output into a fatal error	closed	2026-09-11	2026-09-11	https://github.com/can1357/oh-my-pi/issues/11675
 can1357/oh-my-pi	11848	/usage panel: Claude 5-Hour and 7-Day percentages are transposed	closed	2026-09-12	2026-09-12	https://github.com/can1357/oh-my-pi/issues/11848
 eecolella/GoToAnchor	3	go_to_url never jumps to same-file anchors: selection() terminator set is missing ':'	open	2026-09-12		https://github.com/eecolella/GoToAnchor/issues/3
@@ -954,7 +952,6 @@ wpseek/sublime-text-2-wpseek	7	Console warnings on every menu load: mnemonic f n
 zam1024t/LocalizedMenu	54	SyntaxWarning: invalid escape sequence in Localize.py line 294	open	2026-10-09		https://github.com/zam1024t/LocalizedMenu/issues/54
 zam1024t/LocalizedMenu	55	de_DE: mnemonic warnings in console for two menu captions	open	2026-10-09		https://github.com/zam1024t/LocalizedMenu/issues/55
 zam1024t/LocalizedMenu	57	Reset and removal leave Packages/ZZZZZZZZ-LocalizedMenu behind, menu bar stays German	open	2026-10-09		https://github.com/zam1024t/LocalizedMenu/issues/57
-anthropics/claude-code	101114	OSC 7501 status reports not sent in 2.1.296 even after the terminal answers the probe	open	2026-10-10		https://github.com/anthropics/claude-code/issues/101114
 LDprg/FileTabRename	2	Tab menu on an unsaved tab shows ' is read-only' and still opens the rename prompt	open	2026-10-11		https://github.com/LDprg/FileTabRename/issues/2
 Nucc/Thesaurus	16	IndexError in get_alternative_words when the thesaurus has no result (no panel shown)	open	2026-10-11		https://github.com/Nucc/Thesaurus/issues/16
 REditorSupport/languageserver	794	No diagnostics, and documentColor/codeLens never answered, when the workspace folder is null (Windows, 0.3.20)	open	2026-10-11		https://github.com/REditorSupport/languageserver/issues/794
@@ -1067,7 +1064,6 @@ sonokamome/StrapdownJS-Boilerplate	2	Expanded snippet puts a tab before every li
 sublimehq/sublime_text	7012	A package's Preferences.sublime-settings added while Sublime is running is not merged until restart	open	2026-10-13		https://github.com/sublimehq/sublime_text/issues/7012
 sublimelsp/LSP	3074	A helper package that registers two plugins (LSP-R) is not applied to the window after a live install	open	2026-10-13		https://github.com/sublimelsp/LSP/issues/3074
 waqiju/unity_shader_st3	15	Context menu in an untitled tab raises TypeError (is_enabled uses file_name() without a None check)	open	2026-10-13		https://github.com/waqiju/unity_shader_st3/issues/15
-anthropics/claude-code	101876	Built-in git instructions can't be removed by the user	open	2026-10-13		https://github.com/anthropics/claude-code/issues/101876
 saranrapjs/sublime-liquidsoap-syntax	2	Double-quoted strings are scoped string.quoted.single	open	2026-10-13		https://github.com/saranrapjs/sublime-liquidsoap-syntax/issues/2
 Fernando2603/DarkCrayon	1	Console error on load: color_white at line 763 is missing var()	open	2026-10-13		https://github.com/Fernando2603/DarkCrayon/issues/1
 muffinmad/VintageSolidCaret	1	Does not load on Sublime Text 4: no .python-version, ImportError: No module named Vintage	open	2026-10-13		https://github.com/muffinmad/VintageSolidCaret/issues/1
