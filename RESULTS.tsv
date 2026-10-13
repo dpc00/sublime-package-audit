@@ -1009,3 +1009,9 @@ JavaScript Log Snippets	2026-10-13	all four triggers expand in a JavaScript tab;
 Blade Snippets	2026-10-13	auth and asset expand with the Laravel Blade syntax (HTML (Blade)); README names 'Laravel Blade Highlighter', which the picker does not list under that name; no defect
 ERB Snippets	2026-10-13	22 of 23 snippets scoped text.html.ruby, which no syntax provides; each did not expand, er did; already reported as ERB-Sublime-Snippets#32; not filed
 Github Search	2026-10-13	both commands open GitHub search tabs in the browser (checked); package from 2016; no defect
+Antescofo	2026-10-13	syntax highlights; three commands run without traceback (UDP to localhost:5678, no receiver); odd scope labeled.textslm; 2016 package; no defect
+DXMate	2026-10-13	plugin never loads: ImportError No module named typing (mdpopups 4.3.5 on the 3.3 host, no .python-version); commands listed but dead; retested with .python-version 3.8: loads, 21 commands; jtowers/DXMate#2 filed
+Scheme	2026-10-13	syntax and formatter work; build system (needs Chez Scheme) deferred; goto definition not tried; no defect
+Active4D	2026-10-13	syntaxes fail to load on 4200 (with_prototype recursion, 25000 context limit), scope stays text.plain; existing aparajita/active4d-st3#1, commented with the exact error; snippets and build_query not tried
+Cup	2026-10-13	binDir/envPATH ignored on Windows (alin23/Cup#5); # comment scoped double-slash (alin23/Cup#6); compile works with coffee on PATH; lint/watch/ImportJS not tried
+TSL Text Scraping Language	2026-10-13	plugin never loads (imports use the folder name TSL: polygoat/TSL#5); TSL.sublime-settings holds a menu array (#6); README examples need braces (#7); after patching imports, in fails with KeyError filePath (undiagnosed, not python-version)
