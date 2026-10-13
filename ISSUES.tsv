@@ -986,8 +986,8 @@ numerataz/sublime-plugin	10	Add settings and a toggle command: no way to turn it
 numerataz/sublime-plugin	21	No suggestions and no message in folders that are not git repos (exit 128 now silently returns)	closed	2026-10-11	2026-10-12	https://github.com/numerataz/sublime-plugin/issues/21
 pickledish/llm-completion	1	Sends editor text to OpenAI while typing, with no key and no warning	open	2026-10-11		https://github.com/pickledish/llm-completion/issues/1
 predragnikolic/NotMyCommitMessage	1	Generate Message fails on Windows: git command not recognized	open	2026-10-11		https://github.com/predragnikolic/NotMyCommitMessage/issues/1
-predragnikolic/Sone	5	tab_highlight.png is referenced by Sone.sublime-theme but missing (Unable to decode)	open	2026-10-11		https://github.com/predragnikolic/Sone/issues/5
-predragnikolic/Sone	6	Theme needs JetBrains Mono fonts but README does not say so (console font warnings)	open	2026-10-11		https://github.com/predragnikolic/Sone/issues/6
+predragnikolic/Sone	5	tab_highlight.png is referenced by Sone.sublime-theme but missing (Unable to decode)	closed	2026-10-11	2026-10-13	https://github.com/predragnikolic/Sone/issues/5
+predragnikolic/Sone	6	Theme needs JetBrains Mono fonts but README does not say so (console font warnings)	closed	2026-10-11	2026-10-13	https://github.com/predragnikolic/Sone/issues/6
 seblavoie/sublime-extendscript	3	Windows: 'Build for ...' fails with FileNotFoundError, output name regex needs forward slashes	open	2026-10-11		https://github.com/seblavoie/sublime-extendscript/issues/3
 sjpfenninger/citebibtex	22	Fresh install: plugin_loaded raises on empty bibtex_file, then every selector command raises AttributeError until restart	open	2026-10-11		https://github.com/sjpfenninger/citebibtex/issues/22
 stoivo/sublime-open-in-vscode	7	Windows: default vscode-path is /usr/local/bin/code and the command fails silently	open	2026-10-11		https://github.com/stoivo/sublime-open-in-vscode/issues/7
@@ -1050,7 +1050,7 @@ debjan/sublime-acp	1	ACP: Session Start fails in a window with no folder open: c
 dmi7ry/dfmt-sublime	7	Formatting does nothing when the file has a character outside the Windows code page (UnicodeEncodeError)	open	2026-10-13		https://github.com/dmi7ry/dfmt-sublime/issues/7
 evanliomain/sublime-ExpandGroup	5	Alt+left and Alt+right jump to the other row in the 4-grid layout	open	2026-10-13		https://github.com/evanliomain/sublime-ExpandGroup/issues/5
 guilhermeleobas/IRView	12	With a current LLVM the opt flags (-dot-cfg, -dot-callgraph, ...) are rejected: no dot or PDF files, no message	open	2026-10-13		https://github.com/guilhermeleobas/IRView/issues/12
-guilhermeleobas/IRView	13	create_dots strips the leading dot of the first file name reported by opt	open	2026-10-13		https://github.com/guilhermeleobas/IRView/issues/13
+guilhermeleobas/IRView	13	create_dots strips the leading dot of the first file name reported by opt	closed	2026-10-13	2026-10-13	https://github.com/guilhermeleobas/IRView/issues/13
 joelekstrom/sublime-context-MCP	2	Disabling or unloading the plugin leaves port 8765 open, so clients hang instead of being refused	open	2026-10-13		https://github.com/joelekstrom/sublime-context-MCP/issues/2
 joelekstrom/sublime-context-MCP	3	JSON-RPC notifications such as notifications/initialized get an error reply	open	2026-10-13		https://github.com/joelekstrom/sublime-context-MCP/issues/3
 joelekstrom/sublime-context-MCP	4	ping is not answered	open	2026-10-13		https://github.com/joelekstrom/sublime-context-MCP/issues/4
@@ -1067,3 +1067,8 @@ sonokamome/StrapdownJS-Boilerplate	2	Expanded snippet puts a tab before every li
 sublimehq/sublime_text	7012	A package's Preferences.sublime-settings added while Sublime is running is not merged until restart	open	2026-10-13		https://github.com/sublimehq/sublime_text/issues/7012
 sublimelsp/LSP	3074	A helper package that registers two plugins (LSP-R) is not applied to the window after a live install	open	2026-10-13		https://github.com/sublimelsp/LSP/issues/3074
 waqiju/unity_shader_st3	15	Context menu in an untitled tab raises TypeError (is_enabled uses file_name() without a None check)	open	2026-10-13		https://github.com/waqiju/unity_shader_st3/issues/15
+anthropics/claude-code	101876	Built-in git instructions can't be removed by the user	open	2026-10-13		https://github.com/anthropics/claude-code/issues/101876
+saranrapjs/sublime-liquidsoap-syntax	2	Double-quoted strings are scoped string.quoted.single	open	2026-10-13		https://github.com/saranrapjs/sublime-liquidsoap-syntax/issues/2
+Fernando2603/DarkCrayon	1	Console error on load: color_white at line 763 is missing var()	open	2026-10-13		https://github.com/Fernando2603/DarkCrayon/issues/1
+muffinmad/VintageSolidCaret	1	Does not load on Sublime Text 4: no .python-version, ImportError: No module named Vintage	open	2026-10-13		https://github.com/muffinmad/VintageSolidCaret/issues/1
+malexer/SublimeClassNavigator	2	No release since 2017: Package Control installs 1.1.3, which finds no functions on Sublime Text 4 (the fix on master is not tagged)	open	2026-10-13		https://github.com/malexer/SublimeClassNavigator/issues/2
