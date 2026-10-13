@@ -66,3 +66,8 @@ Not findings:
 - A file written through a PowerShell redirect can arrive with a byte-order mark and Windows line endings, and a plugin then does nothing.
 - Windows PowerShell: `Expand-Archive` refuses `.sublime-package` (use Python's `zipfile`), and variable names are case-insensitive (`$p` overwrites `$P`).
 - GitHub's search API stops at 1000 results and rate-limits quick queries.
+- **Real tools, small downloads:** a portable install of the real tool is usually enough (MiKTeX with `miktexsetup --portable`, LDC for a D tool, an unpacked LLVM `bin` folder). Put it in its own folder, add it to `PATH` only for the Sublime process you launch, and delete it afterwards. Verify a download (signature, or the same file from two official sources) before running it. Python 3.14 can open `.tar.zst` files with `compression.zstd` when Windows `tar` cannot.
+- A build system with variants opens a picker when you run the plain `build` command; the test then looks stuck. Select the variant, or call the package's own build command directly.
+- Edits to an unpacked copy of a package are picked up live only for top-level plugin modules; modules the package imports later (builders, sub-packages) need a Sublime restart.
+- Keep scratch files on a SHORT path when testing build tools: TeX wraps log lines at 79 characters, and a long path split an error message and hid the real cause for a while.
+- `dismiss_native_window` sometimes needs a second call before a dialog goes away; list the windows again before clicking twice.

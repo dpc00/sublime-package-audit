@@ -944,3 +944,22 @@ SideBarFolders	2026-10-12	not installable (no releases); manual copy: Load Folde
 SideBarEnhancements	2026-10-12	retest live: all tested commands work; emailed author with results; removed
 Expand Group	2026-10-12	left/right jump rows in 4-grid (#5); removed
 ISF	2026-10-12	works as described (scopes, extensions, first-line match); no defects; removed
+TextFormatting	2026-10-13	prettify_json raises UnboundLocalError each run (#3); maxlength on an empty line IndexError popup (#4); removed
+Unity Shader	2026-10-13	context menu TypeError in untitled tab (#15); syntax, goto definition and auto format work; removed
+CursorRuler	2026-10-13	no defect
+ACP	2026-10-13	retest v1.9.0: debjan/sublime-acp#1 cwd '.' with no folder
+sublime-context-MCP	2026-10-13	joelekstrom/sublime-context-MCP#2-#5
+sublime-text-mcp (OmkarGowda990)	2026-10-13	OmkarGowda990/sublime-text-mcp#1-#6; docker path not tested
+Sublime-MCP (Mhdd-24)	2026-10-13	Mhdd-24/Sublime-MCP#1-#6
+ollama-sublime (KalimeroMK)	2026-10-13	skipped by the tester 2026-10-13: Ollama has been removed from his machine
+INI	2026-10-13	no defect; regedit context command not run on purpose
+LSP-Bicep (real .NET 10 test)	2026-10-13	all features work; PR #18 verified live; dotnet10 kept in tools
+Simple Ifdef (fix test)	2026-10-13	fix verified on 4215, comment on #5, no PR
+FileTabRename (fix + PR)	2026-10-13	PR LDprg/FileTabRename#3 tested live on 4200
+LanguageTool (local server)	2026-10-13	local server start + check + apply fix all work; no defect
+LSP-R (real R)	2026-10-13	all features work; LSP#3074 filed (live install not applied); R removed
+Crystal (real compiler in WSL)	2026-10-13	format/auto-format/build work via wsl; error-line regex outdated (not filed, unmaintained since 2020)
+DFormat (real dfmt)	2026-10-13	ASCII works; dfmt-sublime#7 filed (non-cp1252 chars: traceback, no format); fix tested
+IrView (real LLVM + Graphviz)	2026-10-13	IRView#12 and #13 filed (new opt syntax, leading dot); fix tested
+LSP-bitbake (real server, no Yocto)	2026-10-13	hover and completion work; corrects 10-11 note; no new defects
+LaTeXTools (real MiKTeX + Sumatra)	2026-10-13	build works; LaTeXTools#1717 and #1718 filed; fixes tested

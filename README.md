@@ -6,8 +6,8 @@ This repository holds the data and the method. It is a draft: the numbers will b
 
 ## In numbers (to 2026-10-13)
 
-- **945 test records** for **887 different packages** (`RESULTS.tsv`). Most records are a live test in a real Sublime; a few are shorter (the package was loaded, or only its source was read), and the note in each row says which.
-- **1043 issues** filed on **737 repositories** (`ISSUES.tsv`): 779 still open, 264 closed. Closed does not mean fixed; the list does not say why an issue was closed.
+- **964 test records** for **904 different packages** (`RESULTS.tsv`). Most records are a live test in a real Sublime; a few are shorter (the package was loaded, or only its source was read), and the note in each row says which.
+- **1068 issues** filed on **744 repositories** (`ISSUES.tsv`): 798 still open, 270 closed. Closed does not mean fixed; the list does not say why an issue was closed.
 - The package lists used from 2026-10-07 on, and what built each one: `lists/`. The earlier September queue, by install count, is not published; its results are in `RESULTS.tsv`.
 
 ## What was found
@@ -37,7 +37,7 @@ Many packages had nothing to report; those rows say so (for example the ISF synt
 | `PROCEDURE.md` | the method: setup, what is checked, how a report is written, what went wrong |
 | `.claude/skills/sublime-package-audit/SKILL.md` | the same method as a step-by-step skill for an AI agent (Claude Code loads it when you open this repository); needs [sublime-mcp](https://github.com/dpc00/sublime-mcp) |
 | `RESULTS.tsv` | one row per test record: package, date, short result |
-| `ISSUES.tsv` | every issue filed: repository, number, title, state, dates, link (from GitHub) |
+| `ISSUES.tsv` | every issue filed on a Sublime Text package or tool: repository, number, title, state, dates, link (from GitHub) |
 | `lists/` | the package lists the audit worked through, as tab-separated files |
 
 The data comes from the audit's own notes and from GitHub's public records of the issues; package metadata comes from the Package Control channel. Notes in `RESULTS.tsv` have had local file paths and personal names removed. The raw working log is not published.
