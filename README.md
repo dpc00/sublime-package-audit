@@ -35,6 +35,7 @@ Many packages had nothing to report; those rows say so (for example the ISF synt
 | file | what it is |
 |---|---|
 | `PROCEDURE.md` | the method: setup, what is checked, how a report is written, what went wrong |
+| `.claude/skills/sublime-package-audit/SKILL.md` | the same method as a step-by-step skill for an AI agent (Claude Code loads it when you open this repository); needs [sublime-mcp](https://github.com/dpc00/sublime-mcp) |
 | `RESULTS.tsv` | one row per test record: package, date, short result |
 | `ISSUES.tsv` | every issue filed: repository, number, title, state, dates, link (from GitHub) |
 | `lists/` | the package lists the audit worked through, as tab-separated files |
