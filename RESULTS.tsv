@@ -963,3 +963,43 @@ DFormat (real dfmt)	2026-10-13	ASCII works; dfmt-sublime#7 filed (non-cp1252 cha
 IrView (real LLVM + Graphviz)	2026-10-13	IRView#12 and #13 filed (new opt syntax, leading dot); fix tested
 LSP-bitbake (real server, no Yocto)	2026-10-13	hover and completion work; corrects 10-11 note; no new defects
 LaTeXTools (real MiKTeX + Sumatra)	2026-10-13	build works; LaTeXTools#1717 and #1718 filed; fixes tested
+Smart Backspace	2026-10-13	works; no defect
+Xdebug Client	2026-10-13	breakpoint, layout, session start/stop work; port 9000 on 0.0.0.0 by documented default; no real PHP session run; no defect
+Vintage Solid Caret	2026-10-13	no .python-version: ImportError Vintage on 3.3 host; VintageSolidCaret#1 filed; fix tested
+Class Navigator	2026-10-13	1.1.3 finds no functions on ST4; master fixes it; SublimeClassNavigator#2 filed asking for a tag
+Dependents	2026-10-13	infinite recursion in get_folder_with_deprc without .deprc on Windows; maintainer inactive since 2019; logged, not filed
+Carbon	2026-10-13	works (Edge opened carbon.now.sh); no defect
+PythonTestRunner	2026-10-13	skipped: Sublime Text 2 only
+TrailingSpaces	2026-10-13	delete_trailing_spaces works; no defect
+sql-formatter	2026-10-13	works with cli-sql-formatter from npm in a folder; without it only a console traceback (documented dependency); not filed
+Better Completion	2026-10-13	skipped: description says DEPRECATED, use TypeScript
+Text Pastry	2026-10-13	step numbers and uuid with multiple cursors work; no defect
+Registers	2026-10-13	input_selection and output_register work; empty register adds nothing, no error; no defect
+Open Search Result	2026-10-13	open_search_result opens the hit file at the right line from Find Results; no defect
+ElasticTabstops	2026-10-13	spaces inserted before tabs align the columns; console clean; no defect
+Color Scheme - Eazy Light	2026-10-13	loads and applies; console clean; no defect
+Berry Color Scheme	2026-10-13	loads and applies (Berry Light only); no defect
+Sublitesse Color Scheme	2026-10-13	loads and applies; no defect
+Dark Crayon Color Scheme	2026-10-13	console error: color_white at line 763 lacks var(); Fernando2603/DarkCrayon#1 filed
+Wild Cherry	2026-10-13	colour scheme loads and applies; theme file not applied globally; no defect
+Cool & Clear - Color Scheme	2026-10-13	loads and applies; no defect
+Color Scheme - CoderPad	2026-10-13	loads and applies; no defect
+Dark PRO Color Schemes	2026-10-13	8 schemes load and apply; no defect
+Solarized OKLab Color Scheme	2026-10-13	4 schemes load and apply; no defect
+Cattleya Color Scheme	2026-10-13	loads and applies; no defect
+zero-dark	2026-10-13	3 schemes load and apply; no defect
+Theme - Tech49	2026-10-13	scheme and UI theme load, theme set via Preferences, console clean; no defect
+Theme - Adaptify	2026-10-13	2 schemes and UI theme load, console clean; no defect
+liquidsoap	2026-10-13	syntax highlights; double-quoted strings scoped string.quoted.single; saranrapjs/sublime-liquidsoap-syntax#2 filed
+M3U Syntax	2026-10-13	syntax loads and highlights; no defect
+Earthly Earthfile	2026-10-13	syntax loads and highlights FROM/VERSION; no defect
+Kconfig Syntax Highlight	2026-10-13	syntax loads and highlights; no defect
+SublimeSmartBASIC	2026-10-13	syntax loads and highlights; no defect
+Lark Grammar Syntax	2026-10-13	syntax loads and highlights; no defect
+Fn	2026-10-13	syntax loads and highlights; no defect
+Target	2026-10-13	T.A.R.G.E.T. syntax loads and highlights; no defect
+Tagger Script Syntax	2026-10-13	syntax loads and highlights; no defect
+BBCode Syntax	2026-10-13	syntax loads and highlights; no defect
+SPWN Language	2026-10-13	syntax loads and highlights; no defect
+bst syntax	2026-10-13	syntax loads and highlights; no defect
+Python Web Scraping Snippets	2026-10-13	snippet get+Tab expands in Python tab; palette command listed; console clean; no defect (close_file discard still raised Save dialog on 4200: logged as sublime-mcp weakness)
