@@ -1,19 +1,14 @@
 repository	number	title	state	created	closed	url
-1jehuang/jcode	1148	auth-test retries a hard usage-limit exhaustion as if it were a transient rate limit (~6min needless wait)	closed	2026-09-01	2026-09-03	https://github.com/1jehuang/jcode/issues/1148
-ThatOneCheat/list-coding-agents	2	9 known-CLI names missing from $KnownCli / $BrandWords	closed	2026-09-09	2026-09-13	https://github.com/ThatOneCheat/list-coding-agents/issues/2
 cepthomas/Notr	1	Notr: Help opens a broken/dead link on a normal Package Control install	closed	2026-09-09	2026-09-12	https://github.com/cepthomas/Notr/issues/1
 tonylchang/sublime-llm	2	OpenAI 429 errors always say "rate limit", even when the real cause is no billing credits	open	2026-09-09		https://github.com/tonylchang/sublime-llm/issues/2
 Monnoroch/ColorHighlighter	486	plugin_loaded() crashes on Sublime Text 4: resource "Mariana.sublime-color-scheme" not found	open	2026-09-10		https://github.com/Monnoroch/ColorHighlighter/issues/486
 kylebebak/Requester	41	FileExistsError on Windows when writing history backup file	open	2026-09-10		https://github.com/kylebebak/Requester/issues/41
 SublimeLinter/SublimeLinter	1993	Fresh install of a linter plugin reliably crashes with ImportError ("No module named 'SublimeLinter'") via the __allo__.py lift/reload race	closed	2026-09-11	2026-09-21	https://github.com/SublimeLinter/SublimeLinter/issues/1993
-can1357/oh-my-pi	11675	Windows install.ps1 fails: $ErrorActionPreference="Stop" turns bun's normal stderr output into a fatal error	closed	2026-09-11	2026-09-11	https://github.com/can1357/oh-my-pi/issues/11675
-can1357/oh-my-pi	11848	/usage panel: Claude 5-Hour and 7-Day percentages are transposed	closed	2026-09-12	2026-09-12	https://github.com/can1357/oh-my-pi/issues/11848
 eecolella/GoToAnchor	3	go_to_url never jumps to same-file anchors: selection() terminator set is missing ':'	open	2026-09-12		https://github.com/eecolella/GoToAnchor/issues/3
 ilyakam/ParentalControl	7	RemoveParentheses silently stops processing all cursors after the first one with no enclosing brackets	closed	2026-09-12	2026-09-12	https://github.com/ilyakam/ParentalControl/issues/7
 jeffrand/CoberturaCoverage	1	messages.json has a trailing comma -> invalid JSON, logged as a Package Control parse error on every install	open	2026-09-12		https://github.com/jeffrand/CoberturaCoverage/issues/1
 li-vu/st-match	2	Embedded-syntax generation crashes/races on first use, producing a blocking "Error loading syntax file" dialog	open	2026-09-12		https://github.com/li-vu/st-match/issues/2
 liulex/CopyAsHtml	8	Package fails to load entirely on Python 3.8+ (ST4): from cgi import escape raises ImportError	open	2026-09-12		https://github.com/liulex/CopyAsHtml/issues/8
-sindresorhus/ora	261	Spinner desyncs and corrupts terminal output when resized mid-animation (multi-line wrapped text)	open	2026-09-12		https://github.com/sindresorhus/ora/issues/261
 stevengpa/RoadBookmarks	1	Bookmark persistence completely broken on first run: SQLite folder is never created (unable to open database file)	open	2026-09-12		https://github.com/stevengpa/RoadBookmarks/issues/1
 tm-minty/sublime-text-2-image2base64	15	"Paste base64 into CSS" silently fails to escape newlines when the view's line ending doesn't match the clipboard's (default on Windows)	open	2026-09-12		https://github.com/tm-minty/sublime-text-2-image2base64/issues/15
 tushortz/EasyImport	1	messages.json has a trailing comma -> invalid JSON, logged as a Package Control parse error on every install	open	2026-09-12		https://github.com/tushortz/EasyImport/issues/1
@@ -726,7 +721,6 @@ gerardroche/sublime-laravel-testing-completions	2	Optional-parameter entries sho
 giampaolo/SublimeLinter-contrib-makefile	7	Indented continuation lines are reported as 'line should start with tab, not space'	closed	2026-10-03	2026-10-03	https://github.com/giampaolo/SublimeLinter-contrib-makefile/issues/7
 giampaolo/SublimeLinter-contrib-makefile	8	Built-in variables like $(CC) and $(RM) are reported as undefined name	closed	2026-10-03	2026-10-03	https://github.com/giampaolo/SublimeLinter-contrib-makefile/issues/8
 gno-playground/LSP-gnols	3	gnols crashes on startup on Windows (5/5 crashes, LSP gives up); see jdkato/gnols#9	open	2026-10-03		https://github.com/gno-playground/LSP-gnols/issues/3
-gno-playground/gnols	9	Windows: panic 'slice bounds out of range [1:0]' in uriToPath when a document is opened	open	2026-10-03		https://github.com/gno-playground/gnols/issues/9
 serjan-nasredin/pkl.tmbundle	5	Default build runs 'pkl eval' without the file (missing argument <modules>)	open	2026-10-03		https://github.com/serjan-nasredin/pkl.tmbundle/issues/5
 serjan-nasredin/pkl.tmbundle	6	'Pkl: Convert to JSON' writes a stray '=<file>.pkl' because of '-o=${file}'	open	2026-10-03		https://github.com/serjan-nasredin/pkl.tmbundle/issues/6
 serjan-nasredin/pkl.tmbundle	7	Build output errors are not clickable (no file_regex)	open	2026-10-03		https://github.com/serjan-nasredin/pkl.tmbundle/issues/7
@@ -823,7 +817,6 @@ glutanimate/sublime-make-file-executable	1	Status says Changed permissions even 
 ibensw/CComplete	5	Sublime Text 4: no member completion for local variables (current_function returns empty name)	open	2026-10-06		https://github.com/ibensw/CComplete/issues/5
 iccir/BuildSock	3	Linux: Sublime Text freezes when BuildSock is unloaded (join on accept thread)	open	2026-10-06		https://github.com/iccir/BuildSock/issues/3
 igormukhingmailcom/sublimetext3-symfony2-override-package	2	Override drops 'implements ...' after the parent class	open	2026-10-06		https://github.com/igormukhingmailcom/sublimetext3-symfony2-override-package/issues/2
-intake/python-snappy	153	python -m snappy -d raises TypeError: cannot unpack non-iterable function object	open	2026-10-06		https://github.com/intake/python-snappy/issues/153
 jolivares/sublime-zeitgeist-logger	4	Package Control serves tag 0.0.1 with Python 2 print statements (please tag a release from master)	open	2026-10-06		https://github.com/jolivares/sublime-zeitgeist-logger/issues/4
 joshgoebel/sublime-tint-terminal	6	Commands over 10 seconds are killed silently; timeout is not configurable	open	2026-10-06		https://github.com/joshgoebel/sublime-tint-terminal/issues/6
 kitzberger/SublimeFoldersSwitch	1	Switch commands raise TypeError in a window with no project	closed	2026-10-06	2026-10-07	https://github.com/kitzberger/SublimeFoldersSwitch/issues/1
@@ -913,7 +906,6 @@ srusskih/SublimeJEDI	338	Bundled parso raises NotImplementedError: Python versio
 sublimelsp/LSP-systemd	6	Release 1.0.1 fails to load on Sublime Text 4200: .python-version is missing from the installed package	open	2026-10-08		https://github.com/sublimelsp/LSP-systemd/issues/6
 thep0y/python-docblockr	3	Stray path lines printed to the console on every load	open	2026-10-08		https://github.com/thep0y/python-docblockr/issues/3
 tkotosz/sublime-phpactor-plugin	2	Offset Info prints raw FileNotFoundError and shows no message when phpactor is missing	open	2026-10-08		https://github.com/tkotosz/sublime-phpactor-plugin/issues/2
-xipkit/vibescript	1330	cargo install of vibes v0.80.0 fails on Windows (crossterm_winapi not found)	open	2026-10-08		https://github.com/xipkit/vibescript/issues/1330
 znuny/TemplateToolkit-Sublime	1	HTML+TT3 syntax includes scope source.tt that does not exist (console error)	open	2026-10-08		https://github.com/znuny/TemplateToolkit-Sublime/issues/1
 AmjadHD/sublime_one_theme	8	messages.json has a trailing comma: Package Control logs Error parsing messages.json on install	open	2026-10-09		https://github.com/AmjadHD/sublime_one_theme/issues/8
 HelloXiuXiu/react-js-snippets	1	ael and rel snippets expand to invalid JavaScript: stray ) after the first argument	open	2026-10-09		https://github.com/HelloXiuXiu/react-js-snippets/issues/1
@@ -954,7 +946,6 @@ zam1024t/LocalizedMenu	55	de_DE: mnemonic warnings in console for two menu capti
 zam1024t/LocalizedMenu	57	Reset and removal leave Packages/ZZZZZZZZ-LocalizedMenu behind, menu bar stays German	open	2026-10-09		https://github.com/zam1024t/LocalizedMenu/issues/57
 LDprg/FileTabRename	2	Tab menu on an unsaved tab shows ' is read-only' and still opens the rename prompt	open	2026-10-11		https://github.com/LDprg/FileTabRename/issues/2
 Nucc/Thesaurus	16	IndexError in get_alternative_words when the thesaurus has no result (no panel shown)	open	2026-10-11		https://github.com/Nucc/Thesaurus/issues/16
-REditorSupport/languageserver	794	No diagnostics, and documentColor/codeLens never answered, when the workspace folder is null (Windows, 0.3.20)	open	2026-10-11		https://github.com/REditorSupport/languageserver/issues/794
 aafulei/sublime-exact-quick-find	4	Plugin is ignored on Sublime Text build 4200: .python-version is 3.14 but the release says sublime_text *	open	2026-10-11		https://github.com/aafulei/sublime-exact-quick-find/issues/4
 alexju/ClaudeCode-Sublime-Windows	1	Windows: MCP server fails with socket has no attribute AF_UNIX, New Session does nothing	open	2026-10-11		https://github.com/alexju/ClaudeCode-Sublime-Windows/issues/1
 bantya/OpenFilesLister	4	ValueError 'N is not in list' when the active tab is unsaved (default show_untitled_files false)	open	2026-10-11		https://github.com/bantya/OpenFilesLister/issues/4
