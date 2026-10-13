@@ -1059,3 +1059,4 @@ saranrapjs/sublime-liquidsoap-syntax	2	Double-quoted strings are scoped string.q
 Fernando2603/DarkCrayon	1	Console error on load: color_white at line 763 is missing var()	open	2026-10-13		https://github.com/Fernando2603/DarkCrayon/issues/1
 muffinmad/VintageSolidCaret	1	Does not load on Sublime Text 4: no .python-version, ImportError: No module named Vintage	open	2026-10-13		https://github.com/muffinmad/VintageSolidCaret/issues/1
 malexer/SublimeClassNavigator	2	No release since 2017: Package Control installs 1.1.3, which finds no functions on Sublime Text 4 (the fix on master is not tagged)	open	2026-10-13		https://github.com/malexer/SublimeClassNavigator/issues/2
+geneowak/Pest-PHP-Sublime-Text-Snippets	1	PestItFunction snippet indents the closing }); by one space	open	2026-10-13		https://github.com/geneowak/Pest-PHP-Sublime-Text-Snippets/issues/1

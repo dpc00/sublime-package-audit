@@ -1003,3 +1003,9 @@ BBCode Syntax	2026-10-13	syntax loads and highlights; no defect
 SPWN Language	2026-10-13	syntax loads and highlights; no defect
 bst syntax	2026-10-13	syntax loads and highlights; no defect
 Python Web Scraping Snippets	2026-10-13	snippet get+Tab expands in Python tab; palette command listed; console clean; no defect (the Save dialog on close was 4200 running plugin 1.12.5, which has no close_file discard)
+Tryton Snippets	2026-10-13	triggers with and without a dot expand in a Python tab (Escape before Tab when the completion popup is open); no defect
+Pest PHP Snippets	2026-10-13	:pit expands inside a php block; closing }); indented one space; geneowak/Pest-PHP-Sublime-Text-Snippets#1 filed
+JavaScript Log Snippets	2026-10-13	all four triggers expand in a JavaScript tab; ts/vue scopes not tried; no defect
+Blade Snippets	2026-10-13	auth and asset expand with the Laravel Blade syntax (HTML (Blade)); README names 'Laravel Blade Highlighter', which the picker does not list under that name; no defect
+ERB Snippets	2026-10-13	22 of 23 snippets scoped text.html.ruby, which no syntax provides; each did not expand, er did; already reported as ERB-Sublime-Snippets#32; not filed
+Github Search	2026-10-13	both commands open GitHub search tabs in the browser (checked); package from 2016; no defect
