@@ -1002,4 +1002,4 @@ Tagger Script Syntax	2026-10-13	syntax loads and highlights; no defect
 BBCode Syntax	2026-10-13	syntax loads and highlights; no defect
 SPWN Language	2026-10-13	syntax loads and highlights; no defect
 bst syntax	2026-10-13	syntax loads and highlights; no defect
-Python Web Scraping Snippets	2026-10-13	snippet get+Tab expands in Python tab; palette command listed; console clean; no defect (close_file discard still raised Save dialog on 4200: logged as sublime-mcp weakness)
+Python Web Scraping Snippets	2026-10-13	snippet get+Tab expands in Python tab; palette command listed; console clean; no defect (the Save dialog on close was 4200 running plugin 1.12.5, which has no close_file discard)
