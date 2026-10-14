@@ -1,0 +1,75 @@
+repository	problem	existing_issue
+aam/cfserver-sublime-bundle	trailing comma	
+abathur/constellation	trailing comma	abathur/constellation#13
+abathur/SublimeLPC	trailing comma	
+absop/ST-CodeLines	trailing comma	absop/ST-CodeLines#3
+acarabott/supercollider-sublime	trailing comma	
+aChatir/MongoExec	trailing comma	
+aerobounce/Sublime-Pretty-Shell	Expecting ',' delimiter	
+afk-mario/Phaser-Snippets	trailing comma	
+aldomann/sublime-moka	trailing comma	
+aldomann/sublime-orchis	trailing comma	
+AlessandroAnnini/famousst	Expecting ',' delimiter	
+anly2/sublime-extend-selection	Expecting ',' delimiter	
+aqzhyi/Sublime-Better-Completion	trailing comma	aqzhyi/Sublime-Better-Completion#43
+armory-io/armory-blue	trailing comma	
+aronwoost/sublime-expand-region	trailing comma	
+austincrft/sublime-gherkin-auto-complete-plus	trailing comma	
+b3ni/Sublime-Fabric	Expecting ',' delimiter	
+bfrascher/Sublime-nRepeat	Expecting ',' delimiter	
+cb109/sublime3dsmax	trailing comma	
+chevdor/HyperledgerComposerSublimeText	trailing comma	
+dans98/Sublime-ApiGen	trailing comma	
+daverosoff/PreTeXtual	Expecting ',' delimiter	daverosoff/PreTeXtual#50
+DavidGerva/SendToSandbox-SublimePlugin	Expecting ',' delimiter	
+DiegoAz/Theme-Autumn	trailing comma	
+divinites/LatexEquationPreview	trailing comma	divinites/LatexEquationPreview#6
+dvcrn/sublimious	trailing comma	
+EivindArvesen/xkcd	Expecting ':' delimiter	EivindArvesen/xkcd#9
+etienne-monier/LedgerTools	trailing comma	etienne-monier/LedgerTools#11
+fwph/codepresenter	Expecting ',' delimiter	
+glymehrvrd/CppYCM	trailing comma	
+hbhakhrani/Path-Translator	trailing comma	
+huszerldani/OneDarkMaterial	trailing comma	
+ianunay/sublime_scratchpad	trailing comma	
+jakebathman/nginx-log-highlighting	trailing comma	
+jamalsenouci/sublimetext-syntaxfold	trailing comma	
+Jeewes/SublimeDjangoTags	trailing comma	
+jeffrand/CoberturaCoverage	trailing comma	jeffrand/CoberturaCoverage#1
+jlangston/SublimeHowDoI	trailing comma	
+JohanBaltie/MSBuildSelector	trailing comma	
+joshnh/HTML-Snippets	trailing comma	
+KeeMeng/MKB-Syntax-Highlighting	trailing comma	KeeMeng/MKB-Syntax-Highlighting#1
+kliu/sublime-theme-lanzhou	trailing comma	
+KristoforMaynard/SublimeAutoDocstring	Expecting ',' delimiter	KristoforMaynard/SublimeAutoDocstring#54
+MageFront/MagentoSnippets	Expecting ',' delimiter	
+magneto538/Koala	trailing comma	
+marshallswain/CanJS-Snippets	trailing comma	
+matiasmoya/theme-ksix	trailing comma	
+mattseymour/sublime-django	trailing comma	
+mriehl/sublime_pybuilder	trailing comma	
+noct/sublime-c99	trailing comma	
+noct/sublime-cpp11	trailing comma	
+noma4i/SubRed	trailing comma	
+Ortus-Solutions/sublime-commandbox	trailing comma	
+pafnuty/sublime-fenom	Expecting property name enclosed in double quotes	
+pdaether/Sublime-SymfonyCommander	Expecting ',' delimiter	
+Phaiax/ArcticTypescript	trailing comma	
+poucotm/Log-Highlight	trailing comma	
+poucotm/Verilog-Gadget	trailing comma	poucotm/Verilog-Gadget#15
+qiuxiafei/st_awk	trailing comma	
+retgoat/ESpec	trailing comma	
+runxel/GDL-sublime	trailing comma	
+scotch-io/10-percent-too-dull-for-my-tastes	trailing comma	
+syko/SublimeLogMagic	trailing comma	
+tanepiper/SublimeText-Nodejs	trailing comma	tanepiper/SublimeText-Nodejs#112
+tushortz/Beautiful-Soup-Completion	trailing comma	
+tushortz/EasyImport	trailing comma	tushortz/EasyImport#1
+tushortz/JavaIME	trailing comma	
+tushortz/Matlab-Completions	trailing comma	
+tushortz/PyQt5-Completions	trailing comma	
+tushortz/Qt-Completions-for-Cpp	trailing comma	
+welovewordpress/SublimeHtmlTidy	Expecting property name enclosed in double quotes	
+Will-ALVIDI/cppStartingKit	trailing comma	
+WrtApp/Writeapp	trailing comma	
+ZeddSerjeant/WrampAssemblyLanguange	trailing comma	
