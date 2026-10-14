@@ -1067,3 +1067,8 @@ alin23/Cup	6	CoffeeScript # comments are scoped comment.line.double-slash.coffee
 alin23/Cup	5	binDir and envPATH settings are ignored on Windows: coffee must already be on PATH	open	2026-10-13		https://github.com/alin23/Cup/issues/5
 arshiacont/antescofo-sublime-package	11	NOTE rule is scoped labeled.textslm, and the YAML source has no NOTE rule	open	2026-10-13		https://github.com/arshiacont/antescofo-sublime-package/issues/11
 jtowers/DXMate	2	Plugin does not load: no .python-version, mdpopups needs typing on the 3.3 host	open	2026-10-13		https://github.com/jtowers/DXMate/issues/2
+divinites/LatexEquationPreview	6	messages.json has a trailing comma	open	2026-10-14		https://github.com/divinites/LatexEquationPreview/issues/6
+divinites/LatexEquationPreview	7	Built-in LaTeX syntax scopes not recognised, find_equation_range returns None	open	2026-10-14		https://github.com/divinites/LatexEquationPreview/issues/7
+ticcky/sublime_goimports	10	Install at load fails on Windows: GOPATH='...' is POSIX-only, bin/goimports never created	open	2026-10-14		https://github.com/ticcky/sublime_goimports/issues/10
+ticcky/sublime_goimports	11	go_imports hangs when output is over 64 KB pipe buffer (wait() before read)	open	2026-10-14		https://github.com/ticcky/sublime_goimports/issues/11
+aqzhyi/Sublime-Better-Completion	43	messages.json has a trailing comma: Package Control reports a parse error on install	open	2026-10-14		https://github.com/aqzhyi/Sublime-Better-Completion/issues/43
