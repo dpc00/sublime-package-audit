@@ -1074,3 +1074,4 @@ ticcky/sublime_goimports	11	go_imports hangs when output is over 64 KB pipe buff
 aqzhyi/Sublime-Better-Completion	43	messages.json has a trailing comma: Package Control reports a parse error on install	open	2026-10-14		https://github.com/aqzhyi/Sublime-Better-Completion/issues/43
 Vall3y/sublimeJavascriptLogSnippets	2	Scope source.vue never matches the Vue syntax (root scope is text.html.vue)	open	2026-10-14		https://github.com/Vall3y/sublimeJavascriptLogSnippets/issues/2
 absop/ST-Scheme	4	Build file_regex has no line group: read errors are marked on line 1	open	2026-10-14		https://github.com/absop/ST-Scheme/issues/4
+arshiacont/antescofo-sublime-package	12	Settings key ascographpost is never read (code reads ascographport)	open	2026-10-14		https://github.com/arshiacont/antescofo-sublime-package/issues/12
