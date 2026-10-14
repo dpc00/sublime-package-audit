@@ -312,7 +312,7 @@ mlf4aiur/SublimeConfluence	8	Security: `ConfluenceApi._request` disables TLS cer
 molnarmark/markdowncodeblocks	3	MarkdownAddCodeBlockCommand.run calls `self.on_change(path)` with an undefined `path` (and `on_change` takes no argument)	closed	2026-09-25	2026-10-09	https://github.com/molnarmark/markdowncodeblocks/issues/3
 mwei-io/CompareLive	1	Live re-diff on edit runs synchronously on the main thread via sublime.set_timeout (not _async) -- freezes the UI on large files	open	2026-09-25		https://github.com/mwei-io/CompareLive/issues/1
 nathanshipley/SublimeSearchAllWindows	1	Python re.compile pre-check rejects valid Sublime (Oniguruma) regexes: \h, (?<name>), a++, \R, \p{...}	open	2026-09-25		https://github.com/nathanshipley/SublimeSearchAllWindows/issues/1
-nexional/CompareBuff	3	Settings validation: `icons['enable'] = true` (JavaScript spelling) raises NameError when the "icons" setting is missing or invalid	open	2026-09-25		https://github.com/nexional/CompareBuff/issues/3
+nexional/CompareBuff	3	Settings validation: `icons['enable'] = true` (JavaScript spelling) raises NameError when the "icons" setting is missing or invalid	closed	2026-09-25	2026-10-14	https://github.com/nexional/CompareBuff/issues/3
 nexional/CompareBuff	4	`plugin_loaded` registers the *result* of `load_icons()` / `is_visible()` as settings callbacks, so changing those settings never takes effect	open	2026-09-25		https://github.com/nexional/CompareBuff/issues/4
 nhduy1985/sublime_mageruncommander	1	MagerunShellCall.py: the stderr branch uses `sublime.top` (no such API, `sublime` not imported) and an undefined `thread`	open	2026-09-25		https://github.com/nhduy1985/sublime_mageruncommander/issues/1
 nickname13/SimpleSync	1	Directory globs from the docs (__pycache__/*, .git/*) never exclude anything (matched against the absolute path)	open	2026-09-25		https://github.com/nickname13/SimpleSync/issues/1
@@ -897,7 +897,7 @@ mitchvm/tabnav	6	Console error 'top level value must be an array' from the fully
 niosus/EasyClangComplete	781	RuntimeError: dictionary keys changed during iteration in module_reloader.py (Python 3.14)	open	2026-10-08		https://github.com/niosus/EasyClangComplete/issues/781
 ppalex7/SourcePawnCompletions	18	Node.remove_all_children_and_funcs uses undefined name node	open	2026-10-08		https://github.com/ppalex7/SourcePawnCompletions/issues/18
 raphaelquintao/QColor	11	Console: 'mnemonic p not found in menu caption Preferences', WEBVIEW NOT FOUND and a stray on_load print	open	2026-10-08		https://github.com/raphaelquintao/QColor/issues/11
-retifrav/marlant	16	Renumber titles raises TypeError on an unsaved tab (file_name() is None)	open	2026-10-08		https://github.com/retifrav/marlant/issues/16
+retifrav/marlant	16	Renumber titles raises TypeError on an unsaved tab (file_name() is None)	closed	2026-10-08	2026-10-14	https://github.com/retifrav/marlant/issues/16
 sedyh/ebitengine-kage-sublime	1	Syntax has no name: it shows as lowercase 'kage'	open	2026-10-08		https://github.com/sedyh/ebitengine-kage-sublime/issues/1
 sponja23/Algo2-Sintaxis-TAD-st3	1	Syntax has no name: it shows as lowercase 'TAD'	open	2026-10-08		https://github.com/sponja23/Algo2-Sintaxis-TAD-st3/issues/1
 srusskih/SublimeJEDI	336	Plugin does not load after Package Control install (root __init__.py is skipped)	open	2026-10-08		https://github.com/srusskih/SublimeJEDI/issues/336
@@ -907,7 +907,7 @@ sublimelsp/LSP-systemd	6	Release 1.0.1 fails to load on Sublime Text 4200: .pyth
 thep0y/python-docblockr	3	Stray path lines printed to the console on every load	open	2026-10-08		https://github.com/thep0y/python-docblockr/issues/3
 tkotosz/sublime-phpactor-plugin	2	Offset Info prints raw FileNotFoundError and shows no message when phpactor is missing	open	2026-10-08		https://github.com/tkotosz/sublime-phpactor-plugin/issues/2
 znuny/TemplateToolkit-Sublime	1	HTML+TT3 syntax includes scope source.tt that does not exist (console error)	open	2026-10-08		https://github.com/znuny/TemplateToolkit-Sublime/issues/1
-AmjadHD/sublime_one_theme	8	messages.json has a trailing comma: Package Control logs Error parsing messages.json on install	open	2026-10-09		https://github.com/AmjadHD/sublime_one_theme/issues/8
+AmjadHD/sublime_one_theme	8	messages.json has a trailing comma: Package Control logs Error parsing messages.json on install	closed	2026-10-09	2026-10-14	https://github.com/AmjadHD/sublime_one_theme/issues/8
 HelloXiuXiu/react-js-snippets	1	ael and rel snippets expand to invalid JavaScript: stray ) after the first argument	open	2026-10-09		https://github.com/HelloXiuXiu/react-js-snippets/issues/1
 JonBons/Sublime-SQF-Language	46	SQF.tmLanguage: block rule has a stray block key, console error on load and braces get no block scope	open	2026-10-09		https://github.com/JonBons/Sublime-SQF-Language/issues/46
 NoxArt/SublimeText2-FTPSync	288	Commands on the current file fail when the active tab has no file	open	2026-10-09		https://github.com/NoxArt/SublimeText2-FTPSync/issues/288
@@ -944,7 +944,7 @@ wpseek/sublime-text-2-wpseek	7	Console warnings on every menu load: mnemonic f n
 zam1024t/LocalizedMenu	54	SyntaxWarning: invalid escape sequence in Localize.py line 294	open	2026-10-09		https://github.com/zam1024t/LocalizedMenu/issues/54
 zam1024t/LocalizedMenu	55	de_DE: mnemonic warnings in console for two menu captions	open	2026-10-09		https://github.com/zam1024t/LocalizedMenu/issues/55
 zam1024t/LocalizedMenu	57	Reset and removal leave Packages/ZZZZZZZZ-LocalizedMenu behind, menu bar stays German	open	2026-10-09		https://github.com/zam1024t/LocalizedMenu/issues/57
-LDprg/FileTabRename	2	Tab menu on an unsaved tab shows ' is read-only' and still opens the rename prompt	open	2026-10-11		https://github.com/LDprg/FileTabRename/issues/2
+LDprg/FileTabRename	2	Tab menu on an unsaved tab shows ' is read-only' and still opens the rename prompt	closed	2026-10-11	2026-10-14	https://github.com/LDprg/FileTabRename/issues/2
 Nucc/Thesaurus	16	IndexError in get_alternative_words when the thesaurus has no result (no panel shown)	open	2026-10-11		https://github.com/Nucc/Thesaurus/issues/16
 aafulei/sublime-exact-quick-find	4	Plugin is ignored on Sublime Text build 4200: .python-version is 3.14 but the release says sublime_text *	open	2026-10-11		https://github.com/aafulei/sublime-exact-quick-find/issues/4
 alexju/ClaudeCode-Sublime-Windows	1	Windows: MCP server fails with socket has no attribute AF_UNIX, New Session does nothing	open	2026-10-11		https://github.com/alexju/ClaudeCode-Sublime-Windows/issues/1
@@ -1072,3 +1072,12 @@ divinites/LatexEquationPreview	7	Built-in LaTeX syntax scopes not recognised, fi
 ticcky/sublime_goimports	10	Install at load fails on Windows: GOPATH='...' is POSIX-only, bin/goimports never created	open	2026-10-14		https://github.com/ticcky/sublime_goimports/issues/10
 ticcky/sublime_goimports	11	go_imports hangs when output is over 64 KB pipe buffer (wait() before read)	open	2026-10-14		https://github.com/ticcky/sublime_goimports/issues/11
 aqzhyi/Sublime-Better-Completion	43	messages.json has a trailing comma: Package Control reports a parse error on install	open	2026-10-14		https://github.com/aqzhyi/Sublime-Better-Completion/issues/43
+Vall3y/sublimeJavascriptLogSnippets	2	Scope source.vue never matches the Vue syntax (root scope is text.html.vue)	open	2026-10-14		https://github.com/Vall3y/sublimeJavascriptLogSnippets/issues/2
+absop/ST-Scheme	4	Build file_regex has no line group: read errors are marked on line 1	open	2026-10-14		https://github.com/absop/ST-Scheme/issues/4
+arshiacont/antescofo-sublime-package	12	Settings key ascographpost is never read (code reads ascographport)	open	2026-10-14		https://github.com/arshiacont/antescofo-sublime-package/issues/12
+jarhart/SublimeSBT	50	Raw ESC[0J (erase) code shown after every command with current sbt	open	2026-10-14		https://github.com/jarhart/SublimeSBT/issues/50
+maltize/sublime-text-2-ruby-tests	273	Run Single Test on a *_test.rb outside a test folder: traceback, nothing shown (NotADirectoryError)	open	2026-10-14		https://github.com/maltize/sublime-text-2-ruby-tests/issues/273
+farcaller/DashDoc	72	messages.json points to files that are not in the package	open	2026-10-14		https://github.com/farcaller/DashDoc/issues/72
+ahmadawais/Sublime-WP-Customizer	7	Add-Setting snippet joins two values: theme_modoption, refreshpostMessage	open	2026-10-14		https://github.com/ahmadawais/Sublime-WP-Customizer/issues/7
+ahmadawais/Sublime-WP-Customizer	6	messages.json is invalid JSON (missing comma)	open	2026-10-14		https://github.com/ahmadawais/Sublime-WP-Customizer/issues/6
+sublimehq/package_control_channel	9617	74 listed packages have an invalid messages.json (Package Control cannot show their install messages)	open	2026-10-14		https://github.com/sublimehq/package_control_channel/issues/9617
