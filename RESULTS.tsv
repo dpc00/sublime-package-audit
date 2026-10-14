@@ -1020,3 +1020,5 @@ LaTeX Equation Preview	2026-10-14	messages.json trailing comma (divinites/LatexE
 SublimeLinter-contrib-lslint	2026-10-13	port to SublimeLinter 4 written and tested (reported on XenHat/SublimeLinter-contrib-lslint#11, fix PR #12); mcpp path tested
 gruvbox	2026-10-13	Dark and Light (Medium) schemes and the UI theme work; no defect
 Travis YML Lint	2026-10-14	not installed: existing issue #1 already reports that the lint service no longer resolves
+JavaScript Log Snippets (ts and vue scopes)	2026-10-14	log + Tab expands in a TypeScript tab and inside a Vue script block; the scope source.vue never matches because Vue's root scope is text.html.vue (Vall3y/sublimeJavascriptLogSnippets#2)
+Scheme (build system with real Chez Scheme 10.4.1)	2026-10-14	build runs scheme --script and shows the output; read error marker lands on line 1 instead of the real line because file_regex has no line group (absop/ST-Scheme#4, tested fix); first Ctrl+B after install said No Build System, transient
