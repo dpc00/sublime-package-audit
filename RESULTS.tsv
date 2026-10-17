@@ -1295,3 +1295,4 @@ C++ Classhelper	2026-10-17	Create class works; Generate Method Definition keeps 
 YAMLMacros	2026-10-17	Build of a .yaml-macros file works and produces the expected syntax; console shows source.yaml.sublime.syntax not found for its bundled syntax on this 4200 portable (not filed, environment unclear); many open upstream issues
 LFE	2026-10-17	Syntax, keymap and snippets load; sample .lfe highlighted correctly, no console errors; issues disabled on repo
 Haproxy	2026-10-17	Syntax highlights a sample haproxy.cfg sensibly, no console errors
+Flask Starter	2026-10-17	Both palette entries fail with TypeError (args n); the commands themselves generate the skeleton

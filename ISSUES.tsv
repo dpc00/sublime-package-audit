@@ -1218,3 +1218,4 @@ vitalfadeev/SublimeDlangAutoModuleName	1	Module name is the whole absolute path 
 vitalfadeev/SublimeDlangAutoModuleName	2	Console error: Default.history_list was imported on Python 3.3 (no .python-version)	open	2026-10-17		https://github.com/vitalfadeev/SublimeDlangAutoModuleName/issues/2
 pr0grammr/cppclasshelper-sublime-text-plugin	6	Generate Method Definition keeps default argument values (= 1.5) in the definition	open	2026-10-17		https://github.com/pr0grammr/cppclasshelper-sublime-text-plugin/issues/6
 pr0grammr/cppclasshelper-sublime-text-plugin	7	Generate Method Definition: KeyError folder when no project folder is open	open	2026-10-17		https://github.com/pr0grammr/cppclasshelper-sublime-text-plugin/issues/7
+Joepriesto/Sublime-Flask-Starter	6	Command Palette entries fail: run() got an unexpected keyword argument n	open	2026-10-17		https://github.com/Joepriesto/Sublime-Flask-Starter/issues/6
