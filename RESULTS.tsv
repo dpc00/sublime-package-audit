@@ -1179,3 +1179,4 @@ Xcode Colors	2026-10-17	v0.5.0: four of the seven schemes applied to a Python vi
 RTL Mirror	2026-10-17	v1.0.1: rtl_mirror on a Hebrew selection shows the popup, no console error; correctness of RTL rendering not judged; no finding
 Man Page Support	2026-10-17	v1.1.1: plugin does not load, ModuleNotFoundError sublime_lib (no dependency declared); begin_edit also gone; filed
 PovRay	2026-10-17	v0.1.5: syntax loads for .pov, comment toggle works; no finding
+LitElement Syntax Highlighting	2026-10-17	v1.0.0: syntax compiles on 4200, .js files open as Lit-Element (claims js extension), scopes ok; recursion error of issue #2 not reproduced; no finding
