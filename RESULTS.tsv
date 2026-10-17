@@ -1130,3 +1130,4 @@ Open Files In List	2026-10-17	Absolute paths: existing files opened, missing one
 ESLint	2026-10-17	polygonplanet 5.0.5 with a local ESLint 8 project: the eslint command linted t.js, showed missing semicolons and no-undef inline and in the panel. ESLint 9 flat config is already #30. No finding. Removed; empty tools\_es folder is held by a process, recycle at quit.
 Dartlight	2026-10-17	Dart.tmLanguage loads and scopes a Dart snippet as source.dart; completions files load (Dart one has a trailing comma, accepted by Sublime). Goto symbol already reported (#5). No finding. Removed.
 ToDone	2026-10-17	Installed, install message shown, ToDone.tmLanguage scopes task lines (keyword.operator.task.lvl4.todone). Open issues are feature requests. No finding. Removed.
+AlignTab	2026-10-17	Listed and installed 2.1.11 on 4200; align_tab with = aligned three lines, no console error. Could not reproduce #92 (not available on 4200); commented. No new defect. Removed.
