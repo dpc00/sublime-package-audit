@@ -1093,3 +1093,4 @@ isort	2026-10-17	v0.0.5 (installs as a folder with a bundled old isort) on porta
 PKs Color Scheme	2026-10-17	Install fails: HTTP 404 on codeload mjs7231/sublime-pkstheme/zip/master (repo now pkkid, default branch main). Filed.
 SPARQL	2026-10-17	Installs, syntax loads and highlights on 4200, no console errors. Existing open issues cover comment shortcut and TSV content type. No new defect.
 CSS Snippets	2026-10-17	Installs cleanly on 4200; all 50 snippets are valid XML; abs expands in a CSS file. No defect.
+DFML (for Dwarf Fortress raws)	2026-10-17	Installs cleanly on 4200, no console errors; grammar lists txt but .txt stays Plain Text. No defect.
