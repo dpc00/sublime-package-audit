@@ -1110,3 +1110,4 @@ ant7/ant-sublime-theme	2	Rule names in ant.tmTheme have garbled characters (enco
 magneto538/Koala	12	messages.json has a trailing comma, so Package Control cannot parse it	open	2026-10-17		https://github.com/magneto538/Koala/issues/12
 joelpt/sublimetext-automatic-backups	19	Palette captions for the two jump commands are swapped	open	2026-10-17		https://github.com/joelpt/sublimetext-automatic-backups/issues/19
 huszerldani/OneDarkMaterial	10	messages.json has a trailing comma, so Package Control cannot parse it	open	2026-10-17		https://github.com/huszerldani/OneDarkMaterial/issues/10
+pokidovea/copy_python_path	7	Class and method paths are wrong on Sublime Text 4 (class scope name changed)	open	2026-10-17		https://github.com/pokidovea/copy_python_path/issues/7
