@@ -1168,3 +1168,4 @@ PlainNotes	2026-10-17	v0.3.0: installs, creates ~/Dropbox/Notes/.brain at load (
 AnsibleSnippets	2026-10-17	v0.1.8: add_host snippet expands in a YAML tab with correct fields; deprecated-contents issue #5 already open; no finding
 Sfortzando	2026-10-17	v1.0.8: ABC syntax does not compile on 4200 (scope stays text.plain), matches open issue #1 recursion error; commented with build 4200 evidence
 Snippet Destroyer	2026-10-17	v1.0.2: command lists 945 snippets, Destroy writes empty override files (sandbox snippet went to 0 bytes) as the README says; created 34 package folders in the portable, recycled; no finding
+twolfson/sublime-request	2026-10-17	request with only open_kwargs raises IndexError (open_args[0]); str(bytes) to clipboard unproven; held until Todd answers yes
