@@ -1155,3 +1155,5 @@ tarzan/sublime-text-elixir-tests	6	Palette captions say Ruby: Run All Ruby Tests
 Mimino666/SublimeText2-python-open-module-new	2	Windows: two error dialogs every time the input panel opens; backslash resource paths	open	2026-10-17		https://github.com/Mimino666/SublimeText2-python-open-module-new/issues/2
 kairyou/SublimeSimpleSync	13	A sibling folder whose name starts with the local path (src2 vs src) is synced into the remote	open	2026-10-17		https://github.com/kairyou/SublimeSimpleSync/issues/13
 LDprg/UCFHighlighter	1	numbers rule .{{decimal}} scopes digits inside names (LVCMOS33, RAMB16_X0Y0) as numbers	open	2026-10-17		https://github.com/LDprg/UCFHighlighter/issues/1
+runxel/GDL-sublime	12	AttributeError on every save in a window without a project	open	2026-10-17		https://github.com/runxel/GDL-sublime/issues/12
+runxel/GDL-sublime	13	Convert to script / Build GSM without a project: dialog, then AttributeError	open	2026-10-17		https://github.com/runxel/GDL-sublime/issues/13
