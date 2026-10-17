@@ -1158,3 +1158,6 @@ LDprg/UCFHighlighter	1	numbers rule .{{decimal}} scopes digits inside names (LVC
 runxel/GDL-sublime	12	AttributeError on every save in a window without a project	open	2026-10-17		https://github.com/runxel/GDL-sublime/issues/12
 runxel/GDL-sublime	13	Convert to script / Build GSM without a project: dialog, then AttributeError	open	2026-10-17		https://github.com/runxel/GDL-sublime/issues/13
 ricardodantas/sublime-vtex-snippets	2	vtex-product-buybutton.sublime-snippet has two snippet elements	open	2026-10-17		https://github.com/ricardodantas/sublime-vtex-snippets/issues/2
+gamcoh/QuickEdit	5	AttributeError when the cursor is on a line without a tag or on a closing tag	open	2026-10-17		https://github.com/gamcoh/QuickEdit/issues/5
+gamcoh/QuickEdit	6	IndexError (folders()[0]) when no folder is open and the page links a local stylesheet	open	2026-10-17		https://github.com/gamcoh/QuickEdit/issues/6
+gamcoh/QuickEdit	7	IndexError in searchForVar for a PHP variable with no definition in the file	open	2026-10-17		https://github.com/gamcoh/QuickEdit/issues/7
