@@ -1192,3 +1192,6 @@ arturo-lang/art-sublimetext-package	1	ife snippet is never loaded: file is named
 unlight/sublime-markdown-link	12	Make from URL fails after install: soupsieve is not installed	open	2026-10-17		https://github.com/unlight/sublime-markdown-link/issues/12
 frankarobotics/ride-sublime	1	Everything after the first entry @{ ... }@ Lua block is highlighted as Lua	open	2026-10-17		https://github.com/frankarobotics/ride-sublime/issues/1
 lucasvscn/synthwave-sublime	2	README: folder name in the Git instructions does not match the package name	open	2026-10-17		https://github.com/lucasvscn/synthwave-sublime/issues/2
+math2001/BetterSnippetManager	13	Create New Snippet swaps the entities for < and > (and does not escape &)	open	2026-10-17		https://github.com/math2001/BetterSnippetManager/issues/13
+math2001/BetterSnippetManager	14	Create New Snippet: default folder name has a trailing comma ("python,")	open	2026-10-17		https://github.com/math2001/BetterSnippetManager/issues/14
+math2001/BetterSnippetManager	15	Edit Snippets raises FileNotFoundError when the snippets folder does not exist	open	2026-10-17		https://github.com/math2001/BetterSnippetManager/issues/15
