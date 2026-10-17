@@ -1151,3 +1151,4 @@ sublimehq/package_control	1804	PyPI libraries are installed without their Requir
 Marcool04/SublimeLinter-contrib-csl	1	Does not load after install: requests is installed without urllib3, idna, certifi, charset_normalizer	open	2026-10-17		https://github.com/Marcool04/SublimeLinter-contrib-csl/issues/1
 oschwald/SublimeLinter-perlcritic	11	Console warning on every load: Defining cls.executable has no effect	open	2026-10-17		https://github.com/oschwald/SublimeLinter-perlcritic/issues/11
 hao-lee/Graphvizer	29	A missing dot ends the render thread; fixing dot_cmd_path does not bring rendering back until restart	open	2026-10-17		https://github.com/hao-lee/Graphvizer/issues/29
+tarzan/sublime-text-elixir-tests	6	Palette captions say Ruby: Run All Ruby Tests, Run Last Ruby Test	open	2026-10-17		https://github.com/tarzan/sublime-text-elixir-tests/issues/6
