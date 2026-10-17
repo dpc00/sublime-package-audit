@@ -1159,3 +1159,4 @@ CoverMe	2026-10-17	Go coverage on Windows: tests run but no regions marked (path
 Delete Current File	2026-10-17	v0.3.1: delete and move_to_trash both work, buffer closed; no finding
 MOOS	2026-10-17	syntax loads; keyword and app-name scopes correct on a sample .moos; no finding
 Alda	2026-10-17	syntax loads, instrument scope ok; build not run (alda binary not installed); no finding
+Cucumber Snippets e Highlight em Inglês	2026-10-17	v1.1.0: .feature gets Gherkin syntax (after indexing), scenario snippet expands; no finding
