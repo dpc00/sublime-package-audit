@@ -1200,3 +1200,4 @@ Remember Minimap Setting	2026-10-17	v0.1.1: per-view show_minimap false hides th
 LogView	2026-10-17	v1.1.0: error, warning and mark lines flagged on a .log; default mark_filter shut(ing)? down misses shutting down (status Marks 1 not 2); filed
 Hammock Color Scheme	2026-10-17	v1.1.0: tmTheme and messages.json valid, scheme applies to a Python view; no finding
 NEURON	2026-10-17	v1.0.0: .hoc opens as Neuron; .mod opens as built-in DTD, not NMODL (tmLanguage loses to the built-in sublime-syntax); filed
+Unreal Shader	2026-10-17	v1.1.0: .usf opens as UnrealShader; opening it removed the open sidebar folder from the window (open issue #2 reproduced on 4200, commented)
