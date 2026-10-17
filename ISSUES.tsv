@@ -1142,3 +1142,4 @@ rescript-lang/rescript-sublime	4	Format File leaves a temp file in the temp fold
 FlashSystems/LogView	8	Default mark_filter does not match 'shutting down' (shut(ing)? typo)	open	2026-10-17		https://github.com/FlashSystems/LogView/issues/8
 jordan-g/NEURON-for-Sublime-Text	2	.mod files open as DTD instead of NMODL on Sublime Text 4	open	2026-10-17		https://github.com/jordan-g/NEURON-for-Sublime-Text/issues/2
 hellokenlee/SublimeUnrealShader	2	comment: reproduced on 4200	open	2026-10-17		https://github.com/hellokenlee/SublimeUnrealShader/issues/2
+dperetti/sublime-codestory	1	Code Story: Settings fails: path uses Code Story but package installs as CodeStory	open	2026-10-17		https://github.com/dperetti/sublime-codestory/issues/1
