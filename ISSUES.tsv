@@ -1117,7 +1117,7 @@ alexanderankin/sublime-bootstrap4	4	Snippets insert literal {2:...} text: placeh
 xr1337/sublime-kubernetes-autocomplete	5	value_completions is built but never returned (no value suggestions after a colon)	open	2026-10-17		https://github.com/xr1337/sublime-kubernetes-autocomplete/issues/5
 thoughtsunificator/domodel-snippets-sublime	4	Name transform lowercases the whole name, not only the first letter	open	2026-10-17		https://github.com/thoughtsunificator/domodel-snippets-sublime/issues/4
 pixl8-brayden/preside-sublime-text-3	4	Generate Form/i18n/View hang Sublime Text when the file is not under an "application" folder	open	2026-10-17		https://github.com/pixl8-brayden/preside-sublime-text-3/issues/4
-sublimehq/package_control	1803	messages.json with a trailing comma is silently skipped (strict json.load)	open	2026-10-16		https://github.com/sublimehq/package_control/issues/1803
+sublimehq/package_control	1803	messages.json with a trailing comma is silently skipped (strict json.load)	closed	2026-10-16		https://github.com/sublimehq/package_control/issues/1803
 edoardopirovano/QLSyntax	4	Symbolic operators (=, <, >, +, ...) are never scoped keyword.operator	open	2026-10-17		https://github.com/edoardopirovano/QLSyntax/issues/4
 XeCreators/Unyson-Snippets-Sublime	2	Triggers misspelled: unyson-adable-box/option/popup (should be addable)	open	2026-10-17		https://github.com/XeCreators/Unyson-Snippets-Sublime/issues/2
 memoryleak/TerraformSnippets-AWS	3	Snippets generate invalid resource type: aws_instance resource instead of aws_instance	open	2026-10-17		https://github.com/memoryleak/TerraformSnippets-AWS/issues/3
