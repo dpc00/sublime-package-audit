@@ -1150,3 +1150,4 @@ Gocc BNF Syntax	2026-10-17	Marked [Deprecated], maintainer wanted. gocc.tmLangua
 TortoiseSVN	2026-10-17	TortoiseSVN itself is not installed here (shell extension, admin install), so only the missing-program path was run: svn_log shows the plugin intended dialog about TortoiseProc.exe, dismissed. Real SVN actions untested. No finding. Removed.
 Elvish Syntax	2026-10-17	elvish.sublime-syntax loads and scopes a comment line; no console error. No finding. Removed.
 Find++	2026-10-17	twolfson list (queue 1): Find: In Open Files opens the native Find in Files panel with Where open files; searching needle gave 2 matches in 2 files in Find Results, no console error. No finding. Removed.
+Edit Command Palette	2026-10-17	twolfson list (queue 2): Commands - User created and opened User/Default.sublime-commands; Commands - Default opened the Default package file; no console error. No finding. Removed; created user file recycled.
