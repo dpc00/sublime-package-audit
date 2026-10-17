@@ -1183,3 +1183,4 @@ LitElement Syntax Highlighting	2026-10-17	v1.0.0: syntax compiles on 4200, .js f
 Yet Another Launcher	2026-10-17	v1.0.5: file+subl item opens in Notepad (os.startfile) not Sublime; filed. The original package in the Python 3.3 host showed no panel in two tries while a 3.8 copy did (unexplained, not filed)
 Wombat Color Scheme	2026-10-17	v1.0.5: tmTheme XML valid, sublime-color-scheme applies and colors a Python view; no finding
 SwapStrings	2026-10-17	v0.1.0: Swap quotes works on a selection; open issue #1 (multi-char swap) not reproduced; no finding
+Color Scheme - Gray Matter	2026-10-17	v1.7.0: both tmThemes valid XML and apply (dark and light) to a Markdown view; no finding
