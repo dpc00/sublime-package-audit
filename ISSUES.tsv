@@ -1103,3 +1103,4 @@ Pephers/Super-Calculator	21	trim_zeros removes the leading zero of results below
 NickHatBoecker/CopyFilepathWithLineNumbers	4	Copy Reference does nothing for a file on another drive (os.path.relpath ValueError)	open	2026-10-17		https://github.com/NickHatBoecker/CopyFilepathWithLineNumbers/issues/4
 NickHatBoecker/CopyFilepathWithLineNumbers	5	Copy Filepath With Line Numbers fails on an unsaved tab (len(None))	open	2026-10-17		https://github.com/NickHatBoecker/CopyFilepathWithLineNumbers/issues/5
 yohanboniface/Carto-sublime	17	Completions and help read reference.json from a folder that does not exist in a Package Control install	open	2026-10-17		https://github.com/yohanboniface/Carto-sublime/issues/17
+MDeiml/SublimeJavaImports	8	\) damages package names	open	2026-10-17		https://github.com/MDeiml/SublimeJavaImports/issues/8
