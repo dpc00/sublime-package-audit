@@ -1175,3 +1175,6 @@ k-meissonnier/LaravelDumpMan	6	dumpman loops forever on an unclosed ( at the end
 krizalys/sublime-portage	1	.ebuild files open as Bash: the built-in Bash syntax also claims the extension	open	2026-10-17		https://github.com/krizalys/sublime-portage/issues/1
 gkpotter/Sublime-TinyCodeCounter	1	markers are matched as regular expressions, not literal text	open	2026-10-17		https://github.com/gkpotter/Sublime-TinyCodeCounter/issues/1
 gkpotter/Sublime-TinyCodeCounter	2	Marker on the first line of the file shows no counter	open	2026-10-17		https://github.com/gkpotter/Sublime-TinyCodeCounter/issues/2
+monsieurluge/ruler_proximity_indicator	6	rulers from syntax, project or view settings are ignored	open	2026-10-17		https://github.com/monsieurluge/ruler_proximity_indicator/issues/6
+monsieurluge/ruler_proximity_indicator	7	Default [80] is never used: an empty rulers list overrides it	open	2026-10-17		https://github.com/monsieurluge/ruler_proximity_indicator/issues/7
+monsieurluge/ruler_proximity_indicator	8	Tabs count as one column in the distance to the ruler	open	2026-10-17		https://github.com/monsieurluge/ruler_proximity_indicator/issues/8
