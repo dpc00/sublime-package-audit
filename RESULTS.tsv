@@ -1288,3 +1288,4 @@ Gimp Auto-Complete Scheme	2026-10-17	same prefix[0] IndexError on empty prefix i
 CPrettify	2026-10-17	Works on saved .c; AttributeError on unsaved buffer; keymap {} gives load error; #16 runSetup already open
 Enaml Syntax Highlighter	2026-10-17	grammar references #entity_name_class/#entity_name_function/#keyword_arguments but has no repository: no such context errors, enamldef rule dead
 Maze Syntax	2026-10-17	Highlighting fine; both snippets use tabTrigger > so neither expands (control with duplicate triggers confirms)
+BetterSave	2026-10-17	Save All and Prune work as documented (Prune closes unsaved untitled text without asking, by design); issue #1 open (menu item)
