@@ -1126,3 +1126,4 @@ MeghaSharma21/CPP_Competitive_Programming_Sublime_Snippets	4	Snippets have no sc
 markbirbeck/sublime-text-shell-command	84	message.json is not read: Package Control expects messages.json	open	2026-10-17		https://github.com/markbirbeck/sublime-text-shell-command/issues/84
 macrael/OpenBazelBUILDFile	2	BUILD.bazel files are not found, only BUILD	open	2026-10-17		https://github.com/macrael/OpenBazelBUILDFile/issues/2
 TomasBarry/Sublime-create-webp-image	1	Command is hidden and does nothing: variables are read once in __init__	open	2026-10-17		https://github.com/TomasBarry/Sublime-create-webp-image/issues/1
+daniel-dara/ASPComment	3	Add and Remove commands do nothing in Sublime Text 3/4 (begin_edit)	open	2026-10-17		https://github.com/daniel-dara/ASPComment/issues/3
