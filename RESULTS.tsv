@@ -1128,3 +1128,4 @@ Create WebP Image	2026-10-17	v1.0.0 command stores window.extract_variables() in
 ASPComment	2026-10-17	Add and Remove comment commands leave the text unchanged on 4200 (view.begin_edit removed after ST2); Toggle works. Issue filed. Removed.
 Open Files In List	2026-10-17	Absolute paths: existing files opened, missing one highlighted in not_found. Relative paths already reported (#1). No new finding. Removed.
 ESLint	2026-10-17	polygonplanet 5.0.5 with a local ESLint 8 project: the eslint command linted t.js, showed missing semicolons and no-undef inline and in the panel. ESLint 9 flat config is already #30. No finding. Removed; empty tools\_es folder is held by a process, recycle at quit.
+Dartlight	2026-10-17	Dart.tmLanguage loads and scopes a Dart snippet as source.dart; completions files load (Dart one has a trailing comma, accepted by Sublime). Goto symbol already reported (#5). No finding. Removed.
