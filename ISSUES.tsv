@@ -1196,3 +1196,4 @@ math2001/BetterSnippetManager	13	Create New Snippet swaps the entities for < and
 math2001/BetterSnippetManager	14	Create New Snippet: default folder name has a trailing comma ("python,")	open	2026-10-17		https://github.com/math2001/BetterSnippetManager/issues/14
 math2001/BetterSnippetManager	15	Edit Snippets raises FileNotFoundError when the snippets folder does not exist	open	2026-10-17		https://github.com/math2001/BetterSnippetManager/issues/15
 dparrini/sublime_powersystems	1	syntax_test_PSSe RAW.raw fails 3 of 15 assertions	open	2026-10-17		https://github.com/dparrini/sublime_powersystems/issues/1
+dparrini/sublime_opendss	2	Build passes "$file" with literal quotes in a list-form cmd	open	2026-10-17		https://github.com/dparrini/sublime_opendss/issues/2
