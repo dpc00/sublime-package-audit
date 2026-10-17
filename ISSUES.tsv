@@ -1121,3 +1121,4 @@ sublimehq/package_control	1803	messages.json with a trailing comma is silently s
 edoardopirovano/QLSyntax	4	Symbolic operators (=, <, >, +, ...) are never scoped keyword.operator	open	2026-10-17		https://github.com/edoardopirovano/QLSyntax/issues/4
 XeCreators/Unyson-Snippets-Sublime	2	Triggers misspelled: unyson-adable-box/option/popup (should be addable)	open	2026-10-17		https://github.com/XeCreators/Unyson-Snippets-Sublime/issues/2
 memoryleak/TerraformSnippets-AWS	3	Snippets generate invalid resource type: aws_instance resource instead of aws_instance	open	2026-10-17		https://github.com/memoryleak/TerraformSnippets-AWS/issues/3
+yields/sublime-go	39	error when open settings (comment with cause)	open	2026-10-17		https://github.com/yields/sublime-go/issues/39
