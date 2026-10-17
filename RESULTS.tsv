@@ -1322,3 +1322,4 @@ Nettuts+ Fetch	2026-10-17	Fetch: File listed the default jquery entry and insert
 VueFormatter	2026-10-17	vueformatter on a .vue buffer did nothing, no console output, no "reloading plugin" line; plugin writes temp file and runs scripts/index.js via a path inside the .sublime-package zip, so likely cannot work as a zip; cause not proven, nothing filed; existing issues #21/#15
 PHP Syntax Checker	2026-10-17	works on 4200 with php 8.4: save of a PHP file with a parse error shows the error dialog with file and line; nothing filed
 SublimeServer	2026-10-17	directory index sends Content-Length as str(bytes) so curl and PowerShell reject it; filed #47
+TypescriptCompletion	2026-10-17	works: tscompletion lists classes and methods from a project .ts file; reading suggested on_query_completions problems (None file_name, INHIBIT flag for non-ts files) but not reproduced on 4200 (completions from a .sublime-completions file still showed), nothing filed
