@@ -1195,3 +1195,4 @@ lucasvscn/synthwave-sublime	2	README: folder name in the Git instructions does n
 math2001/BetterSnippetManager	13	Create New Snippet swaps the entities for < and > (and does not escape &)	open	2026-10-17		https://github.com/math2001/BetterSnippetManager/issues/13
 math2001/BetterSnippetManager	14	Create New Snippet: default folder name has a trailing comma ("python,")	open	2026-10-17		https://github.com/math2001/BetterSnippetManager/issues/14
 math2001/BetterSnippetManager	15	Edit Snippets raises FileNotFoundError when the snippets folder does not exist	open	2026-10-17		https://github.com/math2001/BetterSnippetManager/issues/15
+dparrini/sublime_powersystems	1	syntax_test_PSSe RAW.raw fails 3 of 15 assertions	open	2026-10-17		https://github.com/dparrini/sublime_powersystems/issues/1
