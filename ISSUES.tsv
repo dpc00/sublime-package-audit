@@ -1117,7 +1117,7 @@ alexanderankin/sublime-bootstrap4	4	Snippets insert literal {2:...} text: placeh
 xr1337/sublime-kubernetes-autocomplete	5	value_completions is built but never returned (no value suggestions after a colon)	open	2026-10-17		https://github.com/xr1337/sublime-kubernetes-autocomplete/issues/5
 thoughtsunificator/domodel-snippets-sublime	4	Name transform lowercases the whole name, not only the first letter	open	2026-10-17		https://github.com/thoughtsunificator/domodel-snippets-sublime/issues/4
 pixl8-brayden/preside-sublime-text-3	4	Generate Form/i18n/View hang Sublime Text when the file is not under an "application" folder	open	2026-10-17		https://github.com/pixl8-brayden/preside-sublime-text-3/issues/4
-sublimehq/package_control	1803	messages.json with a trailing comma is silently skipped (strict json.load)	open	2026-10-16		https://github.com/sublimehq/package_control/issues/1803
+sublimehq/package_control	1803	messages.json with a trailing comma is silently skipped (strict json.load)	closed	2026-10-16		https://github.com/sublimehq/package_control/issues/1803
 edoardopirovano/QLSyntax	4	Symbolic operators (=, <, >, +, ...) are never scoped keyword.operator	open	2026-10-17		https://github.com/edoardopirovano/QLSyntax/issues/4
 XeCreators/Unyson-Snippets-Sublime	2	Triggers misspelled: unyson-adable-box/option/popup (should be addable)	open	2026-10-17		https://github.com/XeCreators/Unyson-Snippets-Sublime/issues/2
 memoryleak/TerraformSnippets-AWS	3	Snippets generate invalid resource type: aws_instance resource instead of aws_instance	open	2026-10-17		https://github.com/memoryleak/TerraformSnippets-AWS/issues/3
@@ -1127,3 +1127,108 @@ markbirbeck/sublime-text-shell-command	84	message.json is not read: Package Cont
 macrael/OpenBazelBUILDFile	2	BUILD.bazel files are not found, only BUILD	open	2026-10-17		https://github.com/macrael/OpenBazelBUILDFile/issues/2
 TomasBarry/Sublime-create-webp-image	1	Command is hidden and does nothing: variables are read once in __init__	open	2026-10-17		https://github.com/TomasBarry/Sublime-create-webp-image/issues/1
 daniel-dara/ASPComment	3	Add and Remove commands do nothing in Sublime Text 3/4 (begin_edit)	open	2026-10-17		https://github.com/daniel-dara/ASPComment/issues/3
+randy3k/AlignTab	92	AlignTab not available on Sublime Text 4200 (comment: cannot reproduce)	open	2026-10-17		https://github.com/randy3k/AlignTab/issues/92
+jamalsenouci/sublimetext-syntaxfold	48	messages.json has a trailing comma: Package Control reports a parse error	open	2026-10-17		https://github.com/jamalsenouci/sublimetext-syntaxfold/issues/48
+axel22/sublime-javap	9	Output has no syntax highlighting: Java.tmLanguage no longer exists	open	2026-10-17		https://github.com/axel22/sublime-javap/issues/9
+proficientdesigners/sublime-text-bs4-autocomplete	5	self.data_completions is never defined (completions inside a tag)	open	2026-10-17		https://github.com/proficientdesigners/sublime-text-bs4-autocomplete/issues/5
+proficientdesigners/sublime-text-bs4-snippets	5	Trigger b4-accordian is misspelled (b4-accordion does nothing)	open	2026-10-17		https://github.com/proficientdesigners/sublime-text-bs4-snippets/issues/5
+shauryachats/CoverMe	3	No coverage marked on Windows: file path keys never match	open	2026-10-17		https://github.com/shauryachats/CoverMe/issues/3
+lewdlime/Sfortzando	1	comment: reproduced on 4200	open	2026-10-17		https://github.com/lewdlime/Sfortzando/issues/1
+evercyan/tony-water	1	JSON Pretty does not indent (json.dumps indent passed as skipkeys)	open	2026-10-17		https://github.com/evercyan/tony-water/issues/1
+gwenzek/SublimeSetWindowTitle	25	Windows: renames the first Sublime window found, not the window of the view	open	2026-10-17		https://github.com/gwenzek/SublimeSetWindowTitle/issues/25
+carsonoid/sublime_man_page_support	8	Plugin fails to load: No module named 'sublime_lib'	open	2026-10-17		https://github.com/carsonoid/sublime_man_page_support/issues/8
+dahanbn/Yet-Another-Launcher	3	file+subl items open with the system default app, not in Sublime Text	open	2026-10-17		https://github.com/dahanbn/Yet-Another-Launcher/issues/3
+rescript-lang/rescript-sublime	4	Format File leaves a temp file in the temp folder on every run	open	2026-10-17		https://github.com/rescript-lang/rescript-sublime/issues/4
+FlashSystems/LogView	8	Default mark_filter does not match 'shutting down' (shut(ing)? typo)	open	2026-10-17		https://github.com/FlashSystems/LogView/issues/8
+jordan-g/NEURON-for-Sublime-Text	2	.mod files open as DTD instead of NMODL on Sublime Text 4	open	2026-10-17		https://github.com/jordan-g/NEURON-for-Sublime-Text/issues/2
+hellokenlee/SublimeUnrealShader	2	comment: reproduced on 4200	open	2026-10-17		https://github.com/hellokenlee/SublimeUnrealShader/issues/2
+dperetti/sublime-codestory	1	Code Story: Settings fails: path uses Code Story but package installs as CodeStory	open	2026-10-17		https://github.com/dperetti/sublime-codestory/issues/1
+BorisChumichev/modelicaSublimeTextPackage	19	Toggle Comment does nothing: Comments.tmPreferences is not in the 0.0.3 tag	open	2026-10-17		https://github.com/BorisChumichev/modelicaSublimeTextPackage/issues/19
+orgmir/mint-sublime-text	1	Mint syntax: Apparent recursion within a with_prototype action error dialog	open	2026-10-17		https://github.com/orgmir/mint-sublime-text/issues/1
+glennw/RustAutoComplete	32	Not working on OSX and generate lots of tmp files (comment)	open	2026-10-17		https://github.com/glennw/RustAutoComplete/issues/32
+mliljedahl/SublimeLinter-contrib-ansible-lint	13	Not working with ansible-lint 6.13.1 (comment)	open	2026-10-17		https://github.com/mliljedahl/SublimeLinter-contrib-ansible-lint/issues/13
+sublimehq/package_control	1804	PyPI libraries are installed without their Requires-Dist dependencies	open	2026-10-17		https://github.com/sublimehq/package_control/issues/1804
+Marcool04/SublimeLinter-contrib-csl	1	Does not load after install: requests is installed without urllib3, idna, certifi, charset_normalizer	open	2026-10-17		https://github.com/Marcool04/SublimeLinter-contrib-csl/issues/1
+oschwald/SublimeLinter-perlcritic	11	Console warning on every load: Defining cls.executable has no effect	open	2026-10-17		https://github.com/oschwald/SublimeLinter-perlcritic/issues/11
+hao-lee/Graphvizer	29	A missing dot ends the render thread; fixing dot_cmd_path does not bring rendering back until restart	open	2026-10-17		https://github.com/hao-lee/Graphvizer/issues/29
+tarzan/sublime-text-elixir-tests	6	Palette captions say Ruby: Run All Ruby Tests, Run Last Ruby Test	open	2026-10-17		https://github.com/tarzan/sublime-text-elixir-tests/issues/6
+Mimino666/SublimeText2-python-open-module-new	2	Windows: two error dialogs every time the input panel opens; backslash resource paths	open	2026-10-17		https://github.com/Mimino666/SublimeText2-python-open-module-new/issues/2
+kairyou/SublimeSimpleSync	13	A sibling folder whose name starts with the local path (src2 vs src) is synced into the remote	open	2026-10-17		https://github.com/kairyou/SublimeSimpleSync/issues/13
+LDprg/UCFHighlighter	1	numbers rule .{{decimal}} scopes digits inside names (LVCMOS33, RAMB16_X0Y0) as numbers	open	2026-10-17		https://github.com/LDprg/UCFHighlighter/issues/1
+runxel/GDL-sublime	12	AttributeError on every save in a window without a project	open	2026-10-17		https://github.com/runxel/GDL-sublime/issues/12
+runxel/GDL-sublime	13	Convert to script / Build GSM without a project: dialog, then AttributeError	open	2026-10-17		https://github.com/runxel/GDL-sublime/issues/13
+ricardodantas/sublime-vtex-snippets	2	vtex-product-buybutton.sublime-snippet has two snippet elements	open	2026-10-17		https://github.com/ricardodantas/sublime-vtex-snippets/issues/2
+gamcoh/QuickEdit	5	AttributeError when the cursor is on a line without a tag or on a closing tag	open	2026-10-17		https://github.com/gamcoh/QuickEdit/issues/5
+gamcoh/QuickEdit	6	IndexError (folders()[0]) when no folder is open and the page links a local stylesheet	open	2026-10-17		https://github.com/gamcoh/QuickEdit/issues/6
+gamcoh/QuickEdit	7	IndexError in searchForVar for a PHP variable with no definition in the file	open	2026-10-17		https://github.com/gamcoh/QuickEdit/issues/7
+yaworsw/Sublime-ScopeAlways	6	ScopeAlways: Settings opens a folder that does not exist	open	2026-10-17		https://github.com/yaworsw/Sublime-ScopeAlways/issues/6
+yaworsw/Sublime-ScopeAlways	7	status_format changes not applied while running	open	2026-10-17		https://github.com/yaworsw/Sublime-ScopeAlways/issues/7
+adamchainz/sublime-rst-improved	6	plugin_loaded rewrites Preferences.sublime-settings and deletes its comments	open	2026-10-17		https://github.com/adamchainz/sublime-rst-improved/issues/6
+akshaykumar90/sublime-font-cycler	14	IndexError when no fonts_list entry has font_face	open	2026-10-17		https://github.com/akshaykumar90/sublime-font-cycler/issues/14
+AlexLamson/DataWrangler	21	New-tab commands open an empty tab: insert(edit) used on another view	open	2026-10-17		https://github.com/AlexLamson/DataWrangler/issues/21
+AlexLamson/DataWrangler	22	delete_columns: AttributeError on space-separated data	open	2026-10-17		https://github.com/AlexLamson/DataWrangler/issues/22
+AlexLamson/DataWrangler	23	line_freq: ValueError on an empty view	open	2026-10-17		https://github.com/AlexLamson/DataWrangler/issues/23
+krishraghuram/SublimeFrequency	1	Non-ASCII lines are shown as \uXXXX escapes	open	2026-10-17		https://github.com/krishraghuram/SublimeFrequency/issues/1
+jomarcenter-mjm/RMMVSublimeSnippet	3	Two snippets share the trigger rmmvStructContent	open	2026-10-17		https://github.com/jomarcenter-mjm/RMMVSublimeSnippet/issues/3
+k-meissonnier/LaravelDumpMan	5	dumpman inserts nothing on the last line of a file without a trailing newline	open	2026-10-17		https://github.com/k-meissonnier/LaravelDumpMan/issues/5
+k-meissonnier/LaravelDumpMan	6	dumpman loops forever on an unclosed ( at the end of the file	open	2026-10-17		https://github.com/k-meissonnier/LaravelDumpMan/issues/6
+krizalys/sublime-portage	1	.ebuild files open as Bash: the built-in Bash syntax also claims the extension	open	2026-10-17		https://github.com/krizalys/sublime-portage/issues/1
+gkpotter/Sublime-TinyCodeCounter	1	markers are matched as regular expressions, not literal text	open	2026-10-17		https://github.com/gkpotter/Sublime-TinyCodeCounter/issues/1
+gkpotter/Sublime-TinyCodeCounter	2	Marker on the first line of the file shows no counter	open	2026-10-17		https://github.com/gkpotter/Sublime-TinyCodeCounter/issues/2
+monsieurluge/ruler_proximity_indicator	6	rulers from syntax, project or view settings are ignored	open	2026-10-17		https://github.com/monsieurluge/ruler_proximity_indicator/issues/6
+monsieurluge/ruler_proximity_indicator	7	Default [80] is never used: an empty rulers list overrides it	open	2026-10-17		https://github.com/monsieurluge/ruler_proximity_indicator/issues/7
+monsieurluge/ruler_proximity_indicator	8	Tabs count as one column in the distance to the ruler	open	2026-10-17		https://github.com/monsieurluge/ruler_proximity_indicator/issues/8
+underground-works/sublime-php-namespace-monkey	6	UnboundLocalError in resolveNamespace for a file outside the window folders	open	2026-10-17		https://github.com/underground-works/sublime-php-namespace-monkey/issues/6
+corbanmailloux/sublime-mit-alloy	6	Keywords as, private, exactly, expect, seq and Int are not highlighted	open	2026-10-17		https://github.com/corbanmailloux/sublime-mit-alloy/issues/6
+mariovalney/laravel-lang-for-sublime	1	TypeError when the view has no file name	open	2026-10-17		https://github.com/mariovalney/laravel-lang-for-sublime/issues/1
+loquens/subl-open-file-prompt	1	Failed save raises AttributeError and leaves the buffer marked scratch	open	2026-10-17		https://github.com/loquens/subl-open-file-prompt/issues/1
+loquens/subl-open-file-prompt	2	Tab completion raises FileNotFoundError when the folder does not exist	open	2026-10-17		https://github.com/loquens/subl-open-file-prompt/issues/2
+ianharper/AccuTermClient	36	Package does not load on Sublime Text 4: pywin32 library cannot be imported	open	2026-10-17		https://github.com/ianharper/AccuTermClient/issues/36
+packagecontrol/pywin32	1	pywin32 library cannot be imported: win32 and win32\lib are not on sys.path	open	2026-10-17		https://github.com/packagecontrol/pywin32/issues/1
+jgburet/jumpy-sublime	5	AttributeError when a group is empty (active_view_in_group returns None)	open	2026-10-17		https://github.com/jgburet/jumpy-sublime/issues/5
+SevenO2/ion-sublime-syntax	1	+inf, -inf and nan are scoped as symbol identifiers, not floats	open	2026-10-17		https://github.com/SevenO2/ion-sublime-syntax/issues/1
+chrisnevers/reach-ide-sublime	2	Run build variant passes an empty argument	open	2026-10-17		https://github.com/chrisnevers/reach-ide-sublime/issues/2
+arturo-lang/art-sublimetext-package	1	ife snippet is never loaded: file is named ife.sublime-snippet.xml	open	2026-10-17		https://github.com/arturo-lang/art-sublimetext-package/issues/1
+unlight/sublime-markdown-link	12	Make from URL fails after install: soupsieve is not installed	open	2026-10-17		https://github.com/unlight/sublime-markdown-link/issues/12
+frankarobotics/ride-sublime	1	Everything after the first entry @{ ... }@ Lua block is highlighted as Lua	open	2026-10-17		https://github.com/frankarobotics/ride-sublime/issues/1
+lucasvscn/synthwave-sublime	2	README: folder name in the Git instructions does not match the package name	open	2026-10-17		https://github.com/lucasvscn/synthwave-sublime/issues/2
+math2001/BetterSnippetManager	13	Create New Snippet swaps the entities for < and > (and does not escape &)	open	2026-10-17		https://github.com/math2001/BetterSnippetManager/issues/13
+math2001/BetterSnippetManager	14	Create New Snippet: default folder name has a trailing comma ("python,")	open	2026-10-17		https://github.com/math2001/BetterSnippetManager/issues/14
+math2001/BetterSnippetManager	15	Edit Snippets raises FileNotFoundError when the snippets folder does not exist	open	2026-10-17		https://github.com/math2001/BetterSnippetManager/issues/15
+dparrini/sublime_powersystems	1	syntax_test_PSSe RAW.raw fails 3 of 15 assertions	open	2026-10-17		https://github.com/dparrini/sublime_powersystems/issues/1
+dparrini/sublime_opendss	2	Build passes "$file" with literal quotes in a list-form cmd	open	2026-10-17		https://github.com/dparrini/sublime_opendss/issues/2
+LDAP/SublimeLinter-checkstyle	10	Linter does not load after install: No module named urllib3 (dependencies.json lists only requests)	open	2026-10-17		https://github.com/LDAP/SublimeLinter-checkstyle/issues/10
+RohitMazumder/EasyCP	5	Run blocks the Sublime Text UI until the solution ends	open	2026-10-17		https://github.com/RohitMazumder/EasyCP/issues/5
+RohitMazumder/EasyCP	6	Package Settings menu points at EasyCP folder, package is Easy CP	open	2026-10-17		https://github.com/RohitMazumder/EasyCP/issues/6
+RohitMazumder/EasyCP	7	Parse test-cases: 403 from codeforces shown only as URL Error	open	2026-10-17		https://github.com/RohitMazumder/EasyCP/issues/7
+Lichtbit/sublime_pretty_yaml_node	1	Default node_path /usr/bin/node fails on Windows	open	2026-10-17		https://github.com/Lichtbit/sublime_pretty_yaml_node/issues/1
+Lichtbit/sublime_pretty_yaml_node	2	Invalid YAML: traceback and temp folder is never removed	open	2026-10-17		https://github.com/Lichtbit/sublime_pretty_yaml_node/issues/2
+rnhurt/SublimeText-CloudWatchLogs	1	Plugin fails to load with NoRegionError when no AWS region is configured	open	2026-10-17		https://github.com/rnhurt/SublimeText-CloudWatchLogs/issues/1
+mpmont/ci4-snippets	8	Unescaped $this, $db, $query, $email, $config are expanded to nothing in 5 snippets	open	2026-10-17		https://github.com/mpmont/ci4-snippets/issues/8
+mpmont/ci4-snippets	9	ci4_email_config and ci4_save_cache reuse tab stop numbers	open	2026-10-17		https://github.com/mpmont/ci4-snippets/issues/9
+civAnimal/gimp_autocomplete_python	1	IndexError in on_query_completions when the prefix is empty	open	2026-10-17		https://github.com/civAnimal/gimp_autocomplete_python/issues/1
+civAnimal/gimp_autocomplete_scheme	1	IndexError in on_query_completions when the prefix is empty	open	2026-10-17		https://github.com/civAnimal/gimp_autocomplete_scheme/issues/1
+aghontpi/CPrettify-Sublime-text-3	17	Prettify file raises AttributeError on an unsaved buffer	open	2026-10-17		https://github.com/aghontpi/CPrettify-Sublime-text-3/issues/17
+aghontpi/CPrettify-Sublime-text-3	18	Default (Windows).sublime-keymap is {} instead of an array: console error at load	open	2026-10-17		https://github.com/aghontpi/CPrettify-Sublime-text-3/issues/18
+nucleic/sublime-enaml-syntax	1	enamldef/template/func rules broken: grammar has no repository (no such context errors)	open	2026-10-17		https://github.com/nucleic/sublime-enaml-syntax/issues/1
+olls/maze-interpreter-v2	20	Sublime snippets: both use tabTrigger > so neither expands	open	2026-10-17		https://github.com/olls/maze-interpreter-v2/issues/20
+bluekitchen/btstack-packet-log	1	Viewer gets an empty file: no flush before starting Wireshark	open	2026-10-17		https://github.com/bluekitchen/btstack-packet-log/issues/1
+bluekitchen/btstack-packet-log	2	wireshark not on PATH: FileNotFoundError traceback, nothing shown to the user	open	2026-10-17		https://github.com/bluekitchen/btstack-packet-log/issues/2
+vitalfadeev/SublimeDlangAutoModuleName	1	Module name is the whole absolute path when the file is not under src or source	open	2026-10-17		https://github.com/vitalfadeev/SublimeDlangAutoModuleName/issues/1
+vitalfadeev/SublimeDlangAutoModuleName	2	Console error: Default.history_list was imported on Python 3.3 (no .python-version)	open	2026-10-17		https://github.com/vitalfadeev/SublimeDlangAutoModuleName/issues/2
+pr0grammr/cppclasshelper-sublime-text-plugin	6	Generate Method Definition keeps default argument values (= 1.5) in the definition	open	2026-10-17		https://github.com/pr0grammr/cppclasshelper-sublime-text-plugin/issues/6
+pr0grammr/cppclasshelper-sublime-text-plugin	7	Generate Method Definition: KeyError folder when no project folder is open	open	2026-10-17		https://github.com/pr0grammr/cppclasshelper-sublime-text-plugin/issues/7
+Joepriesto/Sublime-Flask-Starter	6	Command Palette entries fail: run() got an unexpected keyword argument n	open	2026-10-17		https://github.com/Joepriesto/Sublime-Flask-Starter/issues/6
+csscomb/sublime-csscomb	101	Run CSScomb does nothing on an unsaved tab	open	2026-10-17		https://github.com/csscomb/sublime-csscomb/issues/101
+csscomb/sublime-csscomb	102	Doubled semicolon (;;) when the last declaration has no semicolon and is moved by sort	open	2026-10-17		https://github.com/csscomb/sublime-csscomb/issues/102
+ThomasKliszowski/json_reindent	15	Reindent runs Python code from the file (yaml.Loader, unsafe)	open	2026-10-17		https://github.com/ThomasKliszowski/json_reindent/issues/15
+rmaksim/Sublime-Text-2-Goto-CSS-Declaration	14	Goto jumps to .btn-primary when the class is btn (prefix match)	open	2026-10-17		https://github.com/rmaksim/Sublime-Text-2-Goto-CSS-Declaration/issues/14
+kizza/CSS-Less-ish	11	Compile never returns on the README variable example (plugin host at 100% CPU)	open	2026-10-17		https://github.com/kizza/CSS-Less-ish/issues/11
+kairyou/SublimeTmpl	34	New files from built-in templates get no syntax on Sublime Text 4 (.tmLanguage paths)	open	2026-10-17		https://github.com/kairyou/SublimeTmpl/issues/34
+SublimeText/PhpDoc	22	Default value with a comma (array) creates a bogus @param	open	2026-10-17		https://github.com/SublimeText/PhpDoc/issues/22
+SublimeText/PhpDoc	23	Type hint plus default writes the type twice (array	open	2026-10-17		https://github.com/SublimeText/PhpDoc/issues/23
+kakRostropovich/EmmetOneLine	5	Nothing is expanded with Emmet 2.x (expand_abbreviation_by_tab is gone)	open	2026-10-17		https://github.com/kakRostropovich/EmmetOneLine/issues/5
+kakRostropovich/EmmetOneLine	6	Does nothing on a line without leading whitespace (IndexError)	open	2026-10-17		https://github.com/kakRostropovich/EmmetOneLine/issues/6
+learning/SublimeServer	47	Directory listing sends a Content-Length header that is not a number	open	2026-10-17		https://github.com/learning/SublimeServer/issues/47
+jugyo/SublimeColorSchemeSelector	15	Next, Previous and Random fail: select_color_scheme is also a built-in command	open	2026-10-17		https://github.com/jugyo/SublimeColorSchemeSelector/issues/15
+Flyclops/JsonTree	5	Pressing Escape in the list jumps to the last key	open	2026-10-17		https://github.com/Flyclops/JsonTree/issues/5
