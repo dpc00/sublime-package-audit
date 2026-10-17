@@ -1157,3 +1157,4 @@ kairyou/SublimeSimpleSync	13	A sibling folder whose name starts with the local p
 LDprg/UCFHighlighter	1	numbers rule .{{decimal}} scopes digits inside names (LVCMOS33, RAMB16_X0Y0) as numbers	open	2026-10-17		https://github.com/LDprg/UCFHighlighter/issues/1
 runxel/GDL-sublime	12	AttributeError on every save in a window without a project	open	2026-10-17		https://github.com/runxel/GDL-sublime/issues/12
 runxel/GDL-sublime	13	Convert to script / Build GSM without a project: dialog, then AttributeError	open	2026-10-17		https://github.com/runxel/GDL-sublime/issues/13
+ricardodantas/sublime-vtex-snippets	2	vtex-product-buybutton.sublime-snippet has two snippet elements	open	2026-10-17		https://github.com/ricardodantas/sublime-vtex-snippets/issues/2

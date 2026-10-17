@@ -1227,3 +1227,4 @@ SublimeSimpleSync	2026-10-17	Local rule: Sublime Simple Sync command and autoSyn
 UCFHighlighter	2026-10-17	ISE UCF syntax: comments and strings scope. numbers rule .{{decimal}} scopes digits inside names (LVCMOS33, RAMB16_X0Y0) as numbers. Filed #1.
 GDL	2026-10-17	Syntax scopes, snippets, backtick autopair OK. AttributeError on every save without a project (#12) and hsf_build/libpart_build traceback after the project dialog (#13). Real LP_XMLConverter (ARCHICAD) not available: conversion not run. messages.json trailing comma already counted in the 74.
 SKILL from Cadence	2026-10-17	Syntax for .il auto-applies; scopes, Comments.tmPreferences (toggle_comment gives ; ) and snippets work. Issues disabled; no finding.
+Vtex Snippets	2026-10-17	Snippets insert; all 25 share tabTrigger vtex. buybutton file holds two snippet elements (invalid XML, second ignored): filed #2. README says no longer maintained.
