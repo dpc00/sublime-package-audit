@@ -1139,3 +1139,4 @@ gwenzek/SublimeSetWindowTitle	25	Windows: renames the first Sublime window found
 carsonoid/sublime_man_page_support	8	Plugin fails to load: No module named 'sublime_lib'	open	2026-10-17		https://github.com/carsonoid/sublime_man_page_support/issues/8
 dahanbn/Yet-Another-Launcher	3	file+subl items open with the system default app, not in Sublime Text	open	2026-10-17		https://github.com/dahanbn/Yet-Another-Launcher/issues/3
 rescript-lang/rescript-sublime	4	Format File leaves a temp file in the temp folder on every run	open	2026-10-17		https://github.com/rescript-lang/rescript-sublime/issues/4
+FlashSystems/LogView	8	Default mark_filter does not match 'shutting down' (shut(ing)? typo)	open	2026-10-17		https://github.com/FlashSystems/LogView/issues/8
