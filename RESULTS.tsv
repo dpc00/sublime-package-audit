@@ -1141,3 +1141,4 @@ PlotGraph	2026-10-17	With python_exec pointed at a real Python + matplotlib 3.10
 Javap	2026-10-17	Opening a real Hello.class (javac, JDK 25 javap) shows the javap text; syntax is set to Packages/Java/Java.tmLanguage which does not exist on 4200, so no highlighting; filed. Encoding issue #8 not reproduced on UTF-8 output. Removed.
 userinterface.js Snippets	2026-10-17	One snippet (model, scope source.js): expands in a JS tab with both fields mirrored correctly, no console error. No finding. Removed.
 SACS	2026-10-17	sacs.sublime-syntax loads and scopes OPTIONS as variable.parameter.inp. No finding. Removed.
+Bootstrap 4x Autocomplete	2026-10-17	self.data_completions is referenced in on_query_completions but never defined (read from code, traceback not captured; popup in a tag shows only stock HTML attributes). Issue filed with that caveat. Removed.
