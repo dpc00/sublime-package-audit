@@ -1107,3 +1107,4 @@ MDeiml/SublimeJavaImports	8	Wrong imports: replace of .java damages package name
 jvantuyl/sublime_diagram_plugin	77	Two diagrams in one file overwrite the same PNG with the default settings	open	2026-10-17		https://github.com/jvantuyl/sublime_diagram_plugin/issues/77
 ant7/ant-sublime-theme	1	ant.tmTheme is not well-formed XML (double hyphen in the header comment)	open	2026-10-17		https://github.com/ant7/ant-sublime-theme/issues/1
 ant7/ant-sublime-theme	2	Rule names in ant.tmTheme have garbled characters (encoding)	open	2026-10-17		https://github.com/ant7/ant-sublime-theme/issues/2
+magneto538/Koala	12	messages.json has a trailing comma, so Package Control cannot parse it	open	2026-10-17		https://github.com/magneto538/Koala/issues/12
