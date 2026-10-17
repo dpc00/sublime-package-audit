@@ -1117,3 +1117,4 @@ YamlToJson	2026-10-17	Installed via palette, no dialog or console error. YAML to
 Monokai Neue	2026-10-17	Installed via palette, no error. Colour scheme file is Monokai-Neue.tmTheme; applied to a Python view it loads and draws (dark, strings and comments coloured). Open issues are about highlighting gaps, not load. No finding. Removed.
 Golang	2026-10-17	yields/sublime-go 0.1.4: Preferences > Package Settings > Golang > Settings gives a "could not be opened" dialog (base_file ${packages}/Golang/Golang.sublime-settings, file is in conf/); conf/ path opens fine. Already reported as #39 without cause; cause and fix commented. Removed.
 CPP Competitive Programming Snippets	2026-10-17	All 24 snippets have no scope; gcd + Tab in a Python tab inserted the C++ function. Issue filed. Removed.
+SpectreCSS Snippets	2026-10-17	99 snippets all scoped text.html and well-formed; sp-btn-menu + Tab in an HTML tab expanded correctly. No finding. Removed.
