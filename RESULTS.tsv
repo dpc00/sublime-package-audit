@@ -1210,3 +1210,4 @@ Modelica	2026-10-17	highlighting works; Toggle Comment does nothing because Comm
 Mint Lang	2026-10-17	error dialog: Apparent recursion within a with_prototype action (25000 limit) in Mint.sublime-syntax; file loses highlighting; snippet did not expand
 Profile Switcher	2026-10-17	Create, Switch and Toggle Last Used worked: font_size set in Preferences went away on switching to Default and came back on toggle; no dialogs; removed, sublime-profiles data folder recycled, Preferences font_size line removed
 IncrementalDiff	2026-10-17	Set Reference Document (Open Views) showed gutter diff marks; Reset cleared them; clipboard and file dialog options not run; removed
+F#	2026-10-17	syntax highlights a real .fs file correctly, no errors; build system (fsi.exe) not run: .NET SDK absent, deferred; removed
