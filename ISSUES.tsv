@@ -1224,3 +1224,4 @@ csscomb/sublime-csscomb	102	Doubled semicolon (;;) when the last declaration has
 ThomasKliszowski/json_reindent	15	Reindent runs Python code from the file (yaml.Loader, unsafe)	open	2026-10-17		https://github.com/ThomasKliszowski/json_reindent/issues/15
 rmaksim/Sublime-Text-2-Goto-CSS-Declaration	14	Goto jumps to .btn-primary when the class is btn (prefix match)	open	2026-10-17		https://github.com/rmaksim/Sublime-Text-2-Goto-CSS-Declaration/issues/14
 kizza/CSS-Less-ish	11	Compile never returns on the README variable example (plugin host at 100% CPU)	open	2026-10-17		https://github.com/kizza/CSS-Less-ish/issues/11
+kairyou/SublimeTmpl	34	New files from built-in templates get no syntax on Sublime Text 4 (.tmLanguage paths)	open	2026-10-17		https://github.com/kairyou/SublimeTmpl/issues/34
