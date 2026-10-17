@@ -1203,3 +1203,4 @@ RohitMazumder/EasyCP	6	Package Settings menu points at EasyCP folder, package is
 RohitMazumder/EasyCP	7	Parse test-cases: 403 from codeforces shown only as URL Error	open	2026-10-17		https://github.com/RohitMazumder/EasyCP/issues/7
 Lichtbit/sublime_pretty_yaml_node	1	Default node_path /usr/bin/node fails on Windows	open	2026-10-17		https://github.com/Lichtbit/sublime_pretty_yaml_node/issues/1
 Lichtbit/sublime_pretty_yaml_node	2	Invalid YAML: traceback and temp folder is never removed	open	2026-10-17		https://github.com/Lichtbit/sublime_pretty_yaml_node/issues/2
+rnhurt/SublimeText-CloudWatchLogs	1	Plugin fails to load with NoRegionError when no AWS region is configured	open	2026-10-17		https://github.com/rnhurt/SublimeText-CloudWatchLogs/issues/1
