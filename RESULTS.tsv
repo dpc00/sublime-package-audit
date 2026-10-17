@@ -1297,3 +1297,4 @@ LFE	2026-10-17	Syntax, keymap and snippets load; sample .lfe highlighted correct
 Haproxy	2026-10-17	Syntax highlights a sample haproxy.cfg sensibly, no console errors
 Flask Starter	2026-10-17	Both palette entries fail with TypeError (args n); the commands themselves generate the skeleton
 GLanguage	2026-10-17	Template-based syntax and two snippets work (if snippet expands); no console errors
+CSScomb	2026-10-17	Run CSScomb on an unsaved tab does nothing (file_name() None in comb()); ;; written when the last declaration has no semicolon and is moved by sort; works on saved files. Removal took about 2 min (1929 bundled files). Index lag after install about 60 s.
