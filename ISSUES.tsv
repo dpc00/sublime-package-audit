@@ -1108,3 +1108,4 @@ jvantuyl/sublime_diagram_plugin	77	Two diagrams in one file overwrite the same P
 ant7/ant-sublime-theme	1	ant.tmTheme is not well-formed XML (double hyphen in the header comment)	open	2026-10-17		https://github.com/ant7/ant-sublime-theme/issues/1
 ant7/ant-sublime-theme	2	Rule names in ant.tmTheme have garbled characters (encoding)	open	2026-10-17		https://github.com/ant7/ant-sublime-theme/issues/2
 magneto538/Koala	12	messages.json has a trailing comma, so Package Control cannot parse it	open	2026-10-17		https://github.com/magneto538/Koala/issues/12
+joelpt/sublimetext-automatic-backups	19	Palette captions for the two jump commands are swapped	open	2026-10-17		https://github.com/joelpt/sublimetext-automatic-backups/issues/19
