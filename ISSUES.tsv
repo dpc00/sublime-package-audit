@@ -1221,3 +1221,4 @@ pr0grammr/cppclasshelper-sublime-text-plugin	7	Generate Method Definition: KeyEr
 Joepriesto/Sublime-Flask-Starter	6	Command Palette entries fail: run() got an unexpected keyword argument n	open	2026-10-17		https://github.com/Joepriesto/Sublime-Flask-Starter/issues/6
 csscomb/sublime-csscomb	101	Run CSScomb does nothing on an unsaved tab	open	2026-10-17		https://github.com/csscomb/sublime-csscomb/issues/101
 csscomb/sublime-csscomb	102	Doubled semicolon (;;) when the last declaration has no semicolon and is moved by sort	open	2026-10-17		https://github.com/csscomb/sublime-csscomb/issues/102
+ThomasKliszowski/json_reindent	15	Reindent runs Python code from the file (yaml.Loader, unsafe)	open	2026-10-17		https://github.com/ThomasKliszowski/json_reindent/issues/15
