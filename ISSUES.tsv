@@ -1115,3 +1115,4 @@ pkkid/sublime-pkstheme	1	Package Control install fails: 404 on mjs7231/sublime-p
 alexanderankin/sublime-bootstrap4	3	Duplicate tab triggers: select-sizing and pill snippets cannot be inserted	open	2026-10-17		https://github.com/alexanderankin/sublime-bootstrap4/issues/3
 alexanderankin/sublime-bootstrap4	4	Snippets insert literal {2:...} text: placeholders missing the dollar sign	open	2026-10-17		https://github.com/alexanderankin/sublime-bootstrap4/issues/4
 xr1337/sublime-kubernetes-autocomplete	5	value_completions is built but never returned (no value suggestions after a colon)	open	2026-10-17		https://github.com/xr1337/sublime-kubernetes-autocomplete/issues/5
+thoughtsunificator/domodel-snippets-sublime	4	Name transform lowercases the whole name, not only the first letter	open	2026-10-17		https://github.com/thoughtsunificator/domodel-snippets-sublime/issues/4
