@@ -1179,3 +1179,4 @@ monsieurluge/ruler_proximity_indicator	6	rulers from syntax, project or view set
 monsieurluge/ruler_proximity_indicator	7	Default [80] is never used: an empty rulers list overrides it	open	2026-10-17		https://github.com/monsieurluge/ruler_proximity_indicator/issues/7
 monsieurluge/ruler_proximity_indicator	8	Tabs count as one column in the distance to the ruler	open	2026-10-17		https://github.com/monsieurluge/ruler_proximity_indicator/issues/8
 underground-works/sublime-php-namespace-monkey	6	UnboundLocalError in resolveNamespace for a file outside the window folders	open	2026-10-17		https://github.com/underground-works/sublime-php-namespace-monkey/issues/6
+corbanmailloux/sublime-mit-alloy	6	Keywords as, private, exactly, expect, seq and Int are not highlighted	open	2026-10-17		https://github.com/corbanmailloux/sublime-mit-alloy/issues/6
