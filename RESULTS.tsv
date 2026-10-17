@@ -1196,3 +1196,4 @@ ReScript	2026-10-17	v0.1.1 with real bs-platform 9: Format File formats correctl
 blif_sis	2026-10-17	v1.0.3: messages.json valid, .blif opens as BLIF, keyword and comment scopes correct; completions and snippets not run; no finding
 NSIS Completions & Snippets	2026-10-17	v1.5.2: messages.json, both completions files and settings valid JSON, no console error; completions and snippets not triggered (need an NSIS syntax package); no finding
 Assembly 6809 and 6309 Syntax Highlighting	2026-10-17	v0.2.4: messages.json valid, .asm opens as Assembly 6809/6309 and a label line gets a label scope, no console error; claims the asm extension; no finding
+Remember Minimap Setting	2026-10-17	v0.1.1: per-view show_minimap false hides the minimap on that tab and true shows it on the other; no finding
