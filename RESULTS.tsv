@@ -1325,3 +1325,4 @@ SublimeServer	2026-10-17	directory index sends Content-Length as str(bytes) so c
 TypescriptCompletion	2026-10-17	works: tscompletion lists classes and methods from a project .ts file; reading suggested on_query_completions problems (None file_name, INHIBIT flag for non-ts files) but not reproduced on 4200 (completions from a .sublime-completions file still showed), nothing filed
 ColorSchemeSelector	2026-10-17	package command select_color_scheme is shadowed by the built-in one; Next/Previous/Random raise TypeError (unexpected keyword direction/random), Select shows the built-in picker; filed #15
 JsonTree	2026-10-17	Escape in the key list calls goto(-1) which selects the last key; filed #5
+Autocomplete Javascript with Method Signature	2026-10-17	on 4200 its completions never appeared and no traceback in console after waiting; existing #9 (NoneType from parse_line) not reproduced; nothing filed
