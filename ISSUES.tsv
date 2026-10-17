@@ -1208,3 +1208,5 @@ mpmont/ci4-snippets	8	Unescaped $this, $db, $query, $email, $config are expanded
 mpmont/ci4-snippets	9	ci4_email_config and ci4_save_cache reuse tab stop numbers	open	2026-10-17		https://github.com/mpmont/ci4-snippets/issues/9
 civAnimal/gimp_autocomplete_python	1	IndexError in on_query_completions when the prefix is empty	open	2026-10-17		https://github.com/civAnimal/gimp_autocomplete_python/issues/1
 civAnimal/gimp_autocomplete_scheme	1	IndexError in on_query_completions when the prefix is empty	open	2026-10-17		https://github.com/civAnimal/gimp_autocomplete_scheme/issues/1
+aghontpi/CPrettify-Sublime-text-3	17	Prettify file raises AttributeError on an unsaved buffer	open	2026-10-17		https://github.com/aghontpi/CPrettify-Sublime-text-3/issues/17
+aghontpi/CPrettify-Sublime-text-3	18	Default (Windows).sublime-keymap is {} instead of an array: console error at load	open	2026-10-17		https://github.com/aghontpi/CPrettify-Sublime-text-3/issues/18
