@@ -53,3 +53,9 @@ Remove the package, wait for Package Control's "Removed package" line, close eve
 - A test that opens a second window or a modal dialog can freeze the editor; do those from a terminal that is not inside the editor.
 - GitHub's search API stops at 1000 results and rate-limits quick queries; list issues in small date windows, slowly.
 - A "not installable" package (no releases in the channel) cannot be tested by the normal route; copying its files in by hand is the fallback, and the record says so.
+- Added 2026-10-16: wait for the "Removed orphaned library" lines as well as "Removed package" before quitting. Quitting in between left Package Control to reinstall the package at the next start.
+- Added 2026-10-16: a package that downloads libraries (ExportHtml) keeps the editor busy for a minute after the "Installed package" line; wait for "Package ... successfully installed" before using it.
+- Added 2026-10-16: a file opened right after an install is opened before the package's syntax is indexed (it shows as Plain Text); close and reopen it.
+- Added 2026-10-16: a hover popup needs the real mouse pointer over the test window; another window in front blocks it. Making the test window topmost for the one hover (and clearing it after) worked.
+- Added 2026-10-16: Sublime's "Syntax Tests" build runs only files named `syntax_test_*` that sit inside the Packages folder; copy a package's test files there (renamed if needed) to run them.
+- Added 2026-10-16: when planning which packages are left, match names by prefix against every earlier record ("LSP-Bicep (real .NET 10 test)" is the same package as "LSP-Bicep") and look at all dates, or finished work is planned again.
