@@ -1165,3 +1165,6 @@ yaworsw/Sublime-ScopeAlways	6	ScopeAlways: Settings opens a folder that does not
 yaworsw/Sublime-ScopeAlways	7	status_format changes not applied while running	open	2026-10-17		https://github.com/yaworsw/Sublime-ScopeAlways/issues/7
 adamchainz/sublime-rst-improved	6	plugin_loaded rewrites Preferences.sublime-settings and deletes its comments	open	2026-10-17		https://github.com/adamchainz/sublime-rst-improved/issues/6
 akshaykumar90/sublime-font-cycler	14	IndexError when no fonts_list entry has font_face	open	2026-10-17		https://github.com/akshaykumar90/sublime-font-cycler/issues/14
+AlexLamson/DataWrangler	21	New-tab commands open an empty tab: insert(edit) used on another view	open	2026-10-17		https://github.com/AlexLamson/DataWrangler/issues/21
+AlexLamson/DataWrangler	22	delete_columns: AttributeError on space-separated data	open	2026-10-17		https://github.com/AlexLamson/DataWrangler/issues/22
+AlexLamson/DataWrangler	23	line_freq: ValueError on an empty view	open	2026-10-17		https://github.com/AlexLamson/DataWrangler/issues/23
