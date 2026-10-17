@@ -1161,3 +1161,5 @@ ricardodantas/sublime-vtex-snippets	2	vtex-product-buybutton.sublime-snippet has
 gamcoh/QuickEdit	5	AttributeError when the cursor is on a line without a tag or on a closing tag	open	2026-10-17		https://github.com/gamcoh/QuickEdit/issues/5
 gamcoh/QuickEdit	6	IndexError (folders()[0]) when no folder is open and the page links a local stylesheet	open	2026-10-17		https://github.com/gamcoh/QuickEdit/issues/6
 gamcoh/QuickEdit	7	IndexError in searchForVar for a PHP variable with no definition in the file	open	2026-10-17		https://github.com/gamcoh/QuickEdit/issues/7
+yaworsw/Sublime-ScopeAlways	6	ScopeAlways: Settings opens a folder that does not exist	open	2026-10-17		https://github.com/yaworsw/Sublime-ScopeAlways/issues/6
+yaworsw/Sublime-ScopeAlways	7	status_format changes not applied while running	open	2026-10-17		https://github.com/yaworsw/Sublime-ScopeAlways/issues/7
