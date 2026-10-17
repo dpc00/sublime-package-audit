@@ -1183,3 +1183,5 @@ corbanmailloux/sublime-mit-alloy	6	Keywords as, private, exactly, expect, seq an
 mariovalney/laravel-lang-for-sublime	1	TypeError when the view has no file name	open	2026-10-17		https://github.com/mariovalney/laravel-lang-for-sublime/issues/1
 loquens/subl-open-file-prompt	1	Failed save raises AttributeError and leaves the buffer marked scratch	open	2026-10-17		https://github.com/loquens/subl-open-file-prompt/issues/1
 loquens/subl-open-file-prompt	2	Tab completion raises FileNotFoundError when the folder does not exist	open	2026-10-17		https://github.com/loquens/subl-open-file-prompt/issues/2
+ianharper/AccuTermClient	36	Package does not load on Sublime Text 4: pywin32 library cannot be imported	open	2026-10-17		https://github.com/ianharper/AccuTermClient/issues/36
+packagecontrol/pywin32	1	pywin32 library cannot be imported: win32 and win32\lib are not on sys.path	open	2026-10-17		https://github.com/packagecontrol/pywin32/issues/1
