@@ -1168,3 +1168,4 @@ akshaykumar90/sublime-font-cycler	14	IndexError when no fonts_list entry has fon
 AlexLamson/DataWrangler	21	New-tab commands open an empty tab: insert(edit) used on another view	open	2026-10-17		https://github.com/AlexLamson/DataWrangler/issues/21
 AlexLamson/DataWrangler	22	delete_columns: AttributeError on space-separated data	open	2026-10-17		https://github.com/AlexLamson/DataWrangler/issues/22
 AlexLamson/DataWrangler	23	line_freq: ValueError on an empty view	open	2026-10-17		https://github.com/AlexLamson/DataWrangler/issues/23
+krishraghuram/SublimeFrequency	1	Non-ASCII lines are shown as \uXXXX escapes	open	2026-10-17		https://github.com/krishraghuram/SublimeFrequency/issues/1
