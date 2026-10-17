@@ -1147,3 +1147,4 @@ BorisChumichev/modelicaSublimeTextPackage	19	Toggle Comment does nothing: Commen
 orgmir/mint-sublime-text	1	Mint syntax: Apparent recursion within a with_prototype action error dialog	open	2026-10-17		https://github.com/orgmir/mint-sublime-text/issues/1
 glennw/RustAutoComplete	32	Not working on OSX and generate lots of tmp files (comment)	open	2026-10-17		https://github.com/glennw/RustAutoComplete/issues/32
 mliljedahl/SublimeLinter-contrib-ansible-lint	13	Not working with ansible-lint 6.13.1 (comment)	open	2026-10-17		https://github.com/mliljedahl/SublimeLinter-contrib-ansible-lint/issues/13
+sublimehq/package_control	1804	PyPI libraries are installed without their Requires-Dist dependencies	open	2026-10-17		https://github.com/sublimehq/package_control/issues/1804
