@@ -1132,3 +1132,4 @@ jamalsenouci/sublimetext-syntaxfold	48	messages.json has a trailing comma: Packa
 axel22/sublime-javap	9	Output has no syntax highlighting: Java.tmLanguage no longer exists	open	2026-10-17		https://github.com/axel22/sublime-javap/issues/9
 proficientdesigners/sublime-text-bs4-autocomplete	5	self.data_completions is never defined (completions inside a tag)	open	2026-10-17		https://github.com/proficientdesigners/sublime-text-bs4-autocomplete/issues/5
 proficientdesigners/sublime-text-bs4-snippets	5	Trigger b4-accordian is misspelled (b4-accordion does nothing)	open	2026-10-17		https://github.com/proficientdesigners/sublime-text-bs4-snippets/issues/5
+shauryachats/CoverMe	3	No coverage marked on Windows: file path keys never match	open	2026-10-17		https://github.com/shauryachats/CoverMe/issues/3

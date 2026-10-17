@@ -1155,3 +1155,4 @@ Query Completions Silencer	2026-10-17	twolfson list (queue 3): installs and load
 JS Var Shortcuts	2026-10-17	twolfson list (queue 5): js_var_delete compares view syntax with JavaScript.tmLanguage, never true on 4200 (syntax is JavaScript.sublime-syntax), so selecting var b only deleted the selection. Repo archived: emailed todd@twolfson.com. Removed.
 ASCII Replacer	2026-10-17	works; HTML comment <!-- --> becomes <!&mdash; &mdash;> (already reported as pjlamb12/AsciiReplacerPlugin#2); no new issue
 ConvertToUTF8	2026-10-17	v1.2.14 installs via picker; GBK file opened as correct Chinese text; no finding
+CoverMe	2026-10-17	Go coverage on Windows: tests run but no regions marked (path key mismatch slash vs backslash); filed
