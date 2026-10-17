@@ -1106,3 +1106,4 @@ Chinese Words Cutter	2026-10-17	Installs with jieba library for 3.3 (orphan libr
 QLSyntax	2026-10-17	Installs cleanly, syntax loads. Symbolic operators (= < > + ...) never get keyword.operator because the rule is wrapped in \b (checked scope at = is only source.QL). Filed.
 Syntax Highlighting Scopes Showroom	2026-10-17	Installs as a folder, no console errors; Tools menu entry opens the SyntaxScopes file and its syntax highlights the scope list. messages.json valid. No defect.
 JSTL syntax	2026-10-17	Installs cleanly, no load error; a .jsp file highlights taglib, JSTL tags, EL expressions and the inline script. Open issue #5 (script type) not reproduced as a highlighting failure. No defect.
+gist	2026-10-17	Installs cleanly; Gist: Open Gist with no token shows the clear "GitHub token isn't provided" message. Creating/editing gists needs his GitHub token and would write to his account, not run. No defect found; 67 open issues already exist upstream.
