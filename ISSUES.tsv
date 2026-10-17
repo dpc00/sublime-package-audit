@@ -1210,3 +1210,4 @@ civAnimal/gimp_autocomplete_python	1	IndexError in on_query_completions when the
 civAnimal/gimp_autocomplete_scheme	1	IndexError in on_query_completions when the prefix is empty	open	2026-10-17		https://github.com/civAnimal/gimp_autocomplete_scheme/issues/1
 aghontpi/CPrettify-Sublime-text-3	17	Prettify file raises AttributeError on an unsaved buffer	open	2026-10-17		https://github.com/aghontpi/CPrettify-Sublime-text-3/issues/17
 aghontpi/CPrettify-Sublime-text-3	18	Default (Windows).sublime-keymap is {} instead of an array: console error at load	open	2026-10-17		https://github.com/aghontpi/CPrettify-Sublime-text-3/issues/18
+nucleic/sublime-enaml-syntax	1	enamldef/template/func rules broken: grammar has no repository (no such context errors)	open	2026-10-17		https://github.com/nucleic/sublime-enaml-syntax/issues/1

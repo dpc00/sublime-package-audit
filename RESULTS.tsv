@@ -1286,3 +1286,4 @@ Red	2026-10-17	Syntax scopes sensible on a sample, all 10 snippets expand correc
 Gimp Auto-Complete Python	2026-10-17	on_query_completions does prefix[0] with empty prefix: IndexError on Ctrl+Space after "x = "
 Gimp Auto-Complete Scheme	2026-10-17	same prefix[0] IndexError on empty prefix in a Lisp/Scheme buffer
 CPrettify	2026-10-17	Works on saved .c; AttributeError on unsaved buffer; keymap {} gives load error; #16 runSetup already open
+Enaml Syntax Highlighter	2026-10-17	grammar references #entity_name_class/#entity_name_function/#keyword_arguments but has no repository: no such context errors, enamldef rule dead
