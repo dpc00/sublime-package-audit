@@ -1116,3 +1116,4 @@ alexanderankin/sublime-bootstrap4	3	Duplicate tab triggers: select-sizing and pi
 alexanderankin/sublime-bootstrap4	4	Snippets insert literal {2:...} text: placeholders missing the dollar sign	open	2026-10-17		https://github.com/alexanderankin/sublime-bootstrap4/issues/4
 xr1337/sublime-kubernetes-autocomplete	5	value_completions is built but never returned (no value suggestions after a colon)	open	2026-10-17		https://github.com/xr1337/sublime-kubernetes-autocomplete/issues/5
 thoughtsunificator/domodel-snippets-sublime	4	Name transform lowercases the whole name, not only the first letter	open	2026-10-17		https://github.com/thoughtsunificator/domodel-snippets-sublime/issues/4
+pixl8-brayden/preside-sublime-text-3	4	Generate Form/i18n/View hang Sublime Text when the file is not under an "application" folder	open	2026-10-17		https://github.com/pixl8-brayden/preside-sublime-text-3/issues/4

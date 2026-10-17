@@ -1101,3 +1101,4 @@ CUE Sheet	2026-10-17	Installs cleanly on 4200; syntax auto-applies to .cue and h
 Kubernetes Manifest autocomplete	2026-10-17	Installs cleanly; key completions work. value_completions built but never returned, so no value suggestions after a colon (kind: Dep shows nothing). Filed.
 Fugly Syntax Highlight	2026-10-17	Installs cleanly; .fugly highlights HTML and embedded JS correctly. No defect.
 domodel Snippets	2026-10-17	Installs cleanly, 9 snippets valid. Name transform ${2/./\l$0/g} lowercases the whole name (UserList -> ./userlist.binding); filed with the question whether that is intended.
+Preside CMS	2026-10-17	Installs cleanly as a folder. Generate Form/i18n/View hang the main thread for good when the file is not under an application folder (while basename != application never ends at the drive root); tested for real, Sublime not responding, killed and relaunched portable. Filed.
