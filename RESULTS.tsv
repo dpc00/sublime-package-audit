@@ -1095,3 +1095,4 @@ SPARQL	2026-10-17	Installs, syntax loads and highlights on 4200, no console erro
 CSS Snippets	2026-10-17	Installs cleanly on 4200; all 50 snippets are valid XML; abs expands in a CSS file. No defect.
 DFML (for Dwarf Fortress raws)	2026-10-17	Installs cleanly on 4200, no console errors; grammar lists txt but .txt stays Plain Text. No defect.
 Siteleaf Liquid Syntax	2026-10-17	Syntax fails to load on 4200: error dialog, regex end pattern with unmatched parenthesis in HTML (Liquid).tmLanguage; file stays unhighlighted. Already reported as liquid-syntax-mode#12, nothing new filed.
+Bootstrap 4 Snippets	2026-10-17	Installs cleanly, 285 snippets valid XML. Duplicate tab triggers (select-sizing/input-sizing, pill/context): select expands instead of input. Placeholders missing $ in 3 snippets insert literal {2:...} text. 2 issues filed.
