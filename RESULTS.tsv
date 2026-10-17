@@ -1135,3 +1135,4 @@ AutoWrap	2026-10-17	Toggle Auto Wrap with wrap_width 20: typed text wrapped at w
 Vuejs Snippets	2026-10-17	26 snippets, all well-formed and scoped (text.html, source.js.embedded.html, text.html.vue); v-else + Tab in an HTML tab expanded. No finding. Removed.
 SyntaxFold	2026-10-17	messages.json has a trailing comma: console shows Error parsing messages.json for SyntaxFold, no install message; 1.0.0.md listed but missing. Fold All works on a //region block. Issue filed. Removed.
 Rhai	2026-10-17	rhai.sublime-syntax loads and scopes fn as meta.function.rhai. The reported bitwise-or highlighting break is already #2. No new finding. Removed.
+StickWithMarkdownSnippets	2026-10-17	In a Markdown tab, ``js + Tab expanded to a javascript fenced block as documented. No console error. No finding. Removed.
