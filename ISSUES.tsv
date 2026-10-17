@@ -1181,3 +1181,5 @@ monsieurluge/ruler_proximity_indicator	8	Tabs count as one column in the distanc
 underground-works/sublime-php-namespace-monkey	6	UnboundLocalError in resolveNamespace for a file outside the window folders	open	2026-10-17		https://github.com/underground-works/sublime-php-namespace-monkey/issues/6
 corbanmailloux/sublime-mit-alloy	6	Keywords as, private, exactly, expect, seq and Int are not highlighted	open	2026-10-17		https://github.com/corbanmailloux/sublime-mit-alloy/issues/6
 mariovalney/laravel-lang-for-sublime	1	TypeError when the view has no file name	open	2026-10-17		https://github.com/mariovalney/laravel-lang-for-sublime/issues/1
+loquens/subl-open-file-prompt	1	Failed save raises AttributeError and leaves the buffer marked scratch	open	2026-10-17		https://github.com/loquens/subl-open-file-prompt/issues/1
+loquens/subl-open-file-prompt	2	Tab completion raises FileNotFoundError when the folder does not exist	open	2026-10-17		https://github.com/loquens/subl-open-file-prompt/issues/2
