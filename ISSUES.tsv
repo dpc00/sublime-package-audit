@@ -1137,3 +1137,4 @@ lewdlime/Sfortzando	1	comment: reproduced on 4200	open	2026-10-17		https://githu
 evercyan/tony-water	1	JSON Pretty does not indent (json.dumps indent passed as skipkeys)	open	2026-10-17		https://github.com/evercyan/tony-water/issues/1
 gwenzek/SublimeSetWindowTitle	25	Windows: renames the first Sublime window found, not the window of the view	open	2026-10-17		https://github.com/gwenzek/SublimeSetWindowTitle/issues/25
 carsonoid/sublime_man_page_support	8	Plugin fails to load: No module named 'sublime_lib'	open	2026-10-17		https://github.com/carsonoid/sublime_man_page_support/issues/8
+dahanbn/Yet-Another-Launcher	3	file+subl items open with the system default app, not in Sublime Text	open	2026-10-17		https://github.com/dahanbn/Yet-Another-Launcher/issues/3
