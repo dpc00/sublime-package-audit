@@ -1207,3 +1207,4 @@ Side-by-Side Settings	2026-10-17	Sublime Settings command opened default and use
 DeleteBlankLines	2026-10-17	Delete Blank Lines removed blank and whitespace-only lines correctly; removed
 Zeal	2026-10-17	Zeal: Search Selection launched real Zeal 0.9.1 portable with the word; no console errors; removed
 Modelica	2026-10-17	highlighting works; Toggle Comment does nothing because Comments.tmPreferences is not in the 0.0.3 tag (fix is on master only)
+Mint Lang	2026-10-17	error dialog: Apparent recursion within a with_prototype action (25000 limit) in Mint.sublime-syntax; file loses highlighting; snippet did not expand
