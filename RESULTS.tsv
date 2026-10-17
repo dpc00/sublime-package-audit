@@ -1165,3 +1165,4 @@ All Autocomplete	2026-10-17	installs and removes cleanly, no dialog or console e
 MapleMBSE MSE Configuration	2026-10-17	v0.2.2: syntax loads for .mse, comment toggle works; grammar needs valid MSE input, only a loose sample tried; no finding
 Coffee Color Scheme	2026-10-17	v0.2.2: theme XML valid, applies to a view and colors Python correctly; no finding
 PlainNotes	2026-10-17	v0.3.0: installs, creates ~/Dropbox/Notes/.brain at load (design), notes_new made a .note with Note syntax; user root setting added while running was not picked up; no finding
+AnsibleSnippets	2026-10-17	v0.1.8: add_host snippet expands in a YAML tab with correct fields; deprecated-contents issue #5 already open; no finding
