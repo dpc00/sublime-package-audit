@@ -1284,3 +1284,4 @@ RISC-V Assembly Syntax	2026-10-17	Installs, .s file highlighted (mnemonics, labe
 CodeIgniter 4 Snippets	2026-10-17	Unescaped $this/$db/$query/$email/$config expand to nothing in 5 snippets; duplicate tab stop numbers in 2
 Red	2026-10-17	Syntax scopes sensible on a sample, all 10 snippets expand correctly, no console errors
 Gimp Auto-Complete Python	2026-10-17	on_query_completions does prefix[0] with empty prefix: IndexError on Ctrl+Space after "x = "
+Gimp Auto-Complete Scheme	2026-10-17	same prefix[0] IndexError on empty prefix in a Lisp/Scheme buffer
