@@ -1327,3 +1327,4 @@ ColorSchemeSelector	2026-10-17	package command select_color_scheme is shadowed b
 JsonTree	2026-10-17	Escape in the key list calls goto(-1) which selects the last key; filed #5
 Autocomplete Javascript with Method Signature	2026-10-17	on 4200 its completions never appeared and no traceback in console after waiting; existing #9 (NoneType from parse_line) not reproduced; nothing filed
 SublimeOnSaveBuild	2026-10-17	works: build runs on save when the filename filter matches (default only css/js/sass/less/scss; checked with a per-view override on a .py file); nothing filed
+Laravel Blade Spacer	2026-10-17	INCONCLUSIVE: blade_spacer_format changed nothing and printed nothing on 4200, as zip (6 min) and as unpacked folder with .python-version 3.8; module never appeared in sys.modules of the 3.8 host; cause unknown, not filed; retest after a restart of the portable
