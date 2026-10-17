@@ -1229,3 +1229,4 @@ SublimeText/PhpDoc	22	Default value with a comma (array) creates a bogus @param	
 SublimeText/PhpDoc	23	Type hint plus default writes the type twice (array	open	2026-10-17		https://github.com/SublimeText/PhpDoc/issues/23
 kakRostropovich/EmmetOneLine	5	Nothing is expanded with Emmet 2.x (expand_abbreviation_by_tab is gone)	open	2026-10-17		https://github.com/kakRostropovich/EmmetOneLine/issues/5
 kakRostropovich/EmmetOneLine	6	Does nothing on a line without leading whitespace (IndexError)	open	2026-10-17		https://github.com/kakRostropovich/EmmetOneLine/issues/6
+learning/SublimeServer	47	Directory listing sends a Content-Length header that is not a number	open	2026-10-17		https://github.com/learning/SublimeServer/issues/47
