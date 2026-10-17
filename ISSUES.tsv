@@ -1170,3 +1170,5 @@ AlexLamson/DataWrangler	22	delete_columns: AttributeError on space-separated dat
 AlexLamson/DataWrangler	23	line_freq: ValueError on an empty view	open	2026-10-17		https://github.com/AlexLamson/DataWrangler/issues/23
 krishraghuram/SublimeFrequency	1	Non-ASCII lines are shown as \uXXXX escapes	open	2026-10-17		https://github.com/krishraghuram/SublimeFrequency/issues/1
 jomarcenter-mjm/RMMVSublimeSnippet	3	Two snippets share the trigger rmmvStructContent	open	2026-10-17		https://github.com/jomarcenter-mjm/RMMVSublimeSnippet/issues/3
+k-meissonnier/LaravelDumpMan	5	dumpman inserts nothing on the last line of a file without a trailing newline	open	2026-10-17		https://github.com/k-meissonnier/LaravelDumpMan/issues/5
+k-meissonnier/LaravelDumpMan	6	dumpman loops forever on an unclosed ( at the end of the file	open	2026-10-17		https://github.com/k-meissonnier/LaravelDumpMan/issues/6
