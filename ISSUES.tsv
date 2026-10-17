@@ -1212,3 +1212,5 @@ aghontpi/CPrettify-Sublime-text-3	17	Prettify file raises AttributeError on an u
 aghontpi/CPrettify-Sublime-text-3	18	Default (Windows).sublime-keymap is {} instead of an array: console error at load	open	2026-10-17		https://github.com/aghontpi/CPrettify-Sublime-text-3/issues/18
 nucleic/sublime-enaml-syntax	1	enamldef/template/func rules broken: grammar has no repository (no such context errors)	open	2026-10-17		https://github.com/nucleic/sublime-enaml-syntax/issues/1
 olls/maze-interpreter-v2	20	Sublime snippets: both use tabTrigger > so neither expands	open	2026-10-17		https://github.com/olls/maze-interpreter-v2/issues/20
+bluekitchen/btstack-packet-log	1	Viewer gets an empty file: no flush before starting Wireshark	open	2026-10-17		https://github.com/bluekitchen/btstack-packet-log/issues/1
+bluekitchen/btstack-packet-log	2	wireshark not on PATH: FileNotFoundError traceback, nothing shown to the user	open	2026-10-17		https://github.com/bluekitchen/btstack-packet-log/issues/2
