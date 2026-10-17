@@ -1145,3 +1145,4 @@ hellokenlee/SublimeUnrealShader	2	comment: reproduced on 4200	open	2026-10-17		h
 dperetti/sublime-codestory	1	Code Story: Settings fails: path uses Code Story but package installs as CodeStory	open	2026-10-17		https://github.com/dperetti/sublime-codestory/issues/1
 BorisChumichev/modelicaSublimeTextPackage	19	Toggle Comment does nothing: Comments.tmPreferences is not in the 0.0.3 tag	open	2026-10-17		https://github.com/BorisChumichev/modelicaSublimeTextPackage/issues/19
 orgmir/mint-sublime-text	1	Mint syntax: Apparent recursion within a with_prototype action error dialog	open	2026-10-17		https://github.com/orgmir/mint-sublime-text/issues/1
+glennw/RustAutoComplete	32	Not working on OSX and generate lots of tmp files (comment)	open	2026-10-17		https://github.com/glennw/RustAutoComplete/issues/32

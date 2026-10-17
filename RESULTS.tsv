@@ -1211,3 +1211,4 @@ Mint Lang	2026-10-17	error dialog: Apparent recursion within a with_prototype ac
 Profile Switcher	2026-10-17	Create, Switch and Toggle Last Used worked: font_size set in Preferences went away on switching to Default and came back on toggle; no dialogs; removed, sublime-profiles data folder recycled, Preferences font_size line removed
 IncrementalDiff	2026-10-17	Set Reference Document (Open Views) showed gutter diff marks; Reset cleared them; clipboard and file dialog options not run; removed
 F#	2026-10-17	syntax highlights a real .fs file correctly, no errors; build system (fsi.exe) not run: .NET SDK absent, deferred; removed
+RustAutoComplete	2026-10-17	retest with real racer 2.2.2 (nightly-2022-04-06): Go To Definition works; autocomplete never called racer (like #33/#41); temp file leaks when racer cannot start (comment on #32); Rust and racer kept installed
