@@ -1131,3 +1131,4 @@ ESLint	2026-10-17	polygonplanet 5.0.5 with a local ESLint 8 project: the eslint 
 Dartlight	2026-10-17	Dart.tmLanguage loads and scopes a Dart snippet as source.dart; completions files load (Dart one has a trailing comma, accepted by Sublime). Goto symbol already reported (#5). No finding. Removed.
 ToDone	2026-10-17	Installed, install message shown, ToDone.tmLanguage scopes task lines (keyword.operator.task.lvl4.todone). Open issues are feature requests. No finding. Removed.
 AlignTab	2026-10-17	Listed and installed 2.1.11 on 4200; align_tab with = aligned three lines, no console error. Could not reproduce #92 (not available on 4200); commented. No new defect. Removed.
+AutoWrap	2026-10-17	Toggle Auto Wrap with wrap_width 20: typed text wrapped at word boundaries on 4200, no console error. Open issues are known edge cases. No finding. Removed.
