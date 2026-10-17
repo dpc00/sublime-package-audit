@@ -6,7 +6,7 @@ This repository holds the data and the method. It is a draft: the numbers will b
 
 ## In numbers (to 2026-10-16)
 
-- **1064 test records** for **975 different packages** (`RESULTS.tsv`). Most records are a live test in a real Sublime; a few are shorter (the package was loaded, or only its source was read), and the note in each row says which.
+- **1065 test records** for **976 different packages** (`RESULTS.tsv`). Most records are a live test in a real Sublime; a few are shorter (the package was loaded, or only its source was read), and the note in each row says which.
 - **1094 issues** filed on **756 repositories** (ISSUES.tsv): 812 still open, 282 closed. Closed does not mean fixed; the list does not say why an issue was closed.
 - The package lists used from 2026-10-07 on, and what built each one: `lists/`. The earlier September queue, by install count, is not published; its results are in `RESULTS.tsv`.
 
