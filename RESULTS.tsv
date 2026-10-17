@@ -1148,3 +1148,4 @@ Random Everything	2026-10-17	14 commands run on 4200 (uuid, word, country, email
 Pumpkin Color Scheme	2026-10-17	Pumpkin.tmTheme applied to a JavaScript view loads and draws, no dialog or console error. No finding. Removed.
 Gocc BNF Syntax	2026-10-17	Marked [Deprecated], maintainer wanted. gocc.tmLanguage loads and scopes a block comment (source.bnf comment.block.bnf). No finding. Removed.
 TortoiseSVN	2026-10-17	TortoiseSVN itself is not installed here (shell extension, admin install), so only the missing-program path was run: svn_log shows the plugin intended dialog about TortoiseProc.exe, dismissed. Real SVN actions untested. No finding. Removed.
+Elvish Syntax	2026-10-17	elvish.sublime-syntax loads and scopes a comment line; no console error. No finding. Removed.
