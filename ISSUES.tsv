@@ -1090,3 +1090,4 @@ alin23/Cup	10	Typo in Run Cake Task status message: suceeded	open	2026-10-16		ht
 aurule/npc_sheets	3	Bundled syntax tests are named syntax_test.<ext>, Sublime only runs syntax_test_*	open	2026-10-16		https://github.com/aurule/npc_sheets/issues/3
 gno-playground/gnols	9	Windows: panic 'slice bounds out of range [1:0]' in uriToPath when a document is opened	open	2026-10-03		https://github.com/gno-playground/gnols/issues/9
 REditorSupport/languageserver	794	No diagnostics, and documentColor/codeLens never answered, when the workspace folder is null (Windows, 0.3.20)	open	2026-10-11		https://github.com/REditorSupport/languageserver/issues/794
+raphaelquintao/QColor	12	Sublime is frozen while the colour picker window is open	open	2026-10-17		https://github.com/raphaelquintao/QColor/issues/12

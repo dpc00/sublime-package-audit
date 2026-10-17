@@ -77,4 +77,6 @@ Not findings:
 - A hover popup needs the real mouse pointer over the test window. If another window covers it, make the test window topmost for the one hover and clear that flag afterwards.
 - Sublime's "Syntax Tests" build only runs `syntax_test_*` files that sit inside the Packages folder; copy a package's test files there (renamed if needed) to run them.
 - An input panel opened by a plugin on the older Python host (3.3/3.8) may be invisible to the agent's input tool; type the keys instead, or use a command that needs no input.
+- A plugin that starts a helper with `pythonw` hides the helper's errors; run the helper script by hand with the same arguments to see them. Give a missing Python library to the test copy only: `pip install --target <folder>` and `PYTHONPATH` for that one process, so nothing is added to the machine's Python.
+- A plugin command that waits for a helper window (`subprocess.communicate()` on the main thread) freezes the editor until the window closes. Close the helper window from outside (PowerShell `CloseMainWindow`) to recover; your tools time out meanwhile.
 - When listing what is left, match names by prefix against every earlier record ("LSP-Bicep (real .NET 10 test)" is the same package as "LSP-Bicep") and look at all dates, or finished work is planned again.
