@@ -1098,3 +1098,4 @@ Siteleaf Liquid Syntax	2026-10-17	Syntax fails to load on 4200: error dialog, re
 Bootstrap 4 Snippets	2026-10-17	Installs cleanly, 285 snippets valid XML. Duplicate tab triggers (select-sizing/input-sizing, pill/context): select expands instead of input. Placeholders missing $ in 3 snippets insert literal {2:...} text. 2 issues filed.
 Plist Binary	2026-10-17	Installs cleanly. Uses macOS plutil: on Windows the command blocks the main thread 5.5 s via os.system, flips syntax to Plain Text and leaves the file unchanged, no message. macOS-only already reported as #5 (closed). Nothing new filed.
 CUE Sheet	2026-10-17	Installs cleanly on 4200; syntax auto-applies to .cue and highlights; snippets valid XML, completions valid (comments only). No defect.
+Kubernetes Manifest autocomplete	2026-10-17	Installs cleanly; key completions work. value_completions built but never returned, so no value suggestions after a colon (kind: Dep shows nothing). Filed.
