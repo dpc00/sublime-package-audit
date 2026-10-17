@@ -1122,3 +1122,4 @@ GenerateProjects	2026-10-17	With the two paths set in User settings, Generate Pr
 Expand Selection to Whitespace	2026-10-17	Command expands a caret inside a word to the surrounding whitespace-delimited word (bar in foo bar baz). No console error, no dialog. No finding. Removed.
 Oceanic Next Color Scheme	2026-10-17	Oceanic Next.tmTheme applied to a JavaScript view loads and draws, no dialog or console error. No finding. Removed.
 ShellCommand	2026-10-17	message.json (singular) is ignored by Package Control, no install message shown; filed. run_command shell_command echo showed a status line but I could not find the output view (many open reports on output behaviour); not filed. Removed.
+OpenBazelBUILDFile	2026-10-17	Finds BUILD in a parent directory; a folder with only BUILD.bazel is not found (command does nothing). Issue filed. Removed.
