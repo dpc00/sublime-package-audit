@@ -1119,3 +1119,4 @@ Golang	2026-10-17	yields/sublime-go 0.1.4: Preferences > Package Settings > Gola
 CPP Competitive Programming Snippets	2026-10-17	All 24 snippets have no scope; gcd + Tab in a Python tab inserted the C++ function. Issue filed. Removed.
 SpectreCSS Snippets	2026-10-17	99 snippets all scoped text.html and well-formed; sp-btn-menu + Tab in an HTML tab expanded correctly. No finding. Removed.
 GenerateProjects	2026-10-17	With the two paths set in User settings, Generate Projects wrote alpha and beta .sublime-project files, no console error. The ST4 report (#1, unconfigured settings exception) is the expected message. No new finding. Removed; user settings and scratch recycled.
+Expand Selection to Whitespace	2026-10-17	Command expands a caret inside a word to the surrounding whitespace-delimited word (bar in foo bar baz). No console error, no dialog. No finding. Removed.
