@@ -1100,3 +1100,5 @@ glmanhtu/VN_IME	18	Undo does nothing after a converted word while the IME is on	
 twolfson/sublime-hooks	16	Unknown scope error message prints a literal %s	open	2026-10-17		https://github.com/twolfson/sublime-hooks/issues/16
 Pephers/Super-Calculator	20	Alt+C selects the parenthesised expression at the end of the line, not the one at the cursor	open	2026-10-17		https://github.com/Pephers/Super-Calculator/issues/20
 Pephers/Super-Calculator	21	trim_zeros removes the leading zero of results below 1	open	2026-10-17		https://github.com/Pephers/Super-Calculator/issues/21
+NickHatBoecker/CopyFilepathWithLineNumbers	4	Copy Reference does nothing for a file on another drive (os.path.relpath ValueError)	open	2026-10-17		https://github.com/NickHatBoecker/CopyFilepathWithLineNumbers/issues/4
+NickHatBoecker/CopyFilepathWithLineNumbers	5	Copy Filepath With Line Numbers fails on an unsaved tab (len(None))	open	2026-10-17		https://github.com/NickHatBoecker/CopyFilepathWithLineNumbers/issues/5
