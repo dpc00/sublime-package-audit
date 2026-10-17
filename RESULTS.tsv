@@ -1190,3 +1190,4 @@ Clarion	2026-10-17	v1.0.18: messages.json valid, .clw opens as Clarion via Clari
 WPCS Whitelist Flags	2026-10-17	v1.0.8: the phpcs cache snippet (trigger with a space) expands in a PHP tab; no finding
 Abella	2026-10-17	v0.2.6: .thm opens as Abella; abella command with no abella exe shows a clear popup and a stuck Abella working panel until abella_kill; real proving not run (abella not installed); open typo issue #3 exists; no finding
 Move Half Pages	2026-10-17	v1.0.0: move_half_pages forward and back moves the cursor about half a page, no error; no finding
+BeautifyRuby	2026-10-17	v2020.08.07: beautify_ruby re-indents a Ruby file with Ruby 3.4 installed, no console error; 7 open issues already exist; no new finding
