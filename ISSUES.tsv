@@ -1128,3 +1128,4 @@ macrael/OpenBazelBUILDFile	2	BUILD.bazel files are not found, only BUILD	open	20
 TomasBarry/Sublime-create-webp-image	1	Command is hidden and does nothing: variables are read once in __init__	open	2026-10-17		https://github.com/TomasBarry/Sublime-create-webp-image/issues/1
 daniel-dara/ASPComment	3	Add and Remove commands do nothing in Sublime Text 3/4 (begin_edit)	open	2026-10-17		https://github.com/daniel-dara/ASPComment/issues/3
 randy3k/AlignTab	92	AlignTab not available on Sublime Text 4200 (comment: cannot reproduce)	open	2026-10-17		https://github.com/randy3k/AlignTab/issues/92
+jamalsenouci/sublimetext-syntaxfold	48	messages.json has a trailing comma: Package Control reports a parse error	open	2026-10-17		https://github.com/jamalsenouci/sublimetext-syntaxfold/issues/48

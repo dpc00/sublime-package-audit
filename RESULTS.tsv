@@ -1133,3 +1133,4 @@ ToDone	2026-10-17	Installed, install message shown, ToDone.tmLanguage scopes tas
 AlignTab	2026-10-17	Listed and installed 2.1.11 on 4200; align_tab with = aligned three lines, no console error. Could not reproduce #92 (not available on 4200); commented. No new defect. Removed.
 AutoWrap	2026-10-17	Toggle Auto Wrap with wrap_width 20: typed text wrapped at word boundaries on 4200, no console error. Open issues are known edge cases. No finding. Removed.
 Vuejs Snippets	2026-10-17	26 snippets, all well-formed and scoped (text.html, source.js.embedded.html, text.html.vue); v-else + Tab in an HTML tab expanded. No finding. Removed.
+SyntaxFold	2026-10-17	messages.json has a trailing comma: console shows Error parsing messages.json for SyntaxFold, no install message; 1.0.0.md listed but missing. Fold All works on a //region block. Issue filed. Removed.
