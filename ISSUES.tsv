@@ -1187,3 +1187,4 @@ ianharper/AccuTermClient	36	Package does not load on Sublime Text 4: pywin32 lib
 packagecontrol/pywin32	1	pywin32 library cannot be imported: win32 and win32\lib are not on sys.path	open	2026-10-17		https://github.com/packagecontrol/pywin32/issues/1
 jgburet/jumpy-sublime	5	AttributeError when a group is empty (active_view_in_group returns None)	open	2026-10-17		https://github.com/jgburet/jumpy-sublime/issues/5
 SevenO2/ion-sublime-syntax	1	+inf, -inf and nan are scoped as symbol identifiers, not floats	open	2026-10-17		https://github.com/SevenO2/ion-sublime-syntax/issues/1
+chrisnevers/reach-ide-sublime	2	Run build variant passes an empty argument	open	2026-10-17		https://github.com/chrisnevers/reach-ide-sublime/issues/2
