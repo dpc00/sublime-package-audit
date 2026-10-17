@@ -1096,3 +1096,7 @@ chikatoike/IMESupport	28	Note: the hook is system-wide on Windows (README sugges
 ericmartel/Sublime-Text-2-CSV-Plugin	13	Sort moves the trailing empty line to the top and drops the final newline	open	2026-10-17		https://github.com/ericmartel/Sublime-Text-2-CSV-Plugin/issues/13
 eseidelGoogle/gn_sublime	6	target and write_file are never highlighted (line break inside the regex)	open	2026-10-17		https://github.com/eseidelGoogle/gn_sublime/issues/6
 testo-lang/testo-sublime	1	main includes undefined context backqouted_strings	open	2026-10-17		https://github.com/testo-lang/testo-sublime/issues/1
+glmanhtu/VN_IME	18	Undo does nothing after a converted word while the IME is on	open	2026-10-17		https://github.com/glmanhtu/VN_IME/issues/18
+twolfson/sublime-hooks	16	Unknown scope error message prints a literal %s	open	2026-10-17		https://github.com/twolfson/sublime-hooks/issues/16
+Pephers/Super-Calculator	20	Alt+C selects the parenthesised expression at the end of the line, not the one at the cursor	open	2026-10-17		https://github.com/Pephers/Super-Calculator/issues/20
+Pephers/Super-Calculator	21	trim_zeros removes the leading zero of results below 1	open	2026-10-17		https://github.com/Pephers/Super-Calculator/issues/21
