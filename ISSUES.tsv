@@ -1092,3 +1092,4 @@ gno-playground/gnols	9	Windows: panic 'slice bounds out of range [1:0]' in uriTo
 REditorSupport/languageserver	794	No diagnostics, and documentColor/codeLens never answered, when the workspace folder is null (Windows, 0.3.20)	open	2026-10-11		https://github.com/REditorSupport/languageserver/issues/794
 raphaelquintao/QColor	12	Sublime is frozen while the colour picker window is open	open	2026-10-17		https://github.com/raphaelquintao/QColor/issues/12
 stoivo/sublime-open-in-vscode	8	File path with a space is not quoted for --goto	open	2026-10-17		https://github.com/stoivo/sublime-open-in-vscode/issues/8
+chikatoike/IMESupport	28	Note: the hook is system-wide on Windows (README suggestion)	open	2026-10-17		https://github.com/chikatoike/IMESupport/issues/28
