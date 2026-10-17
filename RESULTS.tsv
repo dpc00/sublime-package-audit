@@ -1174,3 +1174,4 @@ twolfson/sublime-theme-extender	2026-10-17	python 2 print statement: SyntaxError
 twolfson/sublime-optimal-lines	2026-10-17	add_regions flags passed as icon: ValueError icon must be a string on every load; held until Todd answers yes
 Tony Water	2026-10-17	JSON Pretty does not indent (json.dumps indent passed positionally as skipkeys); other commands work; filed
 Uncrustify	2026-10-17	v1.1.4 with uncrustify 0.83 downloaded to tools: Format Document reformats a C file, user settings picked up; no finding
+SetWindowTitle	2026-10-17	v1.3.8: on Windows it renamed the OTHER Sublime process window (FindWindowA first PX_WINDOW_CLASS), own window unchanged; his main Sublime title was altered cosmetically; filed
