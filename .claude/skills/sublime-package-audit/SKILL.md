@@ -71,3 +71,13 @@ Not findings:
 - Edits to an unpacked copy of a package are picked up live only for top-level plugin modules; modules the package imports later (builders, sub-packages) need a Sublime restart.
 - Keep scratch files on a SHORT path when testing build tools: TeX wraps log lines at 79 characters, and a long path split an error message and hid the real cause for a while.
 - `dismiss_native_window` sometimes needs a second call before a dialog goes away; list the windows again before clicking twice.
+- Wait for the "Removed orphaned library" lines as well as "Removed package" before quitting; quitting in between made Package Control reinstall the package at the next start.
+- A package that downloads libraries (ExportHtml) keeps the editor busy for a minute after "Installed package"; a tool call can time out meanwhile. Wait for "Package ... successfully installed", then retry.
+- A file opened right after an install shows as Plain Text because the package's syntax is not indexed yet; close and reopen it.
+- A hover popup needs the real mouse pointer over the test window. If another window covers it, make the test window topmost for the one hover and clear that flag afterwards.
+- Sublime's "Syntax Tests" build only runs `syntax_test_*` files that sit inside the Packages folder; copy a package's test files there (renamed if needed) to run them.
+- An input panel opened by a plugin on the older Python host (3.3/3.8) may be invisible to the agent's input tool; type the keys instead, or use a command that needs no input.
+- A plugin that starts a helper with `pythonw` hides the helper's errors; run the helper script by hand with the same arguments to see them. Give a missing Python library to the test copy only: `pip install --target <folder>` and `PYTHONPATH` for that one process, so nothing is added to the machine's Python.
+- A plugin command that waits for a helper window (`subprocess.communicate()` on the main thread) freezes the editor until the window closes. Close the helper window from outside (PowerShell `CloseMainWindow`) to recover; your tools time out meanwhile.
+- When listing what is left, match names by prefix against every earlier record ("LSP-Bicep (real .NET 10 test)" is the same package as "LSP-Bicep") and look at all dates, or finished work is planned again.
+- Added 2026-10-16: a scope read (get_scope_at_cursor) made in the same batch as goto_line or open_file can return the scope of the OLD position or none; move first, read the scope in a separate call. A captured console does not show Sublime's own syntax load errors.

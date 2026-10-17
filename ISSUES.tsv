@@ -612,7 +612,7 @@ fawkesy/choicescript-syntax	2	Package Control installs the old 1.0.0 tag: no aut
 gerardroche/sublime-phpck	16	Uninstalling leaves an empty Packages/PHP/PHP.sublime-completions, so built-in PHP completions stay disabled	open	2026-09-29		https://github.com/gerardroche/sublime-phpck/issues/16
 guille/sublime-kotlin	1	'fun interface' is scoped as a function named 'interface', and the body as a lambda	closed	2026-09-29	2026-09-29	https://github.com/guille/sublime-kotlin/issues/1
 kek/sublime-expand-selection-to-quotes	19	Does nothing when the selection contains double quotes and sits inside single quotes or backticks (count('"') used for every quote type)	open	2026-09-29		https://github.com/kek/sublime-expand-selection-to-quotes/issues/19
-lojoja/sublime-syntax-edgeos	1	Stray } at top level is only flagged right after a block; lone } or one after a comment gets no scope (bundled test's last assertion fails)	open	2026-09-29		https://github.com/lojoja/sublime-syntax-edgeos/issues/1
+lojoja/sublime-syntax-edgeos	1	Stray } at top level is only flagged right after a block; lone } or one after a comment gets no scope (bundled test's last assertion fails)	closed	2026-09-29	2026-10-15	https://github.com/lojoja/sublime-syntax-edgeos/issues/1
 rctay/sublime-text-buildview	39	Builds started from the menu, command palette or another package corrupt the Build output tab (pipe is only reset from the key-binding context)	open	2026-09-29		https://github.com/rctay/sublime-text-buildview/issues/39
 ryboe/CSS3	235	messages.json has a trailing comma: Package Control 'Error parsing messages.json', install/upgrade messages never shown	closed	2026-09-29	2026-10-04	https://github.com/ryboe/CSS3/issues/235
 seanfagan/webagent_syntax	2	INVOKE|IGNORE|TERMINATE rule: unparenthesised alternation, so parts of variable names get keyword scope	closed	2026-09-29	2026-09-30	https://github.com/seanfagan/webagent_syntax/issues/2
@@ -671,7 +671,7 @@ Suor/sublime-reform	7	move_word_right on the last word of the file swaps it with
 Suor/sublime-reform	8	move_word_left / move_word_right raise AttributeError when the cursor is not on a word	open	2026-10-02		https://github.com/Suor/sublime-reform/issues/8
 barryceelen/Claudette	21	Text editor tool: allowed-roots check is textual only; a junction/symlink inside a project lets the tool read and create files outside it	open	2026-10-02		https://github.com/barryceelen/Claudette/issues/21
 barryceelen/Claudette	22	A newline is inserted into streamed text when a chunk ending in '.' is followed by a capitalized chunk, which splits code (fmt. / Println)	open	2026-10-02		https://github.com/barryceelen/Claudette/issues/22
-barryceelen/Claudette	23	A failed request leaves '[Error] ...' in the chat, and it is sent to the API as an assistant message in every later request	open	2026-10-02		https://github.com/barryceelen/Claudette/issues/23
+barryceelen/Claudette	23	A failed request leaves '[Error] ...' in the chat, and it is sent to the API as an assistant message in every later request	closed	2026-10-02	2026-10-15	https://github.com/barryceelen/Claudette/issues/23
 evandrocoan/debugtools	13	Package Control installs an old build on Python 3.14: logging._acquireLock ImportError (QuickSettings cannot load)	open	2026-10-02		https://github.com/evandrocoan/debugtools/issues/13
 facelessuser/QuickCal	10	Week number 53 is shown as 1 (ISO mode: 2020-12-28, 2026-12-28; Sunday-first: Dec 2022)	open	2026-10-02		https://github.com/facelessuser/QuickCal/issues/10
 flashmodel/gemini-st	5	Chat stays at 'Starting Gemini CLI...' with no error when the CLI exits immediately (stderr is never read)	open	2026-10-02		https://github.com/flashmodel/gemini-st/issues/5
@@ -695,8 +695,8 @@ xmake-io/xmake-sublime	9	Any XMake command without an xmake.lua raises TypeError
 GiovanH/sublimelint-contrib-languagetool	3	Default selector 'meta.paragraph' only matches files that start with a paragraph, so the linter silently never runs	open	2026-10-03		https://github.com/GiovanH/sublimelint-contrib-languagetool/issues/3
 GiovanH/sublimelint-contrib-languagetool	4	TypeError: 'NoneType' object is not iterable in run() when the LanguageTool server is not running	open	2026-10-03		https://github.com/GiovanH/sublimelint-contrib-languagetool/issues/4
 GiovanH/sublimelint-contrib-languagetool	5	Package Control installs v0.0.1, which lacks the server-not-running fix that is on master	open	2026-10-03		https://github.com/GiovanH/sublimelint-contrib-languagetool/issues/5
-LexouDuck/SublimeText-Lean	2	Interpolated strings (s!"... {x} ...") leave the rest of the file highlighted as a string	open	2026-10-03		https://github.com/LexouDuck/SublimeText-Lean/issues/2
-LexouDuck/SublimeText-Lean	3	Toggle Comment does nothing in Lean files (no comment settings)	open	2026-10-03		https://github.com/LexouDuck/SublimeText-Lean/issues/3
+LexouDuck/SublimeText-Lean	2	Interpolated strings (s!"... {x} ...") leave the rest of the file highlighted as a string	closed	2026-10-03	2026-10-15	https://github.com/LexouDuck/SublimeText-Lean/issues/2
+LexouDuck/SublimeText-Lean	3	Toggle Comment does nothing in Lean files (no comment settings)	closed	2026-10-03	2026-10-15	https://github.com/LexouDuck/SublimeText-Lean/issues/3
 PlutoLang/Syntax-Highlighting	40	Sublime build: file_regex does not match 'pluto: syntax error: file:line:' lines (F4 opens file named 'syntax error')	closed	2026-10-03	2026-10-03	https://github.com/PlutoLang/Syntax-Highlighting/issues/40
 PythonVoiceCodingPlugin/LSP-pyvoice	2	Plugin fails to load on ST 4215 (Python 3.14): cannot import name 'notification_handler' from 'lsp_utils'	open	2026-10-03		https://github.com/PythonVoiceCodingPlugin/LSP-pyvoice/issues/2
 SirNickolas/SublimeFluent	2	Syntax fails to load on ST build 4215: 'expected match or include' at [include: ...] in with_prototype	closed	2026-10-03	2026-10-03	https://github.com/SirNickolas/SublimeFluent/issues/2
@@ -843,7 +843,7 @@ shantanu3637/CollaBroText	6	plugin_loaded raises IndexError when no tab is open	
 socsieng/IndentX	22	Convert JSON to YAML is disabled in JSON files on ST4	open	2026-10-06		https://github.com/socsieng/IndentX/issues/22
 socsieng/IndentX	23	JSON format: closing brace on the same line after an empty object	open	2026-10-06		https://github.com/socsieng/IndentX/issues/23
 socsieng/IndentX	24	JSON to YAML: strings containing ': ' are not quoted	open	2026-10-06		https://github.com/socsieng/IndentX/issues/24
-sublimehq/package_control_channel	9600	IMESupport installs a system-wide Windows hook (SetWindowsHookEx with thread id 0) when it loads	open	2026-10-06		https://github.com/sublimehq/package_control_channel/issues/9600
+sublimehq/package_control_channel	9600	IMESupport installs a system-wide Windows hook (SetWindowsHookEx with thread id 0) when it loads	closed	2026-10-06	2026-10-16	https://github.com/sublimehq/package_control_channel/issues/9600
 tisto/MrIgor	3	File names are put in a shell command: a name containing a command substitution runs it on save	open	2026-10-06		https://github.com/tisto/MrIgor/issues/3
 tisto/MrIgor	4	Error dialog on every save when mr.igor is missing; message names the wrong setting	open	2026-10-06		https://github.com/tisto/MrIgor/issues/4
 tptee/FlowIDE	19	Plugin does not load on Sublime Text 4: import plugin_state fails	open	2026-10-06		https://github.com/tptee/FlowIDE/issues/19
@@ -982,7 +982,7 @@ stoivo/sublime-open-in-vscode	7	Windows: default vscode-path is /usr/local/bin/c
 sublimehq/sublime_text	7009	A blocked set_timeout callback in one plugin host delays the timers of the other hosts	closed	2026-10-11	2026-10-11	https://github.com/sublimehq/sublime_text/issues/7009
 sublimehq/sublime_text	7010	API to see whether a quick panel or other overlay is open, and its items	open	2026-10-11		https://github.com/sublimehq/sublime_text/issues/7010
 sublimelsp/LSP-Bicep	17	No dotnet: error is only [WinError 2], server downloaded first	closed	2026-10-11	2026-10-13	https://github.com/sublimelsp/LSP-Bicep/issues/17
-sublimelsp/LSP-bitbake	6	Selector source.bb does not match the Package Control BitBake syntax (source.bitbake); server never starts	open	2026-10-11		https://github.com/sublimelsp/LSP-bitbake/issues/6
+sublimelsp/LSP-bitbake	6	Selector source.bb does not match the Package Control BitBake syntax (source.bitbake); server never starts	closed	2026-10-11	2026-10-16	https://github.com/sublimelsp/LSP-bitbake/issues/6
 sublimelsp/LSP-esphome	28	Managed Python env never created (install_async not called): Cannot start ESPHome	closed	2026-10-11	2026-10-12	https://github.com/sublimelsp/LSP-esphome/issues/28
 sublimelsp/LSP-kotlin	26	plugin.py imports typing.TypeAlias but .python-version is 3.8: plugin fails to load	closed	2026-10-11	2026-10-11	https://github.com/sublimelsp/LSP-kotlin/issues/26
 yangweijie/SublimePHPNinJaManual	6	Bundled ThinkPHP fails on PHP 8.4: Container::offsetExists return type	closed	2026-10-11	2026-10-11	https://github.com/yangweijie/SublimePHPNinJaManual/issues/6
@@ -998,7 +998,7 @@ apehex/sublime-hypeon-scheme	2	Typo in brackets_foreground: var(neon_neon_orange
 ghyatzo/fight-color-scheme	1	Dark scheme: undefined variable foreground_lightest, function calls invisible	closed	2026-10-12	2026-10-13	https://github.com/ghyatzo/fight-color-scheme/issues/1
 ghyatzo/fight-color-scheme	2	Dark scheme: variable name ligth_tar looks like a typo	closed	2026-10-12	2026-10-13	https://github.com/ghyatzo/fight-color-scheme/issues/2
 icnagy/SublimeLinter-contrib-flog	3	Windows: no lint results, the regex drops the drive letter from the file name	open	2026-10-12		https://github.com/icnagy/SublimeLinter-contrib-flog/issues/3
-lojoja/sublime-syntax-edgeos	2	ipv6cs2 uses d instead of \d, IPv6 with embedded IPv4 not recognised	open	2026-10-12		https://github.com/lojoja/sublime-syntax-edgeos/issues/2
+lojoja/sublime-syntax-edgeos	2	ipv6cs2 uses d instead of \d, IPv6 with embedded IPv4 not recognised	closed	2026-10-12	2026-10-15	https://github.com/lojoja/sublime-syntax-edgeos/issues/2
 nneonneo/sublime-replace-with-python	1	No message when the code leaves a non-string in text (Replace with Python)	open	2026-10-12		https://github.com/nneonneo/sublime-replace-with-python/issues/1
 nneonneo/sublime-replace-with-python	2	Errors in the Sort Selections expression are not reported (Sort Lines and Replace do report them)	open	2026-10-12		https://github.com/nneonneo/sublime-replace-with-python/issues/2
 nonisolated/cataracted-dark-sublime-text	2	Theme selected from the picker breaks the UI: no "extends" (status bar, tab names, menu)	open	2026-10-12		https://github.com/nonisolated/cataracted-dark-sublime-text/issues/2
@@ -1030,7 +1030,7 @@ OmkarGowda990/sublime-text-mcp	3	goto_line, get_line_content and get_line_range 
 OmkarGowda990/sublime-text-mcp	4	find_in_file with an invalid regular expression says "No matches found"	open	2026-10-13		https://github.com/OmkarGowda990/sublime-text-mcp/issues/4
 OmkarGowda990/sublime-text-mcp	5	set_setting changes only the active view, but is described as a Sublime Text preference	open	2026-10-13		https://github.com/OmkarGowda990/sublime-text-mcp/issues/5
 OmkarGowda990/sublime-text-mcp	6	get_selection reports "Selected text" when nothing is selected, only a cursor	open	2026-10-13		https://github.com/OmkarGowda990/sublime-text-mcp/issues/6
-SublimeText/LaTeXTools	1717	Check System shows nothing when a program takes over 30 seconds: uncaught subprocess.TimeoutExpired in check_output	open	2026-10-13		https://github.com/SublimeText/LaTeXTools/issues/1717
+SublimeText/LaTeXTools	1717	Check System shows nothing when a program takes over 30 seconds: uncaught subprocess.TimeoutExpired in check_output	closed	2026-10-13	2026-10-16	https://github.com/SublimeText/LaTeXTools/issues/1717
 SublimeText/LaTeXTools	1718	MiKTeX: a failed build reports no errors because texify --quiet switches the log to file:line: style	open	2026-10-13		https://github.com/SublimeText/LaTeXTools/issues/1718
 colinta/SublimeTextFormatting	3	text_formatting_prettify_json raises UnboundLocalError after every successful run	open	2026-10-13		https://github.com/colinta/SublimeTextFormatting/issues/3
 colinta/SublimeTextFormatting	4	text_formatting_maxlength on an empty line shows "string index out of range"	open	2026-10-13		https://github.com/colinta/SublimeTextFormatting/issues/4
@@ -1067,17 +1067,63 @@ alin23/Cup	6	CoffeeScript # comments are scoped comment.line.double-slash.coffee
 alin23/Cup	5	binDir and envPATH settings are ignored on Windows: coffee must already be on PATH	open	2026-10-13		https://github.com/alin23/Cup/issues/5
 arshiacont/antescofo-sublime-package	11	NOTE rule is scoped labeled.textslm, and the YAML source has no NOTE rule	open	2026-10-13		https://github.com/arshiacont/antescofo-sublime-package/issues/11
 jtowers/DXMate	2	Plugin does not load: no .python-version, mdpopups needs typing on the 3.3 host	open	2026-10-13		https://github.com/jtowers/DXMate/issues/2
-divinites/LatexEquationPreview	6	messages.json has a trailing comma	open	2026-10-14		https://github.com/divinites/LatexEquationPreview/issues/6
-divinites/LatexEquationPreview	7	Built-in LaTeX syntax scopes not recognised, find_equation_range returns None	open	2026-10-14		https://github.com/divinites/LatexEquationPreview/issues/7
+divinites/LatexEquationPreview	6	messages.json is invalid JSON (trailing comma)	open	2026-10-14		https://github.com/divinites/LatexEquationPreview/issues/6
+divinites/LatexEquationPreview	7	No preview with the built-in LaTeX syntax: equation scopes not recognised	open	2026-10-14		https://github.com/divinites/LatexEquationPreview/issues/7
 ticcky/sublime_goimports	10	Install at load fails on Windows: GOPATH='...' is POSIX-only, bin/goimports never created	open	2026-10-14		https://github.com/ticcky/sublime_goimports/issues/10
-ticcky/sublime_goimports	11	go_imports hangs when output is over 64 KB pipe buffer (wait() before read)	open	2026-10-14		https://github.com/ticcky/sublime_goimports/issues/11
+ticcky/sublime_goimports	11	go_imports hangs when output is over the 64 KB pipe buffer (wait() before read)	open	2026-10-14		https://github.com/ticcky/sublime_goimports/issues/11
 aqzhyi/Sublime-Better-Completion	43	messages.json has a trailing comma: Package Control reports a parse error on install	open	2026-10-14		https://github.com/aqzhyi/Sublime-Better-Completion/issues/43
 Vall3y/sublimeJavascriptLogSnippets	2	Scope source.vue never matches the Vue syntax (root scope is text.html.vue)	open	2026-10-14		https://github.com/Vall3y/sublimeJavascriptLogSnippets/issues/2
 absop/ST-Scheme	4	Build file_regex has no line group: read errors are marked on line 1	open	2026-10-14		https://github.com/absop/ST-Scheme/issues/4
 arshiacont/antescofo-sublime-package	12	Settings key ascographpost is never read (code reads ascographport)	open	2026-10-14		https://github.com/arshiacont/antescofo-sublime-package/issues/12
 jarhart/SublimeSBT	50	Raw ESC[0J (erase) code shown after every command with current sbt	open	2026-10-14		https://github.com/jarhart/SublimeSBT/issues/50
 maltize/sublime-text-2-ruby-tests	273	Run Single Test on a *_test.rb outside a test folder: traceback, nothing shown (NotADirectoryError)	open	2026-10-14		https://github.com/maltize/sublime-text-2-ruby-tests/issues/273
-farcaller/DashDoc	72	messages.json points to files that are not in the package	open	2026-10-14		https://github.com/farcaller/DashDoc/issues/72
+farcaller/DashDoc	72	messages.json points to files that are not in the package	closed	2026-10-14	2026-10-14	https://github.com/farcaller/DashDoc/issues/72
 ahmadawais/Sublime-WP-Customizer	7	Add-Setting snippet joins two values: theme_modoption, refreshpostMessage	open	2026-10-14		https://github.com/ahmadawais/Sublime-WP-Customizer/issues/7
 ahmadawais/Sublime-WP-Customizer	6	messages.json is invalid JSON (missing comma)	open	2026-10-14		https://github.com/ahmadawais/Sublime-WP-Customizer/issues/6
-sublimehq/package_control_channel	9617	74 listed packages have an invalid messages.json (Package Control cannot show their install messages)	open	2026-10-14		https://github.com/sublimehq/package_control_channel/issues/9617
+sublimehq/package_control_channel	9617	74 listed packages have an invalid messages.json (Package Control cannot show their install messages)	closed	2026-10-14	2026-10-16	https://github.com/sublimehq/package_control_channel/issues/9617
+biozz/sublime-taskfile	6	Run Task raises ValueError with current task (output no longer tab separated)	open	2026-10-16		https://github.com/biozz/sublime-taskfile/issues/6
+SublimeLinter/SublimeLinter-gjslint	12	Deprecated implicit filename in cmd warns on every lint	open	2026-10-16		https://github.com/SublimeLinter/SublimeLinter-gjslint/issues/12
+deathaxe/sublime-mtx	2	NPG snippet header says COMPANTY	open	2026-10-16		https://github.com/deathaxe/sublime-mtx/issues/2
+absop/ST-CodeLines	5	Count Default Path shows an empty-path error with the shipped default_path	open	2026-10-16		https://github.com/absop/ST-CodeLines/issues/5
+alin23/Cup	9	Run Cake Task only searches the first project folder	open	2026-10-16		https://github.com/alin23/Cup/issues/9
+alin23/Cup	10	Typo in Run Cake Task status message: suceeded	open	2026-10-16		https://github.com/alin23/Cup/issues/10
+aurule/npc_sheets	3	Bundled syntax tests are named syntax_test.<ext>, Sublime only runs syntax_test_*	open	2026-10-16		https://github.com/aurule/npc_sheets/issues/3
+gno-playground/gnols	9	Windows: panic 'slice bounds out of range [1:0]' in uriToPath when a document is opened	open	2026-10-03		https://github.com/gno-playground/gnols/issues/9
+REditorSupport/languageserver	794	No diagnostics, and documentColor/codeLens never answered, when the workspace folder is null (Windows, 0.3.20)	open	2026-10-11		https://github.com/REditorSupport/languageserver/issues/794
+raphaelquintao/QColor	12	Sublime is frozen while the colour picker window is open	open	2026-10-17		https://github.com/raphaelquintao/QColor/issues/12
+stoivo/sublime-open-in-vscode	8	File path with a space is not quoted for --goto	open	2026-10-17		https://github.com/stoivo/sublime-open-in-vscode/issues/8
+chikatoike/IMESupport	28	Note: the hook is system-wide on Windows (README suggestion)	open	2026-10-17		https://github.com/chikatoike/IMESupport/issues/28
+ericmartel/Sublime-Text-2-CSV-Plugin	13	Sort moves the trailing empty line to the top and drops the final newline	open	2026-10-17		https://github.com/ericmartel/Sublime-Text-2-CSV-Plugin/issues/13
+eseidelGoogle/gn_sublime	6	target and write_file are never highlighted (line break inside the regex)	open	2026-10-17		https://github.com/eseidelGoogle/gn_sublime/issues/6
+testo-lang/testo-sublime	1	main includes undefined context backqouted_strings	open	2026-10-17		https://github.com/testo-lang/testo-sublime/issues/1
+glmanhtu/VN_IME	18	Undo does nothing after a converted word while the IME is on	open	2026-10-17		https://github.com/glmanhtu/VN_IME/issues/18
+twolfson/sublime-hooks	16	Unknown scope error message prints a literal %s	open	2026-10-17		https://github.com/twolfson/sublime-hooks/issues/16
+Pephers/Super-Calculator	20	Alt+C selects the parenthesised expression at the end of the line, not the one at the cursor	open	2026-10-17		https://github.com/Pephers/Super-Calculator/issues/20
+Pephers/Super-Calculator	21	trim_zeros removes the leading zero of results below 1	open	2026-10-17		https://github.com/Pephers/Super-Calculator/issues/21
+NickHatBoecker/CopyFilepathWithLineNumbers	4	Copy Reference does nothing for a file on another drive (os.path.relpath ValueError)	open	2026-10-17		https://github.com/NickHatBoecker/CopyFilepathWithLineNumbers/issues/4
+NickHatBoecker/CopyFilepathWithLineNumbers	5	Copy Filepath With Line Numbers fails on an unsaved tab (len(None))	open	2026-10-17		https://github.com/NickHatBoecker/CopyFilepathWithLineNumbers/issues/5
+yohanboniface/Carto-sublime	17	Completions and help read reference.json from a folder that does not exist in a Package Control install	open	2026-10-17		https://github.com/yohanboniface/Carto-sublime/issues/17
+MDeiml/SublimeJavaImports	8	Wrong imports: replace of .java damages package names; JDK 9+ src.zip adds the module name	open	2026-10-17		https://github.com/MDeiml/SublimeJavaImports/issues/8
+jvantuyl/sublime_diagram_plugin	77	Two diagrams in one file overwrite the same PNG with the default settings	open	2026-10-17		https://github.com/jvantuyl/sublime_diagram_plugin/issues/77
+ant7/ant-sublime-theme	1	ant.tmTheme is not well-formed XML (double hyphen in the header comment)	open	2026-10-17		https://github.com/ant7/ant-sublime-theme/issues/1
+ant7/ant-sublime-theme	2	Rule names in ant.tmTheme have garbled characters (encoding)	open	2026-10-17		https://github.com/ant7/ant-sublime-theme/issues/2
+magneto538/Koala	12	messages.json has a trailing comma, so Package Control cannot parse it	open	2026-10-17		https://github.com/magneto538/Koala/issues/12
+joelpt/sublimetext-automatic-backups	19	Palette captions for the two jump commands are swapped	open	2026-10-17		https://github.com/joelpt/sublimetext-automatic-backups/issues/19
+huszerldani/OneDarkMaterial	10	messages.json has a trailing comma, so Package Control cannot parse it	open	2026-10-17		https://github.com/huszerldani/OneDarkMaterial/issues/10
+pokidovea/copy_python_path	7	Class and method paths are wrong on Sublime Text 4 (class scope name changed)	open	2026-10-17		https://github.com/pokidovea/copy_python_path/issues/7
+pkkid/sublime-pkstheme	1	Package Control install fails: 404 on mjs7231/sublime-pkstheme/zip/master	open	2026-10-17		https://github.com/pkkid/sublime-pkstheme/issues/1
+alexanderankin/sublime-bootstrap4	3	Duplicate tab triggers: select-sizing and pill snippets cannot be inserted	open	2026-10-17		https://github.com/alexanderankin/sublime-bootstrap4/issues/3
+alexanderankin/sublime-bootstrap4	4	Snippets insert literal {2:...} text: placeholders missing the dollar sign	open	2026-10-17		https://github.com/alexanderankin/sublime-bootstrap4/issues/4
+xr1337/sublime-kubernetes-autocomplete	5	value_completions is built but never returned (no value suggestions after a colon)	open	2026-10-17		https://github.com/xr1337/sublime-kubernetes-autocomplete/issues/5
+thoughtsunificator/domodel-snippets-sublime	4	Name transform lowercases the whole name, not only the first letter	open	2026-10-17		https://github.com/thoughtsunificator/domodel-snippets-sublime/issues/4
+pixl8-brayden/preside-sublime-text-3	4	Generate Form/i18n/View hang Sublime Text when the file is not under an "application" folder	open	2026-10-17		https://github.com/pixl8-brayden/preside-sublime-text-3/issues/4
+sublimehq/package_control	1803	messages.json with a trailing comma is silently skipped (strict json.load)	open	2026-10-16		https://github.com/sublimehq/package_control/issues/1803
+edoardopirovano/QLSyntax	4	Symbolic operators (=, <, >, +, ...) are never scoped keyword.operator	open	2026-10-17		https://github.com/edoardopirovano/QLSyntax/issues/4
+XeCreators/Unyson-Snippets-Sublime	2	Triggers misspelled: unyson-adable-box/option/popup (should be addable)	open	2026-10-17		https://github.com/XeCreators/Unyson-Snippets-Sublime/issues/2
+memoryleak/TerraformSnippets-AWS	3	Snippets generate invalid resource type: aws_instance resource instead of aws_instance	open	2026-10-17		https://github.com/memoryleak/TerraformSnippets-AWS/issues/3
+yields/sublime-go	39	error when open settings (comment with cause)	open	2026-10-17		https://github.com/yields/sublime-go/issues/39
+MeghaSharma21/CPP_Competitive_Programming_Sublime_Snippets	4	Snippets have no scope, so they expand in every file type	open	2026-10-17		https://github.com/MeghaSharma21/CPP_Competitive_Programming_Sublime_Snippets/issues/4
+markbirbeck/sublime-text-shell-command	84	message.json is not read: Package Control expects messages.json	open	2026-10-17		https://github.com/markbirbeck/sublime-text-shell-command/issues/84
+macrael/OpenBazelBUILDFile	2	BUILD.bazel files are not found, only BUILD	open	2026-10-17		https://github.com/macrael/OpenBazelBUILDFile/issues/2
+TomasBarry/Sublime-create-webp-image	1	Command is hidden and does nothing: variables are read once in __init__	open	2026-10-17		https://github.com/TomasBarry/Sublime-create-webp-image/issues/1
+daniel-dara/ASPComment	3	Add and Remove commands do nothing in Sublime Text 3/4 (begin_edit)	open	2026-10-17		https://github.com/daniel-dara/ASPComment/issues/3

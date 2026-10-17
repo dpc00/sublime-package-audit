@@ -16,3 +16,4 @@ Each file is tab-separated with a header row (one file has none and is not inclu
 | `audit_list_2026_10_11_age3y.tsv`, `..._py1k.tsv`, `..._pyany.tsv` | cuts by age of last push and amount of Python |
 | `audit_list_2026_10_11_ai.tsv` | AI-oriented packages (agents, completion, chat) |
 | `audit_list_2026_10_11_tail.tsv` | the last 77 rows at the loose end of the ranking, finished on 2026-10-12 |
+| `audit_list_2026_10_16_age4_6y.tsv` | packages whose last push was 4 to 6 years ago, not tested before, installable on build 4200 (257 rows) |

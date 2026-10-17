@@ -1,13 +1,13 @@
-# Sublime Text package audit (2026)
+﻿# Sublime Text package audit (2026)
 
 An audit of Sublime Text packages from [Package Control](https://packagecontrol.io), done between August and October 2026 by Donald Chitester (GitHub: dpc00) together with Claude, an AI agent that drove a real Sublime Text through [sublime-mcp](https://github.com/dpc00/sublime-mcp). Each package was installed the way a user installs it, used, and checked against what it claims to do. Problems were reported to the maintainers as short issues.
 
 This repository holds the data and the method. It is a draft: the numbers will be updated.
 
-## In numbers (to 2026-10-13)
+## In numbers (to 2026-10-16)
 
-- **1039 test records** for **966 different packages** (`RESULTS.tsv`). Most records are a live test in a real Sublime; a few are shorter (the package was loaded, or only its source was read), and the note in each row says which.
-- **1082 issues** filed on **751 repositories** (`ISSUES.tsv`): 810 still open, 272 closed. Closed does not mean fixed; the list does not say why an issue was closed.
+- **1076 test records** for **987 different packages** (`RESULTS.tsv`). Most records are a live test in a real Sublime; a few are shorter (the package was loaded, or only its source was read), and the note in each row says which.
+- **1116 issues** filed on **776 repositories** (ISSUES.tsv): 834 still open, 282 closed. Closed does not mean fixed; the list does not say why an issue was closed.
 - The package lists used from 2026-10-07 on, and what built each one: `lists/`. The earlier September queue, by install count, is not published; its results are in `RESULTS.tsv`.
 
 ## What was found
