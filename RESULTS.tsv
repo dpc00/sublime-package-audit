@@ -1177,3 +1177,4 @@ Uncrustify	2026-10-17	v1.1.4 with uncrustify 0.83 downloaded to tools: Format Do
 SetWindowTitle	2026-10-17	v1.3.8: on Windows it renamed the OTHER Sublime process window (FindWindowA first PX_WINDOW_CLASS), own window unchanged; his main Sublime title was altered cosmetically; filed
 Xcode Colors	2026-10-17	v0.5.0: four of the seven schemes applied to a Python view render correctly, no console errors; no finding
 RTL Mirror	2026-10-17	v1.0.1: rtl_mirror on a Hebrew selection shows the popup, no console error; correctness of RTL rendering not judged; no finding
+Man Page Support	2026-10-17	v1.1.1: plugin does not load, ModuleNotFoundError sublime_lib (no dependency declared); begin_edit also gone; filed
