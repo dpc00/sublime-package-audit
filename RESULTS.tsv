@@ -1291,3 +1291,4 @@ Maze Syntax	2026-10-17	Highlighting fine; both snippets use tabTrigger > so neit
 BetterSave	2026-10-17	Save All and Prune work as documented (Prune closes unsaved untitled text without asking, by design); issue #1 open (menu item)
 BTstack HCI Packet Log Converter	2026-10-17	No flush before starting viewer: 0-byte file (proved with stand-in wireshark.exe); wireshark missing gives FileNotFoundError traceback
 DlangAutoModuleName	2026-10-17	Works under src/; outside src inserts whole absolute path as module name; console error Default.history_list imported on 3.3
+C++ Classhelper	2026-10-17	Create class works; Generate Method Definition keeps default args (= 1.5) and raises KeyError folder without a project folder
