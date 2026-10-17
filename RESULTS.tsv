@@ -1203,3 +1203,4 @@ NEURON	2026-10-17	v1.0.0: .hoc opens as Neuron; .mod opens as built-in DTD, not 
 Unreal Shader	2026-10-17	v1.1.0: .usf opens as UnrealShader; opening it removed the open sidebar folder from the window (open issue #2 reproduced on 4200, commented)
 KuaiJi	2026-10-17	v1.2.2: kuaiji_find lists the titles of a .kj-style note with parent path, KuaiJi syntax highlights them; no finding
 CodeStory	2026-10-17	Settings command path uses "Code Story" but package installs as CodeStory; dialog, nothing opens
+Side-by-Side Settings	2026-10-17	Sublime Settings command opened default and user side by side in a new window; no console errors; removed
