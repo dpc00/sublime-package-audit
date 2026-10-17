@@ -1190,3 +1190,4 @@ SevenO2/ion-sublime-syntax	1	+inf, -inf and nan are scoped as symbol identifiers
 chrisnevers/reach-ide-sublime	2	Run build variant passes an empty argument	open	2026-10-17		https://github.com/chrisnevers/reach-ide-sublime/issues/2
 arturo-lang/art-sublimetext-package	1	ife snippet is never loaded: file is named ife.sublime-snippet.xml	open	2026-10-17		https://github.com/arturo-lang/art-sublimetext-package/issues/1
 unlight/sublime-markdown-link	12	Make from URL fails after install: soupsieve is not installed	open	2026-10-17		https://github.com/unlight/sublime-markdown-link/issues/12
+frankarobotics/ride-sublime	1	Everything after the first entry @{ ... }@ Lua block is highlighted as Lua	open	2026-10-17		https://github.com/frankarobotics/ride-sublime/issues/1
