@@ -1214,3 +1214,5 @@ nucleic/sublime-enaml-syntax	1	enamldef/template/func rules broken: grammar has 
 olls/maze-interpreter-v2	20	Sublime snippets: both use tabTrigger > so neither expands	open	2026-10-17		https://github.com/olls/maze-interpreter-v2/issues/20
 bluekitchen/btstack-packet-log	1	Viewer gets an empty file: no flush before starting Wireshark	open	2026-10-17		https://github.com/bluekitchen/btstack-packet-log/issues/1
 bluekitchen/btstack-packet-log	2	wireshark not on PATH: FileNotFoundError traceback, nothing shown to the user	open	2026-10-17		https://github.com/bluekitchen/btstack-packet-log/issues/2
+vitalfadeev/SublimeDlangAutoModuleName	1	Module name is the whole absolute path when the file is not under src or source	open	2026-10-17		https://github.com/vitalfadeev/SublimeDlangAutoModuleName/issues/1
+vitalfadeev/SublimeDlangAutoModuleName	2	Console error: Default.history_list was imported on Python 3.3 (no .python-version)	open	2026-10-17		https://github.com/vitalfadeev/SublimeDlangAutoModuleName/issues/2
