@@ -1229,3 +1229,4 @@ GDL	2026-10-17	Syntax scopes, snippets, backtick autopair OK. AttributeError on 
 SKILL from Cadence	2026-10-17	Syntax for .il auto-applies; scopes, Comments.tmPreferences (toggle_comment gives ; ) and snippets work. Issues disabled; no finding.
 Vtex Snippets	2026-10-17	Snippets insert; all 25 share tabTrigger vtex. buybutton file holds two snippet elements (invalid XML, second ignored): filed #2. README says no longer maintained.
 QuickEdit	2026-10-17	CSS rule popup works for a class in a style block. Tracebacks: cursor on a blank line or closing tag (#5), no folder open with a linked stylesheet (#6), PHP variable without definition (#7).
+Highlight Dodgy Chars	2026-10-17	Marks zero-width space, full-width colon and smart quotes with a phantom, keeps whitelisted European letters unmarked, updates live on insert and undo. No finding.
