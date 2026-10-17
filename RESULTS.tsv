@@ -1137,3 +1137,4 @@ SyntaxFold	2026-10-17	messages.json has a trailing comma: console shows Error pa
 Rhai	2026-10-17	rhai.sublime-syntax loads and scopes fn as meta.function.rhai. The reported bitwise-or highlighting break is already #2. No new finding. Removed.
 StickWithMarkdownSnippets	2026-10-17	In a Markdown tab, ``js + Tab expanded to a javascript fenced block as documented. No console error. No finding. Removed.
 Oceanic Color Scheme	2026-10-17	Themes/Oceanic.tmTheme applied to a JavaScript view loads and draws, no dialog or console error. No finding. Removed.
+PlotGraph	2026-10-17	With python_exec pointed at a real Python + matplotlib 3.10 (wrapper cmd, scratch folder) and show_output_panel True, plot_graph on two number columns opened Figure 1 with the right vectors. Defaults (python_exec /usr/bin/python3.5, panel hidden) are already #6 and #11. No new finding. Removed; scratch recycled.
