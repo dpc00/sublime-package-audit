@@ -1193,3 +1193,4 @@ Move Half Pages	2026-10-17	v1.0.0: move_half_pages forward and back moves the cu
 BeautifyRuby	2026-10-17	v2020.08.07: beautify_ruby re-indents a Ruby file with Ruby 3.4 installed, no console error; 7 open issues already exist; no new finding
 LuaVEXT	2026-10-17	v1.0.2: .lua opens as LuaVEXT (claims the lua extension), no console error; snippets and build not run; no finding
 ReScript	2026-10-17	v0.1.1 with real bs-platform 9: Format File formats correctly but leaves a tmp*.res in the temp folder every run (delete=False, never removed); filed
+blif_sis	2026-10-17	v1.0.3: messages.json valid, .blif opens as BLIF, keyword and comment scopes correct; completions and snippets not run; no finding
