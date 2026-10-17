@@ -1181,3 +1181,4 @@ Man Page Support	2026-10-17	v1.1.1: plugin does not load, ModuleNotFoundError su
 PovRay	2026-10-17	v0.1.5: syntax loads for .pov, comment toggle works; no finding
 LitElement Syntax Highlighting	2026-10-17	v1.0.0: syntax compiles on 4200, .js files open as Lit-Element (claims js extension), scopes ok; recursion error of issue #2 not reproduced; no finding
 Yet Another Launcher	2026-10-17	v1.0.5: file+subl item opens in Notepad (os.startfile) not Sublime; filed. The original package in the Python 3.3 host showed no panel in two tries while a 3.8 copy did (unexplained, not filed)
+Wombat Color Scheme	2026-10-17	v1.0.5: tmTheme XML valid, sublime-color-scheme applies and colors a Python view; no finding
