@@ -1198,3 +1198,4 @@ NSIS Completions & Snippets	2026-10-17	v1.5.2: messages.json, both completions f
 Assembly 6809 and 6309 Syntax Highlighting	2026-10-17	v0.2.4: messages.json valid, .asm opens as Assembly 6809/6309 and a label line gets a label scope, no console error; claims the asm extension; no finding
 Remember Minimap Setting	2026-10-17	v0.1.1: per-view show_minimap false hides the minimap on that tab and true shows it on the other; no finding
 LogView	2026-10-17	v1.1.0: error, warning and mark lines flagged on a .log; default mark_filter shut(ing)? down misses shutting down (status Marks 1 not 2); filed
+Hammock Color Scheme	2026-10-17	v1.1.0: tmTheme and messages.json valid, scheme applies to a Python view; no finding
