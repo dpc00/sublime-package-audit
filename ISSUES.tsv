@@ -1188,3 +1188,4 @@ packagecontrol/pywin32	1	pywin32 library cannot be imported: win32 and win32\lib
 jgburet/jumpy-sublime	5	AttributeError when a group is empty (active_view_in_group returns None)	open	2026-10-17		https://github.com/jgburet/jumpy-sublime/issues/5
 SevenO2/ion-sublime-syntax	1	+inf, -inf and nan are scoped as symbol identifiers, not floats	open	2026-10-17		https://github.com/SevenO2/ion-sublime-syntax/issues/1
 chrisnevers/reach-ide-sublime	2	Run build variant passes an empty argument	open	2026-10-17		https://github.com/chrisnevers/reach-ide-sublime/issues/2
+arturo-lang/art-sublimetext-package	1	ife snippet is never loaded: file is named ife.sublime-snippet.xml	open	2026-10-17		https://github.com/arturo-lang/art-sublimetext-package/issues/1
