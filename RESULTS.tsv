@@ -1163,3 +1163,4 @@ Cucumber Snippets e Highlight em Inglês	2026-10-17	v1.1.0: .feature gets Gherki
 RustAutoComplete	2026-10-17	v0.9.0 installs, messages.json valid, no dialog; completion not exercised (racer and cargo not installed, nothing visible on a .rs file); 10 old issues already report Windows failures; no finding
 All Autocomplete	2026-10-17	installs and removes cleanly, no dialog or console error; completion popup not observable in the unfocused portable window, so cross-file completion not exercised (open #71 untested); no finding
 MapleMBSE MSE Configuration	2026-10-17	v0.2.2: syntax loads for .mse, comment toggle works; grammar needs valid MSE input, only a loose sample tried; no finding
+Coffee Color Scheme	2026-10-17	v0.2.2: theme XML valid, applies to a view and colors Python correctly; no finding
