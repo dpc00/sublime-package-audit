@@ -1152,3 +1152,4 @@ Marcool04/SublimeLinter-contrib-csl	1	Does not load after install: requests is i
 oschwald/SublimeLinter-perlcritic	11	Console warning on every load: Defining cls.executable has no effect	open	2026-10-17		https://github.com/oschwald/SublimeLinter-perlcritic/issues/11
 hao-lee/Graphvizer	29	A missing dot ends the render thread; fixing dot_cmd_path does not bring rendering back until restart	open	2026-10-17		https://github.com/hao-lee/Graphvizer/issues/29
 tarzan/sublime-text-elixir-tests	6	Palette captions say Ruby: Run All Ruby Tests, Run Last Ruby Test	open	2026-10-17		https://github.com/tarzan/sublime-text-elixir-tests/issues/6
+Mimino666/SublimeText2-python-open-module-new	2	Windows: two error dialogs every time the input panel opens; backslash resource paths	open	2026-10-17		https://github.com/Mimino666/SublimeText2-python-open-module-new/issues/2
