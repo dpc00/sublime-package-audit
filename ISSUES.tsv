@@ -1191,3 +1191,4 @@ chrisnevers/reach-ide-sublime	2	Run build variant passes an empty argument	open	
 arturo-lang/art-sublimetext-package	1	ife snippet is never loaded: file is named ife.sublime-snippet.xml	open	2026-10-17		https://github.com/arturo-lang/art-sublimetext-package/issues/1
 unlight/sublime-markdown-link	12	Make from URL fails after install: soupsieve is not installed	open	2026-10-17		https://github.com/unlight/sublime-markdown-link/issues/12
 frankarobotics/ride-sublime	1	Everything after the first entry @{ ... }@ Lua block is highlighted as Lua	open	2026-10-17		https://github.com/frankarobotics/ride-sublime/issues/1
+lucasvscn/synthwave-sublime	2	README: folder name in the Git instructions does not match the package name	open	2026-10-17		https://github.com/lucasvscn/synthwave-sublime/issues/2
