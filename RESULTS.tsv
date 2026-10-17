@@ -1145,3 +1145,4 @@ Bootstrap 4x Autocomplete	2026-10-17	self.data_completions is referenced in on_q
 Bootstrap 4x Snippets	2026-10-17	182 snippets well-formed, no scope but b4- prefixed triggers. Trigger b4-accordian is misspelled: b4-accordion inserts a tab, b4-accordian expands. Issue filed. Removed.
 Architect	2026-10-17	arc.tmLanguage loads and scopes @app as entity.name.function.arc. Issues disabled; no finding. Removed.
 Random Everything	2026-10-17	14 commands run on 4200 (uuid, word, country, email, ipv4, ipv6, date, rfc3339 datetime, time, hex colour, url, full name, letters, letters and numbers): all inserted plausible values, no console error. Int/Float prompt commands not run (open requests already filed by others). No finding. Removed.
+Pumpkin Color Scheme	2026-10-17	Pumpkin.tmTheme applied to a JavaScript view loads and draws, no dialog or console error. No finding. Removed.
