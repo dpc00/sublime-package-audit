@@ -1185,3 +1185,4 @@ Wombat Color Scheme	2026-10-17	v1.0.5: tmTheme XML valid, sublime-color-scheme a
 SwapStrings	2026-10-17	v0.1.0: Swap quotes works on a selection; open issue #1 (multi-char swap) not reproduced; no finding
 Color Scheme - Gray Matter	2026-10-17	v1.7.0: both tmThemes valid XML and apply (dark and light) to a Markdown view; no finding
 OIL_TPL	2026-10-17	v0.9.0: tmLanguage valid XML, .oil file opens as OIL, no console error; token-level scopes only lightly checked; no finding
+Enki Theme	2026-10-17	v1.5.1: messages.json valid, eight tmThemes valid XML, Tokyo Night and Light schemes apply; UI theme files not switched on; no finding
