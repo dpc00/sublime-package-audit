@@ -1173,3 +1173,5 @@ jomarcenter-mjm/RMMVSublimeSnippet	3	Two snippets share the trigger rmmvStructCo
 k-meissonnier/LaravelDumpMan	5	dumpman inserts nothing on the last line of a file without a trailing newline	open	2026-10-17		https://github.com/k-meissonnier/LaravelDumpMan/issues/5
 k-meissonnier/LaravelDumpMan	6	dumpman loops forever on an unclosed ( at the end of the file	open	2026-10-17		https://github.com/k-meissonnier/LaravelDumpMan/issues/6
 krizalys/sublime-portage	1	.ebuild files open as Bash: the built-in Bash syntax also claims the extension	open	2026-10-17		https://github.com/krizalys/sublime-portage/issues/1
+gkpotter/Sublime-TinyCodeCounter	1	markers are matched as regular expressions, not literal text	open	2026-10-17		https://github.com/gkpotter/Sublime-TinyCodeCounter/issues/1
+gkpotter/Sublime-TinyCodeCounter	2	Marker on the first line of the file shows no counter	open	2026-10-17		https://github.com/gkpotter/Sublime-TinyCodeCounter/issues/2
