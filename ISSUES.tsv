@@ -1197,3 +1197,4 @@ math2001/BetterSnippetManager	14	Create New Snippet: default folder name has a t
 math2001/BetterSnippetManager	15	Edit Snippets raises FileNotFoundError when the snippets folder does not exist	open	2026-10-17		https://github.com/math2001/BetterSnippetManager/issues/15
 dparrini/sublime_powersystems	1	syntax_test_PSSe RAW.raw fails 3 of 15 assertions	open	2026-10-17		https://github.com/dparrini/sublime_powersystems/issues/1
 dparrini/sublime_opendss	2	Build passes "$file" with literal quotes in a list-form cmd	open	2026-10-17		https://github.com/dparrini/sublime_opendss/issues/2
+LDAP/SublimeLinter-checkstyle	10	Linter does not load after install: No module named urllib3 (dependencies.json lists only requests)	open	2026-10-17		https://github.com/LDAP/SublimeLinter-checkstyle/issues/10
