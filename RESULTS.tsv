@@ -1278,3 +1278,4 @@ SublimeLinter-contrib-checkstyle	2026-10-17	row 234 LDAP/SublimeLinter-checkstyl
 Easy CP	2026-10-17	Run works; Run blocks UI for whole solution runtime (8.6 s timer delay); settings menu path EasyCP vs Easy CP; codeforces 403 shown as URL Error
 JavaPropertiesEditor	2026-10-17	Installs, decodes \u escapes on open, re-encodes on save, no console errors; open issues #3 #6 already report remaining bugs
 Pretty YAML Node	2026-10-17	Default node_path /usr/bin/node fails on Windows; works with explicit path; invalid YAML traceback and leaked temp dir
+Awk	2026-10-17	Installs; package syntax_test.awk passes 58 assertions; open issues #16 #17 already cover known highlighting bugs
