@@ -1173,3 +1173,4 @@ twolfson/sublime-what-shortcut	2026-10-17	python 2 print statement: SyntaxError,
 twolfson/sublime-theme-extender	2026-10-17	python 2 print statement: SyntaxError, plugin never loads; hardcoded /home/todd path; held until Todd answers yes
 twolfson/sublime-optimal-lines	2026-10-17	add_regions flags passed as icon: ValueError icon must be a string on every load; held until Todd answers yes
 Tony Water	2026-10-17	JSON Pretty does not indent (json.dumps indent passed positionally as skipkeys); other commands work; filed
+Uncrustify	2026-10-17	v1.1.4 with uncrustify 0.83 downloaded to tools: Format Document reformats a C file, user settings picked up; no finding
