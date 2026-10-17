@@ -1171,3 +1171,4 @@ Snippet Destroyer	2026-10-17	v1.0.2: command lists 945 snippets, Destroy writes 
 twolfson/sublime-request	2026-10-17	request with only open_kwargs raises IndexError (open_args[0]); str(bytes) to clipboard unproven; held until Todd answers yes
 twolfson/sublime-what-shortcut	2026-10-17	python 2 print statement: SyntaxError, plugin never loads; held until Todd answers yes
 twolfson/sublime-theme-extender	2026-10-17	python 2 print statement: SyntaxError, plugin never loads; hardcoded /home/todd path; held until Todd answers yes
+twolfson/sublime-optimal-lines	2026-10-17	add_regions flags passed as icon: ValueError icon must be a string on every load; held until Todd answers yes
