@@ -1154,3 +1154,4 @@ hao-lee/Graphvizer	29	A missing dot ends the render thread; fixing dot_cmd_path 
 tarzan/sublime-text-elixir-tests	6	Palette captions say Ruby: Run All Ruby Tests, Run Last Ruby Test	open	2026-10-17		https://github.com/tarzan/sublime-text-elixir-tests/issues/6
 Mimino666/SublimeText2-python-open-module-new	2	Windows: two error dialogs every time the input panel opens; backslash resource paths	open	2026-10-17		https://github.com/Mimino666/SublimeText2-python-open-module-new/issues/2
 kairyou/SublimeSimpleSync	13	A sibling folder whose name starts with the local path (src2 vs src) is synced into the remote	open	2026-10-17		https://github.com/kairyou/SublimeSimpleSync/issues/13
+LDprg/UCFHighlighter	1	numbers rule .{{decimal}} scopes digits inside names (LVCMOS33, RAMB16_X0Y0) as numbers	open	2026-10-17		https://github.com/LDprg/UCFHighlighter/issues/1
