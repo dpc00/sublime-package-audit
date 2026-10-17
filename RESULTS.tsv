@@ -1280,3 +1280,4 @@ JavaPropertiesEditor	2026-10-17	Installs, decodes \u escapes on open, re-encodes
 Pretty YAML Node	2026-10-17	Default node_path /usr/bin/node fails on Windows; works with explicit path; invalid YAML traceback and leaked temp dir
 Awk	2026-10-17	Installs; package syntax_test.awk passes 58 assertions; open issues #16 #17 already cover known highlighting bugs
 CloudWatchLogs	2026-10-17	main.py creates boto3 client at import: NoRegionError without AWS region, plugin never loads; not tested against real AWS
+RISC-V Assembly Syntax	2026-10-17	Installs, .s file highlighted (mnemonics, labels, numbers, comments); incomplete lists (CSRs, directives) only, no defect filed
