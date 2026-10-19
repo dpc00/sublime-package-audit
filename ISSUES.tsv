@@ -1232,3 +1232,10 @@ kakRostropovich/EmmetOneLine	6	Does nothing on a line without leading whitespace
 learning/SublimeServer	47	Directory listing sends a Content-Length header that is not a number	open	2026-10-17		https://github.com/learning/SublimeServer/issues/47
 jugyo/SublimeColorSchemeSelector	15	Next, Previous and Random fail: select_color_scheme is also a built-in command	open	2026-10-17		https://github.com/jugyo/SublimeColorSchemeSelector/issues/15
 Flyclops/JsonTree	5	Pressing Escape in the list jumps to the last key	open	2026-10-17		https://github.com/Flyclops/JsonTree/issues/5
+maciej-zuk/sublime-tagify	7	show_tags_menu inserts the tag once per cursor at every cursor	open	2026-10-18		https://github.com/maciej-zuk/sublime-tagify/issues/7
+wbond/package_control	1805	Root __init__.py is never extracted, so packages that load through it (SuperElixir) install but do nothing	open	2026-10-18		https://github.com/wbond/package_control/issues/1805
+edelvalle/SuperElixir	16	Decoding elixir_sense replies fails on current OTP (SMALL_ATOM_UTF8_EXT length read as a bytes slice)	open	2026-10-18		https://github.com/edelvalle/SuperElixir/issues/16
+edelvalle/SuperElixir	17	Linter is disabled with SublimeLinter 4 (cls.defaults must be a dict, cls.syntax has no effect)	open	2026-10-18		https://github.com/edelvalle/SuperElixir/issues/17
+archydragon/sublime-erlyman	11	Module list is empty with current OTP and Ubuntu (man pages tagged (3), no man3 pages shipped)	open	2026-10-18		https://github.com/archydragon/sublime-erlyman/issues/11
+Dania02525/TestExUnit	1	ProjectRoot._via_upwards_search uses self.spec_folder_name, which does not exist	open	2026-10-18		https://github.com/Dania02525/TestExUnit/issues/1
+Dania02525/TestExUnit	2	Missing settings crash the error path (panel_settings is None) instead of showing the message	open	2026-10-18		https://github.com/Dania02525/TestExUnit/issues/2
