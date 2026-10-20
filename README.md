@@ -4,10 +4,10 @@ An audit of Sublime Text packages from [Package Control](https://packagecontrol.
 
 This repository holds the data and the method. It is a draft: the numbers will be updated.
 
-## In numbers (to 2026-10-19)
+## In numbers (to 2026-10-20)
 
-- **1453 test records** for **1361 different packages** (`RESULTS.tsv`). Most records are a live test in a real Sublime; a few are shorter (the package was loaded, or only its source was read), and the note in each row says which.
-- **1331 issues** filed on **923 repositories** (ISSUES.tsv): 1029 still open, 302 closed. Closed does not mean fixed; the list does not say why an issue was closed.
+- **1546 test records** for **1454 different packages** (`RESULTS.tsv`). Most records are a live test in a real Sublime; a few are shorter (the package was loaded, or only its source was read), and the note in each row says which.
+- **1387 issues** filed on **963 repositories** (ISSUES.tsv): 1085 still open, 302 closed. Closed does not mean fixed; the list does not say why an issue was closed.
 - The package lists used from 2026-10-07 on, and what built each one: `lists/`. The earlier September queue, by install count, is not published; its results are in `RESULTS.tsv`.
 
 ## What was found

@@ -1330,3 +1330,59 @@ tripflex/SublimeWordpressCodexQueryPosts	4	Search text is only escaped for space
 tripflex/SublimeWordpressCodexQueryPosts	5	Menu: mnemonic warnings in the console on every menu load, duplicate id	open	2026-10-19		https://github.com/tripflex/SublimeWordpressCodexQueryPosts/issues/5
 autokludge/ci-codeintel-helper	6	Python 2 print statement SyntaxError	open	2026-10-19		https://github.com/autokludge/ci-codeintel-helper/issues/6
 autokludge/ci-codeintel-helper	7	import ci_ide_helper ImportError	open	2026-10-19		https://github.com/autokludge/ci-codeintel-helper/issues/7
+TeamRemote/remote-sublime	18	messages.json trailing comma	open	2026-10-20		https://github.com/TeamRemote/remote-sublime/issues/18
+TeamRemote/remote-sublime	19	Disconnect with no session AttributeError	open	2026-10-20		https://github.com/TeamRemote/remote-sublime/issues/19
+TeamRemote/remote-sublime	20	100% CPU busy-wait threads	open	2026-10-20		https://github.com/TeamRemote/remote-sublime/issues/20
+TeamRemote/remote-sublime	16	comment: KeyError in close	open	2026-10-20		https://github.com/TeamRemote/remote-sublime/issues/16
+erichard/SublimePHPCompanion	158	import_namespace KeyError autoload/autoload-dev	open	2026-10-20		https://github.com/erichard/SublimePHPCompanion/issues/158
+hudochenkov/ecsstractor	17	className attribute never matches	open	2026-10-20		https://github.com/hudochenkov/ecsstractor/issues/17
+gbaptista/sublime-3-pretty-ruby	5	which not found dialogs on Windows	open	2026-10-20		https://github.com/gbaptista/sublime-3-pretty-ruby/issues/5
+gbaptista/sublime-3-pretty-ruby	4	format on main thread	open	2026-10-20		https://github.com/gbaptista/sublime-3-pretty-ruby/issues/4
+mihai-vlc/sublime-jsfmt	56	Format always fails on current Node.js: stderr deprecation warning is treated as an error	open	2026-10-20		https://github.com/mihai-vlc/sublime-jsfmt/issues/56
+WarWithinMe/Sublime-CodeRunner	4	Run Code does nothing on current Sublime Text (.sublime-syntax not handled)	open	2026-10-20		https://github.com/WarWithinMe/Sublime-CodeRunner/issues/4
+trevordevore/livecode-sublimetext	18	Opening a .livecode or .rev file closes the tab even without LiveCode settings	open	2026-10-20		https://github.com/trevordevore/livecode-sublimetext/issues/18
+gnarula/sublime-laravelgenerator	40	Artisan command output is shown only for routes; route:list, migrate etc. print nothing	open	2026-10-20		https://github.com/gnarula/sublime-laravelgenerator/issues/40
+gnarula/sublime-laravelgenerator	41	Failed Generate command shows no reason (stderr not captured)	open	2026-10-20		https://github.com/gnarula/sublime-laravelgenerator/issues/41
+77QingLiu/SAS-Syntax-and-Theme	1	Alt+E (show_next_error) is bound in every file type and writes User settings each time	open	2026-10-20		https://github.com/77QingLiu/SAS-Syntax-and-Theme/issues/1
+myurtoglu/NamespaceTool	2	Converting using statements back to std:: also changes words inside string literals	open	2026-10-20		https://github.com/myurtoglu/NamespaceTool/issues/2
+pipe-devnull/ZF2Helper	9	New ZF2 Module fails as an installed .sublime-package: files.json not found (add .no-sublime-package)	open	2026-10-20		https://github.com/pipe-devnull/ZF2Helper/issues/9
+pipe-devnull/ZF2Helper	10	New Controller Action raises IndexError on Windows (paths split on slash)	open	2026-10-20		https://github.com/pipe-devnull/ZF2Helper/issues/10
+stolksdorf/CleanCSS	24	Clean current file adds an empty first line and removes the final newline	open	2026-10-20		https://github.com/stolksdorf/CleanCSS/issues/24
+peterdemin/SublimePPrint	2	Settings indent, sort_keys and ensure_ascii are never used	open	2026-10-20		https://github.com/peterdemin/SublimePPrint/issues/2
+shagabutdinov/sublime-terminal-project-folder	1	Does not load with Terminal 3.0.0 - OpenTerminalCommand was renamed	open	2026-10-20		https://github.com/shagabutdinov/sublime-terminal-project-folder/issues/1
+randy3k/GitStatusBar	8	Ahead and behind counts show only the last digit	open	2026-10-20		https://github.com/randy3k/GitStatusBar/issues/8
+randy3k/GitStatusBar	9	git status hangs with large output, status bar stops updating	open	2026-10-20		https://github.com/randy3k/GitStatusBar/issues/9
+Satoh-D/CloseCommentTag	3	Tags with single-quoted attributes are not recognised	open	2026-10-20		https://github.com/Satoh-D/CloseCommentTag/issues/3
+Satoh-D/CloseCommentTag	4	IndexError when a closing tag has no opening tag before the caret	open	2026-10-20		https://github.com/Satoh-D/CloseCommentTag/issues/4
+dreadatour/Pep8Lint	8	Does not load in Sublime Text 3 and 4: import pep8 fails	open	2026-10-20		https://github.com/dreadatour/Pep8Lint/issues/8
+ningbit/sublime_pxtoem	5	Decimal px value such as 1.5px gives invalid CSS	open	2026-10-20		https://github.com/ningbit/sublime_pxtoem/issues/5
+ningbit/sublime_pxtoem	6	AttributeError and no conversion when the line contains px outside a value	open	2026-10-20		https://github.com/ningbit/sublime_pxtoem/issues/6
+shagabutdinov/sublime-autocompletion	10	Complete nesting entries have mistyped args keys (handler long, b longackward)	open	2026-10-20		https://github.com/shagabutdinov/sublime-autocompletion/issues/10
+shagabutdinov/sublime-autocompletion	11	Complete long word backward has no command; two entries share the forward (fuzzy) caption	open	2026-10-20		https://github.com/shagabutdinov/sublime-autocompletion/issues/11
+scotch-io/10-percent-too-dull-for-my-tastes	6	Deprecated rule has an empty foreground	open	2026-10-20		https://github.com/scotch-io/10-percent-too-dull-for-my-tastes/issues/6
+jprichardson/sublime-js-snippets	24	ii snippet: leading space in placeholder and trailing space after the semicolon	open	2026-10-20		https://github.com/jprichardson/sublime-js-snippets/issues/24
+jaumefontal/SASS-Build-SublimeText2	40	line_regex does not match current Ruby Sass error output (F4 does not jump)	open	2026-10-20		https://github.com/jaumefontal/SASS-Build-SublimeText2/issues/40
+joshnh/HTML-Snippets	24	messages.json has a trailing comma; Package Control cannot parse it	open	2026-10-20		https://github.com/joshnh/HTML-Snippets/issues/24
+patricksamson/laravel-5-snippets	31	Command-confirm snippet has an empty tabTrigger and a wrong scope	open	2026-10-20		https://github.com/patricksamson/laravel-5-snippets/issues/31
+patricksamson/laravel-5-snippets	32	Four tabTriggers are shared by two snippets (copy-paste: DB::select, DB::transaction, Input::has, Request::has)	open	2026-10-20		https://github.com/patricksamson/laravel-5-snippets/issues/32
+billymoon/Stylus	87	Compile error dialog shows the whole Node stack trace; the trimming code no longer matches stylus output	open	2026-10-20		https://github.com/billymoon/Stylus/issues/87
+billymoon/Stylus	88	Build system runs stylus -u nib, but the README does not require nib; build fails with Cannot find module nib	open	2026-10-20		https://github.com/billymoon/Stylus/issues/88
+billymoon/Stylus	89	file_regex "." in Stylus.sublime-build counts every output line as an error	open	2026-10-20		https://github.com/billymoon/Stylus/issues/89
+sublimebrasil/sublime-snippets-sass	2	The + (include) and = (mixin) snippets insert text that Sass rejects	open	2026-10-20		https://github.com/sublimebrasil/sublime-snippets-sass/issues/2
+turadg/sublime-react-ide	3	The lazyspec check never checks (lambda is always truthy)	open	2026-10-20		https://github.com/turadg/sublime-react-ide/issues/3
+turadg/sublime-react-ide	4	Preferences menu items point at Packages/sublime-react-ide, which does not exist when installed from Package Control	open	2026-10-20		https://github.com/turadg/sublime-react-ide/issues/4
+artifactdev/Theme-Dark-Material	14	The theme refers to a missing texture: assets/commons/overlay_bar_vertical.png	open	2026-10-20		https://github.com/artifactdev/Theme-Dark-Material/issues/14
+talpor/sublime-rt	1	react-templates.tmLanguage is out of date with the YAML source (braces get Django scopes)	open	2026-10-20		https://github.com/talpor/sublime-rt/issues/1
+leoheck/sublime-3d-tool#3			open	2026-10-20		https://github.com/leoheck/sublime-3d-tool#3/issues/
+RoverWire/codeigniter-utilities#4			open	2026-10-20		https://github.com/RoverWire/codeigniter-utilities#4/issues/
+bobef/ColorSchemeEditor#17			open	2026-10-20		https://github.com/bobef/ColorSchemeEditor#17/issues/
+patrickemuller/Sublime-Darkmatter-Theme#6, #7			open	2026-10-20		https://github.com/patrickemuller/Sublime-Darkmatter-Theme#6, #7/issues/
+stuartherbert/sublime-phpsnippets#12			open	2026-10-20		https://github.com/stuartherbert/sublime-phpsnippets#12/issues/
+Will-ALVIDI/cppStartingKit#29, #30			open	2026-10-20		https://github.com/Will-ALVIDI/cppStartingKit#29, #30/issues/
+austinhappel/sublime-csslint#18, #19			open	2026-10-20		https://github.com/austinhappel/sublime-csslint#18, #19/issues/
+akrabat/SublimeFunctionNameDisplay#33			open	2026-10-20		https://github.com/akrabat/SublimeFunctionNameDisplay#33/issues/
+rs459/bootstrap3-jade-sublime-plugin#19,#20			open	2026-10-20		https://github.com/rs459/bootstrap3-jade-sublime-plugin#19,#20/issues/
+mikepfirrmann/openfolder#11			open	2026-10-20		https://github.com/mikepfirrmann/openfolder#11/issues/
+berfarah/LESS-build-sublime#55			open	2026-10-20		https://github.com/berfarah/LESS-build-sublime#55/issues/
+pjlamb12/st3-ng2-snippets#4			open	2026-10-20		https://github.com/pjlamb12/st3-ng2-snippets#4/issues/
+mattseymour/sublime-django#9,#10			open	2026-10-20		https://github.com/mattseymour/sublime-django#9,#10/issues/
