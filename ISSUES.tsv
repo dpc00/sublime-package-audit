@@ -1374,7 +1374,7 @@ turadg/sublime-react-ide	4	Preferences menu items point at Packages/sublime-reac
 artifactdev/Theme-Dark-Material	14	The theme refers to a missing texture: assets/commons/overlay_bar_vertical.png	open	2026-10-20		https://github.com/artifactdev/Theme-Dark-Material/issues/14
 talpor/sublime-rt	1	react-templates.tmLanguage is out of date with the YAML source (braces get Django scopes)	open	2026-10-20		https://github.com/talpor/sublime-rt/issues/1
 leoheck/sublime-3d-tool#3			open	2026-10-20		https://github.com/leoheck/sublime-3d-tool#3/issues/
-RoverWire/codeigniter-utilities#4			open	2026-10-20		https://github.com/RoverWire/codeigniter-utilities#4/issues/
+RoverWire/codeigniter-utilities	4	Two snippets share the trigger cidbtranscom (retracted: the Tab popup lists both)	closed	2026-10-20	2026-10-20	https://github.com/RoverWire/codeigniter-utilities/issues/4
 bobef/ColorSchemeEditor#17			open	2026-10-20		https://github.com/bobef/ColorSchemeEditor#17/issues/
 patrickemuller/Sublime-Darkmatter-Theme#6, #7			open	2026-10-20		https://github.com/patrickemuller/Sublime-Darkmatter-Theme#6, #7/issues/
 stuartherbert/sublime-phpsnippets#12			open	2026-10-20		https://github.com/stuartherbert/sublime-phpsnippets#12/issues/
@@ -1386,3 +1386,5 @@ mikepfirrmann/openfolder#11			open	2026-10-20		https://github.com/mikepfirrmann/
 berfarah/LESS-build-sublime#55			open	2026-10-20		https://github.com/berfarah/LESS-build-sublime#55/issues/
 pjlamb12/st3-ng2-snippets#4			open	2026-10-20		https://github.com/pjlamb12/st3-ng2-snippets#4/issues/
 mattseymour/sublime-django#9,#10			open	2026-10-20		https://github.com/mattseymour/sublime-django#9,#10/issues/
+etic/CSharpSnippets	11	try snippet inserts catch { instead of catch (	open	2026-10-20		https://github.com/etic/CSharpSnippets/issues/11
+etic/CSharpSnippets	12	permission snippet leaves a stray closing brace	open	2026-10-20		https://github.com/etic/CSharpSnippets/issues/12
