@@ -1388,3 +1388,107 @@ pjlamb12/st3-ng2-snippets#4			open	2026-10-20		https://github.com/pjlamb12/st3-n
 mattseymour/sublime-django#9,#10			open	2026-10-20		https://github.com/mattseymour/sublime-django#9,#10/issues/
 etic/CSharpSnippets	11	try snippet inserts catch { instead of catch (	open	2026-10-20		https://github.com/etic/CSharpSnippets/issues/11
 etic/CSharpSnippets	12	permission snippet leaves a stray closing brace	open	2026-10-20		https://github.com/etic/CSharpSnippets/issues/12
+caiogondim/js-console-sublime-snippets	12	console-timeEnd.coffee.sublime-snippet: scope typo source.cofee	open	2026-10-21		https://github.com/caiogondim/js-console-sublime-snippets/issues/12
+patricktalmadge/Bootstrapper_snippets	1	Tab triggers with a space (21 of 24 snippets) never expand	open	2026-10-21		https://github.com/patricktalmadge/Bootstrapper_snippets/issues/1
+ccampbell/sublime-jsx	11	JSX.sublime-syntax fails to load on ST 4215: with_prototype recursion	open	2026-10-21		https://github.com/ccampbell/sublime-jsx/issues/11
+nickbalestra/hero	10	comment: Hero Light.sublime-theme is an empty placeholder (cause of Hero Light hangs everything)	open	2026-10-21		https://github.com/nickbalestra/hero/issues/10
+oubiwann/vim-blackboard-sublime-theme	2	Widget settings and README use the wrong package folder name (Theme - VimBlackboard)	open	2026-10-21		https://github.com/oubiwann/vim-blackboard-sublime-theme/issues/2
+harrism/sublimetext-cuda-cpp	10	CUDA-specific highlighting rules never match on ST 4215 (include source.c++ comes first)	open	2026-10-21		https://github.com/harrism/sublimetext-cuda-cpp/issues/10
+adamchainz/SublimeHTMLMustache	15	scopeName has a typo (txt) and a comma inside one scope name	open	2026-10-21		https://github.com/adamchainz/SublimeHTMLMustache/issues/15
+davezatch/Media-Query-Snippets	1	Spaces in tabTrigger: only the last word is replaced, the rest stays in the file	open	2026-10-21		https://github.com/davezatch/Media-Query-Snippets/issues/1
+onhernandes/sublime-scss-snippets	2	for, each, while and adjust-color snippets lose their $variables (dollar not escaped)	open	2026-10-21		https://github.com/onhernandes/sublime-scss-snippets/issues/2
+stormwarning/jsont-tmbundle	5	No highlighting for {.section}, {# comment} and other JSON-T tags (injections not applied)	open	2026-10-21		https://github.com/stormwarning/jsont-tmbundle/issues/5
+kliu/sublime-theme-lanzhou	2	messages.json is invalid JSON (trailing comma) and names a missing file	open	2026-10-21		https://github.com/kliu/sublime-theme-lanzhou/issues/2
+UnicornForest/Unity3DSnippets	3	GUI.PasswordField snippet inserts nothing (unclosed ${3: field)	open	2026-10-21		https://github.com/UnicornForest/Unity3DSnippets/issues/3
+jampow/velocity-sublime	7	read snippet loses $_reader (dollar not escaped)	open	2026-10-21		https://github.com/jampow/velocity-sublime/issues/7
+petereichinger/Unity3D-Shader	10	Snippets and completions use scope source.shader but the syntax scope is source.unity_shader	open	2026-10-21		https://github.com/petereichinger/Unity3D-Shader/issues/10
+agibsonsw/AndyPHP	1	Typo in completions: AMQPChannnel	open	2026-10-21		https://github.com/agibsonsw/AndyPHP/issues/1
+aldomann/sublime-orchis	7	messages.json has a trailing comma (Package Control cannot parse it)	open	2026-10-21		https://github.com/aldomann/sublime-orchis/issues/7
+geekpradd/Flask-Sublime	6	Duplicate entries in Flask.sublime-completions	open	2026-10-21		https://github.com/geekpradd/Flask-Sublime/issues/6
+ayinloya/materialized-css-snippets	16	m-button:flat snippet inserts stray {4:add and }	open	2026-10-21		https://github.com/ayinloya/materialized-css-snippets/issues/16
+josegonzalez/sublimetext-cakephp	12	Snippets lose PHP variables ($name, $hasOne, ...) and newComponent has a stray {7:SomewhereElse}	open	2026-10-21		https://github.com/josegonzalez/sublimetext-cakephp/issues/12
+mrtnbroder/meteor-snippets	18	CoffeeScript Meteor.call snippet has an unclosed ${3: and inserts nothing	open	2026-10-21		https://github.com/mrtnbroder/meteor-snippets/issues/18
+odyssomay/sublime-lispindent	32	SyntaxWarning: invalid escape sequence in indent.py (3 regexes)	open	2026-10-21		https://github.com/odyssomay/sublime-lispindent/issues/32
+hacking-robot/sublime-yii-snippets	5	cadp snippet loses $dataProvider in its last comment line	open	2026-10-21		https://github.com/hacking-robot/sublime-yii-snippets/issues/5
+tenforwardconsulting/abcss	2	SyntaxWarning: invalid escape sequence in abcss.py (3 regexes)	open	2026-10-21		https://github.com/tenforwardconsulting/abcss/issues/2
+timlogemann/sublime-acf-snippets	1	acf_add_text_field and acf_add_textarea insert literal {3:PARENT} / {N:PLACEHOLDER} (missing $)	open	2026-10-21		https://github.com/timlogemann/sublime-acf-snippets/issues/1
+baerkins/acf_snippets	5	Gallery snippets lose $image in the caption line	open	2026-10-21		https://github.com/baerkins/acf_snippets/issues/5
+TUD-INF-IAI-MCI/AgsbsMarkdownPlugin	21	Plugin does not load on Python 3.12+ (No module named distutils)	open	2026-10-21		https://github.com/TUD-INF-IAI-MCI/AgsbsMarkdownPlugin/issues/21
+wukkuan/AMD-Module-Editor	6	SyntaxWarning: invalid escape sequence in amd_module_list.py (2 regexes)	open	2026-10-21		https://github.com/wukkuan/AMD-Module-Editor/issues/6
+teamwethrift/amp-snippets	1	Snippets never expand in HTML files: scope source.html does not match text.html.basic	open	2026-10-21		https://github.com/teamwethrift/amp-snippets/issues/1
+teamwethrift/amp-snippets	2	amp-pixel inserts scr instead of src	open	2026-10-21		https://github.com/teamwethrift/amp-snippets/issues/2
+teamwethrift/amp-snippets	3	amp-youtube-script inserts the amp-youtube element instead of the script tag	open	2026-10-21		https://github.com/teamwethrift/amp-snippets/issues/3
+teamwethrift/amp-snippets	4	amp-carousel body repeats the width value	open	2026-10-21		https://github.com/teamwethrift/amp-snippets/issues/4
+teamwethrift/amp-snippets	5	amp-mustache: unescaped } closes the placeholder early	open	2026-10-21		https://github.com/teamwethrift/amp-snippets/issues/5
+iuliux/SublimeText2-Antlr-syntax	17	No Comments.tmPreferences: Toggle Comment does nothing in ANTLR files	open	2026-10-21		https://github.com/iuliux/SublimeText2-Antlr-syntax/issues/17
+ksgy/api-checker	1	Timer keeps running after the plugin is unloaded or removed	open	2026-10-21		https://github.com/ksgy/api-checker/issues/1
+iuliux/SublimeText2-Antlr-syntax	18	Build system fails on Windows: whole command line is run as one program name	open	2026-10-21		https://github.com/iuliux/SublimeText2-Antlr-syntax/issues/18
+TenSoja/arff-syntax	1	Uppercase @ATTRIBUTE, @DATA, @RELATION and NUMERIC are not highlighted	open	2026-10-21		https://github.com/TenSoja/arff-syntax/issues/1
+Fansaly/ASL-Syntax-Highlight	2	BigEndian is not highlighted: keyword list has "BigEndianing"	open	2026-10-21		https://github.com/Fansaly/ASL-Syntax-Highlight/issues/2
+Fansaly/ASL-Syntax-Highlight	3	SPISerialBusV2 is not highlighted: keyword list has "SPISerialbusV2"	open	2026-10-21		https://github.com/Fansaly/ASL-Syntax-Highlight/issues/3
+marcosisocram/asp-snippets	2	dim snippet inserts an initializer, which is invalid in VBScript	open	2026-10-21		https://github.com/marcosisocram/asp-snippets/issues/2
+nolanar/ATG-Syntax-Sublime	1	No C# highlighting in semantic actions: C#.sublime-syntax no longer has the code, method and block contexts	open	2026-10-21		https://github.com/nolanar/ATG-Syntax-Sublime/issues/1
+nolanar/ATG-Syntax-Sublime	2	Typo in scope name: puctuation.definition.comment.atg	open	2026-10-21		https://github.com/nolanar/ATG-Syntax-Sublime/issues/2
+SenhorLucas/AbaqusSublimePackage	7	SyntaxWarning: invalid escape sequence in delete_lines.py (2 regexes)	open	2026-10-21		https://github.com/SenhorLucas/AbaqusSublimePackage/issues/7
+SenhorLucas/AbaqusSublimePackage	8	test.sublime-completions is shipped: give_me_a_WOMB shows up in completions	open	2026-10-21		https://github.com/SenhorLucas/AbaqusSublimePackage/issues/8
+abstractmarkup/sublimetext	1	tag_shorthand_with_attributes begin pattern matches the empty string: scope repeated 30+ times on every line	open	2026-10-21		https://github.com/abstractmarkup/sublimetext/issues/1
+mangecoeur/AcademicMarkdown	23	comment with tested fix	open	2026-10-21		https://github.com/mangecoeur/AcademicMarkdown/issues/23
+lionicsheriff/SublimeAcmePlumbing	6	break in finally	open	2026-10-21		https://github.com/lionicsheriff/SublimeAcmePlumbing/issues/6
+caiofsouza/AddLibrary	2	IndexError no folder	open	2026-10-21		https://github.com/caiofsouza/AddLibrary/issues/2
+caiofsouza/AddLibrary	3	UnboundLocalError cancel	open	2026-10-21		https://github.com/caiofsouza/AddLibrary/issues/3
+caiofsouza/AddLibrary	4	CRLF on Windows	open	2026-10-21		https://github.com/caiofsouza/AddLibrary/issues/4
+caiofsouza/AddLibrary	5	makedirs race	open	2026-10-21		https://github.com/caiofsouza/AddLibrary/issues/5
+memoryleak/AdvancedAnsibleSnippets	1	unescaped dollar vars in 33 snippets	open	2026-10-21		https://github.com/memoryleak/AdvancedAnsibleSnippets/issues/1
+dpreussner/advanced-at-snippets-pack	1	{2:..} without dollar	open	2026-10-21		https://github.com/dpreussner/advanced-at-snippets-pack/issues/1
+aery32/sublime-aery32	6	ModuleNotFoundError fixhudson	open	2026-10-21		https://github.com/aery32/sublime-aery32/issues/6
+Starli0n/SublimeAgentRansack	5	load failure without app	open	2026-10-21		https://github.com/Starli0n/SublimeAgentRansack/issues/5
+Starli0n/SublimeAgentRansack	6	invalid escape warnings	open	2026-10-21		https://github.com/Starli0n/SublimeAgentRansack/issues/6
+odtorres/Alfresco-Sublime-Snippets	2	five duplicate trigger pairs	open	2026-10-21		https://github.com/odtorres/Alfresco-Sublime-Snippets/issues/2
+alive-vietnam-ti/Alive-Snippets	1	stale pyc bad magic number	open	2026-10-21		https://github.com/alive-vietnam-ti/Alive-Snippets/issues/1
+germtb/AltUp	2	Alt+Up first paragraph off by one	open	2026-10-21		https://github.com/germtb/AltUp/issues/2
+titouanc/sublime-ambienttalk	2	matches typo canArguments	open	2026-10-21		https://github.com/titouanc/sublime-ambienttalk/issues/2
+titouanc/sublime-ambienttalk	3	undefined numeric include	open	2026-10-21		https://github.com/titouanc/sublime-ambienttalk/issues/3
+futek/sublime-anb	1	Abstration in the keyword list looks like a typo for Abstraction	open	2026-10-21		https://github.com/futek/sublime-anb/issues/1
+somelun/ancient-pond	1	selection_corner_radius is "cut" (a style name, not a radius)	open	2026-10-21		https://github.com/somelun/ancient-pond/issues/1
+SergiJuanola/Andrew	8	Windows: automatic SDK search fails, find_win_logical_drives is not defined	open	2026-10-21		https://github.com/SergiJuanola/Andrew/issues/8
+SergiJuanola/Andrew	9	No default settings: New Android Project raises TypeError until the SDK path is set	open	2026-10-21		https://github.com/SergiJuanola/Andrew/issues/9
+SergiJuanola/Andrew	10	SyntaxWarning: invalid escape sequence at Andrew.py line 193	open	2026-10-21		https://github.com/SergiJuanola/Andrew/issues/10
+ribot/SublimeAndroidSnippets	5	TextView snippet is missing the opening <	open	2026-10-21		https://github.com/ribot/SublimeAndroidSnippets/issues/5
+ribot/SublimeAndroidSnippets	6	ad-onCreate inserts onCreate() without the Bundle parameter	open	2026-10-21		https://github.com/ribot/SublimeAndroidSnippets/issues/6
+agibsonsw/AndyEdits	5	output_edits: on_post_save raises TypeError at view.begin_edit()	open	2026-10-21		https://github.com/agibsonsw/AndyEdits/issues/5
+agibsonsw/AndyEdits	6	import sys is missing (sys.path used on Linux)	open	2026-10-21		https://github.com/agibsonsw/AndyEdits/issues/6
+agibsonsw/AndyEdits	7	Multi-line edit regions show without line breaks in the quick panel	open	2026-10-21		https://github.com/agibsonsw/AndyEdits/issues/7
+agibsonsw/AndyPython	1	py_help raises TypeError at view.begin_edit(), no help is shown	open	2026-10-21		https://github.com/agibsonsw/AndyPython/issues/1
+agibsonsw/AndyPython	2	Two SyntaxWarnings: invalid escape sequences in PyHelp.py and PythonCompletions.py	open	2026-10-21		https://github.com/agibsonsw/AndyPython/issues/2
+Angular-io-Code/Angular-io-Code	2	packages.json details URL has a typo (Angular-io-Codee)	open	2026-10-21		https://github.com/Angular-io-Code/Angular-io-Code/issues/2
+adeniszczyc/Animate.css-Snippets	4	Stray untitled.css in zooming-exits (copy of slideInDown)	open	2026-10-21		https://github.com/adeniszczyc/Animate.css-Snippets/issues/4
+adambullmer/sublime_ansible_vault	21	Windows: no command runs, Popen([command], shell=True) quotes the whole line as one program name	open	2026-10-21		https://github.com/adambullmer/sublime_ansible_vault/issues/21
+adambullmer/sublime_ansible_vault	22	OS-specific settings are ignored: get_setting returns project_settings.get(key)	open	2026-10-21		https://github.com/adambullmer/sublime_ansible_vault/issues/22
+adambullmer/sublime_ansible_vault	23	Ansible Vault: View opens an empty tab (insert uses the other view edit token)	open	2026-10-21		https://github.com/adambullmer/sublime_ansible_vault/issues/23
+swdunlop/antiki	4	Windows: the 10 second limit does not stop the command, the editor stays frozen until it ends	open	2026-10-21		https://github.com/swdunlop/antiki/issues/4
+wolray/AnySwap	1	any_swap raises AttributeError when the line starts with a closing bracket	open	2026-10-21		https://github.com/wolray/AnySwap/issues/1
+AoiKuiyuyou/AoikConsolePanelStartup-SublimeText	1	Default settings have debug true (code default is False), console prints debug lines at every start	open	2026-10-21		https://github.com/AoiKuiyuyou/AoikConsolePanelStartup-SublimeText/issues/1
+glinmac/hive-sublime-text	3	Four completions insert another function name (ucase, unbase64, inline, substring_index)	open	2026-10-21		https://github.com/glinmac/hive-sublime-text/issues/3
+glinmac/hive-sublime-text	4	Completion typos: nullif missing ), CASE reuses ${3}, rand(seed)), patten	open	2026-10-21		https://github.com/glinmac/hive-sublime-text/issues/4
+glinmac/hive-sublime-text	5	The -- comment rule is scoped comment.line.double-slash.asciidoc	open	2026-10-21		https://github.com/glinmac/hive-sublime-text/issues/5
+dirajkumar/sublime-apex-snippets	7	ifBlock snippet: no scope, lower-case trigger ifblock, trailing newline and tab	open	2026-10-21		https://github.com/dirajkumar/sublime-apex-snippets/issues/7
+dirajkumar/sublime-apex-snippets	8	ctor snippet has the trigger ctror	open	2026-10-21		https://github.com/dirajkumar/sublime-apex-snippets/issues/8
+dans98/Sublime-ApiGen	3	Console shows none of ApiGen's output and never shows errors	open	2026-10-21		https://github.com/dans98/Sublime-ApiGen/issues/3
+dans98/Sublime-ApiGen	4	Freeform and Generate Freeform pass all input as one argument	open	2026-10-21		https://github.com/dans98/Sublime-ApiGen/issues/4
+dans98/Sublime-ApiGen	5	A failed start leaves all ApiGen commands disabled until restart	open	2026-10-21		https://github.com/dans98/Sublime-ApiGen/issues/5
+dans98/Sublime-ApiGen	6	messages.json has a trailing comma	open	2026-10-21		https://github.com/dans98/Sublime-ApiGen/issues/6
+artemk/Sublime-Apidock	1	Search Selection commands fail to load as window commands (TypeError at startup)	open	2026-10-21		https://github.com/artemk/Sublime-Apidock/issues/1
+artemk/Sublime-Apidock	2	Search Selection with an empty selection searches for an empty string	open	2026-10-21		https://github.com/artemk/Sublime-Apidock/issues/2
+mimers/ApkInstaller	1	Package fails to load on Python 3.13+: No module named telnetlib	open	2026-10-21		https://github.com/mimers/ApkInstaller/issues/1
+mimers/ApkInstaller	2	Cancelling the device menu runs the command on the last device	open	2026-10-21		https://github.com/mimers/ApkInstaller/issues/2
+mimers/ApkInstaller	3	No device attached raises TypeError (getDevices returns None)	open	2026-10-21		https://github.com/mimers/ApkInstaller/issues/3
+Deisss/appstormjs-sublime	1	ajax snippet is missing an opening quote before the template name	open	2026-10-21		https://github.com/Deisss/appstormjs-sublime/issues/1
+jeffhandley/AppendNewline	1	Cursor moves to the new line when it is at the end of the line	open	2026-10-21		https://github.com/jeffhandley/AppendNewline/issues/1
+shagabutdinov/sublime-append-selection	3	Append next word: words at the start or end of the buffer are never matched	open	2026-10-21		https://github.com/shagabutdinov/sublime-append-selection/issues/3
+shagabutdinov/sublime-append-selection	4	Skip last: AttributeError last_backward when used first in a view	open	2026-10-21		https://github.com/shagabutdinov/sublime-append-selection/issues/4
+MauriceZ/AppendSemiColon	6	Multi-line selection: semicolon only added to the last line	open	2026-10-21		https://github.com/MauriceZ/AppendSemiColon/issues/6
+MauriceZ/AppendSemiColon	7	enter_new_line only works as the string true, not as a boolean	open	2026-10-21		https://github.com/MauriceZ/AppendSemiColon/issues/7
+jjchiw/ArangoExec	2	Running a query shows an error dialog: Packages/JavaScript/JSON.tmLanguage not found	open	2026-10-21		https://github.com/jjchiw/ArangoExec/issues/2
+jjchiw/ArangoExec	3	Unreachable server: TypeError in _showToConsole (json.loads(None))	open	2026-10-21		https://github.com/jjchiw/ArangoExec/issues/3
+jjchiw/ArangoExec	4	Query runs on the main thread with a 500 s timeout and freezes Sublime Text	open	2026-10-21		https://github.com/jjchiw/ArangoExec/issues/4
+nliberg/argument-noun	1	Argument after a nested call selects nothing (daa/cia/via)	open	2026-10-21		https://github.com/nliberg/argument-noun/issues/1
