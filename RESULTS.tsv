@@ -1842,3 +1842,577 @@ Aqueducts	2026-10-21	installed via palette on 4215; existing issue #2 (sample sc
 ArangoExec	2026-10-21	installed via palette on 4215; real closed port for failure path, stand-in HTTP server for success and slow reply (no ArangoDB available); modal dialog JSON.tmLanguage, TypeError on unreachable server, main-thread freeze; first two fixed in copy
 Argument Noun	2026-10-21	installed via palette on 4215; vi_expand_to_arguments tested directly (Vintage not enabled); argument after a nested call selects nothing, fix tested in copy
 AriaTemplates Highlighter	2026-10-21	installed via palette on 4215; open issue #4 confirmed live: stray-bracket-end on }} and macro scoped as JS block; removing the source.js include in the Template rule fixes those two (partial), comment posted on #4
+AriaTemplates Snippets	2026-10-22	installed via palette on 4215; 10 snippets; unescaped $destructor in Class/complete expands to nothing (..call), fix tested; shared trigger Aria.classDefinition is labelled complete/simple in the popup, not filed
+ArmaBuild	2026-10-22	installed via palette on 4215; one-line build system; ran against a scratch project with a space in its path and a real tools\build.py: works, output panel shows the script output; clean, not filed
+ArmoryBlue	2026-10-22	installed via palette on 4215; release tag 2.0.10 (what Package Control installs) contains the Cobalt2 theme files, ArmoryBlue files only on master; issues disabled so emailed jackareis@gmail.com (message 1a1623bb0eb12b73); master messages.json trailing comma and Widget settings path read only. Also confirmed in Package Control source that messages.json is read with strict json.load (supports ApiGen#6)
+AsAbove	2026-10-22	ST2-era, not in the ST4 Install list; zipball copy on 4215; README cursor example and three-selection example both match; console quiet; clean, not filed
+Ascetic color schemes	2026-10-22	installed via palette on 4215; Black scheme applied to Python sample, renders fine; both tmTheme files start with an XML comment before the xml declaration (strict plistlib rejects, Sublime accepts); clean, not filed
+AsciiConverter	2026-10-22	hex/binary to ascii: IndexError on trailing space (fix tested hex), eval() on selection (tested); issues #18 #19
+Asp.Net File Switch	2026-10-22	unsaved tab TypeError, designer ignores upper-case ext; fixes tested; issues #3 #4
+AspectJ	2026-10-22	syntax only; plist valid; pointcut/advice/declare scopes checked live; clean
+Asterisk Config	2026-10-22	syntax only; plists valid; scopes and comment toggle checked live; clean
+Asterisk Extended Language	2026-10-22	syntax only; plist valid; scopes checked live; clean
+Async Mindset Snippets	2026-10-22	done snippet carries err's description; snippets expand fine; issue #1
+Async Snippets	2026-10-22	4 snippets expanded live; clean (no scope, triggers everywhere, by design)
+Atlantis VIP Language	2026-10-22	syntax+snippets ok; show_definitions string in settings; issue #1
+AttrFold	2026-10-22	folds data-class/mimetype (name suffix match) and ignores single quotes; fix tested; issues #1 #2
+Attribute Grammar	2026-10-22	syntax scopes and comments ok live; build (uuagc, Haskell) not run: tool not installed, build output did not show; clean
+Aurora Color Scheme	2026-10-22	scheme parses, applied live to JS, no black class blocks; clean
+Auto Encoding for Ruby	2026-10-22	ST2 plugin: allowed_syntaxes tmLanguage only, str.decode, begin_edit; port tested; issues #21 #22 #23
+Auto Fold	2026-10-22	endswith matches .cmd for md; shared active flag folds unlisted files on save; fixes tested; issues #8 #9
+AutoCloseEmptyGroup	2026-10-22	close_pane without group closes the active pane, not the empty one; fix tested; issue #2
+AutoComments	2026-10-22	ST2 plugin: author name/email in defaults, crash on unsupported/unsaved, invalid escape; fixes tested; issues #2 #3 #4
+AutoCopyright	2026-10-22	ST2 plugin: first-run NameError, Edit object after run, invalid escape; fixes tested (folder install); issues #28 #29 #30; not installable in ST4 (#26 open)
+AutoImport	2026-10-22	PC install shows dependency dialog; needs 11+ sibling packages (sublime-enhanced set), chain not declared; own commands not reached; issue #2
+AutoIt Plys	2026-10-22	Tested with a stand-in translator script (AutoIt not installed): repeated plys_build prepends the translator path each run (fix tested); console panel forced open at start without AutoIt.
+AutoItScript	2026-10-22	Tested with stand-in exe: build/compile/tidy commands build correct command lines; build on unsaved tab raises TypeError (#37). Real AutoIt not installed.
+AutoLISP	2026-10-22	Clean: syntax scopes, line and block comment toggles work. .lsp opens as built-in Lisp (extension clash), not filed.
+AutoMatchEnabled	2026-10-22	Clean: palette entry and toggle flip auto_match_enabled on and off.
+AutoPHPDollar	2026-10-22	Not in ST4 install list; tested GitHub master copy with .python-version 3.8. Constant before == or === gets a dollar (tested); SyntaxWarnings on 3.14. Proposed rule fix did not take effect (settings not reloaded), labelled unverified.
+AutoSlim	2026-10-22	ST2-only, not in ST4 list; zip copy fails to load (Python 2 print statements). Rest read only, labelled.
+AutoSoftWrap	2026-10-22	Capital-letter extension (b.MD) gets no word wrap; fix .lower() tested in folder copy.
+AutoUpdateSourceHeader	2026-10-22	Saves drop trailing */ on one-line headers, default name placeholder written into files, README copyright example not updated; fixes tested in folder copy (name line fix not seen with a real name).
+AutoWidth	2026-10-22	Clean: with word_wrap and a fixed wrap_width, F10/auto_width command lowers wrap_width to fit the view and reduces the font size. Widening reset not tested.
+AutomaticFullscreen	2026-10-22	plugin_loaded toggles full screen; a reload takes the window out of full screen again (tested in folder copy with .python-version 3.8).
+AvrAssembler	2026-10-22	Syntax only (AVR toolchain not needed): single-digit numbers, greedy strings, no comment metadata, keyword.coperator scope; fixes tested in folder copy.
+Aweibo	2026-10-22	Folder copy fails to load (ModuleNotFoundError aaweibosdk); Python 2 syntax and no commands, read only. Needs a Weibo account, not tested further.
+Axios Snippets	2026-10-22	promise snippet inserts Promise() without new (throws in Node); README short triggers not defined (read only). Contents of axios snippets valid.
+AzureResourceManager	2026-10-22	Syntax, comments work; resource snippet has properties: typo (tested), Description tag case ignored (tested); resources object vs array read only.
+B Syntax Highlighting	2026-10-22	A-z range typo makes [ and the digit in v[1] scope as variable; fix tested in folder copy. Rest of syntax and comments work.
+BAROC syntax highlighting	2026-10-22	Float rule unreachable (int first), [|] regex class, single-quote scope named double, include of missing context list; fixes tested in folder copy.
+BART	2026-10-22	Does not load on Python 3.13+ (bundled requests imports cgi), tested; noop callback and is -1 read only. BART API still answers.
+BBEdit Indent	2026-10-22	Whitespace-only last line gets an extra space (fix tested); Windows/Linux keymaps replace Fold/Unfold (read, key press not testable).
+BEMHTML	2026-10-22	Clean in my test: scopes for block/elem predicates, js tokens, no false keyword matches (blockage, foo.block). Open issue #2 (mods matching) not reproduced with my probes.
+BEMJSON snippets	2026-10-22	efc snippet has trigger etc (tested via palette); bundle snippet scope commented out (read).
+BGScript	2026-10-22	No string rule; # inside a string starts a comment; string rule fix tested in folder copy.
+BYOND	2026-10-22	is_enabled blocks Build/Run (tested unpatched vs patched in folder copy); KeyError project_path without a folder. Rig: removing a zip-loaded package then making a same-name folder leaves a stale zipimport error; used zz_ name.
+BZW Language	2026-10-22	numbers inside names, strings at line edges; fixes tested
+Baan	2026-10-22	syntax and snippet work; function snippet description copied from if
+Back There	2026-10-22	save/go and cross-file jump work; closed view is a silent no-op; no finding
+Backbone Baguette	2026-10-22	snippets only; JS snippets insert correctly; no finding
+Backbone.Marionette	2026-10-22	bmm snippet uses module name as parameter; fix tested
+BackgroundColorEdit	2026-10-22	plistlib.readPlist removed; loose hex regex; fixes tested
+Ballerina	2026-10-22	syntax fine; if/else snippet placeholder comments out paren; README says no Package Control
+Bang Search	2026-10-22	query not URL-encoded; fix tested
+Baobab React ES6 Snippets	2026-10-22	snippets work; issues disabled; emailed maintainer: messages.json lacks install key, 1.0.0.txt unused
+Base Snippets	2026-10-22	gen trigger shared by two snippets; README stale
+Base64 Fold	2026-10-22	folding works; SyntaxWarning invalid escape
+Beanstalk Tools	2026-10-22	beanstalk_deploy missing; SyntaxWarnings
+Beau	2026-10-22	unsaved YAML view: TypeError in thread, spinner stuck; fix read only
+Beautiful Soup Completion	2026-10-22	completions work; messages.json trailing comma
+BeautifyRust	2026-10-22	v0.3.0 uses removed --write-mode; unsaved tab TypeError; failure marks buffer dirty
+Befunge-93	2026-10-22	Tested on portable 4215. 4 issues: string rule never wins (fix tested), constant.numberic typo (fix tested), ZeroDivisionError (tested outside Sublime), both interpreter files run on plugin load (console IndexError). Build output not seen through my tools.
+Behat Features	2026-10-22	Tested on portable 4215 (syntax only). 2 issues with tested fixes: unbalanced quote or < runs across lines (same family as #7), mid-line # scoped as comment.
+Behat Snippets	2026-10-22	Tested on portable 4215. 2 issues: duplicate When trigger (Tab does nothing, control expands), iHave snippet mirrors step text into the method name (fix tested). #4 (no scope) reproduced and commented.
+Behave Color Scheme	2026-10-22	Tested on portable 4215: tmTheme parses, applies to a JS file with sensible colors, no console errors. Clean, no finding.
+Behave Step Finder	2026-10-22	Tested on portable 4215. 2 issues: Match Step AttributeError on a single-quoted step (tested live, fix regex checked in Python), u-prefixed steps never found (regex evaluated in Python).
+Behave Toolkit	2026-10-22	Tested on portable 4215 with behave 1.3.3 (pip, user Scripts folder). 2 issues: all commands fail with JSONDecodeError (behave prints a USING RUNNER line first; reproduced live, parser fix checked offline), 7 SyntaxWarnings. Source repo mixxorz/BehaveToolkit (list row had the readthedocs URL).
+Better Close Window	2026-10-22	Tested on portable 4215 in a second window: better_close_window closes the window with no console error. Open #5 (close_workspace gone) not reproduced; comment posted. No new issue.
+Better OCaml	2026-10-22	Tested on portable 4215. 2 issues: Goto Symbol never lists type definitions (scope storage.type.user-defined.ocaml not produced; variants also missing, cause not found), and .ml opens with the built-in OCaml so the package is not used by default.
+BetterFindNext	2026-10-22	Tested on portable 4215. 1 issue: TypeError on second press when the start word is inside a string or comment (reproduced, fix tested in folder copy).
+BetterSwitchHeaderImplementation	2026-10-22	Tested on portable 4215 (folder mode). 1 issue: stale cache opens a renamed or deleted partner as an empty buffer (reproduced, fix tested in folder copy). Project mode not tested (no .sublime-project in test window). Open #2 (release lacks force_folder_mode) confirmed: installed v1.0.0 differs from master.
+BetterTabCycling	2026-10-22	Tested on portable 4215 with a two-pane layout: next_view_in_pane and prev_view_in_pane stay inside the pane and wrap, no console errors. Clean, no finding.
+Bible Tools	2026-10-22	Tested on portable 4215 (real network GET to bible-api.com only). 4 issues: default API url dead (HTTP 521), output panel always empty (fix tested), 16 SyntaxWarnings, TypeError when a lookup fails.
+Bibtex Bibliography Sort	2026-10-22	IndexError on any text before first @; @string sorted among entries (can land after its use). Tested live on 4215.
+Bigine	2026-10-22	inspect UnboundLocalError (fix tested), messages.json trailing comma in 0.3.1 tag, SyntaxWarnings, publish no HTML escape. Tested live on 4215.
+Bind Zone files	2026-10-22	No IN class = no highlight (tested), [I|i][N|n] pipe typo (regex-checked). #22 (EOL comments) already open.
+Bing Translator	2026-10-22	ST2-only: Python 2 code (urllib2, reload(sys)), not offered in the ST4 Install Package list (typed the name, no hit); Azure DataMarket OAuth endpoint it uses is retired. Nothing filed: not reachable by ST4 users.
+Bitbake Syntax	2026-10-22	Syntax fails to load on 4215 (with_prototype recursion, 25000 limit); python () and fakeroot defs invalid; EXPORT_FUNCTIONS/addhandler/unset/export NAME invalid; no-space operators; trailing } ends function early. Fixes tested in zz_ copy.
+BitcoinTicker	2026-10-22	Not in ST4 Install list; tested from a copy. convert_strings never read (__name__ settings file), begin_edit TypeError (fix tested), default Mt.Gox dead (comment on #4).
+Bitly	2026-10-22	ST2-only: Python 2 code (urlparse, urllib2, 'except X as (e)' does not compile on Python 3), not in the ST4 Install Package list (typed Bitly, no hit). Open issue #1 already asks for ST3 support. Nothing filed: not reachable by ST4 users.
+Bitrix Painkiller	2026-10-22	ST2-only: Python 2 code (httplib, urllib.urlencode, view.begin_edit, Thread._Thread__stop), not in the ST4 Install Package list (typed Bitrix, no hit). Nothing filed: not reachable by ST4 users.
+BitrixHelp	2026-10-22	Not in ST4 Install list; tested from a copy. Works with default settings (list, fuzzy completion). User pages list replaces all defaults and the other list raises TypeError (guard fix tested).
+Blame Explorer	2026-10-22	Gutter hover tested with real pointer on 4215: time.clock removed, show_popup float TypeError, git detection via |head fails on Windows, git rev parsed with int(). All four fixes tested in zz_ copy.
+BlameHighlighter	2026-10-22	Works for saved git files (two-author repo, gutter dots on my lines). Unsaved buffer TypeError, unset git user.email IndexError (via git_command wrapper hiding global config); guards tested in zz_ copy.
+Blender Development	2026-10-22	Installs and loads on 4215; Execute command ran in an unsaved buffer without error. Full test needs Blender (big install) and the repo was last pushed 2015 (unmaintained, culled by the 2026-10-20 rule); 15 issues already open incl. #15 returnResults. Nothing filed.
+BlessCss	2026-10-22	Build files only. Installed Bless 4.0.4 via npm in tools\bless-test (recycled). Package build cmd 'blessc file.css -f' fails with Bless 4 (new CLI count/chunk); 'blessc count' works on a 4300-rule file. Duplicate selector typo.
+BlinkScript	2026-10-22	Syntax, completions (clean, no dup triggers), snippets expand. 'kernel' scoped invalid.illegal (red error look, apparently deliberate). One issue.
+BlitzMax	2026-10-22	Clean: syntax scopes (types, comments, rem blocks, numbers), auto-pair keymap incl. paired backspace, snippets incl. hyphen triggers (for-to) all work on 4215; snippet scan found no duplicate triggers. Build systems not run: need the BlitzMax bmk toolchain (large, repo last pushed 2017, culled by the 2026-10-20 rule). Nothing filed.
+Block Nav	2026-10-22	installs and loads; skip_comments default never read (settings name from __name__); keymap and block_nav tested on Python
+Blogger	2026-10-22	plugin does not load on Python 3.12+ (bundled httplib2 ssl.wrap_socket); lazy-import copy tested: Format and Markdown commands work; posting needs Google account, not tested; duplicate command id noted
+Blogify	2026-10-22	skipped: ST2-only (absent from the ST4 install list; uses view.begin_edit/end_edit and Python 2 im_func); nothing installed, nothing filed
+Blue Zen Color Scheme	2026-10-22	lineHighlight #EEEEEC near-white on dark scheme, unreadable current line (fix tested); scheme name Morrowind
+Blusted Scheme	2026-10-22	selection and lineHighlight both #002030, selection invisible on current line (fix tested); bundled Default.sublime-theme has no effect on ST4 UI; scheme loads despite XML comment before declaration
+BoGo	2026-10-22	Telex works on 4215 (typing, backspace); bogo-rule setting never read so VNI unusable (fix tested)
+Bonsucesso	2026-10-22	clean: light scheme renders readably on Python and HTML, highlight_line legible; nothing filed
+Boo & BooJs	2026-10-22	not in ST4 install list; tested from manual copy: plugin does not load on Windows (signal.SIGPIPE AttributeError, fix tested), syntax ok, palette entries wrong/missing files; hint server not run (needs Mono + boohints.exe, added to deferred list)
+BookLeaf	2026-10-22	New, Open, Search, Delete panel, Open Folder work on Windows; delete not run (os.remove permanent); name not validated; install message macOS only
+BorkFilesSyntaxHighlighting	2026-10-22	clean: .bork gets Shell highlighting via Shell-Unix-Generic extensions (tested through a User settings file because package settings added at runtime are not merged live); nothing filed
+Bottle	2026-10-22	HTML (Bottle) syntax fails to load on ST4 (with_prototype 25000 limit); extends-based rewrite loads and highlights, end keyword scope not fixed; also bare Python include and missing #expressions context
+BoundKeys	2026-10-22	reproduces open #11 TypeError on ST4 (commented there, fix tested); results tab always empty (edit of another view, fix tested); SyntaxWarning
+BracketSpacer	2026-10-22	clean for a single cursor: add (command and space-space chord) and remove (command and Backspace) work on 4215; multi-selection already open as #1, not retested; nothing filed
+Brainfuck	2026-10-22	clean: syntax highlights commands, brackets and comments on 4215; nothing filed
+Breadboard	2026-10-22	released v0.1.7 is the TaskMill client; both service hosts (taskmill.io, editor.breadboard.io) do not resolve; first request unguarded, traceback; master layout differs from the tag
+BreakLines	2026-10-22	grouping works; gap 0 via prompt raises ValueError range() step zero; fix not tested
+BrightScript	2026-10-22	string ending in backslash swallows the rest of the file (backslash escape rule; BrightScript uses doubled quote); fix tested in zz copy
+Brittany	2026-10-22	Haskell formatter; brittany binary missing gives unhandled FileNotFoundError (tested); real formatting not run (needs Haskell binary)
+Broken Window	2026-10-22	scan_file AttributeError, released v1.0.0 NotImplementedError on Gemfile warning, scan_all IndexError (all tested); master differs from tag, not run
+BsHelper Snippets	2026-10-22	clean: image snippet expands correctly in PHP; README says unmaintained
+Bubububububad and Boneyfied Color Schemes	2026-10-22	comment color contrast about 1.9 in Boneyfied and Bubububububad (tested fix)
+BuffersBackup	2026-10-22	skipped: Bitbucket repo lewisjosh/buffersbackup returns 404 (gone), cannot install or report
+Build Ant Target	2026-10-22	malformed .xml gives unhandled ExpatError (tested fix); ant run not tested (no ant)
+Build Switcher	2026-10-22	skipped: only release is sublime_text <3000 (ST2 only), not in ST4 install list (checked channel and picker); open issues exist (#7)
+Build System Input	2026-10-22	backslash in input gives re.PatternError (tested fix: str.replace)
+BuildParts	2026-10-22	skipped: only release is sublime_text <3000 (ST2 only), not in ST4 install list (channel checked)
+Bulma CSS Framework autocomplete	2026-10-22	completion inside a tag raises AttributeError data_completions (tested fix); class completion works
+Bunting Language	2026-10-22	clean: Bunting and ASM syntaxes highlight the sample correctly
+C11	2026-10-22	clean: syntax scopes correct on a test file; 3 open issues (#1,#2,#4) already cover gaps, not retested
+CAOS Syntax Highlighter	2026-10-22	comparison operators never highlighted (\b around symbols, tested fix); wrong scope suffixes (read only)
+CAside	2026-10-22	clean: header/source sync works with two groups (own rapid events hit its 0.1 s cooldown, by design)
+CDNUpdates	2026-10-22	command c_dNUpdates does not exist on ST4 (class name split differs), key/menus/palette dead; cdn_updates works (tested fix)
+CFAutoMock	2026-10-22	ST3/4 add_regions ValueError, empty output tab (edit token of another view), bare ctrl+k keymap, SyntaxWarnings; two fixes tested together
+CFDocs	2026-10-22	command runs; only spaces URL-escaped (read only)
+CFEngine	2026-10-22	clean: syntax and $ auto-pair work; open issues #5, #8 cover known gaps
+CFG Configuration Syntax Highlighting	2026-10-22	clean: syntax highlights a test cfg correctly
+CFMLDocPlugin	2026-10-22	clean: docifycfml output matches README example; open issues #2, #3 cover known gaps
+CForm	2026-10-22	clean: 108 snippets parse, no duplicate triggers; syntax highlights a template correctly
+CIDR Convert	2026-10-22	Convert and revert work; SyntaxWarning invalid escape on load
+CJSX Syntax	2026-10-22	Clean: JSX tags, attributes, strings, interpolation, comments highlight correctly; repo idle since 2017
+CLIPS Rules	2026-10-22	Highlighting works except strings; Package Settings menu path wrong
+CMSSWLookup	2026-10-22	os.system command injection (tested, webbrowser fix tested); default open_cmd open absent on Windows; menu path wrong
+CMakeSnippets	2026-10-22	Skipped: Bitbucket repo returns 404 (gone), nowhere to report
+CNPunctuationAutopair	2026-10-22	Skipped: ST2-only release (sublime_text <3000), keymap only, idle since 2013
+CQ Clientlibs Syntax Highlight	2026-10-22	Clean: js.txt gets the syntax (comments, #base, paths); plain .txt stays Plain Text
+CSPM	2026-10-22	Traceback on every save without FDR (tested fix); SyntaxWarning on load (tested); menu path wrong; correction posted on CLIPS#4 (mojibake claim was my display artifact)
+CSS Auto Commenting	2026-10-22	Skipped: ST2-only release (sublime_text <3000); open issue 5 says it does not work in ST3; idle since 2014
+CSS Grid Snippets	2026-10-22	All 18 snippets expand correctly; README lists grp, trigger is grg
+CSS Primer	2026-10-22	Command silent on ST4 (old HTML.tmLanguage check); re.sub unescaped dot breaks default path; data-id/data-class matched. All three fixes tested
+CSS RTL generator	2026-10-22	Already filed (#3): Python 2 print, SyntaxError my_exec.py:130 confirmed live on 4215; plugin does not load
+CSS Selector Reveal	2026-10-22	Skipped: ST2-only release (sublime_text <3000), idle since 2013, open issue asks for ST3
+CSS Table of Contents	2026-10-22	TOC sorts subsection before section when title has a number; second Create TOC duplicates when title has punctuation; both fixes tested
+CSS To SASS And Stylus Converter	2026-10-22	Conversion works; 11 SyntaxWarnings (tested fix); debug prints on every Ctrl+V (tested fix); menu path wrong
+CSS-On-Diet	2026-10-22	Build silent on ST4 (version()[0] checks); embedded args missing profile; open mode U (py3.11+); FutureWarning nested set. All four fixes tested, sample builds to CSS
+CSSEdit Group support	2026-10-22	ctrl+l bound in every file on Windows/Linux (baseline compared); duplicate group names jump to first (tested fix); SyntaxWarning
+CSScomb Alpha Sort	2026-10-22	Skipped: ST2-only release (sublime_text <3000), last release 2013
+CSV Record View	2026-10-22	Output tab always empty (insert with other view edit token); delimiter setting ignored; delimiter not regex-escaped. All three fixes tested
+CSharpreter	2026-10-22	Skipped: ST2-only release (sublime_text <3000), idle since 2012
+CUDA Snippets	2026-10-22	Snippets and CUDA C++ syntax work; dev script generate_snippets.py runs on every load and fails (FileNotFoundError); guard fix tested via loose overlay
+CWL Syntax Highlighting	2026-10-22	String rules: every dot scoped as escape, backslash-quote ends the string; fix tested (backslash and doubled-quote escapes)
+Cacher	2026-10-22	v1.1.0: setup 403 with non-JSON body -> UnboundLocalError (tested); unreachable host -> uncaught URLError (tested); open_url duplicates query string (read only)
+Caffe Prototxt Syntax	2026-10-22	v1.1.0: string-escape copied from JSON flags valid protobuf escapes (\' etc) as invalid; tested fix in zz copy; minus unscoped in negative numbers (note only)
+CakePHP (tmbundle)	2026-10-22	2012 TextMate bundle: 8 snippet files with > or : in names skipped by PC on Windows; shell-backtick snippets insert raw bash; Tab on 'form' did not expand (palette did)
+Calamity	2026-10-22	v1.1.0 tmTheme: installs, applies, Python/diff render fine; no defects (scheme restored to Mariana)
+Calculate Relative Path	2026-10-22	v1.0.0: TypeError when any tab unsaved (tested); relpath uses the file as start dir so extra .. (tested with fixed copy)
+Calendar Week	2026-10-22	master (2013): dialog uses strftime %W, not ISO week: showed Week 42 on a day in ISO week 43 (tested live)
+CanJS-Snippets	2026-10-22	v0.3.2: messages.json trailing comma -> PC 'Error parsing messages.json', no install message (tested); scopeless snippets expand in Python file (tested); 5 older open issues exist
+Canvas Snippets	2026-10-22	v1.1.3: palette commands open empty buffer on nonexistent Packages/Canvas-Snippets path (tested); fillText/strokeText snippets insert stray brace (tested); cheat sheet says stat, trigger is stst (tested)
+Cap'n Proto Syntax	2026-10-22	master (2015): escaped quote ends string (tested, fix tested); group keyword and AnyPointer/Capability not scoped (tested; AnyPointer fix tested)
+CapRails	2026-10-22	v1.0.1: IndexError with no folder open (tested); cap -T parsing IndexError on blank/2-word line (read only, no Ruby/cap here)
+Capo	2026-10-22	2014 master: invalid escape SyntaxWarnings on 3.14 (tested); .js\$ unescaped dot matches .ejs (tested); quick panel 0-based lines (tested); search and jump work
+Capybara Snippets	2026-10-22	2014 master: all 17 snippets scoped source.ruby.rspec so none expand in Ruby or _spec.rb files (tested; scope-fixed copy expands); typos in unc description/README
+Carve	2026-10-22	v0.1.10 (channel serves newer than my 0.1.7 data): syntax, goto crossref (exact-case by design), carve_format with real carve-js 0.1.12 all work; Lint Project variant uses POSIX find, cannot work on Windows (shell evidence, not run via build)
+LSP-carve	2026-10-22	v0.1.4 with LSP 2.16.0 + Carve, server via lsp_utils npm: starts, diagnostics (**bold**, ~~, missing xref, + bullet) and go-to-definition work; no defects
+Catkin Builder	2026-10-22	v0.0.4: every build fails TypeError environment can only contain strings (env values encoded to bytes) (tested)
+Catkin Builder	2026-10-22	addendum: bare set_syntax_file('Catkin.tmLanguage') raises modal 'Unable to find' dialog on every build (tested)
+Center Comment	2026-10-22	v1.3.1: only first line centered with multi-line selection (tested, reversed() fix tested); debug print per line
+Cfserver	2026-10-22	messages.json trailing comma; uncaught FileNotFoundError when cfserver.exe missing
+Chai Completions	2026-10-22	JS expect completion inserts stray semicolon
+ChaiScript	2026-10-22	fori snippet unmirrored vars; single-quote strings unhighlighted
+Change Tracker	2026-10-22	ST2-only (sublime_text <3000), not installable on 4215; not tested
+ChannelRepositoryTools	2026-10-22	works; only py3.12+ SyntaxWarnings (non-raw regex strings in upgrade.py), stale name ChannelRepositoryTester in dialogs; nothing filed (wbond, Package Control channel tooling, told Donald)
+ChapelLang	2026-10-22	installed 0.2.0 Chapel.tmLanguage is HTML (plist parse error); comment with tested evidence on existing #4
+Chaplin.js	2026-10-22	works: JS completions fine; snippets need coffee/livescript syntax (not tested); no defects
+Char Value	2026-10-22	works: multi-selection and emoji code points correct; no defects
+Character Table	2026-10-22	not testable: release URL bitbucket.org/klorenz/sublimedigraph/get/default.zip returns 404 (Mercurial repo gone); nothing filed (channel-level)
+Charmci	2026-10-22	works: charm++ keywords, comments, strings highlighted; no defects
+Cheater	2026-10-22	ST2-only (sublime_text <3000), not installable on 4215; not tested
+Cheatsheet	2026-10-22	works: built-in sheets and local ~/.cheatsheet (symlink ok here, needed refresh command to show local sheet, as documented); no defects
+CheckTypos3	2026-10-22	space before/after punctuation checks never fire (|| empty alternative in isInRefCiteOrLabel); tested live + python
+CheerfullyDark	2026-10-22	works: both tmThemes parse, scheme applies cleanly; no defects
+Cheetah Syntax Highlighting	2026-10-22	$variable rule swallows following text (\s and - in class); tested live
+ChefEncryptedDataBag	2026-10-22	File.exists? removed in Ruby 3.2 so helper always crashes; IndexError with no folder; both tested live (decrypt not tested end-to-end: no chef gem)
+ChefSpec	2026-10-22	RSpec.configure snippet misplaced quote in platform placeholder leaves stray quote; tested live
+Chick	2026-10-22	Request.add_data removed in Py3.4: create document always fails with AttributeError; tested live with dummy token (no request sent); other error handling read-only; release 1.0.0 differs from master (SublimeEsaIo vs Chick names)
+Chinese-English Bilingual Dictionary	2026-10-22	both dictionary backends dead (iciba key rejected, Youdao 302 to error page), lookups fail silently with JSONDecodeError in thread; mdpopups.user_css path Packages/cndict/ wrong for installed name; removal cleaned prefs and libs; Preferences restored
+ChineseOpenConvert	2026-10-22	not filed: ships _OpenCC.pyd linked to python33.dll + SWIG wrapper using imp.find_module; init raises AttributeError and chinese_convert fails on this 3.14 host; only the Python 3.3 host can load it (build-age, no 3.8 retest possible); open issue #4 already reports M1
+Chipper	2026-10-22	CHIP-8 mnemonics CLS/SKP/OR/SHL/SUBN/SYS (and SHR, SCHIP ones read-only) missing from keyword rule; DRW scoped as constant; tested live
+ChipseaAssembly	2026-10-22	installs, loads clean; ctrl+/ still works because Default(Windows).sublime-keymap (no space) is never loaded; it binds ctrl+/ to undefined cs_comments
+ChordPro	2026-10-22	syntax scopes, ctrl+/ comment, _def snippet work; build not run; no issues
+Chouku Color Scheme	2026-10-22	line highlight bright white confirmed live; cause no lineHighlight key; fix tested; commented on existing #1
+Chrome Apps and Extensions	2026-10-22	ST2-only (sublime_text <3000), last push 2013; not installable on 4215
+Chrome Color Scheme	2026-10-22	installs, scheme renders; no issues
+Chrome Snippets	2026-10-22	ch_content_scripts does not exist (trigger is cr_content_scripts); ch_event_page leading space
+ChromeExtensionI18nHelper	2026-10-22	name validation inverted+swapped re.match args (accepts bad names, re.PatternError on '('); BOM messages.json JSONDecodeError
+ChromiumXRefs	2026-10-22	backend cs.chromium.org/codesearch/json redirects to HTML; reproduced #7 live; commented there
+Chuby Ninja Color Scheme	2026-10-22	installs, scheme renders; no issues
+ChucK Syntax	2026-10-22	installs, syntax scopes sane; repo issues disabled; no issues
+Cirru	2026-10-22	installs, highlighting and tab size 2 work; no issues
+CiteTeX	2026-10-22	label list title swallows \label (greedy regex, issue #1); label index empty on first open until re-activation (seen once, not filed); rendering not tested (no latex)
+Claat Snippets	2026-10-22	README trigger names claat-create-empty_step and claat-create-parts-list do not exist; typo Repoistory in claat-header placeholder
+Clafer Tools	2026-10-22	syntax fine; chords ctrl+i,g,a/c/s have no context and disable default ctrl+i (A/B tested, issue #4); build and instance generators need Clafer-Bin binaries, not tested
+Clay Schubiner Color Schemes	2026-10-22	installs, both schemes render; no issues
+Clear Dirty Flag	2026-10-22	non-ASCII UTF-8 files (e-acute, emoji) never cleared; ASCII file cleared; open() without encoding
+ClearConsole	2026-10-22	installs; clear_console and alt+k print ~100 newlines; no issues
+Click To Partial	2026-10-22	Not testable through the rig: the command needs a ctrl+shift+click and ui_click sends no modifiers; run_command click_to_partial returned ok with no effect. Read-only suspicions (prefix match, backslash paths, unsaved-buffer TypeError) not filed.
+Clickability Velocity	2026-10-22	Tested live: tab trigger 'date' shared by Date and Utility - newDate, newDate unreachable.
+ClickableRequires	2026-10-22	Tested live: KeyError project_path when no project folder and module not found.
+Clientside	2026-10-22	skipped (ST2-only, not in ST4 list, last push 2012)
+Clipboard Diff	2026-10-22	Tested live on 4215: tab empty on ST4 (edit token of another view); fix tested, posted as comment on sabhiram/sublime-clipboard-diff#5
+Clipboard Path	2026-10-22	Tested live on 4215: open_clipboard_path opens file:line correctly; issue #2 crash (Linux 3176) not reproduced on Windows (new window + close); clean, nothing filed
+CloneFile	2026-10-22	Tested live on 4215 with its 5 dependencies (QuickSearchEnhanced, FolderFiles, FileList, OpenPath, StatusMessage): clone_view opens an empty tab (edit token of another view); fix tested; filed shagabutdinov/sublime-clone-file#1
+Close All Untouched Files	2026-10-22	Tested live on 4215: closes every clean tab in all windows (by design), keeps dirty ones; clean, nothing filed
+Close Oldest File	2026-10-22	Tested live on 4215: KeyError in on_close when a window closes (active_window lookup); fix tested; filed jturcotte/SublimeCloseOldestFile#1
+CloseAllButThis	2026-10-22	skipped (ST2-only: not in ST4 list, Python 2 print statement)
+CloseFolder	2026-10-22	Tested live on 4215: TypeError on untitled tabs, close_folder closes nothing (already reported in #2); fix tested, posted as comment on aviaryan/CloseFolder#2
+CloseOtherWindows	2026-10-22	Tested live on 4215: close_other_windows and close_other_tabs work; issue #2 shortcut uses the Windows key (super), not a plugin defect; clean, nothing filed. Rig: a listener of a removed package (Close Oldest File, after a loose-copy reload) kept running until restart
+CloseTabsLeft	2026-10-22	Tested from a manual copy on 4215 (not in ST4 list): commands file ends with } not ] (palette entry never loads); set_scratch(True) discards unsaved tabs silently; both fixes tested; filed deXterbed/CloseTabsLeft#1, #2
+CloudFormation Validation	2026-10-22	Installed and removed on 4215; NOT live-tested: it is one .sublime-build calling aws cloudformation validate-template (unquoted $file, breaks on paths with spaces by reading); AWS CLI is not installed and its winget MSI needs a UAC click that computer-use refuses (consent policy); redo after AWS CLI is installed
+Clouds Color Schemes	2026-10-22	Tested live on 4215: both schemes load and render (Clouds, Clouds Midnight); Midnight selection #000000 on #191919 is a faithful TextMate port, readable; clean, nothing filed
+Cloudup	2026-10-22	Tested on 4215: bundled requests imports cgi (removed in Python 3.13), module fails to load on the 3.14 host; filed emdashcodes/SublimeCloudup#1; suggested fix (dependencies.json requests) NOT tested, requests library for 3.14 would not install here
+Cml Syntax Highlight	2026-10-22	Tested live on 4215: {{ }} inside an attribute value does not end at }} (included JS takes the first } as a stray bracket), rest of file scoped as string; filed quyatong/cml-syntax-highlight#1, no fix found
+CoNLL-U	2026-10-22	Tested live on 4215: highlighting works; syntax name misspelt ConLL-U; filed kasteph/CoNLL-U.tmLanguage#1
+Cobra	2026-10-22	Tested live on 4215: highlighting (block and line comments, strings with #, hex) and toggle_comment work; build needs the cobra compiler, not run; clean, nothing filed (open issues #2, #3 already on GitHub)
+Coco R Syntax Highlighting	2026-10-22	Tested live on 4215: atg always opens as Coco/R Java (4 syntaxes share fileTypes and scopeName), C# grammar scoped as Java; tested change (only base syntax claims atg); filed mschoebel/cocosyntax#5
+Cocos Creator Snippet	2026-10-22	Tested live on 4215: save hook writes snippets (works); 12 snippet files with a TAB in the name cannot be installed on Windows; SyntaxWarning invalid escapes in rebuild.py; filed lyzz0612/Cocos-Creator-Snippet#2, #3
+CocosRubyEditor	2026-10-22	Tested live on 4215: autocomplete works; debug print calls fill the console on every parse; filed tkyaji/CocosRubyEditor#1
+Coda Redux	2026-10-22	Tested live on 4215: Coda Redux scheme loads and renders; clean, nothing filed
+Code Cast	2026-10-22	Tested live on 4215: UnicodeDecodeError on tab activation for a non-UTF-8 file (file read from disk even when not connected); Connected printed before connect; filed mraiur/CodeCast#1, #2; fixes not tested
+Code Champion	2026-10-22	Installed, loads, commands and menus register on 4215; sound NOT played (audio at night); palette captions show ctrl+shift+v/f but keymap is ctrl+alt+v/f; filed Atbox/CodeChampion#8
+Code Color	2026-10-22	Tested live on 4215: scheme loads; variable.parameter #1D5DDE on #204958 is 1.7:1 contrast; filed vincenzopalazzo/codecolor#1
+Code Foo	2026-10-22	skipped (ST2-only: not in ST4 list, repo says Sublime Text 2 plug in, last push 2013)
+Code Preview	2026-10-22	skipped (not in ST4 list, last push 2013)
+Code Snippets Helper	2026-10-22	Tested live on 4215: server binds 0.0.0.0:7878 and a text/plain POST from a non-loopback address opened a window with the text; 201 sent before the body is parsed, bad JSON raises a traceback; filed Code-Snippets/CodeSnippetsHelper#1, #2; fixes not tested
+CodeCells	2026-10-22	Tested live on 4215: execute_cell works; SyntaxWarning invalid escapes lines 5 and 109; filed jesseengel/CodeCells#1
+CodeFall Color Scheme	2026-10-22	Tested live on 4215: scheme loads and renders; repo EncryptEx/CodeFall found from package-metadata.json (issues field); clean, nothing filed
+CodeKit	2026-10-22	Tested live on 4215: .kit syntax detected, HTML highlighting and include completion work; clean, nothing filed
+CodeRunner - Color Scheme	2026-10-22	Tested live on 4215: scheme loads and renders, readable; clean, nothing filed
+CodeSearch	2026-10-22	Tested live on 4215 with cindex/csearch built by go install into tools\gobin: index built, search lists results, pick opens the file; clean, nothing filed (open issues on GitHub predate)
+CodeShark	2026-10-22	Tested live on 4215: cancelling Update API Key empties ~/.codeshark; SearchCode prints the API key; codeshark.live and api.codeshark.live no longer resolve; filed aroliant/codeshark-sublime#1, #2, #3; fixes not tested; test key file recycled
+CodeStats	2026-10-22	NOT tested: needs an account and API key on codestats.net (creating an account on a third-party service is a barrier, ask Donald); repo is on GitLab, gh cannot read its issues
+CodeTimeTracker	2026-10-22	Dashboard HttpServer binds all interfaces and serves whole Packages folder (verified on 1.4.10); master save_time uses undefined now_time and posts to http://localhost/ (by reading only)
+CodeWrapper	2026-10-22	output_options passed to str.format: literal braces raise KeyError; fix (replace {0}) tested
+Codeforces Util	2026-10-22	bs4 needs typing_extensions not installed (fix tested); bad URL gives dialog then TypeError (None title)
+Codeivate	2026-10-22	service domain parked; ships precompiled codeivated, ImportError bad magic number on 3.14 host
+Codemp	2026-10-22	not tested: needs Python 3.8 and library codemp; 4215 has only 3.14 and 3.3 hosts, no library for 3.14 installed; nothing filed (4215-only)
+Formatter	2026-10-22	installed by mistake instead of Coffee Formatter; SyntaxWarning break in finally on 3.14 filed; distutils already #81; removed, leftovers recycled
+Coffee Formatter	2026-10-22	not tested: not offered in the Install Package picker on ST4 (ST2-only listing; no Coffee Formatter among the 23 Coffee matches)
+CoffeeScript Ddry Snippets	2026-10-22	snippet-only package installs and removes cleanly, no console errors; expansion not tried (needs a source.coffee syntax)
+CoffeeScript Function Finder	2026-10-22	not tested: not offered in the ST4 Install Package picker (ST2-only, Python 2 code: print statements, ur'' literals)
+ColdFusion Docs Launcher	2026-10-22	issues disabled: emailed linkarys@gmail.com (default Adobe doc_url redirects to generic support page, checked with curl; SyntaxWarning invalid escape launchHelp.py:61); removed
+Collider Snippets	2026-10-22	snippet-only package installs and removes cleanly, no console errors
+ColobotSyntaxHighlighting	2026-10-22	installs cleanly; CBOT syntax applies to a .cbot file, comment scope correct; no defects
+Color Scheme - Bass	2026-10-22	installs, Bass Zora applies to a view with no console errors; removed
+Color Scheme - Dusk	2026-10-22	installs; Dusk.tmTheme applies with no console errors; removed (my view setting reset first)
+Color Scheme - Eggplant Parm	2026-10-22	installs; EggplantParm.tmTheme applies with no console errors; removed
+Color Scheme - Gerbus	2026-10-22	installs; Gerbus.sublime-color-scheme applies with no console errors; removed
+Color Scheme - Nice Blue Soda	2026-10-22	not installable: Package Control gets HTTP 404 from bitbucket.org/DanielSiepmann/color-scheme-nice-blue-soda/get/default.zip; channel matter, nothing filed
+Color Scheme - Pastels UI	2026-10-22	installs; Pastels UI.tmTheme applies with no console errors; removed
+Color Scheme - RSE	2026-10-22	installs; RSE.tmTheme applies with no console errors; removed
+Color Scheme - Yotsuba	2026-10-22	installs; Yotsuba.tmTheme applies with no console errors; removed
+ColorSchemeUnit	2026-10-22	Test File runs on a test inside Packages and reports a deliberate wrong colour as a failure; outside Packages says no tests found (documented); removed, my csutest folder recycled
+Colour Complete	2026-10-22	installs and CSS completions show with no console errors (cannot tell its items from built-in ones); removed
+Column Sort	2026-10-22	IndexError when a selected line has fewer columns than the sort column; fix (key falls back to empty) tested; removed
+ColumnMassage	2026-10-22	multi-line selection: only line 1 changes then IndexError when output length differs (stale line positions); reverse-order fix tested; removed
+ColumnMassage (SyntaxWarning)	2026-10-22	second finding on ColumnMassage: invalid escape sequence \d warning on 3.14
+CombineAndMinify	2026-10-22	not installed: joelcarlton/Sublime-CombineAndMinify#7 already reports it cannot load on ST3/4 (Python 2 construct, line 27); repo dormant since 2013
+CombineMediaQueries	2026-10-22	status says combined. though group-css-media-queries is not installed (tested); PATH joined with colon and main-thread subprocess (by reading); removed
+Combyne	2026-10-22	syntax installs and applies to the package's own sample template; no findings; repo kadamwhite/sublime-combyne has issues disabled; removed
+ComicSansToggle	2026-10-22	toggle switches the view font and back, no console errors; removed
+Command Help	2026-10-22	not installable: Package Control gets HTTP 404 from bitbucket.org/klorenz/sublimecommandhelp/get/default.zip; channel matter, nothing filed
+CommandOnSave	2026-10-22	not tested: not offered in the ST4 Install Package picker (ST2-era listing)
+Commandbox	2026-10-22	cannot load on ST4: BaseCommand.py uses async as a method name (SyntaxError); rename fix tested (loads); removed
+Commando	2026-10-22	installs; README git diff command works and opens a Git Diff tab; no console errors; removed
+CommentAnyWhere	2026-10-22	not tested: not offered in the ST4 Install Package picker (ST2-only: Python 2 print statement, view.begin_edit)
+CommentBanner	2026-10-22	banner command boxes a selected line correctly, no console errors beyond a debug print; removed
+CommentFold	2026-10-22	fold shows only comments on a Python file, unfold restores; no console errors; removed
+Commitment	2026-10-22	commitment command fails on Python 3.9+: HTMLParser.unescape removed; html.unescape fix tested; removed
+CompactExpandCss	2026-10-22	not tested: not offered in the ST4 Install Package picker
+Compile Selected ES6	2026-10-22	inconclusive: deprecated plugin needs Babel 5 CLI; command opens an empty output tab with no babel and with a stand-in babel (also with append patch); cause not established, nothing filed; fake babel.cmd recycled, removed
+CompleteSharp	2026-10-22	not tested: not offered in the ST4 Install Package picker; repo dormant since 2013, issues disabled
+CompleteXmlTag	2026-10-22	complete_close_tag turns the README's </> closers into proper closing tags; no console errors; removed
+ComplexBuild	2026-10-22	every command raises TypeError with no project open or an unsaved tab (project_data, file_name, project_file_name are None); three-line fix tested; removed
+ComposerPackageInfo	2026-10-22	not testable on 3.14: import requests fails (urllib3 not installed with the requests library; after adding urllib3, idna, charset-normalizer via a loose dependencies.json, Package Control reports certifi not available for Python 3.14); channel library matter, nothing filed; removed
+ComputerCraft Package	2026-10-22	installs; syntax applies when selected by hand and highlights Lua; .lua opens with built-in Lua (ST prefers it); no console errors; removed
+ConEmuOpen	2026-10-22	without conemu.exe on PATH the command blocks the plugin host on a Windows 'cannot find conemu.exe' dialog (os.system); which-check fix tested; I ended my own cmd 19280 to release it; removed
+Conditional ColorSchemes	2026-10-22	a fileName rule for .css switched the view to the chosen scheme on open; no console errors; user settings recycled; removed
+Configify	2026-10-22	syntax applies to config.ru (Packages/Configify/Configify.tmLanguage), no console errors; removed
+Conky.tmLanguage	2026-10-22	installs, Conky syntax applies to a .conkyrc and highlights; no console errors; removed
+ContextBuild	2026-10-22	not tested: not offered in the ST4 Install Package picker (2013, ST2-era)
+ContextualMove	2026-10-22	set_move_context/toggle_move_context raise AttributeError on first use (move_context None); fix tested with loose copy; filed
+ControlScroll	2026-10-22	not tested: not offered in the ST4 Install Package picker
+ConvertJaZenHan	2026-10-22	convert_to_zen_kana_* raises KeyError when last char is not halfwidth; fix tested with loose copy; filed
+Cool Code Scheme	2026-10-22	not tested: not offered in the ST4 Install Package picker
+Copy Block	2026-10-22	ImportError on Python 3.10+ (from collections import Iterable); fix tested with loose copy; filed
+Copy Code Snippet	2026-10-22	root setup.py loaded as plugin: AttributeError imp.find_module at every start on 3.12+; fix tested with loose copy; filed
+Copy PHP Namespace	2026-10-22	not tested: not offered in the ST4 Install Package picker
+Copy Paste Killer	2026-10-22	clean: Find/Replace regex tabs built correctly incl. escapes
+Copy from Find Results	2026-10-22	SyntaxWarning invalid escape sequence on 3.12+ (2 regexes); raw-string fix tested with loose copy; command itself works; filed
+Copy on Select	2026-10-22	clean: selection copied to clipboard after delay
+CopyEdit	2026-10-22	clean: cut_edit/paste_edit work
+Coq	2026-10-22	loads clean, syntax highlights a .v sample; coq_start gave no message/traceback with no coqtop installed and no project folder (Coq not installed here, plugin side not tested further); nothing filed
+Core dna snippets	2026-10-22	clean: 155 snippets, insert_snippet works; one snippet has a nested XML comment but Sublime loads it; nothing filed
+Cosmos Scope	2026-10-22	clean: syntax loads and applies, no console errors
+CoreBuilder	2026-10-22	Python 2 print statement stops plugin load on Python 3 (SyntaxError); print() fix tested with loose copy; filed
+Cotonti	2026-10-22	clean: 194 snippets parse, insert_snippet works, cotonti_ref loads
+Cowsay	2026-10-22	loads clean; cowsay binary not installed here, so command raises FileNotFoundError and leaves the text unchanged; nothing filed
+CppAssistant	2026-10-22	inconclusive: installed, no console error, but get_commands shows no Python class for any ca_* command and no diagnostics/phantoms/panel appeared on a C++ file with errors (g++ works from the shell); cause not found, nothing filed
+CppBuilder	2026-10-22	SyntaxWarning invalid escape sequence in MakerClass.py:148 on 3.12+; escaped-backslash fix tested with loose copy; filed
+CppToolkit	2026-10-22	plugin_loaded raises TypeError: json.dumps(menu, cache) in lib/utils.py (Python 3.6+); one-line fix checked in isolation only (editor kept loading the zip copy of lib); filed
+Crackshell	2026-10-22	clean: all 7 syntaxes load, AngelScript scopes correct, no console errors
+Craft-Twig	2026-10-22	Windows: 43 of 115 snippets skipped by install because file names contain a colon; filed
+CrafterSama Scheme	2026-10-22	clean: tmTheme parses and applies
+Crates	2026-10-22	clean: fetch_crates_versions replaced serde and rayon with current versions
+Create Backup Copy	2026-10-22	clean: create_backup_copy wrote a time-stamped copy into .sublime-backup
+Create Js Completions	2026-10-22	clean: completions file is valid JSON, scope source.js
+Create Save Prompt	2026-10-22	save prompt and overwrite (send2trash) work; Package Settings menu opens a non-existent SavePrompt.sublime-settings (wrong package name); filed
+Creeper Reverse Polish Language	2026-10-22	Toggle Comment does nothing (no Comments.tmPreferences); fix tested with loose file; comment scope named double-dash for # comments; filed
+Crestron	2026-10-22	clean: syntax scopes, plist files parse; build needs SPlusCC (not installed)
+Criollo Color Scheme	2026-10-22	clean: tmTheme parses and applies
+Cristina Color Scheme	2026-10-22	clean: tmTheme parses and applies
+Crollow	2026-10-22	clean: projname shows a random project name dialog
+Cross	2026-10-22	unload_handler (ST2 name) never runs and erases the wrong key, so rulers stay on open views after removal; plugin_unloaded fix tested; filed
+CsoundSyntax	2026-10-22	clean: syntax scopes, completions valid JSON; build needs csound (not installed)
+Cssnext	2026-10-22	clean: cssnext command added prefixes to CSS via node
+Ctranslator tool	2026-10-22	needs StyledPopup library; library import fails on 3.9+ (readPlistFromBytes removed), fix tested; then fails on ST4 color scheme names (already their #7); filed in library repo
+Cube2Media Color Scheme	2026-10-22	clean: tmTheme parses and applies
+Cubescript Syntax Highlighting	2026-10-22	Windows: 2 .tmPreferences skipped by install (colon in file names); filed
+Cucumber Completion	2026-10-22	loads clean, reset command runs; step completion popup not exercised (needs a project folder with step files); nothing filed
+Cucumber Snippets e Highlight em Português	2026-10-22	clean: syntax applies, snippet inserts
+Cucumber Step Finder	2026-10-22	loads clean, command runs without a project folder; step search not exercised (needs a features folder); nothing filed (10 open issues already cover step matching)
+Cuneiform	2026-10-22	clean: syntax loads and scopes
+Curly Syntax Definition	2026-10-22	clean: syntax loads and scopes
+Curry Syntax Highlighting	2026-10-22	clean: syntax loads, source.curry scope
+Custom Builder	2026-10-22	clean: loads, command registers, source read, no defect (closed issue #1 WinError 2 already known)
+Custom Elements Importer	2026-10-22	already reported: JMendyk/Custom-Elements-Importer#1 (py2 construct line 65); not reinstalled
+Custom Insert	2026-10-22	re.LOCALE with str pattern breaks every command; fix tested on loose copy
+Cuttlefish	2026-10-22	clean: loads, 5 commands register, cycle runs without error; open issue #1 (themes do not fully load) already exists
+Cycle Setting	2026-10-22	not tested: not offered in the ST4 Install Package picker
+CycleGroup	2026-10-22	clean: 2 commands load, source read, no defect
+Cython	2026-10-22	clean: syntax applies when selected; .pyx opens as Python because built-in Python syntax claims pyx (not a package defect); open issue #2 (docstring colour) not checked
+Cytora Colour Scheme	2026-10-22	clean: scheme applies, no console error
+D3.js Snippets	2026-10-22	clean: 22 snippets parse, scope source.js; open issue #1 (dot in name) already exists
+D3js v4	2026-10-22	clean: installs, 293 files, no colon names, no console error; completions/snippets not exercised live
+DA CS Color Schemes (Recovered)	2026-10-22	clean: 27 tmThemes valid XML, Nord applied without error
+DBLP Search	2026-10-22	not tested: not offered in the ST4 Install Package picker
+DBTextWorks	2026-10-22	clean: syntax loads, text.dbtext scope
+DBpedia Lookup	2026-10-22	KeywordSearch API now returns empty XML (JSONDecodeError); result tab empty on ST4 (insert with other view's edit); both fixes tested on loose copy
+DCPU-16	2026-10-22	not tested: not offered in the ST4 Install Package picker
+DLE Syntax Highlighting	2026-10-22	not tested: not offered in the ST4 Install Package picker
+DLX Syntax	2026-10-22	not tested: not offered in the ST4 Install Package picker
+DIBOL Programming Language	2026-10-22	clean: syntax loads, .cif file gets DIBOL syntax
+DM Macro	2026-10-22	clean: syntax by .mac, Toggle Comment works, 113 snippets valid; open issues #4 #5 #7 already exist
+DMT	2026-10-22	clean: .def gets DMT syntax, Toggle Comment works
+DNS Lookups	2026-10-22	clean: name_lookup localhost->127.0.0.1 and host_lookup work (blocking socket call on main thread by design); open issue #2 exists. Oddity: after the tests close_file found no open views, window title untitled dot
+DRAMA Syntax Highlighter	2026-10-22	clean: .dra gets DRAMA syntax
+DW Site Tools	2026-10-22	Import existing .ste: UnboundLocalError after error dialog when file cannot be opened; fix tested on loose copy
+DXL	2026-10-22	copy_file_as_include AttributeError on unsaved tab; fix tested; syntax works; ships .exe helpers; DXL Linter install issue #5 is the separate linter package
+DXR	2026-10-22	open_in_dxr TypeError on unsaved tab; guard tested on loose copy; dxr.mozilla.org 301 to searchfox
+Dafny	2026-10-22	clean: .dfy gets Dafny syntax, Toggle Comment works; open issue #2 (keywords) exists
+Dank Neon	2026-10-22	clean: tmTheme valid and applies, no console error
+Danmakufu	2026-10-22	function docs panel empty on ST4 (panel.insert with edit of another view); append fix tested on loose copy
+Dashed Comments	2026-10-22	not tested: not offered in the ST4 Install Package picker
+Dark Castle Color Scheme	2026-10-22	clean: tmTheme valid, applies without error
+Dark Knight Color Scheme	2026-10-22	clean: color scheme applies, no console error
+DarkLime Color Scheme	2026-10-22	scheme applies in ST; darklime.tmTheme not well-formed XML (comment with --- on line 569), oddity filed
+DarkMosquito Color Scheme	2026-10-22	clean: tmTheme valid and applies, no console error
+Debug Killer	2026-10-22	not tested: not offered in the ST4 Install Package picker
+Dataiku	2026-10-22	not testable on 4215: import requests fails (channel requests library for 3.14 installs without urllib3, systemic, not filed); needs a DSS server anyway
+Datalife Engine snippets	2026-10-22	clean: 354 snippets parse, all have trigger and text.html scope
+Date Formatter	2026-10-22	clean: format_date with PHP 8.4 gives 22/10/2026, format list shows; open issue #2 (timezone) exists
+Decent Color Scheme	2026-10-22	clean: tmTheme valid, applies, no console error
+Deckard	2026-10-22	clean: loads, no commands; only posts file path and selection events to localhost:3325, errors swallowed; Deckard desktop app not available to test end to end
+DeclareThatColor	2026-10-22	clean: declare and undeclare work on CSS hex colours, no console error
+Deep Blue See	2026-10-22	clean: both tmThemes valid and apply, no console error
+DelayedSaveAll	2026-10-22	keymap binds explicit_save_all which is not defined; palette caption typo DealyedSaveAll; save command not run (would save unsaved tabs)
+Delete Lines	2026-10-22	clean: delete_lines removes the cursor line as expected, no console error
+Delete on Error Color Scheme	2026-10-22	clean: scheme applies, no console error; oddity not filed: tmtheme is 2.1 MB with 8000 rules but 107 distinct scopes
+Delphi IDE	2026-10-22	objectdef.py not UTF-8 with no coding line: SyntaxError, delphi_ide command never registers; fix tested on loose copy; ships JCF.exe
+Delphi Style Bookmarks	2026-10-22	clean: set and go-to bookmark work, gutter icon shows; open issue #6 exists
+Delphin Assistant	2026-10-22	clean: tdl syntax and Toggle Comment work, compile_tsdb_testsuite gives a clear not-a-testsuite message; DELPH-IN tools not installed so compile path not exercised
+Demain Color Scheme	2026-10-22	clean: tmTheme valid, applies, no console error
+Derby	2026-10-22	clean: Bourbon completion inserts @include animation(...) in SCSS once the Sass syntax package is installed (stock ST4 has no SCSS syntax so file is Plain Text); open issue #10 not reproduced with Sass 4.0.2; Sass syntax package installed for the test and removed
+Sass	2026-10-22	installed only as Derby test prerequisite: SCSS syntax and completions popup work on 4215; removed
+Desert Color Scheme	2026-10-22	clean: tmTheme valid, applies, no console error
+Desert Night Color Scheme	2026-10-22	clean: tmTheme valid, applies, no console error
+Detect Invalid Devangari	2026-10-22	regex starts with whitespace before (?x): re.PatternError on Python 3.11+, command never highlights; fix tested on loose copy
+DevDocs	2026-10-22	Search From Selection searches empty string with no selection (word() result overwritten); fix tested on loose copy
+DevDocs offline	2026-10-22	clean: loads, 5 commands, language index fetched (251 entries); downloads not exercised; open issues #1 and #4 (http download, unfiltered extractall) already exist
+DevastateMini	2026-10-22	clean: tmTheme valid and applies, no missing image refs in the UI theme; UI theme itself not activated (would change the whole window)
+Devicetree DTS Highlighting	2026-10-22	installed v1.0.2, tmLanguage and tmPreferences valid XML, .dts file gets Devicetree syntax with highlighted properties, strings, numbers, comments; removed; no defects found
+Dict Verification Template Syntax	2026-10-22	installed v1.0.0, sublime-syntax for .tmpl loads; keywords, types, strings and bad indent/spacing highlighted as designed; removed; no defects found
+Dilmes Ipsum	2026-10-22	installed v0.13.5, command runs; missing comma in phrases list glues two phrases (confirmed live, fix tested on loose copy); removed
+DinkDonk Color Scheme	2026-10-22	installed v1.0.14, Purist scheme applies and renders correctly in a JS tab; oddity not filed: the Purist tmTheme files put a comment before the XML declaration (strict XML parsers reject them, Sublime accepts); removed; no defects found
+Direct Copy	2026-10-22	installed v1.0.0, direct_copy lists entries and copies to clipboard; menu Settings - Default points at Packages/DirectCopy (folder is Direct Copy) and opens an empty tab for a missing file (fix tested with edit_settings); removed, User settings residue recycled
+Direct Open	2026-10-22	installed v2.1.0 (loose folder), direct_open lists entries and opens the hosts file; menu Settings - Default points at Packages/DirectOpen (folder is Direct Open) and opens an empty tab for a missing file (fix tested with edit_settings); removed, User settings residue recycled
+DisableArrowKeys	2026-10-22	installed v1.0.0, keymap binds all arrows to null with no context: Down ignored in Goto Anything (confirmed live); already reported in #1 (2016); commented with ST4 result and tested fix (overlay_visible/auto_complete_visible contexts); removed
+Display Functions (Java)	2026-10-22	not tested: not offered in the ST4 Install Package picker (2012 package, ST2/ST3 era)
+Django Click	2026-10-22	installed v1.0.5, django_click opens the extended template; ValueError on a file outside templates and AttributeError on an unsaved tab (confirmed live, guard tested on loose copy); removed
+Django Lookup Snippets	2026-10-22	installed v1.0.2, 26 snippets valid XML, triggers/content/README agree, __c __in __i __dt expand inside a Python call; removed; no defects found
+Django Starter	2026-10-22	installed v1.2.1, relative command generates a project; Tools menu points at undefined relativedjango; relative fails on unsaved tab (confirmed live, guard tested on loose copy); removed
+Django Tags	2026-10-22	installed v0.2.0, django_tag cycles brackets: default set with three cursors and Django set (with Djaneiro syntax, installed and removed as helper) behave as designed; removed; no defects found
+Django-Model-Converter	2026-10-22	installed v2.0.1, converts a model to Serializer/ModelForm correctly for several fields; one-field model gives fields = ('name'), a string (confirmed live, list fix tested on loose copy); removed
+Django-Rest-Snippets	2026-10-22	installed v0.0.2, snippets valid and field snippets match their names; README triggers shr/ssr/create/update are not the real triggers (confirmed live), plus perfome* and placeholder typos; removed
+DjangoNoseTestRunner	2026-10-22	installed v2016.02.10, command runs manage.py test but always the whole app on ST4 (class/function selectors no longer match) and ValueError when no manage.py (both confirmed live, fixes tested on loose copy); removed
+Django-Tools	2026-10-22	not tested: not offered in the ST4 Install Package picker (2013 package)
+DobDark Color Scheme	2026-10-22	installed, Dobdark.tmTheme valid XML and renders Python correctly (comments, keywords, strings, numbers, classes); removed; no defects found
+DocPy	2026-10-22	installed v0.1.0, docstring generation works mid-file; fails at end of file (TypeError), CRLF in LF files on Windows, Enter swallowed in non-Python files, SyntaxWarning (all confirmed live, fixes tested on loose copy except the warning); removed
+DocReflow	2026-10-22	installed v1.0.0, reflow works; a tab-indented comment loses its tab (replaced by one space), confirmed live, fix tested on loose copy; removed
+Doctypes	2026-10-22	installed, 36 snippets valid XML, triggers incl. ones with spaces and hyphens expand (doctype HTML5, new-html5, script external jquery); controller.sublime-settings holds a snippet, already reported by us in #2 (open); removed
+Dogs Colour Scheme	2026-10-22	installed, Dogs.tmTheme and Harly.tmTheme valid XML and render Python correctly; open issue #1 (2012) is about using it as a theme setting; removed; no defects found
+Dog Ears	2026-10-22	not tested: not offered in the ST4 Install Package picker (2012 package)
+DokuWiki	2026-10-22	not tested: not offered in the ST4 Install Package picker (only DokuWiki Syntax is)
+DokuWiki Syntax	2026-10-22	installed v1.0.0, syntax auto-applies from first line; headings use acejump.label.* scopes and show as plain text in Mariana (confirmed live, heading-scope fix tested on loose copy); removed
+DotNetComments	2026-10-22	installed v1.1.0, /// above a method with a return value raises TypeError (doubled plus, confirmed live, fix tested on loose copy), CRLF inserted into LF files, three SyntaxWarnings; removed
+DotNetNuke Snippets	2026-10-22	installed, 67 snippets valid XML; dnnmeta expands to <<%@ (confirmed live, fix tested on loose copy); dnnloggedin trigger and content duplicated in two files; removed
+Dota KV	2026-10-22	installed v1.0.4, grammar and 103 snippets valid, snippets expand; numeric keys such as 01 are coloured as values (confirmed live, fix tested on loose copy); removed
+Dota Lua VScript	2026-10-22	installed v0.2.0, two completion files valid (2094 entries, scope source.lua), completion of SpawnEntityGroupFromTable inserts the snippet in a Lua file; removed; no defects found
+Download Source	2026-10-22	installed v0.9.0, download into a new tab works; a 404 gives no message, only a console traceback (confirmed live, status-message fix tested on loose copy); removed
+DoxyDoxygen_contrib_HeaderDoc	2026-10-22	installed v0.1.0 (loose folder) with DoxyDoxygen 1.0.3 as host (installed and removed as helper); contrib style loads but every generated comment gets a 'This plugin format is no longer supported' banner (confirmed live, no tested fix); removed, temp user setting recycled
+Dpaste Sublime	2026-10-22	dpaste.com API rejects syntax names python3, coffee-script, bat (HTTP 400) so dpaste fails for py files; bare except hides it; fix tested on loose copy
+DrMonthsCalendar	2026-10-22	dr_months_calendar_open shows empty panel on ST4: insert uses the active view's edit token on the output panel view; append command fixes it (tested loose copy)
+DreamMaker Language Client	2026-10-22	installs; object_tree.py ModuleNotFoundError LSP without LSP (README prerequisite); language_client.py imports LSP.plugin.core.handlers.LanguageHandler which no longer exists in LSP; already reported at SpaceManiac/SpacemanDMM#271 (its issues are disabled); nothing filed
+Drive Color Scheme	2026-10-22	clean: both tmThemes parse and apply, no console errors
+Drupal Completions	2026-10-22	3 snippets (hook_update_N etc.) damaged TM_FILENAME by replace: Empty key dialog, nothing inserted, fix tested; 10 snippets have placeholder syntax in tabTrigger
+Drupal Hooks	2026-10-22	14 snippets with tabTrigger copied from another snippet (hook_views_pre_execute answers to hook_views_pre_build); confirmed with auto_complete popup
+Drupal Project Autocomplete	2026-10-22	CRLF files skipped by the scan regex (fix tested on loose copy); SyntaxWarning invalid escape on 3.14
+Drupal Snippets	2026-10-22	hook_token_info/h_token_info: \$\ gives Empty key dialog, fix tested; 3 snippets with backslash in tabTrigger
+DrupalSearch	2026-10-22	on_change TypeError per keystroke (fix tested); default_browser vs browser key mismatch; README selection palette/menu entries missing
+Drush	2026-10-22	not offered in the ST4 Install Package picker (only subDrush matches); not tested
+Duckyscript Syntax	2026-10-22	clean for DuckyScript 1 (scopes checked live); .txt not hijacked; DuckyScript 2+ unsupported, already in closed issue #1
+Dumbest Ipsum	2026-10-22	sublime-commands invalid JSON (extra brace) so no palette entries; fix tested on loose copy; menu/keys/multi-cursor work
+Dummy Image Generator	2026-10-22	not offered in the ST4 Install Package picker; not tested
+DumperWrap	2026-10-22	issues disabled: emailed maintainer commit address (strip_semicolon result discarded, fix tested; dumperremove clears cursor; README key mismatch)
+Duotones Colorschemes	2026-10-22	clean: 26 tmThemes parse, two applied, no console errors
+Duplicate Same	2026-10-22	not offered in the ST4 Install Package picker; not tested
+DustBuster	2026-10-22	clean: syntax scopes and completions checked live; trailing comma in completions JSON tolerated by ST; old mdelucchi repo URLs in palette still resolve
+Dylan	2026-10-22	clean: grammars parse; keyword, string, line and block comment scopes checked live
+Dynamic Commands	2026-10-22	install fails: HTTP 404 for bitbucket.org/klorenz/dynamicsublimecommands/get/default.zip (source gone); nothing filed (no Package Control reports)
+E-Mail	2026-10-22	install fails: HTTP 404 for bitbucket.org/klorenz/sublimeemail/get/default.zip; not tested; nothing filed
+E-Max	2026-10-22	not offered in the ST4 Install Package picker; not tested
+EC2Upload	2026-10-22	not offered in the ST4 Install Package picker (windows-only entry); not tested
+E100 Assembly	2026-10-22	works; and snippet description shows literal &amp; (CDATA)
+ECL	2026-10-22	clean: grammar parses; comment, keyword, type, string, function scopes checked live
+ECT	2026-10-22	syntaxes load; fileTypes empty so .ect opens as plain text; XML comments with double dashes invalid for strict parsers
+EFML	2026-10-22	clean: syntax, comments and scopes work; fileTypes set; XML valid
+EON JS snippets	2026-10-22	clean: 70 snippets valid XML, no dollar-sign damage, expand live; E-Mail (row 239) already logged as 404
+EPL	2026-10-22	keywords/numbers match inside identifiers (no word boundaries); greedy string rule; both fixed on loose copy
+ESLintAutoFix	2026-10-22	WinError 2 on Windows already reported (#1); found two causes (no shell for eslint.cmd, exec path replaces PATH), fix tested with real eslint 8, posted as comment on #1
+ESP (EcmaScript Pages) Edit Mode	2026-10-22	not offered in the Install Package picker; not tested; nothing filed
+ETPL	2026-10-22	plugin_loaded traceback on Python 3.14: bundled PyYAML uses collections.Hashable (removed 3.10); plistlib.writePlist removed 3.9; fix checked under 3.14 outside ST (ST host kept old yaml module cached); syntax itself works
+Easy Digital Downloads	2026-10-22	clean: completions valid JSON, escapes correct, autocomplete expands live
+Easy Open	2026-10-22	ctrl+. in an unsaved tab: AttributeError on None file_name; extension check case sensitive; fix tested on loose copy
+Easy Siebel	2026-10-22	unclosed quote swallows rest of file; closing paren scoped .begin; README wrong name/links/claims; first two fixed on loose copy
+EasyCatalog	2026-10-22	REGEXV1 snippet has tabTrigger REGEX (copied), so typing REGEXV1 offers nothing; fix tested on loose copy; NOT filed: issues disabled and only GitHub noreply commit addresses, no contact route
+EasyElement	2026-10-22	clean: wraps multiple selections correctly; only a trailing comma in Context.sublime-menu that Sublime tolerates
+EasyFileHider	2026-10-22	spaces stripped from patterns; saving replaces default file_exclude_patterns (panel starts empty); OSX-only keymap and print per keystroke; first two fixed on loose copy; Preferences restored
+EasyRequire	2026-10-22	clean: both snippets work as documented; repo issue #2 (double quotes) already open
+EasySettings	2026-10-22	JSONDecodeError on opening Preferences.sublime-settings: ST4 default file has a trailing comma, so no completions; fix tested on loose copy
+EasyWinPath	2026-10-22	open on a missing path: traceback only in console; undocumented alt+shift+up/down rebinding; escape/unescape works; first fixed on loose copy
+EasyWorkspace	2026-10-22	IndexError opening a workspace saved with an unsaved tab before the active one (active index counts skipped views); fix tested on loose copy; extra windows closed, workspaces folder recycled
+Echo Evaluator	2026-10-22	clean: single and multiple selections evaluate and replace as documented
+EddyMalou LoremIpsum	2026-10-22	clean: default and sized paragraphs insert correctly, also at buffer start; only a class-level list that grows per run (not visible)
+Edge Theme	2026-10-22	clean: installs with mdpopups (removed as orphan), activation command lists and applies Edge Serene theme and scheme; Preferences restored
+Edge Theme Addon - Linter Theme	2026-10-22	package is a gutter theme (Edge.gutter-theme plus two valid 32x32 icons); live check blocked: SublimeLinter installed fresh into a running Sublime sets its kill switch until restart, so no gutter test; static check only; SublimeLinter and SublimeLinter-json removed again
+EdifactHighlighter	2026-10-22	clean: segments, separators and terminator scope correctly in LF and CRLF files
+Edit in new tab	2026-10-22	reproduced open issue #1 (new tab empty): edit token of the source view used on the new view; fix tested on loose copy and posted as a comment
+Editmode	2026-10-22	URLError not caught (offline gives console traceback only); command has no palette entry and key binding is macOS only; first fixed on loose copy; tested against a closed local port, nothing sent to editmode.com
+Eiffel-Language	2026-10-22	function snippet has {13: without dollar sign; debug snippet has stray dollar before closing brace (Empty key dialog); indexing snippet uses TextMate-only USER/backtick; first two fixed on loose copy
+Electric Imp Developer	2026-10-22	Create New Project: TypeError because get_sublime_path only knows Sublime Text 3 folders (fix with sublime.executable_path tested on loose copy); re-run on existing folder appends templates and corrupts workspace; invalid path gives OSError traceback only; cloud/build commands not exercised (need Electric Imp account and Node)
+Electron Color Scheme	2026-10-22	clean: tmTheme is valid XML and applies and renders on a JS view
+Element UI Snippets	2026-10-22	12 notice snippets lose $notify/$confirm (unescaped dollar); elnotii copies tabTrigger elnoti; elnoti uses VS Code choice syntax (literal text); dollar and choice fixes tested on loose copies
+Elementor	2026-10-22	works: connection-refused path shows an error dialog; README shortcuts do not match the key bindings (filed); results display not exercised (needs the elementor server)
+Elm Format on Save	2026-10-22	clean: tested with Elm Syntax Highlighting and a real elm-format 0.8.7: manual format, parse-error panel and not-found panel all work
+Elm Syntax Highlighting	2026-10-22	installed only as the prerequisite for Elm Format on Save; syntax applies (source.elm); removed again
+Elm Snippets	2026-10-22	row 268: 16 snippets static scan clean; live inserts of imp/sig/skel/type gave no dialog or console error; removed, line confirmed
+Eloquent Snippets	2026-10-22	row 269: issue #2 regex reproduced live (address stays lowercase); tested fix posted as comment; other snippets insert fine; removed, line confirmed
+Emacs Tabstops	2026-10-22	row 270: plugin_loaded NameError (plugins) on ST4 so listeners stay None, AttributeError on every conversion; loose-copy fix tested incl. save-with-tabs round trip; removed, line confirmed
+Email Header	2026-10-22	row 271: issue #3 reproduced (bare support scope unstyled, IPs plain white in Mariana); tested scope fix posted as comment; #2 (.msg) not addressed; removed, line confirmed
+Ember CLI Snippets	2026-10-22	row 272: 19 snippets, XML ok, no bare vars, no dup triggers; live inserts of model/each/hbs/property gave no dialog or error; removed, line confirmed
+Ember Single-File Component Syntax	2026-10-22	row 273: script block never closes on ST4 (rest of file scoped JS regexp), reproduced on minimal file, stock HTML fine; no fix found; removed, line confirmed
+Ember.js Snippets	2026-10-22	row 274: 9 handlebars snippets have no scope, if/linkto expand in Python; loose-copy scope fix tested negatively (no expansion in Python), positive case untested; open #4 (package name dot) not touched; removed, line confirmed
+EmberScript	2026-10-22	row 275: syntax, line and block comment toggles work live, scopes match tmPreferences; open issues are feature request and a release request; removed, line confirmed
+EmberToolBox	2026-10-22	row 276: on_cancel TypeError (fix tested), exec path set to program so PATH is lost on Windows (reproduced with exec, fix untested), Settings-Default menu opens empty file; removed, line confirmed
+Emblem.js Syntax Highlighting	2026-10-22	row 277: open #4 (multi-line comment) and #5 (eol comment) reproduced live; tested begin/end comment fix posted on #4; #5 not fixed; removed, line confirmed
+EmoKid Color Scheme	2026-10-22	row 278: 13 tmTheme files XML ok, colors valid, five applied live with no console error; removed, line confirmed
+EmotiCODE	2026-10-22	row 279: Search Selection word fallback overwritten (dead code), loose-copy fix opened a browser page; URL escaping only spaces (by reading); removed, line confirmed
+Energy Color Scheme	2026-10-22	row 280: tmTheme XML ok; theme applies on 4215 but tab bar and status bar render black with no status text (texture "" + tint); cause unproven, unfiled; package Preferences.sublime-settings ships full user prefs (ignored_packages, save_on_focus_lost), unverified after restart; prefs restored; removed, line confirmed
+EnhancedReadline	2026-10-22	row 281: Windows/Linux keymaps copy the macOS one and rebind Ctrl+A (Select All lost), reproduced, loose-copy fix tested; swapped comments by reading; removed, line confirmed
+EnhancedSnippets	2026-10-22	row 282: loads clean; $DATE/$CLIPBOARD, ${BUZZWORD:n}, options picker, tabTrigger expansion after cache refresh all work; one IndexError in field_picker.py seen once and not reproduced in 3 tries (unfiled); bare $BUZZWORD needs braces per docs; removed, line confirmed
+Enlightened Color Scheme	2026-10-22	row 283: tmTheme XML ok, colors valid, applied live to JS with template string and regex, renders fine, no console error (closed #3 pink background not seen); removed, line confirmed
+Enlister	2026-10-22	row 284: project_data() None gives TypeError with no project, reproduced, loose-copy fix tested; Popen/KeyError paths by reading only; removed, line confirmed
+Entheogen Color Scheme	2026-10-22	row 285: tmTheme XML ok, #fff foreground accepted, applied live, no console error; removed, line confirmed
+EnvSwitcher	2026-10-22	row 286: loads clean, env_switcher picker and pick ran without error, Settings-Default open_file shows the real default; os.environ values and missing envs key unchecked; removed, line confirmed. Also corrected an untested claim in jackson-dean/ember-tool-box#3 (EmberToolBox/ path was never read)
+Equalize	2026-10-22	row 287: last selection line neither measured nor padded, reproduced twice, loose-copy rewrite tested on single selection; removed, line confirmed
+Erato Markdown	2026-10-22	row 288: macOS-only (open -a Erato) shown on Windows, TypeError environment can only contain strings, reproduced; is_enabled platform fix tested (palette entry hidden); removed, line confirmed
+Erl-AutoCompletion	2026-10-22	row 289: SyntaxWarning invalid escape \s x2 (py3.14 -W error fails, raw string fix compiles) and plugin_unloaded rmtree FileNotFoundError on removal (fix tested by reinstall); completions/goto not exercised (no Erlang installed); #7 (hang on remove folder) not reproduced; removed, line confirmed
+ErlDoc	2026-10-22	row 290: not offered in the ST4 Install Package picker (0 matches for ErlDoc), not tested
+Eschaton Color Scheme	2026-10-22	row 291: tmTheme has empty foreground/background values on 4 rules and fontStyle strike/normal; renders fine, no console error; filed as oddity; removed, line confirmed
+Esuna Framework Snippets	2026-10-22	row 292: 9 snippets XML ok; esuna-open-graph uses name= not property= (checked against ogp.me) and last tag lacks />; removed, line confirmed
+Evergarden color schemes	2026-10-22	row 293: four sublime-color-scheme files applied live to Python with no console error and render fine; strict PowerShell JSON parse fails but ST accepts them; repo is on Codeberg; removed, line confirmed
+Everything Search	2026-10-22	row 294: not offered in the ST4 Install Package picker (0 matches), not tested
+Example Overflow	2026-10-22	row 295: not offered in the ST4 Install Package picker (0 matches), not tested
+ExcelExec	2026-10-22	row 296: not offered in the ST4 Install Package picker (0 matches for ExcelExec and Excel), not tested
+Exclude Paths	2026-10-22	row 297: exclude_path_clear_project raises TypeError with no project (reproduced), exclude_path_project same by reading; loose-copy guard tested; removed, line confirmed
+Exec In Window	2026-10-22	row 298: not offered in the ST4 Install Package picker (0 matches), not tested
+Exec Parser	2026-10-22	row 299: zip install cannot find commands.json (2 dialogs, TypeError, no parser works) - unpacked loose copy works; SyntaxWarning \S line 406 (-W error compile fails, raw string compiles); removed, line confirmed, User\Exec Parser leftover recycled
+ExecInput	2026-10-22	row 300: loads clean; exec of a stdin-reading python plus exec_input panel sent hello and got HELLO back; removed, line confirmed
+Expand Selection by Paragraph	2026-10-22	row 301: not offered in the ST4 Install Package picker (0 matches), not tested
+Expand Selection to Line Before	2026-10-22	row 302: not offered in the ST4 Install Package picker (0 matches), not tested
+Expand Tabs on Save	2026-10-22	row 303: with convert_tabspaces_on_save and translate_tabs_to_spaces set, save expanded tabs to 4 spaces (checked file bytes); removed, line confirmed
+Express Color Scheme	2026-10-22	row 304: tmTheme XML ok, renders fine; 13 empty background values and empty selectionBorder, filed as oddity; removed, line confirmed
+ExpressComplete	2026-10-22	row 305: completions JSON ok (12, no dup triggers), aget+Tab expanded app.get in a JS tab; removed, line confirmed
+ExpressionEngine	2026-10-22	config and config EE2 snippets lose $config/$conf (unescaped snippet variables) on ST4; missing = in one line; fix untested
+ExpressionEngine Add-On Builder	2026-10-22	installs as folder; plugin compiles; command lists 5 types; rU open mode fails on py3.14 but no .python-version so runs on 3.3 host, not a defect; full generation not completed through input panels in rig; nothing filed
+ExtJs Snippets	2026-10-22	xcls/xctr/xcombo write Ext.define(...),{ stray paren = JS syntax error (xcls run live, node --check confirms; fix checked with node); xcombo missing $ on placeholder (read only)
+ExtendedTabSwitcher	2026-10-22	Package Settings menu paths use ExtendedSwitcher folder (absent), open empty buffers (settings item run live); caption typo Swticher; command works
+External REPL	2026-10-22	ExternREPL.py 13 invalid escapes (console SyntaxWarnings live); keymap binds Save As etc. everywhere (read); User\ExternalRepl.last-run leftover recycled
+ExternalTools	2026-10-22	palette entry ExternalTool: raises TypeError when apps undefined (run live, guard fix tested on loose copy); StopIteration on unknown id (read only)
+External_Programs	2026-10-22	external_program error path crashes: TimeoutExpired.stderr None (+=), return_code None (%i), process unbound on OSError, BUSY stays True; first two fixed on loose copy, third untested; success path not seen
+Extra Syntax	2026-10-22	package installs repo source tree (154 entries), no syntax/Sublime file at all; set_file_type Extra gives no real syntax
+Extract Text to File	2026-10-22	multi-selection: all deleted, only last written (data loss, run live, fix tested); KeyError file_path in unsaved tab (run live, guard tested)
+F2J - FCore to Java	2026-10-22	clean: syntax scopes, comment toggles (line and block pref), let snippet all work live; issues disabled on repo
+F5 iRules	2026-10-22	clean: 15 snippets valid and escaped, 5 completions files valid, syntax scopes (keyword, comment) and snippet inserts live; theme empty fontStyle is normal
+FASTBuild	2026-10-22	symbols-builtin context never included: builtin functions get generic function-call scope (live); include fix tested on loose copy; no \b in builtin regex not checked
+FAlign	2026-10-22	works as README (live); falign.py line 69 two invalid \W escapes (console SyntaxWarning live); README says ForceAlign and macOS key only
+FBP	2026-10-22	clean: valid plists, scopes for comment, export, IIP verified live
+FEG Snippets	2026-10-22	84 snippets valid XML; less/login2 has same trigger+description as less/transition (read, Tab chooser not run, no LESS syntax installed)
+FLAC	2026-10-22	define pattern puts variable.parameter on wrong capture group (live, fix tested on loose copy); double-quoted strings scoped string.quoted.single (live); [e|E] in numbers (read)
+FSL - Finite State Language	2026-10-22	transition: has end_states scope name (live); machine_definition rule duplicated (read); semver and arrows work
+FSP Syntax	2026-10-22	/** doc comment rule shadowed by /* rule (live); keyword rules lack closing \b (whenever, live); [A-Z|_|0-9] literal pipes (read)
+Fabric Tasks	2026-10-22	fabfile search uses Unix find (find.exe on Windows returns nothing; command line run in PowerShell, fab_tasks run live without project folder only); filed
+Facility API	2026-10-22	braces scoped punctuation.definition.block.ts (live); service/method/data scopes otherwise work
+Factor	2026-10-22	clean: comment, definition and string scopes and verb snippet verified live
+FactoryBot	2026-10-22	clean: 16 snippets valid XML and escaped; inserts looked right (placeholder test muddled by my own typing); issues disabled on repo
+FactoryBoy	2026-10-22	djfactory snippet uses nonexistent DjangoFactory (inserted live, class checked in factory_boy repo via gh search); sqlfactory bare SQLAlchemyModelFactory; inserted code not run
+FactoryGirl	2026-10-22	clean by reading: 10 snippets valid XML, escaped, scoped to ruby; not inserted live (same content as FactoryBot rows that were)
+Failcoder Color Scheme	2026-10-22	clean: valid plist, no empty or bad color values; applied as view color_scheme on a Python buffer, rendered correctly, no console error
+Falcon	2026-10-22	Goto Symbol lists whole file as one symbol (source.falcon scope, no function-name scope; live, fix tested on loose copy); TryCatchEnd snippet inserts try statements] (live)
+Famous	2026-10-22	newRenderNode snippet is exact copy of newFader; utilityLoadURL has utilityAfter trigger+description (both read); remove worked on 4215 without the Famous not found alert from open issue #1 (not commented)
+Fancy CSS Comments	2026-10-22	comment-section snippet has no scope, c-section expands in a Python buffer (live) while c-basic does not
+FarCry	2026-10-22	all 13 snippets unscoped with plain-word triggers: type+Tab in a Python buffer expands to ColdFusion code (live)
+Fb-Flo	2026-10-22	main.py splits file_name on / so Windows resourceURL is the full path (read, split line run in Python); server listens on all interfaces, so it was not started; None file_name on unsaved view (read)
+Feature Presentation	2026-10-22	close source tab then ...0 tab: IndexError in on_pre_close and scratch edits lost silently (live, guard fix tested on loose copy); normal flow works
+Feedwhack	2026-10-22	keymap binds nonexistent command feedwhackfind (ran live: no-op); README key differs; debug prints
+Felix	2026-10-22	triple-quoted string rules shadowed by single-quote rules (live scope check); fix not run (loose copy would not load)
+Fenom	2026-10-22	messages.json has unresolved merge conflict markers; Package Control logs Error parsing messages.json (live); fixed JSON parses
+Fewest Moves	2026-10-22	works (syntax, cube, counts); missing insertionfinder error does not name the program
+File Switcher	2026-10-22	not tested: not offered in the ST4 Install Package picker (Bitbucket repo)
+FileBinder	2026-10-22	Update Binder saves null path for unsaved tab; Choose a Binder then TypeError (live); fix tested on loose copy
+FileCleanup	2026-10-22	not tested: not offered in the ST4 Install Package picker
+FileClose	2026-10-22	clean: file_close_to_right and file_close_others work live on 4215
+FileCommands	2026-10-22	force_quit and try_quit work live; get_confirmation on_cancel is dead (Escape does not run it); open_or_create_file input flow not completed in the rig
+FileDialog	2026-10-22	Save As IndexError with no folder open (live, fix tested); README lists 2 of 5 needed dependencies
+QuickSearchEnhanced	2026-10-22	installed only as a FileDialog dependency; loads; removed
+FolderFiles	2026-10-22	installed only as a FileDialog dependency; needs FileList, StatusMessage, OpenPath; loads once they exist; removed
+FileList	2026-10-22	installed only as a FileDialog dependency; loads; removed
+OpenPath	2026-10-22	installed only as a FileDialog dependency; loads; removed
+StatusMessage	2026-10-22	installed only as a FileDialog dependency; replaces the whole status bar; removed
+FileFinder	2026-10-22	default include_dirs not searched on Windows (HOME unset, ~ not expanded): Matching files 0 live; expanduser fix tested (48)
+FileIcons Theme	2026-10-22	clean (read only): icon definition files only, installs without console errors; theme not enabled or viewed
+FileModifyStatus	2026-10-22	clean: marker shows open circle, filled after typing, open circle after undo (live)
+FileReloader	2026-10-22	Reload All Files (F5) reverts every tab and discards unsaved edits, no prompt (live); is_dirty guard tested on loose copy
+FileTemplates	2026-10-22	zip install lists no templates (os.walk of Packages); loose-copy control lists 11 (live); iteritems on py3 is open issue #10, not re-run
+FilezillaImport	2026-10-22	not tested: not offered in the ST4 Install Package picker
+Fill CF Query	2026-10-22	last char of selection removed when no parameter block (live); AttributeError on non-matching line after params (live); both fixes tested on loose copy
+Fillerati	2026-10-22	not tested: not offered in the ST4 Install Package picker
+Filter Code	2026-10-22	result tab always empty on ST4: newView.insert(edit,...) with the source view edit (live, split_match_code); append fix tested for both modes on loose copy (unpatched split_match_content not run); infinite-loop suspicion in getBelongFileName tested and refuted
+Find Function Definition	2026-10-22	not tested: not offered in the ST4 Install Package picker
+Find Non ASCII Characters	2026-10-22	clean: find_non_ascii selects e-acute, euro, emoji, u-umlaut correctly (live); multi-selection with empty first cursor not tested
+Find PHP Vulnerabilities	2026-10-22	not tested: Windows Defender flagged the repo sample example.php as Backdoor:PHP/Remoteshell.B (inactive) while Package Control built the package, install failed (Errno 22); left blocked on purpose, no exclusion added
+PackageAuditGate	2026-10-22	own package (dpc00/PackageAuditGate 1.0.1), not on the Package Control list. Add Repository with repository.json then picker install on portable 4215: loads, fetches the published list (cached 1415 bytes), shows panel with reason and status, opens by itself after Package Control installs a listed package (FileReloader), Remove asks first and Package Control removes it, Ignore writes User settings, Cancel closes. First fetch before publishing gave 404 and fell back to the shipped list. Bare GitHub URL gave a branch-based version, so repository.json asks for tags and ST4. Not run: the unfixed status (no listed issue is 30 days old yet), a blocked network at start, Sublime 3. Removed, leftovers recycled, repository setting restored.
+FindAndReplaceByProjectWithExclusions	2026-10-22	Zlatov/FindAndReplaceByProjectWithExclusions #1: AttributeError when no project is open (project_data() is None); one-line fix tested in a loose copy; removed, clean
+FindResultsBufferUtils	2026-10-22	clean: loads, four actions with no Find Results tab only show a status message, no traceback; results-tab path not exercised; removed
+FireCode Color Scheme	2026-10-22	clean: tmTheme applies with no dialog or console error; removed
+Firebase Snippets	2026-10-22	dhcar/firebaseSnippets #4: extra ) in orderByKey and limitToFirst, changeEmail calls changePassword (all expanded and read); other 52 only read; removed, clean
+Fis	2026-10-22	not offered by the ST4 picker (filter Fis matched 5 other packages); not tested; its open issue #6 is a feature request (custom Smarty delimiters)
+FishTank	2026-10-22	defect found and fix tested (empty tank, randint(0,-1): insert with another view edit token; build text and append); NOT POSTED: ahuff44 blocked the account (HTTP 403); text in findings\FishTank-empty-tank-st4.md; removed, clean

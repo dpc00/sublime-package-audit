@@ -4,10 +4,10 @@ An audit of Sublime Text packages from [Package Control](https://packagecontrol.
 
 This repository holds the data and the method. It is a draft: the numbers will be updated.
 
-## In numbers (to 2026-10-21)
+## In numbers (to 2026-10-22)
 
-- **1843 test records** for **1749 different packages** (`RESULTS.tsv`). Most records are a live test in a real Sublime; a few are shorter (the package was loaded, or only its source was read), and the note in each row says which.
-- **1493 issues** filed on **1032 repositories** (ISSUES.tsv): 1190 still open, 303 closed. Closed does not mean fixed; the list does not say why an issue was closed.
+- **2417 test records** for **2321 different packages** (`RESULTS.tsv`). Most records are a live test in a real Sublime; a few are shorter (the package was loaded, or only its source was read), and the note in each row says which.
+- **1896 issues** filed on **1311 repositories** (ISSUES.tsv): 1563 still open, 333 closed. Closed does not mean fixed; the list does not say why an issue was closed.
 - The package lists used from 2026-10-07 on, and what built each one: `lists/`. The earlier September queue, by install count, is not published; its results are in `RESULTS.tsv`.
 
 ## What was found
@@ -18,13 +18,17 @@ Mostly small, concrete defects that a maintainer can fix in a few minutes and th
 - **A setting or command that points at nothing.** A menu item ran a command the package does not define and showed greyed out; a package read a setting under a different name than the one it documents ([NoDialogs#8](https://github.com/maximsmol/NoDialogs/issues/8)); a menu file pointed at color scheme files that do not exist ([Aethra#1](https://github.com/vlasikhin/Aethra/issues/1)).
 - **A snippet or key that never fires.** A snippet scoped `source.Markdown` never matches, because Sublime's scope is `text.html.markdown` ([StrapdownJS-Boilerplate#1](https://github.com/sonokamome/StrapdownJS-Boilerplate/issues/1)).
 - **Behaviour that differs from the README.** In the 2x2 layout, Alt+left and Alt+right jump to the other row ([sublime-ExpandGroup#5](https://github.com/evanliomain/sublime-ExpandGroup/issues/5)); an example in a README does not match what the plugin does ([SublimeTypoScriptr#1](https://github.com/kitzberger/SublimeTypoScriptr/issues/1)).
+- **Code that only worked on old Python.** A regular expression that begins with whitespace before `(?x)` raises an error from Python 3.11 on ([Devanagari-validator#3](https://github.com/alchemi5t/Devanagari-validator/issues/3)); a flag that Python 3.6 and later reject makes every command fail ([sublime-custominsert#7](https://github.com/yanni4night/sublime-custominsert/issues/7)); a source file that is not UTF-8 and declares no encoding keeps the whole plugin from loading ([Delphi-IDE#3](https://github.com/JeisonJHA/Delphi-IDE/issues/3)).
+- **Output written to the wrong place.** Several plugins insert text into a new tab or panel with the `edit` object of the original view, which leaves the new tab empty in Sublime Text 4 ([sublime-danmakufu#3](https://github.com/drakeirving/sublime-danmakufu/issues/3), [sublime_dbpedia_lookup#2](https://github.com/rvolz/sublime_dbpedia_lookup/issues/2)).
+- **A command that fails on an unsaved tab.** The plugin assumes the view has a file name ([DXL#6](https://github.com/Adarma/DXL/issues/6), [sublime-text-dxr#1](https://github.com/snorp/sublime-text-dxr/issues/1)).
 - **A package that cannot be installed.** Two packages are listed in Package Control with no releases (no git tags), so nobody can install them.
 
 Many packages had nothing to report; those rows say so (for example the ISF syntax, Comments-only color scheme and npc_sheets, which behaved as described).
 
 ## Limits
 
-- One machine: Windows 11, portable copies of Sublime Text builds 4200 and 4215. Linux and macOS behaviour was not tested.
+- One machine: Windows 11, portable copies of Sublime Text (builds 4200 and 4215; the 4200 copy was retired on 2026-10-20, so later tests ran on 4215 only, with its Python 3.14 plugin host). Linux and macOS behaviour was not tested.
+- Packages that import `requests` or `bs4` could not run: the Package Control channel's versions of those libraries for Python 3.14 install without their own dependencies (`urllib3`, `typing_extensions`). Those rows say "not testable" and nothing was filed against the packages.
 - Brief tests. "No defects found" means none found in a short, real use of the package, not that there are none.
 - The reports were written by an AI agent and are marked as such ("Claude reports:"). Every report states what was observed and what was not.
 - The audit made mistakes, and said so when it found them. Example: a report on the Theme - Treble issue first blamed missing default settings on Sublime ignoring a package's own `Preferences.sublime-settings`; a retest showed that Sublime reads those only at start-up, and the report was corrected in the thread the same day ([Theme-Treble#1](https://github.com/53v3n3d4/Theme-Treble/issues/1)).
