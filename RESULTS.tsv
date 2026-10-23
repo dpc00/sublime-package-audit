@@ -2416,3 +2416,313 @@ FireCode Color Scheme	2026-10-22	clean: tmTheme applies with no dialog or consol
 Firebase Snippets	2026-10-22	dhcar/firebaseSnippets #4: extra ) in orderByKey and limitToFirst, changeEmail calls changePassword (all expanded and read); other 52 only read; removed, clean
 Fis	2026-10-22	not offered by the ST4 picker (filter Fis matched 5 other packages); not tested; its open issue #6 is a feature request (custom Smarty delimiters)
 FishTank	2026-10-22	defect found and fix tested (empty tank, randint(0,-1): insert with another view edit token; build text and append); NOT POSTED: ahuff44 blocked the account (HTTP 403); text in findings\FishTank-empty-tank-st4.md; removed, clean
+FixMyJS	2026-10-23	addyosmani/sublime-fixmyjs #14 comment: paths with & break it on Windows (shell=True cuts the JSON argument at the &); shell=False fix tested; untitled tab works; #12 (node on PATH) fine here; removed
+Flashback	2026-10-23	not offered by the ST4 picker (filter matched 0); not tested
+Flat Colors	2026-10-23	jbrooksuk/SublimeFlatColors: comment on #1 (completion inserts the name, not the hex; fix tested) and #3 (colorList class attribute: picker lists every color again per window; fix tested); removed
+Flatron	2026-10-23	clean: theme and scheme files parse, applied to the portable with no dialog or console error; repo noahbuscher/flatron (open #21 retina assets); removed, Preferences restored (hash equal)
+Flatwhite	2026-10-23	clean: scheme loads and applies to a Python tab with no dialog or console error; removed
+Flexoki Color Scheme	2026-10-23	clean: all four schemes (Light, Light Dimmed, Dark Dimmed, Dark) apply with no dialog or console error; removed
+FloScript	2026-10-23	hadfieldn/sublime-floscript #1: typo pentity.name.function.floscript in capture (scope seen, no visible effect); everything else works (syntax applies, Toggle Comment ok); removed
+Flow Built-In Type Completion	2026-10-23	xinchaobeta/flow-builtin-type-completion #2: names with $ (React$Component, $TypedArray) insert only the part before the $ because completion text is a snippet; escaped \$ fix tested after a restart; removed
+FlowTree	2026-10-23	maxwelljohn/FlowTree #1: SyntaxWarning invalid escape \d on load (line 48), raw-string fix; tree, switching and close tick work; search nodes not tried; removed
+FlowType	2026-10-23	loads clean; existing #18 (dpc00, 2026-09-25, static) confirmed by reading the Windows keymap (flowtype_view_errorss); Ctrl+Alt+C with real input shows nothing; end-to-end with flow-bin 0.200 not completed (check-contents hung on server start in my setup); nothing new filed; removed, test folder recycled
+Flowstate	2026-10-23	goodmind/sublime-flowstate #3: TypeError in an unsaved tab (view.file_name() is None in on_idle, text not erased); saved file works as advertised; fix tested; removed
+Fluentd	2026-10-23	adamchainz/fluentd.tmLanguage #5 (fileTypes empty: fluent.conf opens as Plain Text, tested) and #6 (README says select Ansible); syntax, tags, directives, Toggle Comment work; removed
+Flux Snippets	2026-10-23	jansanchez/Flux_Snippets #3: TM_FILEPATH transform not anchored, @main/@module get the whole local path (Windows); fix tested on three of four snippets; removed
+Folder2Project	2026-10-23	divinites/folder2project #1 SyntaxWarning \s on load, #2 both commands TypeError on an unsaved tab, #3 remove_folder_from_project TypeError with no project; three fixes tested; happy path works; removed
+FolderTouch	2026-10-23	clean: touches the parent folder modified time on save (2020 to now, tested); removed
+Follow Function PHP	2026-10-23	not offered by the ST4 picker (filters Follow Function PHP and Follow Function matched 0); not tested
+ForceMoveToGroup	2026-10-23	clean: force_move_to_group creates a new pane and closes the emptied pane as intended; removed
+Format Apex Log	2026-10-23	jdrbc/format-apex-log #2 SyntaxWarning \| on load, #3 empty () split over lines (nextChar never set: index < index-1); both fixes tested; removed
+Foundation 6 Autocomplete	2026-10-23	data_completions never defined: AttributeError on completion inside a tag; fix tested in loose copy
+Foundation 6 Autocomplete	2026-10-23	data_completions never defined: AttributeError on completion inside a tag; fix tested in loose copy
+Foundation Snippets	2026-10-23	f4-button placeholder $3 used twice, disabled never appears; fix tested in loose copy
+Fountainhead	2026-10-23	no defect found; syntax scopes and list popups work; no GitHub repo
+FoxCode	2026-10-23	skipped: not in the Install Package picker on build 4215 (ST2-era package, hidden by Package Control)
+FramerCompletion	2026-10-23	did not load: JSON opened from zip path, bytes+str TypeError, backslash path split; fixes tested in loose copy
+FreeMarker	2026-10-23	no defect found; syntax highlights directives, macros, interpolation, comments
+Freya	2026-10-23	no defect found; color scheme applies via view setting
+Front End Snippets	2026-10-23	_marquee closing tag, http// CDN URLs, font_awesome snipppet extension typo; fixes tested in loose copy
+Front-end Project Snippets	2026-10-23	snippets reuse one field number for two arguments (tc.a.e, jr.render, jq.tclass); fixes tested in loose copy
+Frontend Light Color Scheme	2026-10-23	no defect found; all four schemes load and render
+FullScreenStatus	2026-10-23	no defect found; wrapper commands run without errors
+FullUndo	2026-10-23	no new defect; full undo and redo round trip works on 3 edits; existing issue #2 open
+Future Funk - Codeception	2026-10-23	no defect found; both schemes load and render
+Fuzzy Clock	2026-10-23	wrong hour at minute 33 and "Thirteen" after 12:33; fix tested by running fuzzyTime; no tracker, written up in findings\
+FuzzyImports	2026-10-23	Windows backslash in inserted import path (invalid JS); fix tested in loose copy
+GAMS language	2026-10-23	gams_switch TypeError in unsaved tab; guard tested in loose copy
+GAS-x86 (or x64) highlighting scheme	2026-10-23	no new defect; syntax, displace and skel64 snippets work; four issues already open
+GCC Assembly Listing	2026-10-23	no defect found; syntax loads and highlights a sample listing
+GCC MAP File	2026-10-23	no defect found; first sample looked broken only because multi-line insert was auto-indented; unindented sample highlights all sections
+GL Shader Validator	2026-10-23	Windows exe path without .\ fails silently when cmd does not search cwd; SyntaxWarning \d; fixes tested; GLSL syntax package installed as dependency and removed
+GLE	2026-10-23	no defect found; syntax highlights a sample GLE script; no GitHub repo
+GLSL Validator	2026-10-23	Windows exe without .\ fails silently when cmd does not search cwd; SyntaxWarning \d; TypeError on unsaved GLSL tab; fixes tested in installed copy; GLSL syntax dependency installed and removed
+GM Syntax	2026-10-23	no new defect; syntax and fun snippet work; two issues already open
+GNU Octave Completions	2026-10-23	no defect; 1483 clean completions, scope source.matlab works; open issue #3 is a merge request
+GPD	2026-10-23	skipped: not in the Install picker on build 4215 (hidden by Package Control, like FoxCode)
+GROQ Syntax Highlighting	2026-10-23	strings end at first quote of either kind and ignore backslash escapes; // comments not highlighted; digits inside identifiers scoped numeric; fixes tested as loose copy
+GSAP Snippets	2026-10-23	no defect; 10 snippets expand, tab order works (fromTo skips $3 harmlessly), README matches
+GSP Snippets	2026-10-23	gradiogroup unescaped $ drops it.radio/it.label; gcollect and gfindall insert literal {3}; collect trigger lacks g; fixes tested as loose copy
+GTags	2026-10-23	skipped: not in the Install picker on build 4215 (hidden by Package Control)
+GYP	2026-10-23	comment scope .js suffix; escapes \. and \x27 still painted illegal (closed #2 still reproduces); fixes tested as loose copy
+Gaelyk	2026-10-23	import completion inserts quoted class name (invalid Groovy); if/ifel snippets double space after <%; fixes tested as loose copy
+Galen v2+	2026-10-23	no toggle-comment preferences for text.galen-t; test grammar comment scope typo number-sign-t; fixes tested as loose copy
+Galil DMC language	2026-10-23	NO and indented REM comments not highlighted (Galil manual: NO is the comment command); double-quoted string rule named string.quoted.single; fixes tested as loose copy
+Game of Life	2026-10-23	TypeError every frame on U+0130 in text (ord of 2-char lower()); no tracker, written up in findings\GameOfLife-crash-on-dotted-capital-I.md; fix tested as loose copy
+Gauche	2026-10-23	only integers highlighted as numbers (decimals, negatives, hex, rationals plain); fix tested as loose copy
+GearboxSencha	2026-10-23	define snippet generates invalid JS (missing comma after requires: []); fix tested in installed copy; F5 restart_sublime (os.execl on sys.executable on win32) and Ctrl+Shift+P keymap not run, left unverified
+Gekko	2026-10-23	WMIC removed on current Windows 11 so running Gekko never detected; TypeError in unsaved tab without project; plugin creates C:\Temp\Gekko_sublime on every run (recycled); fixes tested as loose copy
+Gem Browser	2026-10-23	pipes import fails on Python 3.13+; IndexError with no folder; Windows FileNotFoundError from rbenv step; sys.executable is the plugin host so the gem source never opens (cause of #14, commented); SyntaxWarnings; all fixes tested as loose copy
+GenExpr	2026-10-23	v0.0.4: toggle_comment does nothing in source.genexpr (no Comments.tmPreferences; C tab works); loose fix not verified without restart; commented on existing open issue #1
+Generate Password	2026-10-23	v1.1.1: commands work; secure passwords use random.sample (not for security use); SystemRandom fix tested loose; issues disabled, findings file written, not filed
+GenerateSyntaxTestAssertions	2026-10-23	v1.0.1: works in Python and plain text; only oddities (blank line inserts an empty line, columns under the comment token get no assertion); nothing filed, non-GitHub
+Genesis	2026-10-23	snippets: gcl uses order_by (WP_Query wants orderby) and stray parens; filed #3
+Gengojs	2026-10-23	v1.0.1: snippets scoped source.jade/source.hbs never expand with Handlebars package (scope text.html.handlebars); loose scope fix tested; Handlebars installed as dependency and removed; filed #1
+Georgify	2026-10-23	v1.0.5: georgify raises UnicodeEncodeError on non-ASCII text (encode ascii); no tracker, findings file written, not filed; fix not sent to the university server
+GetCode	2026-10-23	v1.0.0: bs4 library needs typing_extensions (not in dependencies.json), fix tested; empty default settings give only a makedirs traceback; filed #3 #4
+Ggu	2026-10-23	skipped: ST2-only, not offered by the 4215 picker (issues 1-4 already open, all ST2)
+Gherkin Auto-Complete Plus	2026-10-23	v1.2.2: plugin entry is root __init__.py which Package Control never installs (skip list in package_manager.py) so package does nothing; loose plugin.py fix tested; messages.json trailing comma; filed #47 #48
+Gherkin-highlight-sublimetext	2026-10-23	skipped: not offered by the 4215 Install Package picker (no match for Gherkin-highlight)
+Ghetto CoffeeScript	2026-10-23	colour scheme only; README setting color_scheme GhettoCoffeeScript.tmTheme errors on 4215, full Packages path works; filed #2
+Ghost Snippets	2026-10-23	snippets: pagin inserts {{pagintation}} (typo, Ghost helper is pagination); filed #2
+Git CoAuthor	2026-10-23	completion works; Main.sublime-menu Settings-Default points to non-existent folder GitCoAuthorSnippet, opens empty file; filed #1
+Git Commit Message Syntax	2026-10-23	v1.2.0: grammar highlights nothing on 4215; removing top-level include source.diff restores it (loose copy tested); filed #7
+Git GUI Clients	2026-10-23	v0.5.0: gitk opens from the palette on a scratch repo on 4215; no new defect (issue 11 mnemonic warning not seen in console); nothing filed
+Git Mode	2026-10-23	v0.2.1: needs ShellCommand (install message says so, ModuleNotFoundError until then); after installing it the plugin only loads on restart, not tested further; nothing filed (issues 9 10 12 already open)
+GitAutoCommit	2026-10-23	v0.2.1: needs Git package (installed, then removed); TypeError on every edit of an unsaved view (file_name None); loose fix tested; filed #10, probable duplicate of #8 linked
+GitDiffHelper	2026-10-23	v1.0.4: import git fails (ModuleNotFoundError), ST2-era API (begin_edit); already reported in #4; nothing filed
+GitGrep	2026-10-23	skipped: not offered by the 4215 Install Package picker (no match)
+GitHub Markdown Snippets	2026-10-23	v2.1.0: h1 + Tab expands; snippets read, no defect (only a trailing space in ul item); nothing filed
+GitOpenChangedFiles	2026-10-23	v1.0.2: compare_branch_to setting ignored, command hardcodes origin/master; loose fix tested on scratch repo; filed #10
+Github Notifications	2026-10-23	v1.0.2: empty default token raises uncaught MissingCredentialsException on every view activation; fix (catch in _updateData) tested loose
+Glorified Copy 'n' Paste	2026-10-23	skipped: Package Control install fails, HTTP 404 on bitbucket.org/teddy_beer_maniac/.../get/0.4.6.zip (repo gone); nothing to test; nothing filed (channel issues not allowed)
+Glot	2026-10-23	v0.1.4: glot.py uses async as function name/decorator, SyntaxError on Python 3.7+, plugin never loads; rename fix loads clean; API run not tested (needs token)
+Gluecodium	2026-10-23	v1.1.2 syntax: shipped syntax_test fails 285/2660 on 4215 (272 symbol checks, fixed by partial-symbols header; 13 from // @ doc lines read as symbol assertions); grammar itself matches
+Gnuplot	2026-10-23	v0.3.0: syntax and toggle_comment work; only the already-open issues reproduce (#8 variable inside [0:a] shown invalid); set format not split in 4215; nothing new, nothing filed
+Go Coverage	2026-10-23	v2014.11.06: on Windows no coverage at all: shlex.split strips backslashes (#8), no cwd so Go modules fail (#10), profile paths use / vs backslash path (#11), one-line uncovered blocks unmarked/range off by one (#9); all four fixes tested with real go test; also runs go test synchronously on the main thread (not filed)
+Go Playground	2026-10-23	v0.1.0: non-ASCII Go source raises UnicodeEncodeError (encode ascii), only visible_region is sent (545 of 1920 chars), SyntaxWarning invalid escape; fixes tested; real POST to play.golang.org with trivial test code
+Go To Definition	2026-10-23	skipped: Package Control install fails, HTTP 404 on bitbucket.org/klorenz/sublimegotodefinition/get/default.zip; nothing to test; no tracker
+Go To Node Module Homepage	2026-10-23	skipped: not offered by the Install Package picker (ST2-only entry); nothing to test
+Go Toggle Declare	2026-10-23	v0.1.2: replace("=", ":=", 1) corrupts ==, += (:== and +:=); regex fix tested; existing #1 shift+tab keymap not retested
+GoGuru	2026-10-23	v0.1.22: shipped Python 2 .pyc files in dep/shellenv make the zip install fail with bad magic number, so shellenv NameError in every command; verified with a rebuilt zip without the .pyc; guru itself not run. Portable restarted to clear stale listeners
+GoRazor	2026-10-23	syntax-only; no defect on 4215 (paired body/head and if/else per README highlight; existing issue #1 is ST3 and did not reproduce); nothing filed
+GoRename	2026-10-23	Python 2 .pyc in dep/shellenv: bad magic number, plugin never loads; fix tested loose
+GoTags	2026-10-23	acronym snake_case and func/chan field types break; type-block skip is existing #3; fixes tested loose
+GoTests	2026-10-23	generic funcs skipped (No tests generated), Settings-Default menu path wrong; real gotests run; fix tested loose; precheck named the wrong repo (tool), package is cweill/GoTests-Sublime
+GoToDoc	2026-10-23	skipped: not offered by the Install Package picker (only unrelated GotoDocumentation matches)
+GoToLastEdit	2026-10-23	KeyError after closing last-edited tab (new #10); on_modified KeyError for panel inputs is existing #9, tested fix posted as comment
+GoToPoint	2026-10-23	label says Byte Position but offsets are characters; debug print of every keystroke; clamping and empty window fine
+GoToTest	2026-10-23	AttributeError in unsaved tab; key swaps last 3 chars for non-Go files; fix tested loose
+Golden Dragon Color Scheme	2026-10-23	selection equals lineHighlight (#2D2D2D); scheme loads fine
+GoldenRatio	2026-10-23	manual Golden Ratio command no-ops when group unchanged; fix tested loose; #10 recursion not reproduced
+Google Apps Scripts	2026-10-23	skipped: not offered by the Install Package picker (ST2-only, hidden)
+Google Closure Library snippets	2026-10-23	trailing 4-space line in 3 snippets, cldispose comment swallows a statement; fixes tested loose
+Google Dictionary	2026-10-23	bundled nltk uses inspect.getargspec/formatargspec (removed 3.11): plugin never loads; no 3.8 host on this build; no fix tested
+Google Reader	2026-10-23	skipped: not offered by the Install Package picker
+Google Scholar	2026-10-23	hard-coded PhantomJS path fails on Windows with no message; committed Google NID cookie in unused getHtml; no fix tested (needs PhantomJS)
+Google Stylesheets Syntax	2026-10-23	@if/@elseif/@else and @provide/@require/@component not highlighted (scoped as selectors); no grammar fix tested
+Google Translate	2026-10-23	skipped: not offered by the Install Package picker (ST2-only)
+Googler	2026-10-23	search text not URL-encoded (# and & truncate query); fix tested loose; two Edge tabs left open by the test
+Gopher sauce syntax and static completions	2026-10-23	ships go.tmLanguage (source.go) that replaces the built-in Go syntax for all .go files; fix tested loose
+Gotham Theme	2026-10-23	README color_scheme path Packages/Gotham-Theme fails after Package Control install (folder is Gotham Theme); widgets settings use the spaced name
+Goto Drupal API	2026-10-23	committed Python 2 gotodrupalapi.pyc: bad magic number, plugin never loads; fix tested loose; one more Edge tab opened by the test
+Goto Selection	2026-10-23	works on 4215; open issue #2 (ST3.2 does nothing) not reproduced; no finding
+Goto Usage	2026-10-23	Escape in usage list opens last entry (index -1); README disable_dep_graph contradiction; first press silent; graph age 1000x constant; cancel fix tested loose
+Goto With Common Suffix	2026-10-23	Forward-slash paths/GitHub URLs not matched on Windows (os.sep split); fix tested loose
+GotoCharacter	2026-10-23	Dependency Expression not installed by Package Control: modal error each start; works after installing Expression (left installed for 478/479, remove after)
+GotoLastEditEnhanced	2026-10-23	No new finding: works (alt+z keymap gated by sublime_enhanced_keybindings, already reported in closed #1)
+GotoLineEnhanced	2026-10-23	Dependency QuickSearchEnhanced not installed by Package Control: modal error each start; works after installing it; Expression and QuickSearchEnhanced removed
+GotoRecent	2026-10-23	Skipped: not in the Package Control picker (not on PC, issue #1 asks to add)
+GotoRowCol	2026-10-23	Double space raises UnboundLocalError; last line without newline stops one short; fixes tested loose
+GotoTab	2026-10-23	goto_tab last IndexError with no tabs; issues disabled, written up in findings\GotoTab-empty-window-indexerror.md; fix tested loose
+Grace	2026-10-23	No finding: syntax scopes for import/class/block/comment/string checked
+Graciela	2026-10-23	exists snippet has two tabTrigger elements, neither works; fix tested loose
+Grails	2026-10-23	No finding: syntax detection on Windows (old #17) works, GSP/Groovy scopes, completions valid
+Grammatical Framework	2026-10-23	Already reported in saludes/sublime-GF#1 (open): Python 2 syntax; reproduced, nothing new
+Grandson-of-Obsidian	2026-10-23	No finding: color scheme applies, no console errors
+GraphvizPreview	2026-10-23	test.py in root fails to load; temp .viz leaked when dot fails; fixes tested loose
+Grasp	2026-10-23	Unsaved buffer raises TypeError (file_name None); fix not tested loose, stated in issue
+GraveSkip	2026-10-23	Backtick binding has no context: cannot type backtick in Find panel; fix tested loose
+Greek Letters	2026-10-23	No finding: Delta code point fixed (old #1), completions all match LaTeX names
+Gregorio	2026-10-23	Dead syntax rule </i>.*</i>; oddity issue filed
+Grep Code Search	2026-10-23	Skipped: not offered by the Package Control picker (ST2 only)
+GridlabD	2026-10-23	No Comments.tmPreferences: toggle_comment does nothing (open #2); tested fix posted as comment
+Gringo	2026-10-23	not highlighted inside identifiers; #sup/#inf shadow #supremum/#infimum; fixes tested loose
+Grocery Crud Snippets myIgniter	2026-10-23	duplicate trigger typo g-fields; ${text} invalid placeholder; unescaped $module; typo primary_ke; fixes for first three tested loose
+Groovy Snippets	2026-10-23	No finding: pp, ppp, urlp, tagmsg expand correctly
+Grun Colour Scheme	2026-10-23	Blou and Pechi: selection equals line_highlight; fix tested loose
+GuardHelpers	2026-10-23	Skipped: not offered by the Package Control picker
+Gutter Themes for SL	2026-10-23	No finding: theme files match README, icons consistent; SublimeLinter not installed so not drawn in gutter
+HACS Syntax	2026-10-23	Keywords highlighted inside longer words (no word boundary); fix tested loose
+HBH-Translator	2026-10-23	Baidu key committed in default settings; secret printed to console on start; API not called with the foreign key
+HDL Syntax Highlighting	2026-10-23	DFF snippet missing = signs; fix tested loose; other snippets and syntax checked
+HISE Script	2026-10-23	Wrong HISE path: dialog then FileNotFoundError traceback in plugin_loaded; fix not tested loose, stated in issue
+HMMM	2026-10-23	Ungrouped keyword alternation: add/loadn highlighted inside longer words; fix tested loose
+HMpTy Snippets	2026-10-23	No finding: snippets and completions expand; issues disabled anyway
+HOCON Syntax Highlighting	2026-10-23	constant rule consumes neighbouring chars: [true,false] misses false; fix tested loose; older open issues are different
+HSP	2026-10-23	semicolon line comment unscoped, block comment scoped string.block; fix tested loose
+HTML Head Snippets	2026-10-23	oEmbed tabTrigger misspelled head-oebmed; written up in findings (non-GitHub)
+HTML String to Js Multiline	2026-10-23	stray empty-string item after every line (empty regex match); fix tested loose
+HTML Syntax in Script	2026-10-23	syntax works; SyntaxWarning invalid escape in html_completions.py line 324
+HTML Typographer	2026-10-23	UnicodeEncodeError on text outside cp1251 (cp1251 encode of request); fix tested loose
+HTML Underscore Syntax	2026-10-23	syntax works; SyntaxWarning invalid escape in html_completions.py line 198; existing #4 covers <%- colouring
+HTML2Haml	2026-10-23	Convert file AttributeError on untitled tab; fix tested loose; 503 service-offline already in #17 #19
+HTML2Jade	2026-10-23	not in the Package Control picker; skipped
+HTML2Slim	2026-10-23	service 404 uncaught HTTPError; Convert file AttributeError on untitled tab
+HTTP Headers Reindent	2026-10-23	last header dropped without trailing newline; IndexError on empty value; fixes tested loose
+Hacker News Reader	2026-10-23	not in the Package Control picker; skipped
+HackerRankHelper	2026-10-23	.python-version "python3" so plugin silently does not load; loose copy with 3.14 loads; needs login so not exercised
+Hacklang Typechecker and Autocompletion	2026-10-23	uncaught exception when hh_client not found on every completion and save in <? files; fix tested loose
+Hacknet Snippet Tools	2026-10-23	snippets have no scope, expand in every file type; fix tested loose; trigger mismatch already in #1
+Hadar Theme	2026-10-23	installed slowly (about 2 min); themes activate and apply, console clean; A File Icon popup path not exercised
+Halcyon Theme	2026-10-23	theme and color scheme apply, console clean; no findings
+Hamlbars	2026-10-23	snippets, comment toggle and syntax work; no new findings (existing #37 open)
+Hamlpy	2026-10-23	syntax, snippet and comment toggle work; django-tag case from open #2 did not reproduce; no new findings
+Hammer Color Scheme	2026-10-23	scheme applies and renders Python correctly, console clean; no findings
+HapoItak	2026-10-23	AttributeError on untitled tab (replace html special chars); invalid escapes in jsf/autocomp_jsf_if.py; written up in findings (no tracker)
+Harmonious Color Schemes	2026-10-23	schemes apply; keyword and comment contrast very low (Mystic 1.66 and 1.35); no fix tested
+Haroopad Markdown	2026-10-23	bare except swallows the error although the dialog says check the Console; fix tested loose
+Harvey	2026-10-23	not in the Package Control picker; skipped
+Hashids	2026-10-23	README inline-salt example fails with KeyError salt; invalid escapes; fix tested loose
+Haskell NSIS	2026-10-23	completions JSON valid, scaffold expands in a Haskell tab; no findings
+Header Creator	2026-10-23	plugin never loads (import fCreate, ST2-era); fix tested loose
+Helios	2026-10-23	default light_color_scheme Dawn.tmTheme no longer ships, silent fallback; no fix tested
+Hex to Int Preview	2026-10-23	forced signed 24-bit reading gives wrong values from 0x800000; fix tested loose
+Hex-Bin System	2026-10-23	Real Ctrl+D A/B (cursor inside word): selects foo without the package, nothing with it, so the unscoped ctrl+d/b/h chord prefixes shadow single keys; fixed keymap tested loose. dec_to_hex ValueError on superscript two (isdigit vs int); isascii fix tested. 2 issues.
+Hexcode	2026-10-23	skipped: not in the Install Package picker (Hexcode and Hex filters show other packages); repo bitbucket.org/asmodai/hexcode returns 404 (page and API); nothing to install, nothing to file
+Hide Files	2026-10-23	skipped: not in the Install Package picker (Hide Files, HideFiles filters show only unrelated fuzzy hits); repo dunckr/hidefiles exists, last push 2013-12, so the entry is probably ST2-only and hidden on build 4215; nothing to file
+Hide Menu	2026-10-23	v2.1.0: on_new fires for every new tab, so the menu the user shows again is hidden by the next new tab (README says new windows only, per-window choice kept); once-per-window fix tested loose; 1 issue
+Hide Tabs	2026-10-23	skipped: not in the Install Package picker on build 4215 (filter Hide Tabs shows nothing); repo croach/SublimeHideTabs issue 6 asks for the Sublime Text 3 channel, so it is ST2-only; nothing to file
+High-Sienna	2026-10-23	v1.1.4: FauXcode.sublime-color-scheme globals use tmTheme camelCase keys that Sublime ignores (documented snake_case); renamed alone they expose find_highlight_foreground E6E6E6 on F3DEC3 (1.05:1, matches invisible); renamed plus black text readable, tested loose; 1 issue
+Highlight Trailing Whitespace	2026-10-23	v2.0.0: highlight works (red outline); after a color_scheme change the override file is not rewritten so the outline falls back to white until restart (Monokai case, shipped code); loose fix watching Preferences tested (Celeste); 1 issue. Cleanup note: recycling User/HighlightTrailingWhitespace while the scheme was loaded raised an Error loading colour scheme dialog (my doing, dismissed)
+Highlime	2026-10-23	v0.1.0: Get high fails on the Sublime 4 default color_scheme (bare file name, load_resource IOError dialog), resolve step tested loose; Take a nap leaves the thread in a busy loop (plugin host 0.02 to 1.77 cpu-s per 5 s, fixed by sleep, tested loose); 2 issues. Lesson: scheme override files the package wrote give an Error loading colour scheme dialog when recycled while Sublime runs (dismiss with OK, 3 times)
+HiveHint	2026-10-23	v0.0.2: unscoped keymap; real Alt+Q A/B (package: Goto Anything box, line not wrapped; removed: wrap_lines wraps 3 lines), Shift+Space in plain JS opens a company module picker instead of a space; keymap context typo (operand twice, no operator); fix suggested not tested (needs the authors scoping choice); 2 issues
+HiveOpener	2026-10-23	v1.7.3: Remove Item for an item whose file no longer exists raises TypeError String required (get_item_raw_type uses the file system, returns None), item stuck in the settings file; lookup-in-saved-lists fix tested loose (item removed); add flow works; 1 issue
+Hjson	2026-10-23	v3.0.2 sublime-syntax: root object without braces (allowed by the Hjson syntax page) is highlighted as plain strings; the exact sample of closed issue 4 reproduces; loose rootObject context fix tested (keys, numbers, constants, nested object, list); 1 issue
+Hogan Build	2026-10-23	skipped: not in the Install Package picker on build 4215 (filters Hogan Build and Hogan show only fuzzy hits of other packages); repo mtdb/Hogan-Build last pushed 2013-02 (Hogan.sublime-build plus hulk.py), so ST2-era and hidden; its one issue is already fixed; nothing to file
+Hologram Doc Snippet	2026-10-23	v1.0.1: hologram-doc expands (full, prefix and after text; doc alone does not); tab stop 5 selects only the t in html_example (h${5:t}ml_example), fix ${5:html} tested loose; snippet has no scope and also expands in Python (mentioned in the issue, not separate); 1 issue
+Homebrew-formula-syntax	2026-10-23	v2013.10.18: rb file starting with require formula opens as Ruby (no auto detection, as in closed issue 3); with the package syntax picked by hand the diff after __END__ is text.plain and __END__ keeps Ruby scope on 4215; simplified tmLanguage rule gave the same; a version 2 sublime-syntax extending Ruby gave no highlighting in one attempt, so no tested fix; 2 issues
+Hookblime	2026-10-23	skipped: not in the Install Package picker on build 4215 (Hookblime and Hook filters show other packages); repo Pafsis/hookblime last pushed 2012-07 (Hookblime.py only), ST2-era and hidden; nothing to file
+Hoon Syntax Highlighting	2026-10-23	v0.0.1: tape and cord rules have no backslash escape (escaped quote ends the string, Hoon docs: quotes and backslashes are escaped); the ;script(...) block rule never matches (unescaped parentheses and shadowed by the rune rule); both fixes tested loose; 2 issues
+Horizon Color Scheme	2026-10-23	v1.0.0: Horizon.sublime-color-scheme line 145 uses var(bright_white) which is not defined; console prints Unable to parse color value twice per load, rule dropped; no visible change in built-in JS and PHP; fix (existing variable) tested loose with a renamed scheme file (same-named scheme files merge as overrides); 1 issue
+Horizontal Scroll	2026-10-23	row 554: installed 1.1.2; scroll_width works both ways (command and real alt+down/alt+up on Windows); word wrap on means no scroll, as documented; no defect
+HostsEdit	2026-10-23	row 555: installed 1.0.1; open_hosts_file and real ctrl+shift+h open the hosts file with Hosts Config syntax on Windows; known open issues #9 (admin save) and #3 (Linux) and closed #6 (key clash) already cover the rest; save not tried (system file); no new finding
+Hot Dog Stand	2026-10-23	row 556: theme; selection #ffff00 equals foreground and yellow function names so selected yellow text vanishes; comment #828282 on #ff0000 is 1.04:1; both fixes tested in loose copy (selection #0000ff, comment #000000); 2 issues filed
+Deviot (Arduino IDE)	2026-10-23	row 557: installed 2.2.2; Download Python dialog (needs Python 2), new sketch command works; SyntaxWarnings on load (is with literals, invalid escapes) filed #349; existing #347 covers missing remove import
+SublimeLinter-contrib-sass-lint	2026-10-23	row 558: installed 1.3.1 with SublimeLinter 4.30.1, Sass syntax, sass-lint 1.13.1 via npm (npm installed fast this time); after restart 12 warnings and a parse error show correctly; console warns that cmd needs ${temp_file}; fix tested in loose copy; issue #38 filed
+SublimeLinter-contrib-standard	2026-10-23	row 559: installed 3.1.4 with SublimeLinter 4.30.1 and standard 17 (npm, fast); lints correctly after restart; stderr banner logged as WARNING on every lint (on_stderr fix tested) and (warning) findings shown as errors (regex fix tested); 2 issues filed
+Clientside	2026-10-23	row 560: SKIP, not offered by the Install Package picker (no match for Clientside or the author name); trentrichardson/Clientside, nothing installed
+Clipboard Diff	2026-10-23	row 561: already tested 2026-10-22 (empty tab, edit token of another view; fix posted on sabhiram/sublime-clipboard-diff#5); reinstalled and removed, not retested
+Clipboard Path	2026-10-23	row 562: installed 2013.02.08; absolute path with :line works; README example ../../a/b/c/File.txt not found because a leading a/ or b/ is always stripped (control x/y/z works); fix tested in loose copy; Linux crash #2 not reproducible on Windows (not tried); issue #3 filed
+CloneFile	2026-10-23	row 563: already tested 2026-10-22 (empty clone tab, edit token of another view; filed shagabutdinov/sublime-clone-file#1); reinstalled and removed, not retested; fresh install shows the documented Dependency import failed dialog (package has no dependencies.json, readme lists them)
+Close All Untouched Files	2026-10-23	row 564: already tested 2026-10-22 (clean); not reinstalled
+Close Oldest File	2026-10-23	row 565: already tested 2026-10-22 (KeyError in on_close, filed jturcotte/SublimeCloseOldestFile#1); not reinstalled
+Close All Untouched Files	2026-10-23	baton fix only (duplicate of row 564 note)
+EML (E-Mail)	2026-10-23	v0.1.3 syntax: header patterns like ^(?i)date.*?: highlight body lines (Date of birth:, Cc me later:) as headers, fix tested (anchor name to colon, 127 patterns); typos keywors, enverlope-to, a-zZ-Z; 2 issues filed on mariozaizar/eml-tmLanguage
+HTML Export	2026-10-23	SKIP: revolunet/sublimetext-html-export is not offered by the Install Package picker (the only match is the different package ExportHtml); nothing installed
+Hound Search	2026-10-23	v1.2.2 needs a Hound server (not run); first-run path with empty settings raises AttributeError self.SETTINGS (hound.py 38 and 44), and after the setup message the search continues (results tab, then error); both fixes tested in loose copy; issues #6 #7 filed; #4 known
+How Do I Code Search	2026-10-23	v0.2.0: query pasted into a shell (shell=True) so & | > run (INJECTED shown), fix tested (arg list, no shell, OSError message); default exec_path /usr/local/bin/ fails on Windows, real howdoi 2.0.20 ran with exec_path set (pip packages uninstalled afterwards); issues #7 #8 filed
+How2	2026-10-23	v0.1.0: how2-rs binary missing makes the command fail silently (FileNotFoundError in thread), fix tested; real how2-rs could not be built on Windows (openssl-sys 0.7.17 needs OpenSSL headers), answer list NOT tested; issue how2-sublime#1 filed
+HttpStatusCode	2026-10-23	v2013.10.04: picker of 61 status codes copies the picked line to the clipboard (works). 425 labelled "No code" (IANA: Too Early), 103 and 421 missing; 451 already in #3; fix tested in loose copy; issues SublimeHttpStatusCode#4, #5 filed
+HttpStatusCode	2026-10-23	v2013.10.04: picker of 61 status codes copies the picked line to the clipboard (works). 425 labelled "No code" (IANA: Too Early), 103 and 421 missing; 451 already in #3; fix tested in loose copy; issues SublimeHttpStatusCode#4, #5 filed
+HttpUnit	2026-10-23	v1.2.0 (needs PHP+curl): on Windows every request dies on fopen(/dev/null); also undefined $headerPos, PHP 8.2 dynamic property, DELETE rejected, OPTIONS not highlighted, @header_in/@header_out ignored, curl not in README, typos; fixes tested in loose copy against a local echo server; issues HttpUnit#1-#8
+Huely Palette Extractor	2026-10-23	v0.1.0: huely.co is now a GoDaddy parking page (POST /api/extract gives 405), plugin posts the whole buffer to it over http; no error handling (traceback only in console), fix tested in loose copy; issues sublime-huely-palette#2, #3
+Hugo Snippets	2026-10-23	v1.4.0: all 14 snippets expand correctly in HTML (checked each trigger incl. the $ one); only oddities: wrong trigger comments in two snippets, README typo, no descriptions; issue Sublime-Hugo-Snippets#6
+Hungry Backspace	2026-10-23	v1.1.6: selected ) in ()x + Backspace deletes the next char too; Backspace does nothing on a whitespace-only first line; both fixes tested in loose copy; existing #9 (unintended indent) not retested; issues Hungry-Backspace#10, #11
+Hybris Impex	2026-10-23	v1.1.1 (syntax only): ignorenull, with a stray comma makes [ignorenull=true] show as invalid; no comment settings so Toggle Comment does nothing; both fixes tested in loose copy; issues sublime-impex#3, #4
+Hyle	2026-10-23	v2013.11.25 (no repo link in picker, issues at Hyle-Script/Hyle-Sublime-Plugin): ships a copy of the YAML syntax named YAML with scope source.yaml and the same uuid, so Set Syntax lists YAML twice and Comments.tmPreferences (source.hyle) never applies; rename fix tested in loose copy; issue Hyle-Sublime-Plugin#1
+Hyperion for gettext	2026-10-23	v1.0.2: Bookmark Fuzzy bookmarks line 1 (is None checks vs Region(-1,-1)), Toggle Fuzzy does nothing in the last entry; Bookmark Empty and Toggle Fuzzy in other entries work; both fixes tested in loose copy; issues hyperion#6, #7 (existing #2 is a Package Control request)
+Hyperledger Composer	2026-10-23	v1.0.2: syntaxes for cto/acl/qry highlight fine; no comment settings so Toggle Comment does nothing (fix tested in loose copy); syntax oddities (stray } etc); build systems need the deprecated composer CLI (not installed, not run); existing issues #6 #7 #9 open, namespace-dash #11 fixed on master only; issues HyperledgerComposerSublimeText#12, #13
+HyperlinkHelper	2026-10-23	v1.4.3+st3: every command fails on Python 3.10+ (pystache collections.Callable), failed title fetch leaves title="None", unsupported syntax replaces the selected word with the placeholder; all three fixes tested in loose copy (needed a portable restart for the cached settings); wikipedia and google commands not run against the live sites; issues HyperlinkHelper#15-#17
+Hyperloop EJS	2026-10-23	v2014.03.04 (syntax only): Java and ObjC with EJS work; C++ with EJS does not recognize EJS tags inside a class body (extends-based syntax recognizes them but flags a closing brace in a later tag, so no clean fix), wrong embedded scope name copy-paste, h.ejs claimed by two syntaxes; issues hyperloop-ejs#1-#3
+I18n Rails	2026-10-23	collections.Hashable removed in bundled PyYAML: every command fails on py3.10+ (fix tested); SyntaxWarning invalid escapes; untitled-tab case not confirmed
+IAS	2026-10-23	LOAD -|M(X)| (opcode 04) missing; sign and bars of -M(X)/|M(X)| unhighlighted; both fixes tested
+IFJCode2017-syntax-highlight	2026-10-23	comment after string@ scoped as string; no name/generic scope; stray tmLanguage with {{identifier}}; fix tested; instruction-name typos suspected but spec not found, not filed
+IPS BBCode	2026-10-23	bggreen snippet gives yellow; xml snippet closes [/xml]; hotkeys-twice and no-colouring already reported (#1, #2); fixes not run in loose copy (one-word edits)
+IPS Package Manifest Syntax	2026-10-23	mog syntax: source.regexp includes keep contexts open; nested >$ end consumes outer end; fix tested in loose copy; p5m syntax fine
+IPython Pick	2026-10-23	tracebacks when no ipython_log.py found and in unsaved tab (both reproduced); run_line_magic not filtered (not filed, no doc); fixes untested
+IcedCoffeeScript	2026-10-23	installed via picker; await/defer highlight works on 4215; build needs iced CLI (not run); bundle conflict already issue #6; no new defects
+Icons - Catppuccin	2026-10-23	issues disabled on repo; icon map checked: all 394 referenced icons exist with @2x/@3x, README textures exist; theme not applied visually (no palette command); no defects
+Idoc	2026-10-23	plain .html/.htm open as HTML (Idoc) after install; empty readme; idoc/hcst highlighting works; fix untested
+IdraaakArticleAnchorChecker	2026-10-23	tested on 23-line sample (missing, case, duplicates, Arabic, legacy name, template, script, comment, entities): 10 issues exactly as expected; no defects
+Idris Syntax	2026-10-23	apostrophe in identifier starts a character literal; fix tested in loose copy
+Idyll Lang Snippets	2026-10-23	expanded meta, table, boolean: output correct, braces escaped; no defects
+Idyll-Syntax	2026-10-23	line-start // not a comment; greedy closing-tag rule; both fixes tested in loose copy
+Ignore Unable to Open File Error	2026-10-23	SKIPPED not installed: obsolete (last push 2019); issue 1 already reports crash on 4152+; built-in find_in_files_suppress_errors since 4151 replaces it; source read: erases text inside on_modified (re-triggers itself), not reproduced
+Imaginarium	2026-10-23	string escape rule is a literal dot (match \. not \\.): dots scoped as escape, backslash-quote ends the string; fix untested
+Imba	2026-10-23	imba_annotations.py fails to load on py3.12+ (distutils); fix tested loads; open issue 10 (debug undefined) already reported; syntax/keymap not exercised further
+ImpactJS	2026-10-23	Completions/*.sublime-snippet have scope commented out: set/input/delta expand in every file (plain text set+Tab gives timer.set); issue 6 already open; fix untested
+Import Cost	2026-10-23	Settings name mismatch: code reads Import Cost.sublime-settings, package ships/menu opens import-cost.sublime-settings; cause posted on existing issue #6 (tested); node None gives TypeError at line 77
+ImportJS	2026-10-23	KeyError folder without project (tested fix); paths joined with colon on Windows (tested fix); shell=True hides missing importjsd (fix not run); npm import-js CLI itself broken (missing module globals, no importjsd)
+ImprovedSQL	2026-10-23	time/timestamp rules typos (times, withoutstimeszone, (s)): without time zone and time(n) unscoped; tested fix; regex-literal rule shadowed by math rule, no defect
+Include Autocomplete	2026-10-23	collections.Sequence removed in Py3.10: AttributeError, no header completions; tested fix collections.abc
+Indent Respectful Sort	2026-10-23	lines not matching chosen indent and blank lines silently deleted (tested fix: leading lines kept); SyntaxWarning invalid escape \S lines 33,75 (tested)
+Indent To Parenthesis	2026-10-23	SyntaxWarning is with str literal lines 27,29 (fix compiles clean); command works incl. 3 cursors
+Indent and braces	2026-10-23	cursor lands past the closing brace when selection has a blank line (line count includes unindented blank); tested fix using size delta
+Indent.txt	2026-10-23	skipped: not offered by the Install Package picker (ST2-only entry, repo last pushed 2013); typed Indent.txt and Indent.t, no match
+IndentTips	2026-10-23	no defects: F1 quick panel and status message show the parent line as documented; 100k-line file cursor move well under 5 s
+IndentToAllBrackets	2026-10-23	leftover print(i) floods console on Enter (tested removal); multi-cursor uses first cursor padding (observed live, fix not run: Sublime trims auto whitespace when cursor leaves line)
+Indentation Size Setting	2026-10-23	Tab/indent_size does nothing on empty file or empty last line: find() returns Region(-1,-1) not None; tested fix; snippet Tab expansion unaffected
+IndentationNavigation	2026-10-23	no new defects: needs Statement + Expression installed (two modal import-failed dialogs otherwise, as its readme/issue #1 describe); with them goto_indentation forward, backward and expand all correct; installed and removed all three
+Indentor	2026-10-23	indentation-to-braces converter: prev_comment never reset so no semicolons after any comment line; trailing // comment swallows the semicolon; output starts with a blank line; all three fixes tested
+Infinidat Plugin	2026-10-23	Goto commands fail on log files under 32 KB (seek error swallowed); AttributeError on line without timestamp; SyntaxWarning \d; all tested; open_next_file window bug already issue #1
+Inform 6	2026-10-23	routine rule (.*) greedy: whole header line up to last ; scoped as function name; tested fix; hex numbers and comments fine
+Initializr	2026-10-23	Default zip_url returns 404; download errors silent, main thread, no timeout; capital-I settings file not read (existing #2)
+Insert Equation	2026-10-23	Windows mkstemp fd leak (PermissionError, 3 temp gifs still locked by plugin host, recycle after restart); README md target; dead Google chart renderer
+Insert to Column	2026-10-23	multi-line selection pads only first line (fix tested); invalid column silent
+Instacode	2026-10-23	AttributeError on .sublime-syntax (fix tested); instacod.es now a Spanish blog, not a paste service; opened an Edge tab
+Intel HEX	2026-10-23	syntax works (11 assertions pass); shipped syntax_test.hex name and header path wrong, never runs
+Intellekt	2026-10-23	plugin cannot load: open() on a path inside the .sublime-package; fix with sublime.load_resource tested (Java and Python completion work); commented on existing #1
+IntelliDocs	2026-10-23	getLang AttributeError on .sublime-syntax languages (fix tested); SyntaxWarnings; F2 popup menu is native and blocks main thread until dismissed
+Intellitip	2026-10-23	getLang AttributeError on Plain Text (existing #22, comment with tested fix); on_navigate KeyError for JavaScript (by reading, not clicked); SyntaxWarning. goto_line did not trigger the tooltip, a real click did
+Interactive Data Language (IDL)	2026-10-23	own syntax test fails 5 of 191 (open #1 and #6 reproduced, commented); test header folder name wrong for installed package
+Internet Search	2026-10-23	Settings-Default entry opens nonexistent folder file; DuckDuckGo Instant Answer API returns no topics for normal queries, error blames stop words; search itself works for one-word queries
+Internetstorm Bold Color Scheme	2026-10-23	loads and renders; two empty colour values (Variable background, Library class/type foreground)
+Invader Zim Color Scheme	2026-10-23	works as advertised on Python and Markdown; typo only
+Invisible Tabs Spaces Switcher	2026-10-23	opening a file rewrites it on disk at once (round trip on close identical); save_files_with_spaces documented but unused
+Io Language	2026-10-23	syntax, if snippet, scopes work; indented-return snippet (TextMate keyEquivalent, no tabTrigger) never fires (Return inside foo() gave foo(newline)); issues disabled on yangsu/sublime-io, not emailed
+Ionic 2	2026-10-23	216 snippets, XML valid, expand correctly; none has a tab stop so cursor ends after the closing tag
+IpAddress	2026-10-23	does not load on Windows (IpAddress.py vs ipaddress/ folder, case-insensitive import; rename fix tested); IPv4 commands can return an IPv6 address via ipecho.net (fix not run)
+Iridis Colour Scheme	2026-10-23	four themes load; all named Iridis Blue Neue, two share a uuid; empty foreground in Function argument rule
+Iris Path	2026-10-23	skipped: not in Package Control picker (no match for the name), nothing to install
+Iron router snippets	2026-10-23	router snippet has a syntax error (semicolon in object literal) and name: labels
+Ironman Color Scheme	2026-10-23	both tmTheme files parse and apply with no console error; no defect
+JCShell Tools	2026-10-23	settings README menu and build file fine; syntax defects already reported in open issues 3-9; nothing new filed
+JCommander	2026-10-23	service completion inserts invalid JS (extend({ closed with ");")
+JDebug	2026-10-23	attached to a real JVM via jdb; breakpoint and step work; TypeError without project folder (fix tested), IndexError without -g, SyntaxWarnings
+JEB Script Development Helper	2026-10-23	update-apidoc command saves the HTML page the URL now returns as the API file; reload fails and empties completions
+JRubyFX	2026-10-23	skipped: not in Package Control picker (no match for the name), nothing to install
+JS Minify	2026-10-23	skipped: not in Package Control picker (no match for the name), nothing to install
+JSDebug	2026-10-23	inserted console statement invalid with quoted keys; context-free keymap overrides ctrl+shift+m
+JSHint Inline	2026-10-23	skipped: not in Package Control picker (no match for the name), nothing to install
+JSML Formatter	2026-10-23	ctrl+[ keymap without context replaces Unindent; AttributeError in unsaved tab
+JSON L18n Resources Editor	2026-10-23	real three-column flow works; save with an invalid JSON line overwrites the file with the editor text (data loss); SyntaxWarning
+JSON to CSV Converter	2026-10-23	skipped: not in Package Control picker (no match for the name), nothing to install
+JSTL autocomplete	2026-10-23	installs, snippets and completions work in a JSP view (c:if expanded with a real Tab, c:forEach via the list); no defect
+JSTemplatify	2026-10-23	converter loses a second variable after a string, breaks on + in parentheses, does not escape backtick or dollar-brace
+JUnit Completions	2026-10-23	import completions insert import pkg.Class.* (91 of 117) which does not import the class; checked with javac
+Jack	2026-10-23	Nand2Tetris Jack syntax highlights keywords, strings, both comment kinds with correct scopes, no console errors; no defect
+Jaggeryjs	2026-10-23	syntax scopes correct in a .jag sample, completions JSON valid (165), triggers match README; no defect
+Jam Language	2026-10-23	string-escape regex has doubled backslashes so an escaped quote ends the string; fix tested in a loose copy
+Jamon	2026-10-23	output and call tag patterns have a stray caret and never match; fix tested in a loose copy
+Japanese Word Jump	2026-10-23	jumps work on short text; max() instead of min() makes every jump tokenize the rest of the file (tokenizer timed outside Sublime)
+JapaneseWordSeparator	2026-10-23	Ctrl+Left skips a one-character segment (>= boundary rule); right direction fine
+Jasmine CoffeeScript	2026-10-23	syntax includes source.coffee which ST4 does not ship; only describe/beforeEach/it/@x highlighted
+Jasmine Matchers ES6 Snippets	2026-10-23	232 snippets all valid, scope source.js, ai8601 expanded correctly; no defects
+Jasmine Matchers Snippets	2026-10-23	232 snippets valid, scope source.js, aa expanded correctly; no defects
+Jasmine Overview	2026-10-23	regex lacks word boundary (submit( edit( listed) and IndexError on line starting with function; both fixed and tested; shipped test file imports pytest
+Jasmine Promise Matchers	2026-10-23	6 snippets valid, scope source.js, tbrsw expanded correctly; no defects
+Java Bytecode	2026-10-23	invokedynamic and long/boolean/final not highlighted; fix tested in loose copy
+Java Property Cleaner	2026-10-23	palette and keymaps call jp_cleaner, real command is jpcleaner; comment lines deleted; selection ignored; fix tested
+JavaScript Scratch Pad	2026-10-23	run fails on fresh install: libs None AttributeError, node_modules_path None TypeError, export not valid on Windows, output panel insert with other view edit shows nothing; fix tested
+JavaScript Snippets for IMWeb	2026-10-23	59 snippets valid, jon expanded with literal $; no defects
+JavaScriptTemplateLiteralEnhancements	2026-10-23	template literal scope is string.quoted.other.js on ST4 so template to string wraps backticks in quotes and StopIteration on selection; fix tested
+JavaSetterGetter	2026-10-23	skipped: not in picker, Package Control lists it for Sublime Text 2 only (st_versions [2])
+Jdf - Tool	2026-10-23	skipped: Package Control lists it for Sublime Text 2 only (st_versions [2]), hidden from the picker
+Jedi Syntax	2026-10-23	syntax fails to load on ST4: with_prototype recursion in php-embedded (error dialog); fix with embed tested
+Jeet Snippets	2026-10-23	46 SCSS and Stylus snippets valid; col and gut expanded correctly in SCSS (Sass package installed for the test, removed); no defects
+JetJet Color Scheme	2026-10-23	two tmThemes load and apply (set via view setting); both carry name Monokai, only the background differs; no defect filed
+JoinAssignment	2026-10-23	unjoin corrupts values with operators (x + y, x == y) because get_tokens is used for comma values; fix with get_arguments tested; needs Statement and Expression (loaded from earlier installs)
+JoinChainCall	2026-10-23	unjoin writes leading dots (README says trailing), join cannot re-join them, toggle adds blank lines; fix tested; needs Statement and Expression
+JoinLinesEnhanced	2026-10-23	AttributeError for a selection within one line (re.search newline None); fix tested; README example works
+JoinStatement	2026-10-23	unjoin adds a whitespace-only line between items on Python 3.7+ (re.sub empty match after trailing whitespace); rstrip fix tested; needs Statement and Expression
