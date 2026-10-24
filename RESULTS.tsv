@@ -2726,3 +2726,268 @@ JoinAssignment	2026-10-23	unjoin corrupts values with operators (x + y, x == y) 
 JoinChainCall	2026-10-23	unjoin writes leading dots (README says trailing), join cannot re-join them, toggle adds blank lines; fix tested; needs Statement and Expression
 JoinLinesEnhanced	2026-10-23	AttributeError for a selection within one line (re.search newline None); fix tested; README example works
 JoinStatement	2026-10-23	unjoin adds a whitespace-only line between items on Python 3.7+ (re.sub empty match after trailing whitespace); rstrip fix tested; needs Statement and Expression
+Joy	2026-10-24	syntax fails to load on ST4: with_prototype recursion (same error as Jedi Syntax); extends-based rewrite loads but Joy tokens unscoped, no working fix
+JsBDD	2026-10-24	newbdd snippet uses the field two twice so the module path is pasted into the it block; syntax rule for it() calls does not match inside submit(a); shkey placeholder is fine
+JsModules	2026-10-24	both commands fail on an unsaved tab (None path, TypeError); paths with spaces are split by shell_cmd so nothing is converted, list-form exec works; needed cjs-to-es6 from npm (installed then uninstalled)
+JsValidate	2026-10-24	unsaved tab raises TypeError in exec; README says run on save is off by default but default settings turn it on and it runs; esvalidate from npm installed then uninstalled
+Json Colors And Navigation	2026-10-24	works from Package Control and as a loose folder copy (could not reproduce issue 13, commented); README says 10 nesting levels but only 8 are defined
+Junos	2026-10-24	no defects: .conf and .conf.12 pick the syntax, keyword, interface, IP, number, name, deny and accept scopes all as the README says
+Just Paste	2026-10-24	skipped: Sublime Text 2 only plugin, hidden from the Install Package picker on build 4215 (searching Just Paste and Just shows no entry)
+K Framework	2026-10-24	operator rule is scoped keyword.operators.k so operators are not coloured; loose copy with keyword.operator.k colours them
+KABEMS	2026-10-24	subel snippet inserts a stray closing brace (confirmed by expanding it); kbems snippet spells ellement unlike the el snippet
+KCPS Theme	2026-10-24	README color_scheme path st3-theme-kcps fails when installed with Package Control (package is KCPS Theme); correct path works
+KRL (Kinetic Rule Language) Syntax	2026-10-24	tested; http functions scoped rkl not krl
+KRL (Kinetic Rule Language) Validator	2026-10-24	tested; unreachable server gives uncaught URLError
+KSQL Syntax Highlighter	2026-10-24	tested; six URL_EXTRACT functions unscoped, missing pipes in regex
+KWrite Color Scheme	2026-10-24	tested; scheme loads and applies, no errors, no findings
+Kahlan PHP Snippets	2026-10-24	tested; unescaped dollar drops param names in andRun and toBeCloseTo
+KanaKana	2026-10-24	tested; all three commands convert correctly, no findings
+Kattis	2026-10-24	tested; import of sublime_kattis fails under installed name, command silently does nothing
+Keep Lines With Word	2026-10-24	tested; works, adds trailing newline, no findings
+Keep Open On Last Tab Close	2026-10-24	tested; closing all tabs opens a new one, works, no findings
+Kellys Color Scheme	2026-10-24	tested; both schemes load and apply, no errors, no findings
+Keras	2026-10-24	tested; cnn and mlp snippets use names they never import
+Kerbal Space Program Configuration Syntax	2026-10-24	tested; comment after value scoped as string
+KeybindingHelper	2026-10-24	tested with PackageDev; command assistant works with real keys; paste ctrl+v selector misses current keymap scope
+KeyboardNavigation	2026-10-24	tested; moves, deletes, expands work; paste_above_lines on first line inserts after first char
+KeyboardSpellCheck	2026-10-24	tested; spellcheck.py fails to import without enchant C library so spell_check silently does nothing; commented on open issue 2
+Keymap Redefiner	2026-10-24	tested; works from palette; update step rewrites user keymap and drops comments (comment on issue 1); run_command of key_re_remap_key opened no panel while the palette route did
+KeymapEnhanced	2026-10-24	tested; bindings need undocumented setting sublime_enhanced_keybindings, shown with alt+j
+KeymapManager	2026-10-24	skipped; not listed in the Install Package picker (ST2-only package, 2012), nothing installed
+Kickoff Snippets	2026-10-24	tested with Sass for scss; double-dollar snippet never expands; color font-family default-transition insert a|b|c lists as text
+Kirikae	2026-10-24	tested; README string true settings do not work, boolean does; palette captions still say Tabulous; issues disabled so emailed maintainer
+Kirikae	2026-10-24	tested; README string true settings do not work, boolean does; palette captions still say Tabulous; issues disabled so emailed maintainer git@davemail.io
+KoLMafia ASH Syntax	2026-10-24	tested; true/false inside names, escaped backslash before closing quote, .ash opens as Bash
+Koala - Snippets	2026-10-24	tested with KSP syntax package as dependency (removed); scope source.ksp vs source.sksp so nothing expands; math.clamp missing dollar; KOALA_LIGHT_MODE copy of ENABLE_DEBUG
+Koken	2026-10-24	tested; lens syntax ok; if and ifelse snippets insert whole a|b|c list as text
+Kraken Snippets	2026-10-24	skipped; not listed in the Install Package picker (ST2-only 2013 package), nothing installed
+Kroman	2026-10-24	tested; replace file and region work; compare command raises AttributeError after set_layout
+Kung Fury	2026-10-24	tested; scheme loads and colours JS, no errors, no findings
+Kusto Syntax Highlighter	2026-10-24	tested; backslash-escaped quote ends the string, cited Microsoft docs
+Kustom Color Schemes	2026-10-24	tested; all 7 schemes load and apply, no errors, no findings
+LBNF	2026-10-24	tested; open issue 2 (YAML escape) reproduced on 4215 with the exact error, one-line fix tested on a loose copy, commented
+LC-2K Assembly	2026-10-24	syntax scopes and lw_ completion work; settings comment names ase100 (typo-level); issue filed
+LC3 Assembly	2026-10-24	strings after .STRINGZ scoped as label, negative decimals #-1 not highlighted; issue filed
+LC4 Assembly Syntax	2026-10-24	register, hex and binary rules have no word boundary and colour parts of labels (exam, tab1, ERR2); issue filed
+LDIF Syntax Highlighting	2026-10-24	syntax and snippets work; typos in snippet placeholders (Attribiute mirrored into both lines, Distingushed, realtive); issue filed
+LLVM TableGen	2026-10-24	comments, strings and base keywords work; no scopes for numbers, bang operators, defvar/defset/if/then/else/assert/true/false; issue filed
+LOLCODE	2026-10-24	syntax mostly works; BTW/OBTW/TLDR have no word boundary so BTWvar turns the rest of the line into a comment; issue filed
+LPC	2026-10-24	basic highlighting fine; messages.json has a trailing comma so Package Control logs Error parsing messages.json; issue filed
+LSCheckstyle	2026-10-24	import cgi fails on Python 3.13+ (host 3.14) so the plugin does not load; cgi.escape gone since 3.8; fix html.escape tested, audit ran with 12 marks; issue filed
+LSP-Forge	2026-10-24	installs; without LSP the plugin logs No module named LSP (README says install LSP); after LSP install LSP-Forge settings entry works; server is Linux x86-64 only and the Forge syntax package was not found in the picker, so client and server not exercised; no finding
+LSP-epher	2026-10-24	works: server downloads itself into Package Storage on first start, syntax Epher, diagnostic on a bad line, Run Script results correct (55 mile/hr = 88.51392 km/hr, sqrt(42)); inlay hints and hover not exercised; Package Storage leftover recycled; no finding
+LaTeX Accents	2026-10-24	decode misses plain i forms (m-acute-ias via backslash-quote-i), ss{} and o{}; README names commands that do not exist (latex_accents with action is the real one); 2 issues filed
+LaTeX Blindtext	2026-10-24	snippets only, no dollar variables; palette lists them under Snippet: Blind...; equation2, table, figure and blindmathpaper insert correctly; no finding
+LaTeX-IPA	2026-10-24	snippets expand (fric popup lists nine with descriptions, textbeta inserted); typo apricoalveolar in one description; issue filed
+Lambda Substitution	2026-10-24	backslash key has no keymap context so the Find panel gets lambda; context fix tested on a loose copy (recycled); leftover print on save; issue filed
+LangDocs	2026-10-24	HTML description works; Python module description finds nothing because the pythondoc.py pattern misses literal notranslate on docs.python.org; SyntaxWarnings in dictionary.py and javapac.py; 2 issues filed
+Language - Up-Goer-5	2026-10-24	Hunspell dictionary works (dictionary setting set on a view: rocket and made-up word flagged, listed words not; header count 1000 matches entries); no finding
+LanguageInjector	2026-10-24	plistlib.readPlistFromBytes removed in Python 3.9 so the plugin errors on every load; also parses only tmLanguage plists; loose-copy fix inconclusive because of stale listeners; cache folder julooLanguageInjectorCache recycled; issue filed
+LanguagePortuguese	2026-10-24	dictionaries work (European flags acção, óptimo and nonsense, accepts ação); README names Language - Portuguese - Português and pt_BR / pt_PT that do not exist in the installed package; issue filed
+Laravel Assertion Completions	2026-10-24	completions work in PHP after an arrow (assertCr offers assertCreated and inserts assertCreated();); 113 entries checked against their triggers, no dollar variables; no finding
+Laravel Cheat Sheet	2026-10-24	NameError on install (commented on #3); snippets lose $variables, filed #4
+Laravel OpenFile	2026-10-24	works: selected admin.index opens admin/index.blade.php; no finding
+Laroute	2026-10-24	syntax fails to load on 4215 with_prototype recursion 25000 limit; cause not pinned
+Lasso	2026-10-24	syntax and snippets work on 4215; no finding
+LastEdit	2026-10-24	skipped: no exact LastEdit entry in the Install Package picker (only GoToLastEdit, GotoLastEditEnhanced, both tested); repo dead since 2013, ST2 only
+LastModifiedIndicator	2026-10-24	works: gutter marker over 7 lines around the edit; open undo request #7 already known; no finding
+Laynger	2026-10-24	Laynger 2 columns moves border 0.5 to 0.49 when already in two columns; one-line fix tested on loose copy, in issue
+Lazy Backbone.js	2026-10-24	two view snippets use unescaped dollar (bv$el loses $el, bv$ jQuery gives Empty key dialog); escaped control tested
+Leanpub	2026-10-24	snippets work (lp-code expands); no GitHub repo (james-brooks.uk), no finding
+Lebab ES6 Transform	2026-10-24	works: save runs bundled lebab-win.exe, rewrites file to ES6, syntax error shows panel and leaves file; no finding
+Ledger syntax highlighting	2026-10-24	comments after payee or posting not scoped as comments; directives unscoped; first post had wrong body (stale body file), corrected by edit
+LeekScript Syntax	2026-10-24	else if SyntaxError already in issue 2, confirmed on install; comment added (platform.platform compare, packages path); grammar works
+Leiningen	2026-10-24	build system and 8 variants listed and launched lein.bat in the file folder; lein not on PATH so the real run was not done; no finding
+Less Tabs	2026-10-24	sibling folder with shared name prefix kept open (startswith); fix tested on loose copy; also closes the Package Control Messages tab
+Liberty	2026-10-24	works: .lib scopes for comments, library, cell, parameters, pin; no finding
+Libretto	2026-10-24	works: repo test.ltt highlights; invalid.deprecated on the dollar-brace string is deliberate; no finding
+Licence Snippets	2026-10-24	ImportError collections.Callable on Python 3.14, plugin does not load; fix (collections.abc) tested, MIT.full inserts
+Lift Snippets	2026-10-24	mapper snippet expands correctly; no finding
+Lifted Color Scheme	2026-10-24	valid tmTheme, live preview in the picker colours JS correctly; issues disabled; no finding
+Light Lite Color Scheme	2026-10-24	valid tmTheme, light scheme previews correctly on PHP; no finding
+LightPaper Markdown	2026-10-24	macOS-only (open -a LightPaper); issues disabled; command runs without dialog on Windows; no finding
+LightScript	2026-10-24	works: repo test .lsc highlights, messages.json valid; no GitHub repo (lightscript.org); no finding
+LimitTabs	2026-10-24	candidates never reset per group: closes the active tab in group 2 and keeps a background tab, fix tested on loose copy; README says auto-run on save opt-in but default true, threshold 0 does not disable
+Line Completion	2026-10-24	skipped: not in the Install Package picker on 4215 (ST2-only, README says Sublime Text 2); open issue 5 reports a Region TypeError
+LineJumper	2026-10-24	palette entries hard-code number_of_lines 10 so the setting is ignored; tested fix removes it
+LinesMultisets	2026-10-24	works; README symmetric difference example result wrongly lists five
+LinkOpener	2026-10-24	fixLink compares with is so www. links lack http://; tested fix
+LinkerScript	2026-10-24	ld commands PROVIDE ASSERT OUTPUT_ARCH not keywords; .lds not detected
+LinqPad	2026-10-24	works with LINQPad 5 lprun (run, error output); own C# syntax test stale on 4215 scope names; nothing filed
+Lipsum Chinese	2026-10-24	commands insert only at first cursor, selection not replaced
+List stylesheet variables	2026-10-24	skipped: already tested 2026-10-19 (row 870b, issues 22-26)
+ListOpenFiles	2026-10-24	new tab stays empty: insert with the edit of another view; tested append fix
+Listenr	2026-10-24	skipped: not in the picker (ST2-only, hidden by Package Control); open issue 1 ST3 update
+Lithium Snippets	2026-10-24	snippets escape dollar correctly; package bundles unrelated LanguageInjector plugin using removed plistlib calls (found by reading)
+Lo-Dash Snippets for CoffeeScript	2026-10-24	121 snippets all parse, triggers unique, no unescaped dollar, _compact expands in CoffeeScript; issues disabled
+Load file to REPL	2026-10-24	not testable: needs SublimeREPL, which fails on the 3.14 host (No module named sublimerepl, wuub/SublimeREPL#410); with .python-version 3.3 nothing loaded in the 3.3 host here; nothing filed; SublimeREPL installed and removed
+Local Packages	2026-10-24	plugin fails at load with Package Control 4 (NameError PackageInstaller); palette and menu settings path LocalPackages vs Local Packages; tested path fix
+LocalVariable	2026-10-24	install pulls no dependencies (known issue 1); with Statement Expression Method installed and a plugin reload detach rename extract work on the demo; SyntaxWarning backslash-w in rename_variable.py, tested raw string fix; Statement Expression Method installed and removed
+LockTab	2026-10-24	on_load AttributeError visibleRegion on every file load (closed issue 1 still reproduces on 1.2.1); commented with tested guard; lock close dialog and unlock work
+Lodash Completions	2026-10-24	13 completion files parse, triggers ld/cld, ld.chunk completes to _.chunk(array, [size=1]) in JavaScript
+Lodash modules snippets	2026-10-24	622 snippets consistent, r_map expands; README says var but all 311 r_ snippets use const
+Lodestone Color Scheme	2026-10-24	tmTheme valid XML, 27 rules, listed in the colour scheme picker; no finding
+Log4jView	2026-10-24	syntax and .log detection work; Spring Boot format not matched is already open issue 2; nothing new filed
+LogMagic	2026-10-24	log_magic_down, up (level cycle) and remove_all work on JS; nothing found
+Logger Snippets	2026-10-24	snippets work (info and log expand, double dollar-0 mirrors); README output and Rails trigger plog differ from snippets
+Logging Control	2026-10-24	level, toggle, reset, file logging and open log file work; nothing found (README has a missing comma in the settings overview)
+Logitech G-Series LUA API	2026-10-24	SetMKeyState completion has unclosed placeholder, inserts nothing and deletes typed text; fix tested on loose copy; other completions fine
+Logs Colorize	2026-10-24	apache-error claims log so dmesg and logcat never chosen for .log files (fix tested); logcat at and .err patterns colour ordinary words; dmesg and apache-error share one uuid (not filed)
+London Underground Status	2026-10-24	SyntaxError on async parameter at load (fix tested on loose copy); Yahoo YQL host no longer resolves so nothing can show; menu path uses wrong folder name (not filed)
+Lookupdic	2026-10-24	skipped: not in the Install Package picker (ST2-only package hidden from ST4 picker)
+Loom Game Engine	2026-10-24	LoomScript syntax, 19 snippets (ife, fun, switch expanded) and comment toggle work; nothing found
+LoremPixel	2026-10-24	skipped: not in the Install Package picker (ST2-only package hidden from ST4 picker)
+LoremText	2026-10-24	skipped: not in the Install Package picker (zero matches for the exact name)
+Lotus Color Scheme	2026-10-24	scheme valid and listed in picker, live preview works; README color_scheme path uses Packages/Lotus but package folder is Lotus Color Scheme (read only, not tested, not filed)
+LuaExtended	2026-10-24	syntax picked for .lua, if and dfun snippets work; goto and labels not highlighted (no rule in syntax)
+LuaJumpDefinition	2026-10-24	jump and rebuild work; Rebuild Tag stops on non-UTF-8 file (closed #3 still reproduces, errors=replace fix tested); init traceback at every load until tags exist (guard tested)
+LuaProjectHelper	2026-10-24	goto definition works; completion in untitled tab raises AttributeError (None file name, guard tested); four SyntaxWarnings (raw strings tested); explicit completions not inhibited (checked, not a finding)
+Lucene Query Formatter	2026-10-24	formats object strings, whole-quoted and nested cases, repeat run is idempotent, keymap matches README; nothing found
+Lucky Link	2026-10-24	skipped: not in the Install Package picker (ST2-only; closed issue asks for ST3 support)
+Ludum Dare Countdown	2026-10-24	dates fixed to Aug 2016 so status bar shows nothing since; unbound countdown for other category read only
+LyricEditor	2026-10-24	start, tag and next work; offset down makes negative tag and skips next line (fix tested); palette Done runs missing lyric_done; default debug true vs README false
+M4Expand	2026-10-24	not tested: needs m4 on PATH, only installable with admin rights (his order: no admin installs); read code only, nothing filed; installer download recycled
+M68k Assembly	2026-10-24	syntax picked for .asm, scopes correct (string, label, equate), macro snippet works; colouring gaps are already open issues 2 and 4; nothing new
+MAC-1 Syntax	2026-10-24	.LOC directive only highlighted in upper case despite comment saying not case sensitive (fix tested); syntax is chosen for .asm
+MB Warband API	2026-10-24	not installable: Package Control gets HTTP 404 from the Bitbucket download (repo gone); nothing filed (no Package Control reports)
+MCA Language	2026-10-24	block comment rule matches star-to-star so a * b * c is a comment (anchored fix tested)
+MCFunction	2026-10-24	README claims verified on 4215: #~ special comments, leading slash flagged invalid, command and selector scopes; nothing filed
+MCS_Syntax	2026-10-24	Intel-hex style MCS syntax works on 4215; EOF record checksum scoped as data and cksum context unused, minor, nothing filed
+MDL Language	2026-10-24	MDL syntax highlighting works on 4215; regex oddities only (lookup_* is not a wildcard, atomic group typo), nothing filed
+MDN Search	2026-10-24	not in picker (ST2-only, zero matches); skipped
+MDN Search Doc	2026-10-24	mdn_doc opens browser; query not URL-encoded, debug prints left in
+MFScript	2026-10-24	not installable: channel entry downloads tpayne84/MFScript which is 404 while picker shows SublimeText/VBScript; channel data, nothing filed
+MIST	2026-10-24	read only: SyncScript on_pre_save calls view.file_name().endswith without a None check (untitled save path not run, Escape stop); nothing filed; removed and verified
+MLFi	2026-10-24	plugin does not load on Python 3.10+ (collections ABC imports in bundled sortedcontainers), print_exc None bug; both fixes tested on loose copy; removal verified
+MRL syntax highlighting	2026-10-24	repo archived and issues disabled, nothing filed; found by test: number regex allows one fraction digit so 3.14 splits, # comments scoped double-slash; removal verified
+MSBuild selector	2026-10-24	no project open gives TypeError (guard tested on loose copy), invalid escape SyntaxWarnings on 3.14; removal verified
+MTML Completions	2026-10-24	skipped: not offered by the ST4 picker (search_packages finds nothing), ST2-era repo bit-part/MTML-ST2 last pushed 2014; nothing installed, nothing filed
+MThuy Local Sync	2026-10-24	ln8711/mthuy-local-sync#1: on_post_save tests the synced folder with a string prefix (currentDir.find(sourceDir)), so a sibling folder foobar next to a synced foo is copied to a path outside the destination; reproduced on 4215, one-line fix tested on a loose copy; removed and verified (zip, folder, PC settings, ~\.mthuylocalsync recycled)
+MXUnit	2026-10-24	skipped: not offered by the ST4 picker (search_packages finds only CFAutoMock, already tested); homepage mxunit.org, not a GitHub repo; nothing installed, nothing filed
+Mackerel Syntax Highlighting	2026-10-24	Phillip3/mackerel_syntax_highlighting#1 block comments not scoped, #2 hex and negative numbers not scoped, #3 leftover Sublime template comments; scopes probed on 4215 against controls, fixed syntax copy tested; removed and verified (zip, folder, PC settings)
+Macroptimize	2026-10-24	bigcakes/Macroptimize#2: Run Last Macro keeps lastMacro per view (TextCommand is instantiated once per view), so in any tab where no macro was chosen it opens the picker; reproduced with two tabs on 4215, class-level fix tested on a loose copy; removed and verified (zip, folder, PC settings)
+Magento - TemplateCopy	2026-10-24	skipped: not offered by the ST4 picker (search_packages Magento lists 3 other packages); ST2-era repo dedg3/sublime-magento-TemplateCopy last pushed 2012, its open issue #2 already asks for ST3 support; nothing installed, nothing filed
+MagentoBacktraceMessageSyntax	2026-10-24	Magebinary/MagentoBacktraceMessageSyntax#1 syntax registered for every .log file (unrelated log opens as Magento Backtrace Message; same file opens as Plain Text after removal), #2 README names a repo and package that no longer exist; grammar itself works on a backtrace; removed through the picker and verified (zip, folder, PC settings)
+MagentoSnippets	2026-10-24	MageFront/MagentoSnippets#18-#22: text.js scope on 2 js snippets, phtml snippets not matching the PHP syntax scope text.html.php (expand_snippet A/B), mg-url-asec misplaced parenthesis, scss snippets scoped source.sass (not .scss) and mg-clearfix inserts a backslash, mg-xml-text backslashes in CDATA and $1 twice; patched loose copies tested; Sass 4.0.2 installed through the picker only as the syntax for the scss test; both removed and verified (zips, loose folder, PC settings)
+MagerunCommander	2026-10-24	tested on portable 4215 via loose copy of v release; 4 defects reproduced and fixes tested (no-project TypeError, base_dir None, magerunCommand settings AttributeError, timeout=0 TimeoutExpired); stderr/sublime import already in #1
+MagiclessQuotes	2026-10-24	tested on portable 4215 (release 2015.06.11); on_pre_save replaces curly quotes, dashes, ellipsis, bullet as README says; one undo reverts all; no defect found; cursor retention already open as #15
+Magma	2026-10-24	tested on portable 4215 (3.0.9): .magma opens as Magma (old) (source.magma-old) so comments/keymap scoped source.magma do not apply; A/B toggle_comment, fix tested with loose copy without -old files
+MagmaSnippets	2026-10-24	tested on portable 4215 with Magma (1.0.12): 114 snippets scope source.magma, none expand in default-opened .magma (Magma old syntax); intrinsic snippet has lone quote placeholder; others expand correctly
+Magpie	2026-10-24	tested on portable 4215 (1.0.0): prototype multiline_comment leaks into strings and // comments (A/B control, fix tested with meta_include_prototype false); release lacks the single-quote context master has
+Make Automatic Variables	2026-10-24	tested on portable 4215 (1.0.0): six snippets expand correctly in a Makefile; README says markdown file but scope is source.makefile
+MakeCommands	2026-10-24	skipped: Package Control install fails, HTTP 404 on https://bitbucket.org/klorenz/makecommands/get/default.zip (repo gone, no GitHub copy, nothing to file); nothing installed
+MakeExecutable	2026-10-24	skipped: ST2-only, not offered by the Install Package picker on 4215 (last push 2013, issue #4 asks for Sublime 3 support); nothing installed
+Makefile Improved	2026-10-24	skipped: Package Control install fails, HTTP 404 on https://bitbucket.org/klorenz/sublimemakefileimproved/get/default.zip (repo gone, no GitHub copy, nothing to file); nothing installed
+Makefile Plus	2026-10-24	tested on portable 4215 (1.0.5): variable assignment rule uses captures on begin/end so CC := gcc gets no scope; fix beginCaptures tested on loose copy; Makefile opens with built-in Makefile syntax by default (Plus only by hand); #3 already open
+Mako	2026-10-24	tested on portable 4215 (2016.05.28): fileTypes lists html so every .html opens as HTML (Mako) with scope text.html.mako instead of text.html.basic; fix tested on loose copy (html removed); #1 #4 #10 already open for the syntax breakage
+ManiaScript	2026-10-24	tested on portable 4215 (2013 release): opens for .Script.txt, scopes fine; no comment settings so Toggle Comment does nothing; issues disabled and repo untouched since 2013, written up in findings\ManiaScript-no-comment-support.md (not filed, not emailed)
+MantisBT	2026-10-24	tested on portable 4215 (0.0.1, vboctor): four snippets with hyphenated tabTriggers expand fully in PHP after <?php, $ escaped correctly; no defect found
+Map Snippets	2026-10-24	tested on portable 4215 (2015.10.06): gmaps snippet file is named .sublime-snipppet so it never loads (A/B with leaflet, fix tested with renamed loose copy)
+MapPreview	2026-10-24	tested on portable 4215 (0.2.0) with the real browser page via devtools: hover handler throws on properties null (RFC 7946 allows it); control and fix tested in page
+Maperitive	2026-10-24	tested on portable 4215 (1.0.0): syntax and 76 snippets fine; three snippets scoped source.mrules never expand (A/B with osm:line-color, fix tested with corrected copies)
+MapfileSyntax	2026-10-24	tested on portable 4215 (1.0.3): .map opens as Mapfile, scopes and toggle comment fine; release tag lacks the snippets/menu/commands that master has (not reported); no defect found
+Marc Mentat Proc Highlighting	2026-10-24	tested on portable 4215 (v1.0.0): # list terminator not highlighted inside the command context; fix tested with a temp syntax applied to the view
+MarieAssembly	2026-10-24	tested on portable 4215 (2013 release): loads and highlights; hex rule needs 3+ digits and matches words like Dad (fix tested with temp syntax)
+MarkPress	2026-10-24	skipped: not offered by the Install Package picker on 4215 (ST2-only, last push 2012); nothing installed
+MarkSearch	2026-10-24	tested on portable 4215 (1.0.0): README keymap uses key bookmarks for search results and MarkPersonal for personal marks, the code uses MarkSearch and bookmarks, so ctrl+] ctrl+1 etc. do nothing; commands tested with both keys
+Markboard3	2026-10-24	skipped: not offered by the Install Package picker on Windows 4215 (README: Mac OS X only, needs Pandoc which is not installed); nothing installed. Read finding not filed: checkPandoc uses output after the except branch, UnboundLocalError when pandoc is missing (static, untested)
+Markdeep	2026-10-24	syntax does not compile on 4215: six push+with_prototype embeds in block_raw; embed/escape rewrite loads and highlights (tested); .md.html still Plain Text after fix, not explained
+Markdown Code Packer	2026-10-24	pack/unpack round trip ok; unpack fails for file names with a colon (C:\path), regex splits at first colon; one-line fix tested via loose copy; extract/pack-folder pickers not exercised; MarkdownTOC issue #1 not tested
+Markdown Todo	2026-10-24	skipped: ST2-only (channel sublime_text <3000), not in the 4215 picker; nothing installed; issues disabled on repo
+Markdown to Clipboard	2026-10-24	m2c copy-as-HTML works (footnote, em dash ok); m2b preview raises TypeError (ST2 begin_edit API removed) and leaves empty tab; fix via append command tested in loose copy; issues #3 em dash not reproduced
+MarkdownBuild	2026-10-24	skipped: ST2-only (channel sublime_text <3000), not in the 4215 picker; nothing installed
+MarkdownCodeBlockWrapper	2026-10-24	wrap command (1 and 2 selections, via input panel) and mdc snippet work; only finding: palette caption typo Flavered
+MarkdownFootnotes	2026-10-24	insert_markdown_footnote tested: first/end/middle insertion, renumbering with bodies, selection pos hint all correct; 17 SyntaxWarning invalid escape sequences on load (Python 3.12+), r-prefix fix tested, filed classicist/MarkdownFootnotes#3; cosmetic extra blank line between entries not filed
+MarkdownGlance	2026-10-24	tested preview side by side, full screen, contents panel, zoom, live update, Copy Diagnostics, Open in Browser (export correct); wide table with emoji/CJK header loses last cell (filed #9); one blank preview after toggling full screen plus second file not reproduced, not filed; libraries pymdown-extensions/Markdown removed by Package Control with the package; NOTE already tested days earlier per Donald (no row in the tsv or log, so the check missed it), this run is a repeat
+Marked App Menu	2026-10-24	macOS-only (open -a Marked) but installs on Windows; Tools > Marked raises TypeError environment can only contain strings; is_enabled/is_visible osx check tested with control; filed icio/sublime-text-marked#8
+Marking Changed Rows	2026-10-24	no finding: single EventListener marks edited lines with a gutter dot and clears on save; works on 4215; 24000-cursor insert blocked main thread over 5 s (quadratic list check, extreme case, not filed); Sublime 4 built-in change markers make it mostly redundant
+Mason	2026-10-24	issue #14: perl/init block never ends on 4215, rest of file scoped as Perl; no fix found (3 end-pattern variants tried, same result); snippets fine
+Material Design Lite Selectors Snippets	2026-10-24	no finding: 201 snippets parse, no unescaped dollar, comma scope valid, colon triggers expand with Tab (mb:a, ma:d, helpmdl), duplicate triggers show the choice popup; no descriptions (cosmetic)
+Material Design Lite Snippets	2026-10-24	issue #1: five tabTriggers differ from README (typo bagde-no-icon, spinner pair share one, fab-ripple and login2 copy neighbours); fix tested with corrected files
+Material Nil	2026-10-24	no finding: theme and LongishDark scheme apply on 4215 with no console errors, all 57 referenced textures exist; Preferences restored (hash equal)
+MaterialUi React Component Snippet Autocomplete	2026-10-24	issues #1 (completions never appear on 4215: selectors source.js vs source.jsx, fix tested) and #2 (six misspelled triggers); retested with the window in front (Donald's correction), same result in JSX and JavaScript syntax, original and fix
+Materialize-White-Panels	2026-10-24	no finding: add-on for the archived Materialize theme (issues disabled); folder install (.no-sublime-package), 22 identical themes, all textures exist; with Material Monokai theme set, command palette and autocomplete popup render white as designed; Preferences restored (hash equal)
+Math Notes	2026-10-24	no finding: MathNotes syntax loads on 4215 with no console error, .motes auto-assigned, package example highlights correctly (vectors, lists, sets, bullets, equation numbers)
+MathML	2026-10-24	issue #1: math snippet expands to <annotations> outside <semantics> (not MathML, MDN checked), fix content tested; syntax highlighting and frac snippet fine
+MatrixList Snippets	2026-10-24	issues #1 (ml-main-exp unescaped single quotes), #2 (F5 add_time only has an OSX keymap), #3 (typo Desciption)
+Matrixify	2026-10-24	skip: ST2-only (channel sublime_text <3000), hidden from the 4215 picker
+Mattermost Post	2026-10-24	issues #1 (url with port or uppercase rejected by regex, tested with localhost:8065 vs localhost) and #2 (no return after the 16300 byte error, read from source, not run); nothing sent anywhere
+MaxPane	2026-10-24	no finding: max_pane and max_editor toggle and restore a 2x2 layout exactly, console clean, change-layout-while-maximized (old issue 10) gives no error; ctrl+k ctrl+f chord not tried (Donald was at the keyboard), keymap file read and correct
+Maybs Quit	2026-10-24	no finding: quit_guard panel lists Quit Now/Close View/Close Window/Close Project/Save as/Cancel; Escape cancels cleanly (idx -1 maps to Cancel), Save as opens the dialog, close_guard shows its 3-option panel; alt+f4 binding not tried (would close the window)
+MediaPlayer	2026-10-24	issue #2: without ffplay Play shows Playing with no message and Stop raises AttributeError (popen None); fix tested (first patch had a lambda NameError, corrected); playback itself untested, ffplay not installed (not allowed)
+Melbourne Ipsum	2026-10-24	issue #1: two typos in the word list (blanchette, alway); command works, inserts two paragraphs; debug prints noted; key chords (ctrl+alt+m+i, s-o-m-e-l-b-n tab) not tested (posted letters are characters, not key events)
+Mellanox Syntax Highlighter	2026-10-24	issues #2 (README claims .txt/.cfg auto-detect, fileTypes only Config, tested with three files) and #3 (symbol operators never scoped, \b around symbols; fix untested, needs restart); scopeName source.cos noted
+Mem.dev Snippet Saver	2026-10-24	plugin fails to load: dot in package name (No module named Mem); dot-free copy loads; second-snippet bug by reading
+Mercurial Color Scheme	2026-10-24	both schemes valid and apply; README screenshots/ folder missing from repo
+Mercurial for Sublime	2026-10-24	not installable: release URL bitbucket.org/DanielSiepmann/mercurial-for-sublime/get/1.5.0.zip and repo page return 404 (Mercurial repo gone)
+Merge Variables	2026-10-24	KeyError when no active set matches; fix tested
+MetaQuotes (MQL4) Language Package	2026-10-24	no new finding: syntax loads and scopes correct, snippets complete (1219, bare & in one snippet tolerated by ST); open issues #19 (xml &) #11 exist
+Micro16 Syntax	2026-10-24	no finding: .m16 auto-detected, registers/labels/keywords scoped as the README says
+Microsoft Power Query Syntax	2026-10-24	no finding: syntax loads, keywords/comments/builtins scoped; issues disabled on the repo
+Milotic	2026-10-24	theme applies; README says Package Control coming soon though it is installable
+Mimosa	2026-10-24	skipped, ST2-only (channel sublime_text <3000)
+Mina	2026-10-24	skipped, ST2-only (channel sublime_text <3000)
+Minecraft Command Format	2026-10-24	multi-selection format repeats earlier output; fix tested; minify round-trips
+MiniZinc Language	2026-10-24	no finding: .mzn syntax scopes comments/strings/functions; build needs minizinc (prerequisite not installed, not run)
+Minify on Save	2026-10-24	no finding: saves .js without error; does nothing without the separate Minifier package (README says so); Minifier not tested (sends code to online services)
+Miniscript	2026-10-24	function/then not scoped as keywords; README shortcuts not shipped; fix untested
+Minitest Buddy	2026-10-24	traceback on unsaved tab; replace(test_) mangles names; fixes tested
+MinkExtension default feature step completions	2026-10-24	stray $ placeholder; missing brace snippet inserts nothing; 3 misspelled triggers; fixes tested via insert_snippet
+Mirodark Color Scheme	2026-10-24	no finding: both tmThemes apply and render a Python sample
+MissingFindPanelKeys	2026-10-24	no finding: Alt+P toggled Wrap in the find panel (real input); Alt+H/Alt+S not confirmed (user typing blocked real keys, computer-use chords failed)
+Mithrilizer	2026-10-24	mi completion expands to invalid JS; fix tested
+Miva IDE	2026-10-24	MV and MVT syntaxes fail on 4215 (with_prototype recursion limit); SyntaxWarnings on 3.14; fix not found
+MivaScript	2026-10-24	no finding: .mv detected, syntax and snippets work
+Moai Debugger	2026-10-24	skipped, ST2-only (channel sublime_text <3000)
+MobileCaddy	2026-10-24	mcinsert extra paren; mcsync calls insertRecord; mccmartsql trigger typo
+MobileLogReader	2026-10-24	log_keep leaves an extra trailing newline; coloring and filter work
+Mocha Chai CoffeeScript	2026-10-24	README does not name the needed CoffeeScript syntax package (include source.coffee unresolved); also: after removing MobileLogReader at runtime, opening a .coffee file showed a stale dialog "Unable to stat Packages/MobileLogReader/android-log.tmLanguage" (runtime-removal residue, not filed)
+Mocha Coffee Snippets	2026-10-24	suite snippet has unclosed placeholders and inserts nothing; fix tested
+Mocha Runner	2026-10-24	skipped, ST2-only (channel sublime_text <3000)
+Mocha Snippets	2026-10-24	no finding: suite and befr expand correctly (desc Tab dropped once, posted key)
+ModJS - JavaScript Workflow Tooling	2026-10-24	skipped, ST2-only (channel sublime_text <3000)
+Modula-2 Language Syntax	2026-10-24	nested comments unsupported; hex/octal numbers not scoped; .mod opens as DTD even with package installed (DTD claims mod too, not filed); fixes untested
+ModxElements	2026-10-24	URLError not handled: unreachable server shows unknown error (tested against closed localhost port, nothing sent out); fix not run
+Mojolicious	2026-10-24	mojo.sublime-completions inserts stray ) after %> in 3 entries (insert_snippet verified, also on master); syntaxes did not appear in the syntax list in-session, cause not found, not reported
+Monaco	2026-10-24	dark and light schemes both apply and render correctly on Python text; no defect found
+Monarch	2026-10-24	Monarch.tmTheme applies and renders correctly on Python text; no defect found
+Mongo Aggregate Snippets	2026-10-24	updateOne.sublime-snippet.xml never loads (wrong extension, copy of updateMany); README F8 conversion not in package
+MongoExec	2026-10-24	JSON.tmLanguage path gone gives syntax dialog; IndexError on dismissed list; mongo binary not installed so queries not run
+Mongomapper Snippets	2026-10-24	not installable: channel URL heelhook/mongomapper-sublime-text2-snippets returns HTTP 404 (repo now pablof7z/...); channel reports banned, nothing installed
+MonkeyC	2026-10-24	return type "as String" makes function body meta.block.dict (fix untested); snippets fine; builds not run (Garmin SDK not installed)
+MonoRun	2026-10-24	ST2-only (channel sublime_text <3000), not shown by the picker; skipped
+Monochrome Color Schemes	2026-10-24	five tmThemes valid XML; Amber applied and renders correctly; no defect found
+Monocyanide Colorscheme	2026-10-24	all schemes valid, Constrasted Light renders as documented; typo Constrasted in file names vs README Contrasted
+Monokai Blueberry Color Scheme	2026-10-24	tmTheme valid and renders correctly; no defect found
+Monokai Soft	2026-10-24	scheme applies; README install steps wrong (add repository, name with hyphen), Packages.json invalid JSON
+MonokaiC	2026-10-24	ME-MonokaiC.tmTheme applies and renders Markdown correctly; no defect found
+MonokaiFree	2026-10-24	Dracula variant scheme applies and renders correctly; no defect found
+Moo	2026-10-24	ST2-only (channel sublime_text <3000); skipped
+Moodle Completions	2026-10-24	369 completions valid, no unescaped $ or unbalanced placeholders; context_user commit inserts correctly; no defect found
+Moonscripty	2026-10-24	live parser AttributeError (pattern.search None) on every .moon edit when moonc not on PATH; fix untested
+Mootools Snippets	2026-10-24	not in the Install Package picker (no channel entry); not installable, skipped
+More Python Completions	2026-10-24	231 completion files, 4828 entries, valid for Sublime (trailing comma only); I-zipfi completion inserts import zipfile; no defect found
+Morse	2026-10-24	repo issues #1 and #2 already report it cannot load on ST3/4 (Python 2 construct, morse.py line 121); not installed, nothing to add
+Morse Code for Foundation	2026-10-24	encode.py imports Python 2 HTMLParser (ModuleNotFoundError); decode.py uses ST2 begin_edit (TypeError); GitHub issues disabled so emailed geoff@zurb.com 2026-10-24; fix untested
+Mote	2026-10-24	ST2-only (channel sublime_text <3000); skipped
+MotionBuilder	2026-10-24	telnetlib removed in Python 3.13: ModuleNotFoundError at load on 3.14 host, send command never registers; fix untested; existing #6 already reports Linux keymap name
+Move By Paragraph	2026-10-24	ImportError collections.Iterable on 3.14 host, confirmed; already reported as issue #8, nothing added
+Move Tabs	2026-10-24	ST2-only (channel sublime_text <3000); skipped
+MozillaQuery	2026-10-24	README lists dxrf_* commands that do not exist; queries not URL-encoded (by reading, browser not opened)
+Mp3Player	2026-10-24	vlc.py imports inspect.getargspec (removed 3.11): ImportError on 3.14 host; palette Previous entry has no command key; VLC not installed so playback not run
+Mreq Color Scheme	2026-10-24	both tmThemes valid; light applies and renders correctly; no defect found
+Mscgen	2026-10-24	syntax scopes and hscale/attribute completions work; build needs mscgen binary (not installed); no defect found
+Multi Select Alphabetizer	2026-10-24	sorting whole-line selections joins lines when last selection has no newline (aa\nbbbbccc); fix untested
+Multi line paste	2026-10-24	multi_line_paste of three copied lines gives three cursors at line ends as documented; no defect found
+MultiFill	2026-10-24	multi_fill_set_text numbers 1..12 over 12 cursors correct; all keymap commands defined; no defect found
+MultiLang Color Scheme	2026-10-24	five tmThemes valid XML; Deep_Purple applies and renders correctly; no defect found
+MultiTaskBuild	2026-10-24	ST2-only (channel sublime_text <3000); skipped
+MultiValue BASIC	2026-10-24	package syntax tests pass (d3 manual 179 assertions); MVBasic Reindent puts indentation on blank lines; fix untested
+Multicommand	2026-10-24	chaining insert/select_all/copy/move_to/paste works; per-command context from README ignored (Z inserted with false context)
+MultipleSelectionScroller	2026-10-24	clear_to first/last/middle_sel and invalid-arg message work as documented; no defect found
+Mussum Ipsum	2026-10-24	ST2-only (channel sublime_text <3000); skipped
+Mustang Color Scheme	2026-10-24	tmTheme loads and renders Python correctly; no defect; issues disabled
+MvtAssign It	2026-10-24	g. prefix regex char-class bug, value cut at pipe, multi-line selection crash
+MySublimeQL	2026-10-24	skipped: needs MySQL client library (prerequisite not installed); last push 2013; issue #6 Error loading MySQL already open
+Mybb Template Editor	2026-10-24	mysql missing: unhandled FileNotFoundError, no message
+MypyReveal	2026-10-24	mypy missing: thread exception, no message
