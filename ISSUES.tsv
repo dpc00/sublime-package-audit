@@ -2198,3 +2198,122 @@ shagabutdinov/sublime-join-assignment	1	Unjoin assignment corrupts the code when
 shagabutdinov/sublime-join-chain-call	1	Unjoin writes leading dots that Join cannot join; toggle then adds blank lines	open	2026-10-23		https://github.com/shagabutdinov/sublime-join-chain-call/issues/1		2026-10-23	issue
 shagabutdinov/sublime-join-lines-enhanced	1	AttributeError when the selection is inside a single line	open	2026-10-23		https://github.com/shagabutdinov/sublime-join-lines-enhanced/issues/1		2026-10-23	issue
 shagabutdinov/sublime-join-statement	1	Unjoin adds a whitespace-only line between items (re.sub empty match, Python 3.7+)	open	2026-10-23		https://github.com/shagabutdinov/sublime-join-statement/issues/1		2026-10-23	issue
+homobel/sublime-joy	1	Syntax fails to load on Sublime Text 4: with_prototype recursion error	open	2026-10-24		https://github.com/homobel/sublime-joy/issues/1		2026-10-24	issue
+junosuarez/JsBDD	3	newbdd snippet pastes the module path into the it block	open	2026-10-24		https://github.com/junosuarez/JsBDD/issues/3		2026-10-24	issue
+luwes/SublimeJsModules	2	Both commands fail on an unsaved tab (cjs-to-es6 None, TypeError)	open	2026-10-24		https://github.com/luwes/SublimeJsModules/issues/2		2026-10-24	issue
+luwes/SublimeJsModules	3	Nothing is converted when the file path contains a space	open	2026-10-24		https://github.com/luwes/SublimeJsModules/issues/3		2026-10-24	issue
+duereg/sublime-jsvalidate	14	Running jsvalidate on an unsaved tab raises a TypeError	open	2026-10-24		https://github.com/duereg/sublime-jsvalidate/issues/14		2026-10-24	issue
+duereg/sublime-jsvalidate	15	README says run on save is off by default, default settings turn it on	open	2026-10-24		https://github.com/duereg/sublime-jsvalidate/issues/15		2026-10-24	issue
+monox18/JsonColorsAndNavigation	14	README says 10 nesting levels, the package has 8	open	2026-10-24		https://github.com/monox18/JsonColorsAndNavigation/issues/14		2026-10-24	issue
+Zhomart/kframework-Sublime-Plugin	1	Operators are not coloured: scope is keyword.operators.k, not keyword.operator	open	2026-10-24		https://github.com/Zhomart/kframework-Sublime-Plugin/issues/1		2026-10-24	issue
+konstantin24121/sublime-kabems	1	subel snippet inserts a stray closing brace	open	2026-10-24		https://github.com/konstantin24121/sublime-kabems/issues/1		2026-10-24	issue
+konstantin24121/sublime-kabems	2	kbems snippet spells the element class ellement	open	2026-10-24		https://github.com/konstantin24121/sublime-kabems/issues/2		2026-10-24	issue
+KCPS/st3-theme-kcps	2	README color_scheme path fails when installed with Package Control	open	2026-10-24		https://github.com/KCPS/st3-theme-kcps/issues/2		2026-10-24	issue
+drautb/krl-syntax	17	HTTP functions are scoped support.function.http.rkl	open	2026-10-24		https://github.com/drautb/krl-syntax/issues/17		2026-10-24	issue
+trevordixon/sublime-krl-validator	1	Validate KRL: unreachable server raises uncaught URLError	open	2026-10-24		https://github.com/trevordixon/sublime-krl-validator/issues/1		2026-10-24	issue
+blueedgenick/sublime-ksql	1	URL_EXTRACT_* functions not highlighted: missing pipes in syntax regex	open	2026-10-24		https://github.com/blueedgenick/sublime-ksql/issues/1		2026-10-24	issue
+geryguilbon/sublime_kahlan_snippets	1	andRun and toBeCloseTo snippets drop param names (unescaped dollar)	open	2026-10-24		https://github.com/geryguilbon/sublime_kahlan_snippets/issues/1		2026-10-24	issue
+matys18/sublime_kattis	9	Package Control install: plugin fails to import, command does nothing	open	2026-10-24		https://github.com/matys18/sublime_kattis/issues/9		2026-10-24	issue
+MartinThoma/SublimeKeras	1	cnn and mlp snippets use Model CSVLogger ModelCheckpoint without importing them	open	2026-10-24		https://github.com/MartinThoma/SublimeKeras/issues/1		2026-10-24	issue
+NathanJang/KSP-tmLanguage	3	Comment after a value is scoped as string, number loses numeric scope	open	2026-10-24		https://github.com/NathanJang/KSP-tmLanguage/issues/3		2026-10-24	issue
+r-stein/sublime-text-keybinding-helper	4	Paste keybindings: ctrl+v selector does not match current PackageDev keymap scope	open	2026-10-24		https://github.com/r-stein/sublime-text-keybinding-helper/issues/4		2026-10-24	issue
+robertcollier4/KeyboardNavigation	3	paste_above_lines on the first line inserts after the first character	open	2026-10-24		https://github.com/robertcollier4/KeyboardNavigation/issues/3		2026-10-24	issue
+jlknuth/KeyboardSpellCheck	2	Main command not working (comment: enchant C library import error)	open	2026-10-24		https://github.com/jlknuth/KeyboardSpellCheck/issues/2		2026-10-24	issue
+csch0/SublimeText-Keymap-Redefiner	1	Comments was deleted (comment: update step rewrites any user keymap)	open	2026-10-24		https://github.com/csch0/SublimeText-Keymap-Redefiner/issues/1		2026-10-24	issue
+shagabutdinov/sublime-keymap-enhanced	3	Shortcuts do nothing until sublime_enhanced_keybindings is true	open	2026-10-24		https://github.com/shagabutdinov/sublime-keymap-enhanced/issues/3		2026-10-24	issue
+TryKickoff/Kickoff-snippets	1	Double-dollar snippet never expands	open	2026-10-24		https://github.com/TryKickoff/Kickoff-snippets/issues/1		2026-10-24	issue
+TryKickoff/Kickoff-snippets	2	color font-family default-transition snippets insert whole list as text	open	2026-10-24		https://github.com/TryKickoff/Kickoff-snippets/issues/2		2026-10-24	issue
+digitrev/KoLMafiaAshSyntax	1	true/false highlighted inside longer names	open	2026-10-24		https://github.com/digitrev/KoLMafiaAshSyntax/issues/1		2026-10-24	issue
+digitrev/KoLMafiaAshSyntax	2	String ending in escaped backslash does not end	open	2026-10-24		https://github.com/digitrev/KoLMafiaAshSyntax/issues/2		2026-10-24	issue
+digitrev/KoLMafiaAshSyntax	3	.ash files still open as Bash after install	open	2026-10-24		https://github.com/digitrev/KoLMafiaAshSyntax/issues/3		2026-10-24	issue
+magneto538/Koala-snippets	1	Snippets use scope source.ksp, KSP syntax uses source.sksp	open	2026-10-24		https://github.com/magneto538/Koala-snippets/issues/1		2026-10-24	issue
+magneto538/Koala-snippets	2	math.clamp placeholder missing dollar sign	open	2026-10-24		https://github.com/magneto538/Koala-snippets/issues/2		2026-10-24	issue
+magneto538/Koala-snippets	3	KOALA_LIGHT_MODE has trigger and content of ENABLE_DEBUG	open	2026-10-24		https://github.com/magneto538/Koala-snippets/issues/3		2026-10-24	issue
+koken/koken-sublime	2	if/ifelse snippets insert the whole true|empty|equals list as text	open	2026-10-24		https://github.com/koken/koken-sublime/issues/2		2026-10-24	issue
+victorteokw/kroman-sublime	1	Romanize File And Compare: AttributeError active_view is None	open	2026-10-24		https://github.com/victorteokw/kroman-sublime/issues/1		2026-10-24	issue
+mmanela/kusto-sublime	1	Backslash-escaped quote inside a string ends the string	open	2026-10-24		https://github.com/mmanela/kusto-sublime/issues/1		2026-10-24	issue
+Centril/sublime-lbnf-syntax	2	lbnf.sublime-syntax fails to parse (comment: reproduced, fix tested)	open	2026-10-24		https://github.com/Centril/sublime-lbnf-syntax/issues/2		2026-10-24	issue
+BGR360/lc2k-sublime-plugin	1	LC-2K.sublime-settings comment mentions the ase100 syntax	open	2026-10-24		https://github.com/BGR360/lc2k-sublime-plugin/issues/1		2026-10-24	issue
+stevenhan2/Sublime-LC3	2	Strings after .STRINGZ and negative decimals like #-1 are not highlighted	open	2026-10-24		https://github.com/stevenhan2/Sublime-LC3/issues/2		2026-10-24	issue
+meepzh/lc4-assembly-syntax	1	Registers, hex and binary rules colour parts of label names (no word boundary)	open	2026-10-24		https://github.com/meepzh/lc4-assembly-syntax/issues/1		2026-10-24	issue
+FlashSystems/LDIF-Syntax	2	Typos in snippet placeholders (Attribiute, Distingushed, realtive)	open	2026-10-24		https://github.com/FlashSystems/LDIF-Syntax/issues/2		2026-10-24	issue
+whitequark/LLVM-TableGen.tmBundle	1	No scopes for numbers, bang operators, defvar/defset/if/then/else/assert/true/false	open	2026-10-24		https://github.com/whitequark/LLVM-TableGen.tmBundle/issues/1		2026-10-24	issue
+ofekih/lolcode-sublime	1	BTW inside an identifier (BTWvar) starts a comment: no word boundary on BTW/OBTW/TLDR	open	2026-10-24		https://github.com/ofekih/lolcode-sublime/issues/1		2026-10-24	issue
+abathur/SublimeLPC	30	messages.json has a trailing comma (Package Control: Error parsing messages.json)	open	2026-10-24		https://github.com/abathur/SublimeLPC/issues/30		2026-10-24	issue
+kauboy26/LimeStyle	3	Plugin does not load on Python 3.13+ (import cgi); cgi.escape is gone since 3.8	open	2026-10-24		https://github.com/kauboy26/LimeStyle/issues/3		2026-10-24	issue
+kpym/SublimeLaTeXAccents	4	Decode accents does not handle plain i forms, \ss{} and \o{}	open	2026-10-24		https://github.com/kpym/SublimeLaTeXAccents/issues/4		2026-10-24	issue
+kpym/SublimeLaTeXAccents	3	README command names and palette captions do not match the package	open	2026-10-24		https://github.com/kpym/SublimeLaTeXAccents/issues/3		2026-10-24	issue
+jvcasillas/LaTeX-IPA	1	Typo in a snippet description: apricoalveolar	open	2026-10-24		https://github.com/jvcasillas/LaTeX-IPA/issues/1		2026-10-24	issue
+dariusf/LambdaSubstitution	4	The backslash key becomes lambda in the Find panel and other input panels (no key context)	open	2026-10-24		https://github.com/dariusf/LambdaSubstitution/issues/4		2026-10-24	issue
+tushortz/LangDocs	5	Python module description finds nothing: pythondoc.py pattern no longer matches docs.python.org	open	2026-10-24		https://github.com/tushortz/LangDocs/issues/5		2026-10-24	issue
+tushortz/LangDocs	6	SyntaxWarning invalid escape sequence in dictionary.py and javapac.py	open	2026-10-24		https://github.com/tushortz/LangDocs/issues/6		2026-10-24	issue
+Julow/LanguageInjector	1	AttributeError: plistlib.readPlistFromBytes removed in Python 3.9, plugin does nothing	open	2026-10-24		https://github.com/Julow/LanguageInjector/issues/1		2026-10-24	issue
+gusbemacbe/LanguagePortuguese	1	README install steps use names that do not match the installed package (package name, pt_BR / pt_PT)	open	2026-10-24		https://github.com/gusbemacbe/LanguagePortuguese/issues/1		2026-10-24	issue
+zlimao/laravel-cheat-sheet	4	Snippets lose their PHP variables	open	2026-10-24		https://github.com/zlimao/laravel-cheat-sheet/issues/4		2026-10-24	issue
+Fenzland/Laroute.sublime	1	Syntax fails to load on build 4215	open	2026-10-24		https://github.com/Fenzland/Laroute.sublime/issues/1		2026-10-24	issue
+amaslenn/Laynger	1	2 columns moves the border left when already in two columns	open	2026-10-24		https://github.com/amaslenn/Laynger/issues/1		2026-10-24	issue
+pwhisenhunt/Sublime-Text-2-Lazy-Backbone.js-Package	2	Two view snippets lose their dollar text	open	2026-10-24		https://github.com/pwhisenhunt/Sublime-Text-2-Lazy-Backbone.js-Package/issues/2		2026-10-24	issue
+moeffju/sublime-ledger-syntax	3	Comments after the payee or after a posting are not scoped as comments	open	2026-10-24		https://github.com/moeffju/sublime-ledger-syntax/issues/3		2026-10-24	issue
+GuimDev/LeekScript-Sublime	2	LeekScript.py else if SyntaxError (comment added)	open	2026-10-24		https://github.com/GuimDev/LeekScript-Sublime/issues/2		2026-10-24	issue
+webArtisan/lessTabs	8	Close unrelated tabs keeps tabs from sibling folders sharing the name prefix	open	2026-10-24		https://github.com/webArtisan/lessTabs/issues/8		2026-10-24	issue
+sijk/sublime-licence-snippets	15	Plugin fails to load on Python 3.10+	open	2026-10-24		https://github.com/sijk/sublime-licence-snippets/issues/15		2026-10-24	issue
+maximilize/LimitTabs	3	Active tab closed with several groups (candidates not reset),maximilize/LimitTabs|4|README vs shipped settings and code	open	2026-10-24		https://github.com/maximilize/LimitTabs/issues/3		2026-10-24	issue
+hypebeast/LineJumper	2	Command palette entries ignore the number_of_lines setting	open	2026-10-24		https://github.com/hypebeast/LineJumper/issues/2		2026-10-24	issue
+heldev/sublime-lines-multisets	3	README: Symmetric difference example result lists five, which is in both lists	open	2026-10-24		https://github.com/heldev/sublime-lines-multisets/issues/3		2026-10-24	issue
+NoxArt/SublimeText2-LinkOpener	6	www. links are opened without http:// (is used to compare strings in fixLink)	open	2026-10-24		https://github.com/NoxArt/SublimeText2-LinkOpener/issues/6		2026-10-24	issue
+jbw3/SublimeTextLinkerSyntax	4	PROVIDE, ASSERT, OUTPUT_ARCH and other ld commands are not highlighted as keywords,jbw3/SublimeTextLinkerSyntax|5|.lds files (common name for ld scripts) are not detected as Linker Script	open	2026-10-24		https://github.com/jbw3/SublimeTextLinkerSyntax/issues/4		2026-10-24	issue
+yinxianwei/Lipsum-Chinese	1	Commands insert only at the first cursor and do not replace a selection	open	2026-10-24		https://github.com/yinxianwei/Lipsum-Chinese/issues/1		2026-10-24	issue
+rrg/ListOpenFiles	2	list_open_files opens an empty tab: insert uses the edit of another view	open	2026-10-24		https://github.com/rrg/ListOpenFiles/issues/2		2026-10-24	issue
+fitzagard/li3_sublime	1	Package contains an unrelated plugin (LanguageInjector.py) that uses removed plistlib functions	open	2026-10-24		https://github.com/fitzagard/li3_sublime/issues/1		2026-10-24	issue
+spywhere/LocalPackages	2	Settings and README entries open LocalPackages/ but the package folder is Local Packages/,spywhere/LocalPackages|3|Plugin fails at load with Package Control 4: NameError PackageInstaller, nothing is installed	open	2026-10-24		https://github.com/spywhere/LocalPackages/issues/2		2026-10-24	issue
+shagabutdinov/sublime-local-variable	4	SyntaxWarning for invalid escape sequence \w in rename_variable.py (Python 3.12+)	open	2026-10-24		https://github.com/shagabutdinov/sublime-local-variable/issues/4		2026-10-24	issue
+DavidGerva/LockTab-Sublime-Plugin	1	comment: on_load AttributeError still reproduces, tested guard fix	open	2026-10-24		https://github.com/DavidGerva/LockTab-Sublime-Plugin/issues/1		2026-10-24	issue
+oriSomething/lodash-modules-sublime	5	README says r_ snippets insert var, they insert const	open	2026-10-24		https://github.com/oriSomething/lodash-modules-sublime/issues/5		2026-10-24	issue
+ssrihari/sublime-logger-snippets	2	README output and Rails trigger differ from the snippets	open	2026-10-24		https://github.com/ssrihari/sublime-logger-snippets/issues/2		2026-10-24	issue
+Skullmonkey/LGS-LUA	3	SetMKeyState() completion inserts nothing (unclosed placeholder)	open	2026-10-24		https://github.com/Skullmonkey/LGS-LUA/issues/3		2026-10-24	issue
+tiger2wander/SublimeText2-Logs	4	dmesg and logcat syntaxes never chosen for .log files,tiger2wander/SublimeText2-Logs|5|logcat error rule colours ordinary words	open	2026-10-24		https://github.com/tiger2wander/SublimeText2-Logs/issues/4		2026-10-24	issue
+sabarasaba/sublimetext-LondonUnderground	1	Plugin does not load on Python 3.7+ (async is a reserved word),sabarasaba/sublimetext-LondonUnderground|2|Data source query.yahooapis.com no longer exists	open	2026-10-24		https://github.com/sabarasaba/sublimetext-LondonUnderground/issues/1		2026-10-24	issue
+viluon/LuaExtended	21	goto and ::label:: are not highlighted	open	2026-10-24		https://github.com/viluon/LuaExtended/issues/21		2026-10-24	issue
+RuiZhuo/LuaJumpDefinition	4	Rebuild Tag stops on a file that is not valid UTF-8,RuiZhuo/LuaJumpDefinition|5|Traceback in the console on every plugin load until a tags file exists	open	2026-10-24		https://github.com/RuiZhuo/LuaJumpDefinition/issues/4		2026-10-24	issue
+ken48/lua-project-helper	3	Completion in an untitled tab raises AttributeError,ken48/lua-project-helper|4|Four SyntaxWarnings on load	open	2026-10-24		https://github.com/ken48/lua-project-helper/issues/3		2026-10-24	issue
+andrenanninga/sublimetext-LudumDareCountdown	1	Countdown dates are fixed to August 2016, nothing is shown any more	open	2026-10-24		https://github.com/andrenanninga/sublimetext-LudumDareCountdown/issues/1		2026-10-24	issue
+unifreak/SublimeLyricEditor	1	Offset down makes negative tags and skips the next line,unifreak/SublimeLyricEditor|2|Palette entry Lyric Editor: Done runs a command that does not exist,unifreak/SublimeLyricEditor|3|Default debug is true but README says false	open	2026-10-24		https://github.com/unifreak/SublimeLyricEditor/issues/1		2026-10-24	issue
+dgh/mac1-syntax	1	.LOC directive is not highlighted in lower case	open	2026-10-24		https://github.com/dgh/mac1-syntax/issues/1		2026-10-24	issue
+toxic-spanner/MCA.tmLanguage	1	Block comment rule matches star...star so a * b * c is a comment	open	2026-10-24		https://github.com/toxic-spanner/MCA.tmLanguage/issues/1		2026-10-24	issue
+nucliweb/MDNSearchDoc	4	Search text is not URL-encoded (& and # break the search),nucliweb/MDNSearchDoc|5|Debug prints of webbrowser internals left in mdnDoc.py	open	2026-10-24		https://github.com/nucliweb/MDNSearchDoc/issues/4		2026-10-24	issue
+li-vu/st-mlfi	1	Plugin does not load on Python 3.10+ (collections ABC imports),li-vu/st-mlfi|2|Error handler appends None (print_exc returns None), TypeError and no message	open	2026-10-24		https://github.com/li-vu/st-mlfi/issues/1		2026-10-24	issue
+JohanBaltie/MSBuildSelector	3	TypeError with no message when no project is open,JohanBaltie/MSBuildSelector|4|SyntaxWarning: invalid escape sequences in regular expressions (Python 3.12+)	open	2026-10-24		https://github.com/JohanBaltie/MSBuildSelector/issues/3		2026-10-24	issue
+ln8711/mthuy-local-sync	1	Saving a file in a sibling folder with the same name prefix copies it outside the destination	open	2026-10-24		https://github.com/ln8711/mthuy-local-sync/issues/1		2026-10-24	issue
+Phillip3/mackerel_syntax_highlighting	1	/* block comments */ are not highlighted as comments	open	2026-10-24		https://github.com/Phillip3/mackerel_syntax_highlighting/issues/1		2026-10-24	issue
+Phillip3/mackerel_syntax_highlighting	2	Hexadecimal numbers (0x10) and negative numbers are not highlighted as numbers	open	2026-10-24		https://github.com/Phillip3/mackerel_syntax_highlighting/issues/2		2026-10-24	issue
+Phillip3/mackerel_syntax_highlighting	3	Syntax file still has comments from the Sublime template (keywords are if, else, for and while)	open	2026-10-24		https://github.com/Phillip3/mackerel_syntax_highlighting/issues/3		2026-10-24	issue
+bigcakes/Macroptimize	2	Run Last Macro opens the picker in any tab where no macro was chosen yet	open	2026-10-24		https://github.com/bigcakes/Macroptimize/issues/2		2026-10-24	issue
+Magebinary/MagentoBacktraceMessageSyntax	1	Every .log file opens as Magento Backtrace Message after install	open	2026-10-24		https://github.com/Magebinary/MagentoBacktraceMessageSyntax/issues/1		2026-10-24	issue
+Magebinary/MagentoBacktraceMessageSyntax	2	README names a repository and package that no longer exist	open	2026-10-24		https://github.com/Magebinary/MagentoBacktraceMessageSyntax/issues/2		2026-10-24	issue
+MageFront/MagentoSnippets	18	mg-iife-jquery and mg-prototype-dom-ready never expand in .js files (scope text.js)	open	2026-10-24		https://github.com/MageFront/MagentoSnippets/issues/18		2026-10-24	issue
+MageFront/MagentoSnippets	19	phtml snippets do not expand in .phtml files (scope text.html.basic, PHP syntax uses text.html.php)	open	2026-10-24		https://github.com/MageFront/MagentoSnippets/issues/19		2026-10-24	issue
+MageFront/MagentoSnippets	20	mg-url-asec inserts getUrl with the closing parenthesis in the wrong place	open	2026-10-24		https://github.com/MageFront/MagentoSnippets/issues/20		2026-10-24	issue
+MageFront/MagentoSnippets	21	scss snippets are scoped source.sass, so they do not expand in .scss; mg-clearfix inserts a backslash	open	2026-10-24		https://github.com/MageFront/MagentoSnippets/issues/21		2026-10-24	issue
+MageFront/MagentoSnippets	22	mg-xml-text inserts backslashes into CDATA and uses $1 twice	open	2026-10-24		https://github.com/MageFront/MagentoSnippets/issues/22		2026-10-24	issue
+nhduy1985/sublime_mageruncommander	2	MagerunBase._checkProjectSettings raises TypeError when the window has no project	open	2026-10-24		https://github.com/nhduy1985/sublime_mageruncommander/issues/2		2026-10-24	issue
+nhduy1985/sublime_mageruncommander	3	callMagerun starts the worker thread with base_dir None when no Magento root is found	open	2026-10-24		https://github.com/nhduy1985/sublime_mageruncommander/issues/3		2026-10-24	issue
+nhduy1985/sublime_mageruncommander	4	magerunCommand project setting is never read (AttributeError on str)	open	2026-10-24		https://github.com/nhduy1985/sublime_mageruncommander/issues/4		2026-10-24	issue
+nhduy1985/sublime_mageruncommander	5	MagerunShellCall default timeout=0 makes every command raise TimeoutExpired	open	2026-10-24		https://github.com/nhduy1985/sublime_mageruncommander/issues/5		2026-10-24	issue
+cjdoris/sublime-magma	2	A .magma file opens as Magma (old), so comment and key binding settings do not apply	open	2026-10-24		https://github.com/cjdoris/sublime-magma/issues/2		2026-10-24	issue
+cjdoris/sublime-magma-snippets	1	No snippet expands in a freshly opened .magma file (Magma old syntax is chosen)	open	2026-10-24		https://github.com/cjdoris/sublime-magma-snippets/issues/1		2026-10-24	issue
+cjdoris/sublime-magma-snippets	2	intrinsic snippet inserts a lone double quote as the description placeholder	open	2026-10-24		https://github.com/cjdoris/sublime-magma-snippets/issues/2		2026-10-24	issue
+Silectis/sublime-magpie	1	A /* inside a string or a // comment starts a block comment	open	2026-10-24		https://github.com/Silectis/sublime-magpie/issues/1		2026-10-24	issue
+Silectis/sublime-magpie	2	Release 1.0.0 has no single-quoted string support that master has	open	2026-10-24		https://github.com/Silectis/sublime-magpie/issues/2		2026-10-24	issue
+roperzh/sublime-make-auto-vars	1	README says markdown file but the snippets are scoped to Makefile	open	2026-10-24		https://github.com/roperzh/sublime-make-auto-vars/issues/1		2026-10-24	issue
+Altomare/sublime-makefile-plus	4	Variable assignments get no highlighting (captures on a begin/end rule)	open	2026-10-24		https://github.com/Altomare/sublime-makefile-plus/issues/4		2026-10-24	issue
+marconi/mako-tmbundle	13	Every .html file opens as HTML (Mako) because html is in fileTypes	open	2026-10-24		https://github.com/marconi/mako-tmbundle/issues/13		2026-10-24	issue
+newsroomdev/Map-Snippets	3	gmaps snippet file has the extension .sublime-snipppet so it never loads	open	2026-10-24		https://github.com/newsroomdev/Map-Snippets/issues/3		2026-10-24	issue
+doneill/MapPreview	4	Hover throws TypeError when a feature has properties null	open	2026-10-24		https://github.com/doneill/MapPreview/issues/4		2026-10-24	issue
+captainmeeple/sublime-maperitive	2	Three snippets use scope source.mrules and never expand	open	2026-10-24		https://github.com/captainmeeple/sublime-maperitive/issues/2		2026-10-24	issue
+WesleyPeijnenburg/Marc_Syntax_Support	1	The # list terminator is not highlighted after a *command line	open	2026-10-24		https://github.com/WesleyPeijnenburg/Marc_Syntax_Support/issues/1		2026-10-24	issue
+MakiseKurisu/MarieAssembly	1	Hex rule highlights words like Dad and misses short values like 1F	open	2026-10-24		https://github.com/MakiseKurisu/MarieAssembly/issues/1		2026-10-24	issue
+robertcollier4/MarkSearch	1	README key bindings use the wrong region keys so most do nothing	open	2026-10-24		https://github.com/robertcollier4/MarkSearch/issues/1		2026-10-24	issue
+gwenzek/sublime_markdeep	3	Markdeep syntax does not load on Sublime Text 4215 (six embedded syntaxes in block_raw)	open	2026-10-24		https://github.com/gwenzek/sublime_markdeep/issues/3		2026-10-24	issue
+motine/MarkdownCodePacker	2	Unpack fails for a file name that contains a colon (C:\path)	open	2026-10-24		https://github.com/motine/MarkdownCodePacker/issues/2		2026-10-24	issue
+zhimiaoli/Sublime.Markdown2Clipboard	6	Markdown Preview as HTML fails: begin_edit was removed in Sublime Text 3	open	2026-10-24		https://github.com/zhimiaoli/Sublime.Markdown2Clipboard/issues/6		2026-10-24	issue
+kenspirit/MarkdownCodeBlockWrapper	2	Typo in command palette caption: Flavered	open	2026-10-24		https://github.com/kenspirit/MarkdownCodeBlockWrapper/issues/2		2026-10-24	issue
