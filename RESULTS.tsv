@@ -3395,3 +3395,447 @@ RubyToggleString	2026-10-25	picker install; works for simple strings; string wit
 Rubyfmt	2026-10-25	picker install v1.1.1; rubyfmt and ruby not installed (prerequisite, install policy): format on save raises FileNotFoundError traceback, same as existing issue #5; explained cause and fix as a comment on #5 (fix untested); removed, baseline verified
 PureCSS reinvestigation	2026-10-25	owner closed #3/#4 with Ty? and disabled issues (7 s, no commit). Retested on 4215: #3 first-tag bug confirmed, fix (>= 2) tested; #4 corrected: official Pure 1.0.1/0.6.2 have no pure-hidden-* classes (yui/pure#326), plugin offers removed helpers; no-contact signal, nothing sent; findings\PureCSS-first-tag-completions-and-hidden-classes.md
 Clafer Tools retest	2026-10-25	ClaferToolsST#4 fixed in 0.5.4 (PR #5, picker serves it): ctrl+i opens incremental find in plain text, starts the chord in .cfr; loads clean; comment posted on #4
+RulerColumn	2026-10-26	picker install v0.9.0 (repo gerardroche/sublime-ruler-column, author active); plugin returns early when word_wrap is truthy, and the default "auto" is truthy, so nothing is drawn unless word_wrap is false; reproduced in Plain Text and Python; fix (is True) tested via RulerColumnFix; removed, baseline verified
+Run Apps	2026-10-26	picker install v1.1.1; Add Application writes invalid JSON (D:\Tools\Go\bin\go.exe) so no Run: entries appear, silent (fix tested); TypeError after error dialog when a cli program cannot start (tested); removed, User file recycled, baseline verified
+RunCommand	2026-10-26	not in picker, copied from GitHub raw; Python 2 only (getargspec ImportError at line 10), palette commands do nothing silently; repo dormant since 2012 so findings only: findings\RunCommand-python2-only-does-not-load.md, not sent; removed, baseline verified
+RunMacroFileWithContext	2026-10-26	picker install; fails to import Context (undeclared dependency), Context in turn fails on Expression; chain Context>Expression>Statement/IndentationNavigation undeclared, README names Context only; macro itself not run; findings only (documented gap, not sent): findings\RunMacroFileWithContext-undeclared-dependency-chain.md; all three packages removed, baseline verified
+Rust Share	2026-10-26	v1.0.0: Share Rust File fails with HTTP 403 from is.gd (no User-Agent), silent traceback; tested fix (https + UA) gives short URL; whole file sent over http in URL
+RustAutoImport	2026-10-26	v1.0.3: works (HashSet merged into existing brace import); unknown symbol inserts use std::x::Foo; Reader/Writer mapped to nonexistent std::io paths; SyntaxWarning line 109; history_list import works on 4215 (#1 not reproduced)
+RustCookbookSnippets	2026-10-26	v0.1.0: 48 snippets, hyphenated triggers expand fully (http-get, hex-encode, lazy-static, read-line); 37 use one-arg Result with no error_chain (by reading, not compiled); only 4 have placeholders
+Rux	2026-10-26	v0.2.0 syntax-only: first closing brace of an inner block ends function scope early (fix tested in copy, posted in issue); range, string, symbols, toggle comment fine
+S-Expressions Syntax	2026-10-26	skipped: maintainer whitequark blocked dpc00 (no contact, nothing filed in his repos)
+SAMB	2026-10-26	v1.0.0 syntax+completions for .se: Toggle Comment does nothing (no comment definition; tested fix in copy); scopes still end in example-c; highlighting and completions work
+SBT Runner	2026-10-26	skipped: not in the Install Package picker (only SublimeSBT is); repo last pushed 2013-08, needs sbt which is not installed; nothing installed
+SCRAPfy	2026-10-26	skipped: scrapfy.io (the paste service it uploads to) now redirects to oxway.co, product gone; repo last pushed 2014-08; nothing installed or filed
+SDC Constraints	2026-10-26	v0.2.0: cc snippet inserts [get_portsport] (missing space; fix tested in copy); head snippet has personal default text; leftover file names; syntax, other snippet and Toggle Comment work
+SDLang	2026-10-26	v1.0.0 tmLanguage: -- comments not scoped, one-letter attribute names not highlighted, = padding in base64 flagged illegal (3 fixes tested in copy), Toggle Comment writes # with no space (TM_COMMENT_START_2 duplicated); open #1 folding not tested
+SEPath	2026-10-26	v2.0.0: quoted path starting in column 0 silently ignored (off-by-one in range(point - 1, 0, -1); fix tested in copy); README names root_replacement_key but setting is base_directory_key; stray Default.sublime-commands.json; normal open and missing-path dialog work
+SIMPL+ Syntax Highlight	2026-10-26	v1.0.1: email/ramping/exception function groups never included; symbol operators never match (\b); contorl typo scope; includes of undefined contexts; fixes for first two tested in copy; .usl works via settings extensions
+SJSON	2026-10-26	v2014.04.01 syntax-only: highlighting correct; Toggle Comment does nothing (no comment definition; fix tested in copy); line comment scope says .js
+SLAB	2026-10-26	v0.2.1: syntax file is slab.sublime_syntax (underscore) so Sublime never loads it, .slab opens as Plain Text; renamed copy works (fix tested)
+SLAX	2026-10-26	v2014.09.19: 14 snippets have no active scope (template scope line commented out) so they expand in every file type, e.g. syslog in a Python file (fix tested in copy); syntax not exercised beyond load
+SM RAD	2026-10-26	v2014.01.24: syntax and both snippets (if, $) work; only issue is sample file teset_names.rad (typo, README says test.rad) containing if( that its own rule flags
+SNMP MIB Syntax	2026-10-26	v1.0.1: every dot in a string scoped as escape (rule is \. not \\.); MAX-ACCESS only half highlighted; both fixes tested in copy; completions and comment prefs not exercised
+SOML	2026-10-26	v0.0.2: no defects found; highlighting with error marks, Format Document (invalid doc left unchanged with clear status message), Toggle Quotes, Toggle One Line, Toggle Block String, Insert Instant all behave as the readme says; not run: hover, Goto Key, Copy Key Path, Convert/Paste JSON, format on save
+SPARC Assembly	2026-10-26	v2014.01.08: reproduced existing #1 (beq not highlighted) and posted cause + tested fix as a comment; branch synonyms bz/bnz/bgeu/blu and fp branches also missing; opcode list holds manual class names (bicc, fbfcc, cbccc, ticc) and ta not highlighted (#4); #3 ST4 request: package loads and highlights on 4215
+SPARQL Runner	2026-10-26	issues disabled; findings\SPARQLRunner-content-type-error-and-json-double-read.md (default endpoint XML gives error dialog plus result tab; JSON branch reads body twice, by reading)
+SPICE Circuit Simulator	2026-10-26	syntax, comments and sub snippet work; README links 404
+SPIP	2026-10-26	syntax, snippets work; #TAG completions insert extra # (127 triggers); fix tested for plain ones
+SQF for VBS3	2026-10-26	syntax, completions, snippets work; search commands point at dead BISim sites, empty-selection and q=test bugs by reading; written up in findings, not filed
+SQL (simple-db-migrate)	2026-10-26	tested live: .migration picks the syntax, SQL inside SQL_UP/SQL_DOWN triple quotes scoped as source.sql; no defects; nothing filed
+SREC	2026-10-26	tested live: .s19 picks syntax, record fields scoped (address, data, begin), bad line marked invalid.malformed-record; no defects; nothing filed
+SSE & AVX Intrinsics	2026-10-26	snippets/completions work in C++ but scope is source.c++ only, so nothing in .c files; fix tested; filed #2
+STVenvWrapper	2026-10-26	needs SublimeREPL (dialog shown as designed); Windows layout finding by reading (bin vs Scripts, ":" separator); filed #1
+ST_AWK	2026-10-26	awk not on PATH so only the missing-awk dialog was reached (clear message); messages.json trailing comma and palette typo filed; py2-style code (communicate with str) by reading, already reported as #3
+SUCC Syntax Highlighting	2026-10-26	tested live: .succ picks syntax; keys, numbers, quoted and block strings, comments scoped correctly, recovers after block string; no defects; nothing filed
+SVG Preview	2026-10-26	Inkscape not installed: command raises traceback and opens console panel (as coded); unsaved-tab TypeError reproduced; PNG cache never hits (by reading); filed #5 #6
+SVG to JSX	2026-10-26	converter run live: prefix-order bug (font-size-adjust, color-interpolation-filters), whole-buffer replacement changes text and ids, class/style not converted; order fix tested; filed #1 #2 #3
+SVG-Snippets	2026-10-26	snippets expand, fields tab through to $10/$11; multi-line snippets carry hard-coded leading tabs; filed #5
+Sails Snippets	2026-10-26	hyphen triggers expand fully; $custom lost in config-http (fix tested); -path snippets reuse plain triggers (popup shows two identical entries); filed #2 #3
+SaltUI	2026-10-26	snippets insert 4 leading spaces and trailing newline (generator indents CDATA); removed and verified
+San Syntax Highlight	2026-10-26	grammar: closing quote of s-/on- directive taken by included JS string, rest of file stays in directive; package snippets did not expand on Tab in this session (cause not established, not filed); removed and verified
+Sandor's Glowfish Colour Scheme	2026-10-26	selection equals lineHighlight (#223a1a); README name differs from channel name; removed and verified
+Sandpaper Color Scheme	2026-10-26	clean: loads, selection distinct from line highlight; removed and verified
+SaneSnippets	2026-10-26	clean: regenerate, new-snippet command, syntax work; ]]$UNDEFINED> escape works (unknown variable expands empty); sublime_lib installed and removed with it; removed and verified
+SasSubmit	2026-10-26	not testable: needs SAS; plugin fails to load, import win32gui: pywin32 library for 3.14 not importable (known, packagecontrol/pywin32#1 closed); nothing filed; removed with library, verified
+Sass-Director	2026-10-26	Save/Open Manifest FileNotFoundError (path inside the zip), tested fix in issue; platform.system() is Windows always false; Generate IndexError with no folder; removed and verified
+Sassy Comments	2026-10-26	clean: all four snippets expand as documented (a second Tab is needed when triggers share a prefix, Sublime behaviour); issues disabled; removed and verified
+Scaffolding	2026-10-26	skipped: not in the ST4 picker (2013 repo, ST2-era)
+ScalaFormat	2026-10-26	formatting works with Java 25; SyntaxWarnings return-in-finally and invalid escape on 3.14; err unbound after except (by reading); removed and verified
+ScalaScript	2026-10-26	commands highlighted only after exactly 4 whitespace chars (tab/2-space become variable.parameter); one-line fix tested; removed and verified
+ScalaTest	2026-10-26	skipped: not in the ST4 picker (2013 repo, ST2-era)
+ScalaWorksheet	2026-10-26	not installable: Bitbucket download HTTP 404 (channel matter, nothing filed)
+ScalafmtEnhanced	2026-10-26	prerequisite not installed: needs scalafmt_ng (coursier bootstrap, bintray) and a nailgun client; loads clean; nothing filed; removed and verified
+Scalariver	2026-10-26	default server river.scalex.org is now a parked page, code still POSTed over HTTP; Format command disabled on ST4 (get_language strips .tmLanguage only); package settings file not loaded; removed and verified
+Scalex Documentation Search	2026-10-26	Windows backslash syntax path gives modal error dialog (forward-slash fix tested); api.scalex.org now parked page, JSONDecodeError uncaught in worker thread; removed and verified
+SchemeCycler	2026-10-26	skipped: not in the ST4 picker (2012 repo; its own issue #6 says not listed for ST3)
+Schnapsum	2026-10-26	clean: single and multi-cursor insertion work on ST4; removed and verified
+Scilab	2026-10-26	Function with-arguments rule needs a literal TAB (fix tested); deff snippet leaves deff( unclosed; other snippets fine
+Scold	2026-10-26	not installable: absent from the Install Package picker (4725 entries, no match; likely ST2-only, last push 2014); nothing installed
+ScopeContext	2026-10-26	readme says Dependencies None but listener.py imports Context.base (separate package); not run (python_version 3.3, 3.3 host disabled), found by reading
+Scopus Query Compiler	2026-10-26	referencing last line without trailing newline drops its last character (fix tested: view.line().end())
+Scopus Syntax Highlighter	2026-10-26	clean: keywords, field codes, #refs, strings (with % inside) and % comments scope as designed
+ScriptSrc	2026-10-26	not installable: absent from the Install Package picker and search_packages (last push 2012, likely ST2-only); nothing installed
+Scroll Other Pane	2026-10-26	clean: alt+pagedown scrolls the other group (tested 2 columns); empty other group gave no traceback; rig note: stale Scalex hidden-tmLanguage dialogs queue up and block commands until closed
+ScrollAlternative	2026-10-26	with word wrap on, scroll_lines_enhanced stops short of the end (clamp uses buffer line count); fix tested (layout_extent); readme omits the sublime_enhanced_keybindings setting
+ScrollOffset	2026-10-26	works on 4215 with defaults (open #13 not reproduced); scroll_to ignores a target of 0 so the top margin is one line short on line margin+1; fix tested
+Scuggest	2026-10-26	import inserted above leading comment and package line; package line with _ or 1-letter part not recognised (both fixes tested); test.py in root loaded as plugin and raises; invalid escapes in 3 files
+Search Anywhere	2026-10-26	TypeError splitext(None) when searching from an unsaved tab (also in Set Search Engine For File Type); fix tested for one site; same as closed #3
+Search CakePHP API	2026-10-26	not installable: absent from the Install Package picker and search_packages (last push 2012, ST2-only); nothing installed
+Search CakePHP Book	2026-10-26	not installable: absent from the Install Package picker and search_packages (same author, last push 2012, ST2-only); nothing installed
+Search Valve Wiki	2026-10-26	not installable: absent from the Install Package picker and search_packages; nothing installed
+SearchPanelEnhanced	2026-10-26	clean once its documented prerequisite StatusMessage is installed (and the package reloaded): fuzzy panel, match highlight, Enter jump to line 25 all work; without StatusMessage a modal dependency dialog appears; rig note: drive_input_panel submit did not move the cursor, real typing + Enter did
+Section Comment	2026-10-26	with several cursors every banner is inserted at the first cursor (and can swallow code into a line comment); fix tested; single cursor on a blank line works
+Seeing Is Believing	2026-10-26	no ruby: uncaught FileNotFoundError, no message; exit code 1 with empty stdout (stand-in .bat, real ruby not installed) empties the buffer (matches open #23); fix tested; commented on #23
+Select Quoted	2026-10-26	ctrl+shift+quote binding passes {inside:false} but run() only takes around: TypeError (open #11); plain select works; around:true selects with quotes; commented on #11 with the fix
+Select all by current scope	2026-10-26	works (3 bold spans in Markdown); README Usecase key binding missing a comma (invalid JSON)
+SelectExact	2026-10-26	selected text not regex-escaped (foo.bar also matches fooxbar); non-word selection widened by word() so next identical text not found (call(x)); fixes tested for select_exact_match
+SelectNextNumber	2026-10-26	works (jumps 770, 241, 107, 88, 5); invalid escape in the regex string (SyntaxWarning 3.12+); rig note: ui_press_key ctrl+tab with method post typed a TAB into the buffer instead of firing the binding
+Selection Evaluator	2026-10-26	does not load on Python 3.10+ (collections.MutableMapping); with collections.abc it imports but the command still did not evaluate 3 + 4 * 2 (cause not found); package is marked deprecated by its author; rig gap: ui_press_key with ctrl+shift+m (method post) typed a plain m, modifiers lost
+SelectionTools	2026-10-26	align_indentation: begin_edit gone on ST4 (open #1 confirmed, fix tested, commented); indent / tab_size float TypeError with a tab in the start line (fix tested)
+SelectiveUppercase	2026-10-26	clean: uppercases only the configured keyword in a multi-line selection, leaves selectiveUppercase_x alone
+Selenium Snippets	2026-10-26	sel:url inserts current_url() though current_url is a property; 14 find_element(s)_by_* snippets use methods removed in Selenium 4.3
+Sencha	2026-10-26	snippets only; Ext.define and con work; duplicate ready trigger, con lower-cases whole name
+Send To Sandbox	2026-10-26	non-ASCII selection raises UnicodeEncodeError (open without encoding, fix tested); messages.json has // comment. Also Sencha: 5 colon-named snippets skipped on Windows
+Send by Mail	2026-10-26	not installable: not in the Package Control picker (searched Send by Mail, mailto); nothing installed
+Send to Shell	2026-10-26	inconclusive on 4215: needs Pywin32 (README), whose binaries are Python 3.3 builds; import fails in the default host (python33.dll conflicts); .python-version 3.3 retest needs a host restart, not done; nothing filed (4215-only load failure). Pywin32 installed as prerequisite and removed
+SendText	2026-10-26	iTerm branch IndexError on blank-line selection (fix tested); Windows keymap Ctrl+Enter with no Windows program (osascript FileNotFoundError)
+SendToJsonBlob	2026-10-26	no error handling: uncaught HTTPError in thread (jsonblob.com now answers 403 to scripted POST, so a successful upload was not seen); custom-name command, settings and syntax table are unused PasteBin leftovers
+SendToPasteBin	2026-10-26	uncaught HTTPError (pastebin.com answers 403) and unchecked re.match in thread, no user message; SyntaxWarning invalid escape line 154
+Sepiarize Color Scheme	2026-10-26	repo kn9ts/sepiarize (listed url is goo.gl); all 5 schemes valid and apply, no console errors; README licence contradiction
+SequentialBuilder	2026-10-26	every build fails at step 1 on Python 3 (unicode NameError, has_key, misspelled helper names), fix tested; file_extention typo, fix tested; comment on stale #3
+Serpent Syntax	2026-10-26	clean: .se files get source.serpent source.python (the syntax only pushes the Python syntax, no Serpent-specific rules)
+Seth Color Scheme	2026-10-26	clean: tmTheme valid, applies and renders via the color scheme picker (issues disabled on repo). Rig note: set_setting color_scheme right after install gave Unable to open dialog, same path worked later
+SetlX Helper	2026-10-26	snippets expand correctly; stray } outside content in if and else snippets (harmless oddity)
+SexySnippets	2026-10-26	static check of 27 snippets (XML ok, 23 CDN urls all 200); Dojo 1.10.3 trigger says 1-11-3; sx-ga is obsolete Universal Analytics
+ShaderLanguages	2026-10-26	not installable: Package Control gets HTTP 404 downloading https://bitbucket.org/asmodai/shaderlanguages/get/1.0.0.zip (repo gone or moved); nothing installed; nothing filed (channel entries go to Donald only)
+Share File	2026-10-26	backend rhcloud.com host does not resolve (comment on #2); SyntaxWarning is not str literal (#3). Not runnable here: PC installed the requests library for py3.14 without urllib3 (import fails), nothing uploaded. requests library removed with the package
+ShellStatus	2026-10-26	works when a command is configured (status bar shows Editing: path); default command missing in a zip install, unguarded Popen raises FileNotFoundError on every tab switch (comment on #4, which with #3 already covers the missing script). StatusMessage installed as prerequisite and removed
+Sheller	2026-10-26	Sheller: File works (echo output in build panel); Project Root commands crash with IndexError when no folder is open (after the error message box)
+Shen	2026-10-26	syntax and snippets work; formatter plugin broken: Python 2 print (already #2), command name mismatch format_shen vs shen_format, format() is the builtin so nothing is formatted, undefined Base/raw/Cons (comment on #2, tested)
+Sherumite - Color Scheme	2026-10-26	clean: tmTheme valid (global block is not first but works), applies and renders, readable light scheme. Rig: picker did not list a just-installed scheme for about 3 minutes
+Shiftswitch	2026-10-26	clean: indent and re-indent commands tested (spaces 2, tabs 2), results correct
+Shinken	2026-10-26	syntax works; all object snippets omit define (issue); duplicate contact trigger
+Shlisp Syntax	2026-10-26	clean: syntax scopes correct (needs manual syntax pick, fileTypes empty by design); build not run (shlisp binary absent)
+ShouldjsSnippets	2026-10-26	snippets work; README table glitches (issue 17)
+Show Open Files	2026-10-26	clean: status bar count correct on open and close (3 files then 1)
+ShowDefinitionEx	2026-10-26	Run Test FileNotFoundError from .sublime-package; SyntaxWarnings; prefix skip only under DEBUG (reading); hover not tested
+Shrink Whitespaces	2026-10-26	not installable: absent from picker and channel (searched Shrink, hrink, dacap)
+SidebarHoverToggle	2026-10-26	loads clean; hover and click not run (need real pointer and MouseEventListener package, not a declared dependency); issues disabled, nothing to report
+Sightly	2026-10-26	syntax fails to load on 4215 (with_prototype recursion), .html opens Plain Text while installed; SyntaxWarnings; puctuation typo
+Silex Snippets	2026-10-26	snippets work; README mismatches (issue 1)
+Silk Web Toolkit Snippets	2026-10-26	clean: 3 snippets, skc inserted correctly
+Silky Jump	2026-10-26	does not load: shipped Python 2 .pyc gives bad magic number on 4215; py3 errors by reading; loose copy test blocked by stale zip importer
+Simplates	2026-10-26	separators not recognised on 4215 (whole file Python); text\html typo by reading
+Simple Ember.js Navigator	2026-10-26	not installable: absent from picker (searched Simple Ember, Ember)
+Simple Import	2026-10-26	does not load on 4215: shipped Python 2 Handler.pyc, bad magic number; NameError SimpleImport, imp, leftover ReloadPlugin by reading
+Simple Rails Navigator	2026-10-26	not installable: absent from picker (searched Simple Rails, RailsNav)
+SimpleAdd	2026-10-26	tabs not delimiters (sum 6.50 not 15.50); inf/nan words give sum nan
+SimpleClone	2026-10-26	Split Right leaves clone in original group, empty right group (2 of 2 runs, 4215)
+SimpleCov	2026-10-26	toggle and project panel fail: load_resource FileNotFoundError on Mariana.sublime-color-scheme; status bar works; issues disabled, emailed maintainer
+SimpleCov	2026-10-26	toggle and project panel fail: load_resource FileNotFoundError on Mariana.sublime-color-scheme; status bar works; issues disabled, emailed maintainer 2026-10-26
+SimpleMarker	2026-10-26	markers matched as regex: a.c highlights abc, ( highlights nothing; keybindings Mac-only
+SimplePHPSpec	2026-10-26	misleading no-folder message; README command name wrong (issue 5); phpspec not run
+SimplePHPUnit	2026-10-26	clean: Run with phpunit.xml folder shows themed output panel (phpunit binary absent, so not-recognized error shown); open issues cover phpunit.xml lookup
+SimplePHPUnit	2026-10-26	plugin works; exec panel keeps package colour scheme, error dialog after removal (issue 10)
+SimpleSession	2026-10-26	save works; SyntaxWarning backslash-d at load (issue 8); load not tested
+SimpleStateManager Snippets	2026-10-26	isActive inserts ready(); setResizeTimeout wrong method and extra paren; all 15 share trigger ssm (issue 1)
+SimpleTODO	2026-10-26	absolute path stored on Windows; dot only after tab re-activation (issue 3)
+SimpleTesting	2026-10-26	clean: .tests.cpp auto-detected, TEST and ASSERT scoped
+SimplestDebugger	2026-10-26	trailing-space debugger line not toggled off; SyntaxWarning (issue 1)
+Simutrans dat Syntax	2026-10-26	clean: syntax scopes correct (set manually; auto-association not checked, index lag); stale SimplePHPUnit colour-scheme dialogs kept appearing
+SingleTrailingNewLine	2026-10-26	Clean: single_trailing_new_line turned "abc\n\n  \n\n  " into "abc\n" once the plugin loaded. Pre-save path not run.
+Singularity Definition File Syntax	2026-10-26	Syntax not auto-selected (regex in file_extensions, first_line_match as list), header value unscoped, tests use other scope names
+Sinon	2026-10-26	Clean: with JavaScript (Test) syntax set, sinon.assert.calledTw completes to calledTwice. Nothing to file.
+Sk-ST3	2026-10-26	Clean: .sk opens as Sk-ST3 and scopes if/command/send; whole repo shipped in zip (vsix, Material Theme); open issues already cover bugs
+Sketch.js	2026-10-26	Completions typos: map inserts man(, lerp repeats placeholder 2
+SkoolkitZ80	2026-10-26	String escape rule matches a period not a backslash; backslash-quote ends string
+Sleet	2026-10-26	sublime-syntax fails to load (with_prototype recursion); tmLanguage has no effect; file stays Plain Text
+SlideNav	2026-10-26	AttributeError V.settingsLoaded in untitled view, SyntaxWarning line 1258; Insert_Slide on a saved txt did nothing, not investigated
+SlideShow(S9)	2026-10-26	Not installable from the picker: no entry named SlideShow(S9); nothing installed
+Slime	2026-10-26	Tag names get no entity.name.tag.slime scope (text.slime only); filters, comments, elixir lines work
+Smart Duplicate	2026-10-26	Keywords replaced inside longer words: topic->bottomic, stop->sbottom, copyright->copyleft, MAX_SIZE->MAY_SIZE
+Smart Match	2026-10-26	Clean: README case function2(function1(foo) types over to function2(function1(foo)); nothing to file
+Smart Path Copy	2026-10-26	Windows: bad escape \U crash in re.sub, / rules never match backslash paths, TypeError on unsaved view
+Smart Region	2026-10-26	Windows: ValueError on C:\path:line (split on colon); falsy user settings fall back to defaults (by reading)
+Smart Repeat	2026-10-26	README example works; plus-plus typo in the format-error message raises TypeError
+SmartGoogle	2026-10-26	Not installable from the picker: no entry named SmartGoogle in the channel; nothing installed
+SmartNewWindow	2026-10-26	Clean by reading (20-line command); new-window path not run because extra windows and close_window quits Sublime; nothing to file
+Smartisan	2026-10-26	IndexError in process_artisan: bounds check after index when artisan output has under two lines
+Snake	2026-10-26	Game starts, ends with Game Over dialog, no traceback; existing open issues already cover boundary and hang; nothing new filed
+Snakecasts-theme	2026-10-26	Clean: scheme loads and colours a Python buffer; only oddity an empty sample/sample.py, not filed
+Snazzy Color Scheme	2026-10-26	Scheme works; README names Color Scheme - Snazzy but package is Snazzy Color Scheme
+SnippetCaller	2026-10-26	Does not load from Package Control: imports six sibling packages (Context, LocalVariable, QuickSearchEnhanced, Method, Expression, Statement) not declared as dependencies; modal dialogs per module
+SnippetIndex	2026-10-26	Backend snip-index.herokuapp.com returns 404 No such app; command prints HTTPError traceback only; urlopen on main thread without timeout (by reading)
+SnippetManager	2026-10-26	Does not load: imports FileList, which is not declared as a dependency; existing open issue 2 already reports it, comment added
+SnippetSkydragon	2026-10-26	tb-switch completion has unclosed placeholder (red|) and inserts nothing, deleting the typed text; tb-badge works
+SnippetX	2026-10-26	.python-version 3.5.1 means the plugin never loads (command does nothing, no log line); works with 3.8 on a loose copy; comment added to open issue 3
+Snipplr	2026-10-26	Not installable from the picker: no entry named Snipplr; nothing installed; repo issues disabled
+Snipt Snippet Fetcher	2026-10-26	Not installable from the picker: not in the channel; nothing installed
+Snowball Syntax	2026-10-26	Variable rule has no digits so $p1 is split into variable and entity.name
+Soar Tools	2026-10-26	TypeError in soarunit_project with no project and soarunit_one_file with no file name; SyntaxWarning line 37; numeric threads TypeError by reading
+Solidity Docstring Generator	2026-10-26	IndexError on string memory name parameters aborts the run; simple functions work; TypeError on unsaved view by reading
+Solisp	2026-10-26	Syntax works; scope name typo keyword.operator.arithmtic.solisp
+Solium Gutter	2026-10-26	run.js getSoliumUserConfiguration recurses forever on Windows (stops only at /), plugin then shows misleading Node.js not found dialog; commented on #1
+Sonic Pi	2026-10-26	shlex.quote single quotes under shell=True are not quoting in cmd.exe on Windows (sonic_pi CLI not installed, command line only checked); filed #3
+Sort JavaScript Imports	2026-10-26	no selection sorts whole buffer and drops blank lines between code and the final newline; commented on existing #7
+Sort Lines By Selection	2026-10-26	morph arg (README feature) raises KeyError user_morph on Python 3.13+ (exec plus locals); plain sort works; filed #4
+SortLinesByColumn	2026-10-26	not installable: not listed in the Package Control picker on 4215 (ST2-only package)
+Soulburn Color Scheme	2026-10-26	clean: tmTheme parses, applies without console errors, Python sample coloured
+SourceDown	2026-10-26	command works (python, js block comments); Settings-User menu template uses option names the plugin ignores (by reading); filed #1
+SourcePawn Syntax Highlighting	2026-10-26	clean: syntax auto-selected for .sp, scopes and toggle_comment work
+SourceSharer	2026-10-26	backend save-api.php 404 and README site does not resolve; plain http upload; Java/C listed but not allowed (by reading, Share not run because it uploads the file); filed #1
+SourceTalk	2026-10-26	service gone (410), failed request returns None and choose-conference raises AttributeError after an error dialog; filed #3
+SourceTree.app Menu	2026-10-26	not installable: not listed in the Package Control picker on 4215 (ST2-only package; the picker only shows SourceTreeCommands, a different package)
+SourceTreeCommands	2026-10-26	macOS endswith .App never matches SourceTree.app so Popen runs the folder (cause of open #3, by reading, checked in Python); menu caption typo SouceTreeCommands; commented on #3, filed #4
+SpaceSnippets	2026-10-26	key bindings never fire installed alone (context keys from other packages, e.g. is_search_panel_enhanced_visible); command works when called directly; filed #2
+Spartan Color Scheme	2026-10-26	clean: dark and light schemes load and colour a Python sample without console errors
+Spec Finder	2026-10-26	is_spec searches the full path, so any path containing spec (e.g. a folder specproj) makes Toggle Spec do nothing; control path without spec opened the spec; filed #1
+Spec Focuser	2026-10-26	plugin does not load: committed SpecFocuser.pyc has Python 2.6 magic, ImportError bad magic number on 4215; infinite loop when no spec line above cursor (by reading, not run to avoid hanging the editor); filed #6
+Specman	2026-10-26	clean: .e auto-selects Specman, numeric literals, code-segment markers and keywords scoped as expected, no console errors
+Sphere Online Judge	2026-10-26	Heroku backend returns 404; every ID (PRIME1) gives Invalid Problem Code because bare except hides the failure; cache stores None (by reading); filed #1
+Sphinx Office	2026-10-26	not installable: Package Control download 404 on bitbucket.org/klorenz/sublimesphinxoffice (repository gone); no GitHub repo to report to
+Sphinx Ref Helper	2026-10-26	IndexError with no folder open (folders()[0]); lstrip strips the leading underscore of a label; os.chdir never restored (by reading); works with a folder; filed #1 and #2
+SpiderScript	2026-10-26	firstLineMatch node shebang makes extensionless Node scripts open as SpiderScript; README forlistif trigger is forlistin in the snippet; filed #4 and #5
+Spintax	2026-10-26	clean: syntax applies after index lag, scopes for comment/set/enumeration/permutation/conditional/plural match the README, URL fragment is not a comment, toggle comment wraps in /# #/; existing issue #1 is a feature gap
+Spirit Color Scheme	2026-10-26	clean: tmTheme parses, applies after index lag (first apply gave Unable to open dialog), Python sample coloured on black
+Split Line	2026-10-26	IndexError on a line with no bracket (brackets[0] before the no-splittable message); README examples work; filed #2
+Split To Buffer	2026-10-26	not installable: not listed in the Package Control picker on 4215 (ST2-only package; repo last pushed 2013, open issue #1 asks if it is alive)
+SplitScreen	2026-10-26	not installable: not listed in the Package Control picker on 4215 (ST2-only package; repo last pushed 2012, open issue #1 says it hangs on ST3)
+Splunk Format	2026-10-26	raise of a plain string in findSubsearches gives TypeError on Python 3 for an unmatched ]; normal and subsearch formatting work; filed #2
+Splunk Syntax	2026-10-26	no comment rule in splunk.tmLanguage: stats inside a triple-backtick comment is scoped as a command (confirms open #4); escaped quotes work; commented on #4
+SpotifyWeb	2026-10-26	plugin does not load after install (No module named urllib3, dependencies.json lists only requests, PC#1804); workaround of listing urllib3 idna charset_normalizer verified to load it; SyntaxWarning is not 200 in bundled spotipy; opens a second window with its settings file at load; filed #5 and #6
+Sprak Syntax & Completions for else Heartbreak()	2026-10-26	AND and OR inside identifiers (ORDER, BRANDY) scoped as operators, no word boundaries; filed #3
+SproutCore Snippets and JSHint Integration	2026-10-26	issue #3: reporter.js/.jshintrc paths missing on zip install
+Sqlx Builder	2026-10-26	clean: var/func/for/if build verified, nothing filed
+Stack Overflow Snippets	2026-10-26	issue #3: HTMLParser.unescape removed in 3.9, search always fails
+StackMob JS Snippets	2026-10-26	issue #1: sms snippet invalid JS, smf/smfe unscoped
+StackTracer	2026-10-26	issue #1: Windows drive-letter colon breaks path filter, silent no-op
+Stackoverflow Debug Helper	2026-10-26	issue #1: UnboundLocalError after no-error dialog
+Stan	2026-10-26	issue #11: brace on next line marks block illegal; array not a type
+StandardSnippets	2026-10-26	issue #1: csx mirrors base class into constructor args; wrong-pick StandardFormat removed
+Stanza Syntax	2026-10-26	clean: defn/types/strings/comments/numbers scoped as expected, nothing filed
+Starbound Lua	2026-10-26	issue #4: goto and ::label:: not highlighted
+Startup Files	2026-10-26	issue #1: set_startup_files saves null for unsaved tabs; prefs restored
+Status Bar Time	2026-10-26	issue #6: setting key case mismatch, displayUpTime TypeError; test settings recycled
+Status Bar Weather	2026-10-26	issue #4: async parameter name SyntaxError, plugin does not load
+StatusBarSymbols	2026-10-26	issue #1: false MagicPython warning on clean ST4, symbols never shown
+Statusbar Path	2026-10-26	clean: path shown on activation as documented, nothing filed
+Steadfast Color Scheme	2026-10-26	clean: valid tmTheme, applies to Ruby without errors, nothing filed
+Stencil	2026-10-26	issue #1: script block never closed, rest of file scoped as JS
+StepList	2026-10-26	not installable: absent from the Install Package picker (ST2-only); nothing installed
+StoryScript Highlight	2026-10-26	issue #1: in scoped as keyword inside identifiers like index
+Strace Syntax	2026-10-26	issue #1: syscall name unhighlighted after timestamp or pid prefix
+Strapdown Markdown Preview	2026-10-26	issue #13: default local strapdown.js path inside the zip; temp preview file recycled
+Streamer Mode	2026-10-26	issue #3: toggle on/off leaves default binary_file_patterns in user prefs; prefs restored
+String 2 Lower Hyphen	2026-10-26	issue #3: selected line break removed, lines joined
+String Counter	2026-10-26	not installable: absent from the Install Package picker (ST2-only); nothing installed
+Strip Whitespace Lines	2026-10-26	issue #3: RecursionError on several hundred whitespace-only lines, partial strip
+StripHTML	2026-10-26	issue #1: text between plain < and later > removed with the tags
+StrongView	2026-10-26	issue #1: template grammar takes over .html and other web extensions
+Stylefmt	2026-10-26	issue #37: node on main thread freezes UI; failed run dumps full node error in dialog
+StylishHaskell	2026-10-26	not installable: absent from the Install Package picker (ST2-only); nothing installed
+Stylus Clean Completions	2026-10-26	issue #4 (by reading): merged trigger, duplicate triggers, stray spaces
+SubRed	2026-10-26	issue #6: libs/redmine imports distutils, plugin does not load on 3.12+
+Stylefmt (second pass)	2026-10-26	issue #38: partial project-level Stylefmt settings raise TypeError on save; folder verified gone
+SubTexting	2026-10-26	reading-only findings, no live run (external server)
+SubVal	2026-10-26	wrong line for repeated timings; modal on every save
+Subforce - Perforce for Sublime	2026-10-26	needs P4Python, library not available for Python 3.14 (age); nothing filed
+Subhub	2026-10-26	mkdir -p fails on Windows, 201 before work, server on 0.0.0.0
+SublimErl	2026-10-26	not installable (ST2-only, not in picker)
+Sublimation	2026-10-26	not installable (not in picker)
+Sublime TFS	2026-10-26	isAlive removed in py3.9, on_pre_save error on read-only save
+Sublime Text 2 Snippets	2026-10-26	clean; snippets expand; nothing filed
+Sublime Text API Helper	2026-10-26	debug print left in insert command
+Sublime Tweet	2026-10-26	loads; Twitter API gone, not run; #21 already open
+Sublime convert colorcode	2026-10-26	converts non-colour ids; 8-digit half converted
+Sublime wxapp	2026-10-26	works; SyntaxWarning invalid escape
+Sublime-Hhhhold	2026-10-26	not installable (not in picker)
+Sublime-KnockoutJS-Snippets	2026-10-26	ko.foreach snippet inserts nothing
+SublimeAlternate	2026-10-26	IndexError on extension-named file; TypeError untitled
+SublimeAxosoft	2026-10-26	loads; auth flow opens browser (#6 known); API client defects by reading
+SublimeBufmod	2026-10-26	not in picker (ST2-only); nothing installed
+SublimeCMD	2026-10-26	not in picker (ST2-only); nothing installed
+SublimeGerrit	2026-10-26	loads; 15 non-raw regex SyntaxWarnings; no Gerrit server, setup menu works
+SublimeGoogle	2026-10-26	query not URL-encoded; & cuts it short (verified in browser title)
+SublimeHandcraft	2026-10-26	not in picker (ST2-only); nothing installed
+SublimeLinter-contrib-42-norminette	2026-10-26	ANSI colour codes in messages with norminette 3.3.60 (regex run outside Sublime); SublimeLinter, norminette_test folder and User SublimeLinter settings still installed for next linter, remove at batch end
+SublimeLinter-contrib-CFLint	2026-10-26	logger named eslint (copy-paste); regex verified against real CFLint 1.5.0 output outside Sublime; cflint_test recycled
+SublimeLinter-contrib-PSScriptAnalyzer	2026-10-26	unquoted -Settings path breaks with a space (tested with pwsh 7.6.9 outside Sublime); pwsh_test recycled
+SublimeLinter-contrib-alex	2026-10-26	regex matches real alex output (5/5, outside Sublime); existing #3 covers selector; nothing filed; alex_test recycled
+SublimeLinter-contrib-au3check	2026-10-26	disabled by SublimeLinter 4: selector mandatory (SL3-era linter); au3check not run
+SublimeLinter-contrib-bashate	2026-10-26	loads clean; regex matches real bashate output; nothing filed; bashate_test recycled
+SublimeLinter-contrib-bemlint	2026-10-26	config_file ignored by SL4 so .bemlint.json not passed; bemlint_test recycled
+SublimeLinter-contrib-bootlint	2026-10-26	disabled by SublimeLinter 4 (cls.defaults mandatory, syntax no effect); bootlint not run
+SublimeLinter-contrib-check-source-formatting	2026-10-26	disabled by SublimeLinter 4 (cls.defaults mandatory); check_sf not run
+SublimeLinter-contrib-checkpatch	2026-10-26	disabled by SublimeLinter 4 (selector mandatory); checkpatch.pl not run
+SublimeLinter-contrib-cheetah-flake	2026-10-26	disabled by SublimeLinter 4 (cls.defaults mandatory); cheetah-flake not run
+SublimeLinter-contrib-clang-tidy	2026-10-26	loads clean on SL 4.30.1; clang-tidy (LLVM) not installed, not run; nothing filed
+SublimeLinter-contrib-clj-kondo	2026-10-26	loads clean; regex matches real clj-kondo output for clj and cljs; nothing filed; kondo_test recycled
+SublimeLinter-contrib-cmakelint	2026-10-26	debug print in split_match (by reading); linter did not run in my SublimeLinter (no markers, no console output); CMake syntax prerequisite removed; cmakelint_test recycled
+SublimeLinter-contrib-codeclimate	2026-10-26	loads clean on SL 4.30.1; codeclimate CLI needs Docker, not run; nothing filed
+SublimeLinter-contrib-cookstyle	2026-10-26	loads clean on SL 4.30.1; needs Chef Workstation (chef exec cookstyle), not run; nothing filed
+SublimeLinter-contrib-credo	2026-10-26	disabled by SublimeLinter 4 (selector mandatory); credo not run
+SublimeLinter-contrib-csstree	2026-10-26	disabled by SublimeLinter 4; commented on existing #1 with console evidence
+SublimeLinter-contrib-dennis	2026-10-26	disabled by SublimeLinter 4 (selector mandatory); dennis not run
+SublimeLinter-contrib-dmd	2026-10-26	version_* attrs no effect; cls.name() is a str in SL4 (by reading); dmd not run
+SublimeLinter-contrib-dockerfilelint	2026-10-26	disabled by SL4 (selector missing); already reported in #3, comment with console evidence posted
+SublimeLinter-contrib-dogma	2026-10-26	disabled by SL4 (selector missing); filed
+SublimeLinter-contrib-dxl	2026-10-26	disabled by SL4 (cls.defaults missing); filed
+SublimeLinter-contrib-elm-make	2026-10-26	disabled by SL4 (selector missing); issues disabled, emailed thatguy@kevinyank.com
+SublimeLinter-contrib-epcomp	2026-10-26	clean: SL4 port loads without errors; needs Prospero compiler (not installed); nothing filed
+SublimeLinter-contrib-foodcritic	2026-10-26	disabled by SL4 (selector missing); filed
+SublimeLinter-contrib-ghdl	2026-10-26	clean: SL4 port loads without errors; needs ghdl (not installed); nothing filed
+SublimeLinter-contrib-git-lint-commit	2026-10-26	clean: SL4 port loads without errors; tool is a downloaded script, not run; nothing filed
+SublimeLinter-contrib-glslc	2026-10-26	clean: SL4 port loads without errors; needs glslc (Vulkan SDK/shaderc, not installed); nothing filed
+SublimeLinter-contrib-glua	2026-10-26	disabled by SL4 (cls.defaults missing); filed
+SublimeLinter-contrib-glualint	2026-10-26	config_file ignored by SL4 + SyntaxWarning projectanalysis.py:107; filed
+SublimeLinter-contrib-gosimple	2026-10-26	disabled by SL4 (cls.defaults missing); filed
+SublimeLinter-contrib-happiness	2026-10-26	disabled by SL4 (cls.defaults missing); filed
+SublimeLinter-contrib-hdevtools	2026-10-26	disabled by SL4 (cls.defaults missing); filed
+SublimeLinter-contrib-htmllint	2026-10-26	disabled by SL4; already reported (#10, #8); comment with console evidence on #8
+SublimeLinter-contrib-java	2026-10-26	disabled by SL4 (selector missing); filed
+SublimeLinter-contrib-jolint	2026-10-26	import fails NameError util (shown live), getJolieHome bugs by reading; filed #3 #4
+SublimeLinter-contrib-jsdebugmarkers	2026-10-26	disabled by SL4 (selector missing); closed #1 warned of it; filed #2
+SublimeLinter-contrib-jsonnet-lint	2026-10-26	clean: SL4 port loads without errors; needs jsonnet-lint (not installed); nothing filed
+SublimeLinter-contrib-jsonschema-lint	2026-10-26	plugin clean on SL4; README is the template (filed plugin #1); the pip tool jsonschema-lint 0.1.0 crashes on Python 3.14 (cgi), filed jacksmith15/jsonschema-lint#2
+SublimeLinter-contrib-julialint	2026-10-26	disabled by SL4 (selector missing); filed #6
+SublimeLinter-contrib-julialintserver	2026-10-26	disabled by SL4 + 2 SyntaxWarnings; filed #12
+SublimeLinter-contrib-lacheck	2026-10-26	clean: SL4 port loads without errors; needs lacheck (TeX Live, not installed); only-saved-file already in #2; nothing filed
+SublimeLinter-contrib-lesshint	2026-10-26	clean: SL4 port (v1.0.4, fix for #10); three deliberate no-effect warnings; lesshint tool not run; nothing filed
+SublimeLinter-contrib-lintr	2026-10-26	disabled by SL4 (selector missing); already reported #20/#15/#14; comment with console evidence on #20
+SublimeLinter-contrib-livecodelint	2026-10-26	clean: SL4 port loads without errors; needs LiveCode community server (not installed); nothing filed
+SublimeLinter-contrib-lua-globals	2026-10-26	disabled by SL4 (cls.defaults missing); open #1 already says it does not work; comment with console evidence on #1
+SublimeLinter-contrib-luau	2026-10-26	clean: SL4 port loads without errors; needs luau-analyze (not installed); issues disabled; nothing filed
+SublimeLinter-contrib-mlint	2026-10-26	clean: SL4-aware loads without errors; needs MATLAB (not installed); nothing filed
+SublimeLinter-contrib-modelsim	2026-10-26	plugin loads clean on SL4; bundled vcom regex test fails (TypeError, match_tuple lacks code); filed #16
+SublimeLinter-contrib-nginx-lint	2026-10-26	disabled by SL4 (cls.defaults missing); open #2 already reports it; comment with console evidence on #2
+SublimeLinter-contrib-nvc	2026-10-26	disabled by SL4 (cls.defaults missing); filed #1
+SublimeLinter-contrib-nvcc	2026-10-26	disabled by SL4 (selector missing); filed #2
+SublimeLinter-contrib-perl	2026-10-26	SL4 port; only the cosmetic executable warning, already open as #14; executable_path/get_view_settings still supported (deprecated) in SL 4.30.1; nothing filed
+SublimeLinter-contrib-phpins	2026-10-26	clean: SL4 plugin loads without errors; needs phpins (PHP/Composer, not installed); nothing filed
+SublimeLinter-contrib-polylint	2026-10-26	disabled by SL4 (selector missing); filed #4
+SublimeLinter-contrib-proselint	2026-10-26	disabled by SL4 (selector missing); open #9 asks if it works; answered with console evidence
+SublimeLinter-contrib-protoc-gen-lint	2026-10-26	disabled by SL4 (cls.defaults missing); closed #2 predates; filed #3
+SublimeLinter-contrib-puppet	2026-10-26	clean: SL4 port loads without errors; needs puppet (not installed); nothing filed
+SublimeLinter-contrib-puppet-lint	2026-10-26	clean: v1.2.2 loads without errors; open #5 (cls.syntax error) looks fixed, comment posted; puppet-lint not run
+SublimeLinter-contrib-qmllint	2026-10-26	clean: SL4 plugin loads without errors; needs qmllint (Qt, not installed); nothing filed
+SublimeLinter-contrib-remark-lint	2026-10-26	plugin loads clean on SL4; regex matches none of remark-cli 12.0.1 output (run for real, regex per line); issues disabled, emailed james.sandford@bbc.co.uk
+SublimeLinter-contrib-roslint	2026-10-26	KeyError ROS_DISTRO at import (shown live); issues disabled, emailed carlos.asmat@gmail.com
+SublimeLinter-contrib-rstylelint	2026-10-26	disabled by SL4 (cls.defaults missing); mojibake Russian strings by reading; filed #1
+SublimeLinter-contrib-ruby-lint	2026-10-26	disabled by SL4 (cls.defaults missing); filed #2
+SublimeLinter-contrib-rustc	2026-10-26	disabled by SL4 (selector missing); known in closed #36; maintainer said 2023 he no longer uses Sublime; nothing filed
+SublimeLinter-contrib-salt-lint	2026-10-26	clean: SL4 plugin loads without errors; real salt-lint run, regex matched 3/3 outputs (Windows paths); nothing filed
+SublimeLinter-contrib-scalac	2026-10-26	issue filed: distutils import fails on Python 3.12+ (ModuleNotFoundError), SL3 API; scalac not run
+SublimeLinter-contrib-scalastyle	2026-10-26	issue filed: SL3 plugin disabled by SL4 (selector mandatory); scalastyle not run
+JavaSetterGetter	2026-10-26	Add Repository + picker install (v2013.07.09); SyntaxError print statement JavaSetterGetter.py:38 on 4215; comment on enriquein/JavaSetterGetter#10; removed, repositories emptied
+Jdf - Tool	2026-10-26	Add Repository (wshxbqq/JdfSublime) + picker install; SyntaxError print statement Jdf.py:55 on 4215; filed wshxbqq/JdfSublime#1; removed, repositories emptied
+Just Paste	2026-10-26	Add Repository (jcldavid/JustPaste) + picker install; bundled 2013 requests imports cgi (ModuleNotFoundError on 4215); filed jcldavid/JustPaste#1; removed, repositories emptied
+LastEdit	2026-10-26	Add Repository (SamPeng87/sublime-last-edit) + picker install; loads, but on_modified raises AttributeError dict has_key on every edit (LastEdit.py:109), reproduced on 4215; comment on SamPeng87/sublime-last-edit#6; removed, repositories emptied
+Pipe Dream	2026-10-26	Add Repository (billymoon/Sublime-Pipe-Dream) + picker install v2014.06.15; import fails: settings.get(ENV) is None at module level (Sublime-Pipe-Dream.py:22, API used before plugin_loaded); comment on billymoon/Sublime-Pipe-Dream#1; removed, repositories emptied
+Placehold.it Image Tag Generator	2026-10-26	Add Repository (SubZane/Sublime-Placehold.it) + picker install v2015.04.17 as Sublime-Placehold.it; ModuleNotFoundError No module named Sublime-Placehold (dot in the package folder name read as sub-package); plugin code itself not tested under that name; comment on SubZane/Sublime-Placehold.it#5; removed, repositories emptied
+PloneReload	2026-10-26	Add Repository (maethu/SublimePloneReload) + picker install v2014.09.29; bundled requests imports cgi (ModuleNotFoundError on 4215, plone_reload.py:2); filed maethu/SublimePloneReload#2; removed, repositories emptied
+SublimeLinter-contrib-semistandard	2026-10-26	clean: already ported to SL4 (selector in defaults), loads without console errors; real semistandard (npm) output: regex matched all 10 lines; nothing filed
+SublimeLinter-contrib-serplint	2026-10-26	issue filed: SL3 plugin disabled by SL4 (selector mandatory, 4 no-effect attributes); serplint not run
+SublimeLinter-contrib-solhint	2026-10-26	SL3 plugin disabled by SL4 (selector mandatory); comment on idrabenia/SublimeLinter-contrib-solhint#1; solhint not run
+SublimeLinter-contrib-sqlint	2026-10-26	clean: SL4 plugin loads; only no-effect version_* warnings (already open issue #6); sqlint (Ruby gem) not run; nothing filed
+SublimeLinter-contrib-stylint	2026-10-26	nothing new: test_regex.py imports regex (ModuleNotFoundError), exactly open issue #19 (and #17 selectors warnings); stylint not run
+SublimeLinter-contrib-tailor	2026-10-26	issue filed: cls.selectors ERROR and cls.config_file no effect on SL4 (not disabled); tailor not run
+SublimeLinter-contrib-terraform	2026-10-26	loads clean on SL4; by reading (terraform not run): UnboundLocalError in find_errors when output is not JSON, template_suffix is not a setting; filed patrickrgaffney/SublimeLinter-contrib-terraform#5
+SublimeLinter-contrib-textlint	2026-10-26	package is a copy of SublimeLinter-eslint (class ESLint, runs eslint, never textlint); disabled by SL4 (defaults mandatory); issues disabled, emailed joey@byjoeybaker.com; removed
+SublimeLinter-contrib-tlint	2026-10-26	clean: SL4 ComposerLinter plugin loads without console errors; tlint (PHP/Composer) not run; nothing filed
+SublimeLinter-contrib-ts-standard	2026-10-26	clean modern SL4 plugin, loads without console errors; real ts-standard not runnable here (typescript-eslint fails to load with installed TypeScript), not the package
+SublimeLinter-contrib-wollok-checker	2026-10-26	SL3 plugin, disabled by SL4 (selector mandatory); issue filed
+SublimeLinter-contrib-write-good	2026-10-26	modern SL4 NodeLinter, loads with cleanup warnings only (tool not installed); nothing to file
+SublimeLinter-contrib-xo	2026-10-26	modern SL4 NodeLinter, loads clean; xo tool not run
+SublimeLinter-contrib-xqlint	2026-10-26	SL3 plugin, disabled by SL4 (selector mandatory); issue filed
+SublimeLinter-contrib-xvhdl	2026-10-26	SL4-ready plugin, loads clean; xvhdl tool not run (Vivado)
+SublimeLinter-contrib-yaml-lint	2026-10-26	SL3 plugin, disabled by SL4; already reported in closed #1, nothing filed
+SublimeLinter-contrib-zig-check	2026-10-26	modern SL4 plugin, loads clean; zig not run
+SublimeLinter-contrib-ziglint	2026-10-26	modern SL4 plugin, loads clean; ziglint not run
+SublimeLinter_CatGutterTheme	2026-10-26	gutter theme only (gutter-theme + 2 png), installs and removes clean
+SublimeLogHelper	2026-10-26	not in channel, installed via Add Repository; begin_edit removed + load_settings at import; issue filed (by reading)
+SublimeLove	2026-10-26	LoveComplete.py open() inside zip fails at import; same as open #11, comment posted with traceback and fix
+SublimeMagic	2026-10-26	loads clean, no console errors; commands not exercised
+SublimePackageSync	2026-10-26	loads clean, startup sync ran with no errors (no git packages present)
+SublimePaster	2026-10-26	not in channel, installed via Add Repository; from src import api fails (ModuleNotFoundError); issue filed
+SublimeTalkincode	2026-10-26	ST2-only, no longer in picker; installed via Add Repository; SyntaxError 0L (Py2); issue filed
+SublimeTextAPICompletions	2026-10-26	completions-only (5 files), installs and removes clean, no console output
+SublimeTransporter	2026-10-26	not in picker, installed via Add Repository; loads clean, tiny plugin, no py3 defects found; commands not exercised
+SublimeWebColors	2026-10-26	loads clean; class-level colorList duplicates entries per window (by reading); issue filed
+SublimeWeibo	2026-10-26	not in picker, installed via Add Repository; committed py2 .pyc gives bad magic number; begin_edit and missing aweibo by reading; issue filed
+Sublimipsum	2026-10-26	not in picker, installed via Add Repository; TabError (mixed tabs/spaces) so plugin does not load; issue filed
+Sublpress	2026-10-26	not in picker, installed via Add Repository; plugin_loaded copyfile from Packages folder fails in zip install (open #1); comment posted
+Sublundo	2026-10-26	loads, two SyntaxWarnings only (invalid escape sequences); commands not exercised
+Subpry	2026-10-26	tiny plugin, loads clean, no py3 defects found by reading
+Subtitle Sync	2026-10-26	not in picker, installed via Add Repository; loads on ST4 with one SyntaxWarning; Linux-only keymap; comment posted on open #1 (not run)
+Subtoise	2026-10-26	not in picker, installed via Add Repository; loads clean, TortoiseSVN wrapper, commands not run (no TortoiseSVN)
+Sudden Death	2026-10-26	tiny plugin, loads clean, no py3 defects found by reading
+SummitEditor	2026-10-26	unpacked package, loads clean; no py3 defects found by reading build.py/completions.py; linter_install only on command
+SumoSwissKnife	2026-10-26	gone: repo scrummastermind/SumoSwissKnife returns 404 (gh), GitHub search finds no copy, channel no longer lists it; nothing to install
+SunCycle	2026-10-26	fails to load: __import__(Package Control).package_control.download_manager.downloader no longer exists; issue filed
+Sunnyvale Color Scheme	2026-10-26	two tmTheme files parse as valid XML, installs and removes clean, no console output
+Sunrise Theme	2026-10-26	theme package (2 sublime-theme + res), installs and removes clean, no console errors; theme not applied
+Super Ant	2026-10-26	loads clean; List Targets raises AttributeError when no project open (project_data None), reproduced; issue filed
+Super-Awesome Paste	2026-10-26	loads clean, no py3 defects found by scanning its 3 files; paste commands not exercised
+SuperCollider	2026-10-26	not the picker SuperCollider ST3; installed via Add Repository; py2 print statements = SyntaxError, isAlive removed in 3.9; issue filed
+SuperCollider ST3	2026-10-26	right after install plugin_loaded raised TypeError (sc_path None; package default settings not merged until restart), also on removal; after restart no error; issue filed (update_sc_path guard)
+SuperNavigator	2026-10-26	loads clean, single small plugin, no py3 defects by reading; quick panel not exercised
+SuperSelect	2026-10-26	loads, 5 SyntaxWarnings only (invalid \d escapes); no py2 constructs found; commands not exercised
+Superlime	2026-10-26	loads, one SyntaxWarning only; save-as-root command not run on purpose (may elevate)
+Superman Color Scheme	2026-10-26	one tmTheme parses as valid XML, installs and removes clean, no console output
+Suricate	2026-10-26	loads clean; generates menu/keymap/commands files in Packages\Suricate which removal also deletes; no conflict with Package Control seen
+Surround	2026-10-26	loads with 4 SyntaxWarnings only (is with int literal, bad escape); settings problem already open as #14; commands not exercised
+Susy 2 Snippets	2026-10-26	33 snippets all parse as valid XML, installs and removes clean, no console output
+Susy Snippets	2026-10-26	17 snippets all parse as valid XML, installs and removes clean, no console output
+Svelte Snippets	2026-10-26	7 snippets all parse as valid XML, installs and removes clean, no console output
+Swan	2026-10-26	loads, one SyntaxWarning (bad escape) only; completions plugin not exercised
+Swap Selections	2026-10-26	tiny command plugin, loads clean, no py3 defects by reading; command not exercised
+Swift Completion	2026-10-26	25 completions files all parse as valid JSON (scope source.swift), installs and removes clean, no console output
+Swift Foundation Completions	2026-10-26	one completions file with 2717 entries parses as JSON, installs and removes clean, no console output
+Swig	2026-10-26	syntax package (Swig.tmLanguage parses as valid XML), installs and removes clean, no console output
+SwigSnippets	2026-10-26	15 snippets all parse as valid XML, installs and removes clean, no console output
+Switch File Deluxe	2026-10-26	one 69-line plugin, loads clean, no py2 constructs found; command not exercised
+Switch Script	2026-10-26	not in picker, installed via Add Repository; py2 print statement = SyntaxError; comment posted on open #4
+SwitchPanel	2026-10-26	loads clean; ps_output_panel_next ran without error; no py3 defects found
+SymfonyCommander	2026-10-26	not in picker, installed via Add Repository; messages.json missing comma (PC parse error) and removed begin_edit in output panel (by reading); issue filed
+Symitar	2026-10-26	syntax + 2 tmThemes + completions; 4 XML files parse, installs and removes clean, no console output
+Sync Merge Scheme	2026-10-26	loads clean; writes Sublime Merge settings only when its command runs (not run, path derived from cache_path); no defects seen
+SyncFileYouWant	2026-10-26	loads clean, no py2 constructs found; file-copy commands not run on purpose
+Synchronized File Scrolling	2026-10-26	not in picker, installed via Add Repository; 11-line plugin, loads clean; scrolling not exercised
+Synonymizer	2026-10-26	one 57-line plugin, stdlib urllib only, loads clean; network lookup not run
+Syntax Highlighting for SSS SugarSS	2026-10-26	syntax + completions; 5 XML files parse, no console errors; installs and removes clean
+Syntax History	2026-10-26	loads clean, 100-line plugin, no py2 constructs; history file only written on use (not exercised)
+Syntax Matcher	2026-10-26	not in picker, installed via Add Repository; py2 print statement = SyntaxError; issue filed
+Syntax ProtoList	2026-10-26	one tmLanguage parses as valid XML, installs and removes clean, no console output
+Syntax QBasic	2026-10-26	one tmLanguage parses as valid XML, installs and removes clean, no console output
+Syntax Sproto	2026-10-26	syntax + 2 snippets + 2 tmPreferences; 5 XML files parse, installs and removes clean, no console output
+Syntax gRally	2026-10-26	tmLanguage + tmTheme parse as valid XML, installs and removes clean, no console output
+SyntaxDefinitionHelper	2026-10-26	not in picker, installed via Add Repository; committed py2 .pyc gives bad magic number, print statement by reading; comment posted on open #2
+SyntaxHighlightTools	2026-10-26	channel installs from Bitbucket klorenz/syntaxhighlighttools which now returns HTTP 404 (Package Control console); no GitHub copy by klorenz; install impossible; channel entry is dead (not filed: package_control rule)
+SyntaxManager	2026-10-26	one 106-line plugin, loads clean, no py2 constructs; settings application not exercised
+TADS3	2026-10-26	one tmLanguage parses as valid XML, installs and removes clean, no console output (issues disabled)
+TAGML	2026-10-26	syntax package loads with no console errors, installs and removes clean
+TASM Syntax	2026-10-26	TASM.tmLanguage parses as valid XML, installs and removes clean, no console output
+TECS	2026-10-26	TECS CDL.tmLanguage valid XML, installs and removes clean; repo already has 4 open highlighting issues, nothing filed
+TJ3-syntax-sublimetext2	2026-10-26	TJ3.tmlanguage valid XML, installs and removes clean, no console output
+TWiki	2026-10-26	syntax package loads with no console errors, installs and removes clean (issues disabled)
+TXL syntax highlighting	2026-10-26	txl.tmLanguage valid XML, installs and removes clean, no console output
+TXT2PYNB	2026-10-26	plugin loads on 3.14 with no console errors, source read, installs and removes clean; 3 old open issues exist, nothing filed
+TYPO3 Fluid Snippets	2026-10-26	72 snippet files all parse as valid XML, installs and removes clean, no console output
+TabNukerNuker	2026-10-26	listener loads, insert/select_all/indent ran with no console errors, installs and removes clean
+TabTeleport	2026-10-26	plugin loads, tabteleport_ctrl_tab ran with no console errors, installs and removes clean; 3 old open issues exist, nothing filed
+TabToSpaceConverter	2026-10-26	command ran with previous_tab_size 4 with no console errors, installs and removes clean
+Tabify	2026-10-26	plugin loads, source read (4 settings), installs and removes clean, no console errors
+Table Cleaner	2026-10-26	table_cleaner raises TypeError with table_cleaner_align_to_middle (diff / 2 float, Python 3); default mode works; filed #5
+Tabletop Simulator Lua	2026-10-26	plugin loads (SyntaxWarnings only), commands need the Tabletop Simulator game so load-only, installs and removes clean; issues disabled
+Tabright	2026-10-26	plugin loads (SyntaxWarning only), installs and removes clean; repo already has open issues incl. Sublime 4 navigation, nothing filed
+TabsLimiter	2026-10-26	Python 2 print statements, SyntaxError on load on Python 3.14; not in picker, installed via Add Repository; filed #4
+TabsShortcuts	2026-10-26	plugin loads with no console errors, no Python 2 idioms found by scan; commands close tabs so not run; installs and removes clean
+TabsToTable	2026-10-26	tabs_to_table ran on test text and aligned the columns, no console errors, installs and removes clean
+Tachyons Autocomplete	2026-10-26	plugin loads with no console errors, installs and removes clean, no tab opened
+Tailwind CSS Docs	2026-10-26	plugin loads with no console errors, source read (opens a browser page, not run), installs and removes clean
+Takana	2026-10-26	plugin loads, connection to the Takana app fails as expected without it, no tracebacks, installs and removes clean
+TamarinProver	2026-10-26	loads, shows install message tab (closed); our open issue #4 already covers the tamarin_prover.py name errors, nothing new filed; installs and removes clean
+Task Timer	2026-10-26	task_timer_status and task_timer_stop raise AttributeError before Start (sublime.task_timer_time unset); Start/Status/Stop in order works on 4215; not in picker, installed via Add Repository; filed #6
+Taskwarrior	2026-10-26	messages.json points at 4 message files missing from the repo, Package Control logs an install-message error; plugin loads, commands need the external task program so not run; not in picker, installed via Add Repository; filed #11
+Tau Time Tracker	2026-10-26	Start task fails FileNotFoundError (writes into Packages/Tau Time Tracker/, absent for .sublime-package install); json.dump positional args and view.begin_edit found by reading only; not in picker, installed via Add Repository; filed #2
+GBK Encoding Support	2026-10-26	retest via Add Repository (ST2-only, not in picker): akira-cn/sublime-gbk loads on 4215 with no console errors, no Python 2 idioms found; repo archived so nothing filed; GBK file behaviour not exercised
+ColdFusion	2026-10-26	retest via Add Repository: cflib.py urllib urlopen ImportError and coldfusiontagcompletions.py ModuleNotFoundError taglib on Python 3.14, tag completions listener not registered; SyntaxWarnings in functioncompletions.py; filed #177
+CSS3_Syntax	2026-10-26	retest via Add Repository: y0ssar1an/CSS3_Syntax is gone (repo page and codeload master both HTTP 404, checked with curl; owner exists; packagecontrol.io last seen 2017); nothing to install or file
+2pdf	2026-10-26	retest via Add Repository: 2pdf.py does os.listdir on libs inside the .sublime-package at import, FileNotFoundError, plugin never loads; repo fraoustin/Sublime2pdf is archived and marked inactive so nothing filed
+Theme - Aqua	2026-10-26	retest via Add Repository (installed as aqua-theme, ST2 theme): installs; theme preview draws garish red/yellow gradient bars on 4215 and Sublime raises an error dialog for Packages/Theme - Aqua/AppKit/Widget - AppKit.stTheme, caused by the different install folder name so not reportable; repo cafarm/aqua-theme archived, issues disabled; preview cancelled, setting unchanged
+PhpTidy	2026-10-26	retest via Add Repository: committed Python 2 php_tidy.pyc gives ImportError bad magic number, plugin never loads on 4215; filed #38
+TidyHTML5	2026-10-26	retest via Add Repository: tidy_html on Windows runs Data\Packages\TidyHTML5\bin\tidy.exe which does not exist for a zip install (ran on a saved html file, confirmed, file unchanged); len(file_name()) on unsaved tab by reading; filed #14
+Copy File Name	2026-10-26	retest: Package Control refuses it even with Add Repository (channel ST2-only entry shadows it: not available for this Sublime version); tested from a clone copied into Packages: loads, copy_filename put the file name on the clipboard; open issue #3 already covers the zip packaging; nothing new filed
+SublimeClang	2026-10-26	retest via Add Repository: sublimeclang.py fails at load, no libclang found so cindex lib is None, AttributeError NoneType clang_getNumDiagnostics (needs LLVM, not installed under policy); repo quarnster/SublimeClang archived, issues disabled, nothing filed
+IndentGuides	2026-10-26	queue row 10: already tested 2026-10-19 (hand copy, Python 2 import/xrange failures, issue #6); maintainer FichteFoll closed #6 as not planned because the package only advertises ST2; not reinstalled
+Xdebug	2026-10-26	queue row 16: added repository shadowed by the channel ST2-only entry; tested from clone copied into Packages: no commands register; Xdebug.py is Python 2 (except Exception, x at lines 122 and 136, unicode(), begin_edit) so it cannot compile on 3.3 or 3.14; load error not shown in captured console; repo Kindari/SublimeXdebug archived, nothing filed
+SublimeJava	2026-10-26	queue row 17: added repository shadowed by the channel entry; from clone copied into Packages: no commands register; package needs git submodules (sublimecompletioncommon, parsehelp) that a GitHub download does not contain (imp.load_source of a missing file); repo quarnster/SublimeJava archived, issues disabled, nothing filed
+VintageEx	2026-10-26	queue row 21: added repository shadowed by the channel entry; from clone copied into Packages: Python 2 code (print statements ex_commands.py 152,164,197,483,581; except SyntaxError, e at 481 and 508) cannot compile; repo SublimeText/VintageEx archived, open ST3 request #52, nothing filed
+Search WordPress Codex	2026-10-26	queue row 22: it IS in the picker under the longer name Search WordPress Codex or QueryPosts (my earlier skip was a name mismatch); installs clean, source read (opens codex.wordpress.org and queryposts.com pages, not run), no defects
+TagWrapper	2026-10-26	queue row 25: gone: repo page and codeload master HTTP 404 (curl), owner exists, no renamed repo found by gh search; nothing to install or file
+Theme - Pseudo OSX	2026-10-26	queue row 28: added repository shadowed by the channel entry; from clone copied as Theme - Pseudo OSX: no console errors, but Select Theme listed nothing for Pseudo (not selectable on 4215, not confirmed further); repo raik/st2-pseudo-osx-theme archived, nothing filed
+Go Build	2026-10-26	queue row 29, added via Add Repository (cthackers/SublimeGoBuild); ST2-only Python 2 code (iteritems, print statement, begin_edit); ModuleNotFoundError GoBuildCommons on ST4; open issues #7 and #8 already report it not working; nothing filed
+SassBuilder	2026-10-26	queue row 31: repo bnlucas/SassBuilder gone (curl 404 on repo page and codeload zip/master); nothing to install
+PythonTidy	2026-10-26	queue row 33 (witsch/SublimePythonTidy via Add Repository): ST2-only; Tidy.py line 34 Python 2 long literal 0L is a SyntaxError on ST4; open #12 already asks for ST3; nothing filed

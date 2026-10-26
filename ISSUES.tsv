@@ -2678,3 +2678,270 @@ RubyMotionJP/SublimeRubyMotionBuilder	47	SyntaxWarning on load: invalid escape \
 jugyo/SublimeRubyToggleString	4	String with escaped quotes is cut at the first escaped quote and the line is corrupted	open	2026-10-25		https://github.com/jugyo/SublimeRubyToggleString/issues/4		2026-10-25	issue
 jugyo/SublimeRubyToggleString	5	Toggle string and symbol turns a string with a space into an invalid symbol	open	2026-10-25		https://github.com/jugyo/SublimeRubyToggleString/issues/5		2026-10-25	issue
 toreriklinnerud/sublime-rubyfmt	5	FileNotFoundError (existing issue; comment posted 2026-10-25)	open	2026-10-24		https://github.com/toreriklinnerud/sublime-rubyfmt/issues/5#issuecomment-6408891539		2026-10-25	comment
+gerardroche/sublime-ruler-column	1	Nothing is drawn with the default word_wrap auto, which counts as true	open	2026-10-26		https://github.com/gerardroche/sublime-ruler-column/issues/1		2026-10-26	issue
+liuhewei/run-app-sublime	10	Add Application writes invalid JSON (unescaped backslashes) so no Run: entries show	open	2026-10-26		https://github.com/liuhewei/run-app-sublime/issues/10		2026-10-26	issue
+liuhewei/run-app-sublime	11	TypeError after the error dialog when a cli command cannot start	open	2026-10-26		https://github.com/liuhewei/run-app-sublime/issues/11		2026-10-26	issue
+benanders/Rust-Share	3	Share Rust File always fails with HTTP 403 from is.gd and shows nothing	open	2026-10-26		https://github.com/benanders/Rust-Share/issues/3		2026-10-26	issue
+benanders/Rust-Share	4	The whole file is sent over plain http to is.gd inside the URL	open	2026-10-26		https://github.com/benanders/Rust-Share/issues/4		2026-10-26	issue
+trishume/SublimeRustAutoImport	2	An unknown identifier inserts use std::x::Foo, a path that does not exist	open	2026-10-26		https://github.com/trishume/SublimeRustAutoImport/issues/2		2026-10-26	issue
+trishume/SublimeRustAutoImport	3	Reader and Writer are mapped to std::io::Reader and std::io::Writer, which are named Read and Write	open	2026-10-26		https://github.com/trishume/SublimeRustAutoImport/issues/3		2026-10-26	issue
+trishume/SublimeRustAutoImport	4	SyntaxWarning for an invalid escape sequence in auto_import.py at plugin load	open	2026-10-26		https://github.com/trishume/SublimeRustAutoImport/issues/4		2026-10-26	issue
+orhanbalci/rust-cookbook-snippets	1	Most snippets use Result<()> and ? with no error_chain block, so they should not compile as inserted	open	2026-10-26		https://github.com/orhanbalci/rust-cookbook-snippets/issues/1		2026-10-26	issue
+rux-lang/SublimeText	1	The first closing brace of an inner block ends the function scope early	open	2026-10-26		https://github.com/rux-lang/SublimeText/issues/1		2026-10-26	issue
+cheikhshift/samb-sublime	1	Toggle Comment does nothing in .se files because there is no comment definition	open	2026-10-26		https://github.com/cheikhshift/samb-sublime/issues/1		2026-10-26	issue
+cheikhshift/samb-sublime	2	Scopes still end in example-c and some comments describe the C example	open	2026-10-26		https://github.com/cheikhshift/samb-sublime/issues/2		2026-10-26	issue
+leoheck/sublime-synopsys-constraints	7	The cc snippet inserts get_portsport because the space after get_ports is missing	open	2026-10-26		https://github.com/leoheck/sublime-synopsys-constraints/issues/7		2026-10-26	issue
+leoheck/sublime-synopsys-constraints	8	The head snippet has a personal name and project as default field text	open	2026-10-26		https://github.com/leoheck/sublime-synopsys-constraints/issues/8		2026-10-26	issue
+leoheck/sublime-synopsys-constraints	9	Leftover file names: a - Copy snippet, a space in get_pins _base, a YAML-tmPreferences file	open	2026-10-26		https://github.com/leoheck/sublime-synopsys-constraints/issues/9		2026-10-26	issue
+s-ludwig/sublime-sdlang	3	Lines starting with -- are not highlighted as comments	open	2026-10-26		https://github.com/s-ludwig/sublime-sdlang/issues/3		2026-10-26	issue
+s-ludwig/sublime-sdlang	4	Attributes with a one-letter name such as a=1 are not highlighted	open	2026-10-26		https://github.com/s-ludwig/sublime-sdlang/issues/4		2026-10-26	issue
+s-ludwig/sublime-sdlang	5	The = padding in a base64 literal is marked as an illegal character	open	2026-10-26		https://github.com/s-ludwig/sublime-sdlang/issues/5		2026-10-26	issue
+s-ludwig/sublime-sdlang	6	Toggle Comment writes # with no space because TM_COMMENT_START_2 is defined twice	open	2026-10-26		https://github.com/s-ludwig/sublime-sdlang/issues/6		2026-10-26	issue
+eudorokhov/SEPath	1	A quoted path that starts in the first column of a line is silently ignored	open	2026-10-26		https://github.com/eudorokhov/SEPath/issues/1		2026-10-26	issue
+eudorokhov/SEPath	2	README says root_replacement_key but the setting is base_directory_key, and a stray Default.sublime-commands.json	open	2026-10-26		https://github.com/eudorokhov/SEPath/issues/2		2026-10-26	issue
+adelyte/simpl-plus-syntax-highlight	1	Email, ramping and exception functions are never highlighted because their contexts are not included	open	2026-10-26		https://github.com/adelyte/simpl-plus-syntax-highlight/issues/1		2026-10-26	issue
+adelyte/simpl-plus-syntax-highlight	2	The symbol operators + - * / % are never highlighted because the rule needs word boundaries	open	2026-10-26		https://github.com/adelyte/simpl-plus-syntax-highlight/issues/2		2026-10-26	issue
+adelyte/simpl-plus-syntax-highlight	3	Scope typo keyword.contorl.import.c on generic compiler directives	open	2026-10-26		https://github.com/adelyte/simpl-plus-syntax-highlight/issues/3		2026-10-26	issue
+adelyte/simpl-plus-syntax-highlight	4	Includes of modifiers, modifiers-parens and preprocessor-data-structures which are not defined	open	2026-10-26		https://github.com/adelyte/simpl-plus-syntax-highlight/issues/4		2026-10-26	issue
+jims/sublime-sjson	2	Toggle Comment does nothing in .sjson files because there is no comment definition	open	2026-10-26		https://github.com/jims/sublime-sjson/issues/2		2026-10-26	issue
+increpare/slab-markup-sublime	1	The syntax file is named slab.sublime_syntax so Sublime never loads it	open	2026-10-26		https://github.com/increpare/slab-markup-sublime/issues/1		2026-10-26	issue
+dgjnpr/subl.slax.package	4	The snippets have no scope, so they expand in every file type	open	2026-10-26		https://github.com/dgjnpr/subl.slax.package/issues/4		2026-10-26	issue
+setap/sm-rad	1	Sample file is named teset_names.rad not test.rad and contains an if( that the syntax flags invalid	open	2026-10-26		https://github.com/setap/sm-rad/issues/1		2026-10-26	issue
+stevenkaras/Sublime-SNMP-MIB	2	Every dot inside a string is highlighted as an escape character	open	2026-10-26		https://github.com/stevenkaras/Sublime-SNMP-MIB/issues/2		2026-10-26	issue
+stevenkaras/Sublime-SNMP-MIB	3	MAX-ACCESS is only half highlighted, only the ACCESS part gets the keyword scope	open	2026-10-26		https://github.com/stevenkaras/Sublime-SNMP-MIB/issues/3		2026-10-26	issue
+ProtractorNinja/SPARC-sublime	4	The opcode list has the manual class names bicc, fbfcc, cbccc, ticc, and trap instructions like ta are not highlighted	open	2026-10-26		https://github.com/ProtractorNinja/SPARC-sublime/issues/4		2026-10-26	issue
+ProtractorNinja/SPARC-sublime	1	Op code miss (existing issue; comment posted 2026-10-26 with cause and tested fix)	open	2016-12-04		https://github.com/ProtractorNinja/SPARC-sublime/issues/1#issuecomment-6410497444		2026-10-26	comment
+leoheck/sublime-spice	6	README: Package Control link and Library Exchange Format link return 404	open	2026-10-26		https://github.com/leoheck/sublime-spice/issues/6		2026-10-26	issue
+phenix-factory/Sublime-SPIP	5	Completions for #TAG insert an extra # (##ANCRE_PAGINATION)	open	2026-10-26		https://github.com/phenix-factory/Sublime-SPIP/issues/5		2026-10-26	issue
+ilya-lavrenov/sublime-sse-avx	2	Snippets and completions only apply to C++ files, not C	open	2026-10-26		https://github.com/ilya-lavrenov/sublime-sse-avx/issues/2		2026-10-26	issue
+nvanwitt/STVenvWrapper	1	No virtual environments found on Windows (looks for bin, not Scripts)	open	2026-10-26		https://github.com/nvanwitt/STVenvWrapper/issues/1		2026-10-26	issue
+qiuxiafei/st_awk	5	messages.json has a trailing comma; install message not shown	open	2026-10-26		https://github.com/qiuxiafei/st_awk/issues/5		2026-10-26	issue
+qiuxiafei/st_awk	6	Typo in palette caption: Run Awk for thsi tab into new tab	open	2026-10-26		https://github.com/qiuxiafei/st_awk/issues/6		2026-10-26	issue
+chunqiuyiyu/sublime-svg-preview	5	TypeError in unsaved tabs: file_name() is None in svg_preview and is_visible	open	2026-10-26		https://github.com/chunqiuyiyu/sublime-svg-preview/issues/5		2026-10-26	issue
+chunqiuyiyu/sublime-svg-preview	6	PNG cache never hits: the SVG copy that check_cached_file looks for is never written	open	2026-10-26		https://github.com/chunqiuyiyu/sublime-svg-preview/issues/6		2026-10-26	issue
+scitech/sublime-svg-to-jsx	1	font-size-adjust and color-interpolation-filters are converted only partly	open	2026-10-26		https://github.com/scitech/sublime-svg-to-jsx/issues/1		2026-10-26	issue
+scitech/sublime-svg-to-jsx	2	Replacements also change text content and ids, not only attributes	open	2026-10-26		https://github.com/scitech/sublime-svg-to-jsx/issues/2		2026-10-26	issue
+scitech/sublime-svg-to-jsx	3	class and style attributes are not converted	open	2026-10-26		https://github.com/scitech/sublime-svg-to-jsx/issues/3		2026-10-26	issue
+jorgeatgu/SVG-Snippets	5	Multi-line snippets insert with three hard-coded leading tabs	open	2026-10-26		https://github.com/jorgeatgu/SVG-Snippets/issues/5		2026-10-26	issue
+odtorres/Sails-Sublime-Snippets	2	config-http snippet loses $custom (unescaped dollar sign)	open	2026-10-26		https://github.com/odtorres/Sails-Sublime-Snippets/issues/2		2026-10-26	issue
+odtorres/Sails-Sublime-Snippets	3	res-ok-data-path and res-notFound-data-path reuse the trigger of the plain snippets	open	2026-10-26		https://github.com/odtorres/Sails-Sublime-Snippets/issues/3		2026-10-26	issue
+recurrying/salt-snippet-plugin-for-sublime	1	Snippets insert 4 leading spaces and a trailing newline	open	2026-10-26		https://github.com/recurrying/salt-snippet-plugin-for-sublime/issues/1		2026-10-26	issue
+kekee000/san-sublime	1	Directive attributes (s-if, on-click) never end; rest of file is scoped as JavaScript	open	2026-10-26		https://github.com/kekee000/san-sublime/issues/1		2026-10-26	issue
+czettnersandor/st3-glowfish-theme	1	selection and lineHighlight are the same colour	open	2026-10-26		https://github.com/czettnersandor/st3-glowfish-theme/issues/1		2026-10-26	issue
+czettnersandor/st3-glowfish-theme	2	README package name differs from Package Control name	open	2026-10-26		https://github.com/czettnersandor/st3-glowfish-theme/issues/2		2026-10-26	issue
+Sass-Director/Sass-Director_Sublime	5	Save and Open Manifest fail when installed from Package Control (FileNotFoundError)	open	2026-10-26		https://github.com/Sass-Director/Sass-Director_Sublime/issues/5		2026-10-26	issue
+Sass-Director/Sass-Director_Sublime	6	platform.system() is Windows is always false; SyntaxWarnings	open	2026-10-26		https://github.com/Sass-Director/Sass-Director_Sublime/issues/6		2026-10-26	issue
+timonwong/ScalaFormat	8	SyntaxWarnings on Python 3.14: return in finally, invalid escape	open	2026-10-26		https://github.com/timonwong/ScalaFormat/issues/8		2026-10-26	issue
+timonwong/ScalaFormat	9	merge_code: err is unbound after the except block (Python 3)	open	2026-10-26		https://github.com/timonwong/ScalaFormat/issues/9		2026-10-26	issue
+ciasia/sublime-scalascript	4	Commands only highlighted after exactly four whitespace characters	open	2026-10-26		https://github.com/ciasia/sublime-scalascript/issues/4		2026-10-26	issue
+dohzya/sublime_scalariver	2	Default server river.scalex.org is now a parked page; code is still sent to it over HTTP	open	2026-10-26		https://github.com/dohzya/sublime_scalariver/issues/2		2026-10-26	issue
+dohzya/sublime_scalariver	3	Format command is disabled on ST4 (syntax name keeps .sublime-syntax)	open	2026-10-26		https://github.com/dohzya/sublime_scalariver/issues/3		2026-10-26	issue
+pkukielka/SublimeScalex	2	Windows: error dialog when opening the search panel (syntax path uses backslashes)	open	2026-10-26		https://github.com/pkukielka/SublimeScalex/issues/2		2026-10-26	issue
+pkukielka/SublimeScalex	3	api.scalex.org returns HTML now; JSONDecodeError in the worker thread, no message	open	2026-10-26		https://github.com/pkukielka/SublimeScalex/issues/3		2026-10-26	issue
+holgern/sublime-scilab	1	Function rule with arguments never matches: pattern requires a TAB	open	2026-10-26		https://github.com/holgern/sublime-scilab/issues/1		2026-10-26	issue
+holgern/sublime-scilab	2	deff snippet inserts an unclosed deff( call	open	2026-10-26		https://github.com/holgern/sublime-scilab/issues/2		2026-10-26	issue
+shagabutdinov/sublime-scope-context	1	Readme says no dependencies, but listener.py needs the Context package	open	2026-10-26		https://github.com/shagabutdinov/sublime-scope-context/issues/1		2026-10-26	issue
+Syncrossus/Scopus-Query-Compiler	1	Referencing the last line of a file without trailing newline drops its last character	open	2026-10-26		https://github.com/Syncrossus/Scopus-Query-Compiler/issues/1		2026-10-26	issue
+shagabutdinov/sublime-scroll-enhanced	2	With word wrap on, scroll_lines_enhanced stops before the end of the file	open	2026-10-26		https://github.com/shagabutdinov/sublime-scroll-enhanced/issues/2		2026-10-26	issue
+SublimeText/ScrollOffset	14	scroll_to ignores a target of 0: top margin is one line short on line margin+1	open	2026-10-26		https://github.com/SublimeText/ScrollOffset/issues/14		2026-10-26	issue
+ssanj/Scuggest	3	Import is inserted above a leading comment and the package line	open	2026-10-26		https://github.com/ssanj/Scuggest/issues/3		2026-10-26	issue
+ssanj/Scuggest	4	package line with underscore or one-letter name part is not recognised	open	2026-10-26		https://github.com/ssanj/Scuggest/issues/4		2026-10-26	issue
+ssanj/Scuggest	5	test.py in the package root is loaded as a plugin and raises ModuleNotFoundError	open	2026-10-26		https://github.com/ssanj/Scuggest/issues/5		2026-10-26	issue
+ssanj/Scuggest	6	Invalid escape sequences in regex strings (SyntaxWarning on Python 3.12+)	open	2026-10-26		https://github.com/ssanj/Scuggest/issues/6		2026-10-26	issue
+ericmartel/Sublime-Text-2-Search-Anywhere-Plugin	10	TypeError when searching from a tab with no file name (cause of #3?)	open	2026-10-26		https://github.com/ericmartel/Sublime-Text-2-Search-Anywhere-Plugin/issues/10		2026-10-26	issue
+gkhn/SectionComment	7	With several cursors every banner is inserted at the first cursor	open	2026-10-26		https://github.com/gkhn/SectionComment/issues/7		2026-10-26	issue
+JoshCheek/sublime-text-2-and-3-seeing-is-believing	23	comment: cause and tested fix for the emptied buffer	open	2026-10-26		https://github.com/JoshCheek/sublime-text-2-and-3-seeing-is-believing/issues/23		2026-10-26	issue
+int3h/SublimeSelectQuoted	11	comment: cause (keymap passes inside) and fix	open	2026-10-26		https://github.com/int3h/SublimeSelectQuoted/issues/11		2026-10-26	issue
+mreq/sublime-select-all-by-current-scope	2	README Usecase key binding is missing a comma (invalid JSON)	open	2026-10-26		https://github.com/mreq/sublime-select-all-by-current-scope/issues/2		2026-10-26	issue
+spywhere/SelectExact	5	Selected text is not regex-escaped: foo.bar also matches fooxbar	open	2026-10-26		https://github.com/spywhere/SelectExact/issues/5		2026-10-26	issue
+spywhere/SelectExact	6	select_exact_match does not find the next identical text when the selection is not a plain word	open	2026-10-26		https://github.com/spywhere/SelectExact/issues/6		2026-10-26	issue
+defmech/SelectNextNumber-sublime-package	4	Invalid escape sequence in the regex string (SyntaxWarning on Python 3.12+)	open	2026-10-26		https://github.com/defmech/SelectNextNumber-sublime-package/issues/4		2026-10-26	issue
+lengstrom/MathEvaluator	12	Does not load on Python 3.10+: collections.MutableMapping was removed	open	2026-10-26		https://github.com/lengstrom/MathEvaluator/issues/12		2026-10-26	issue
+simonrad/sublime-selection-tools	1	comment: confirmed on 4215, tested fix for begin_edit	open	2026-10-26		https://github.com/simonrad/sublime-selection-tools/issues/1		2026-10-26	issue
+simonrad/sublime-selection-tools	2	align_indentation: TypeError (float) when the start line has a tab, on Python 3	open	2026-10-26		https://github.com/simonrad/sublime-selection-tools/issues/2		2026-10-26	issue
+sloria/sublime-selenium-snippets	2	current_url snippet inserts a call	open	2026-10-26		https://github.com/sloria/sublime-selenium-snippets/issues/2		2026-10-26	issue
+sloria/sublime-selenium-snippets	3	find_element_by_* removed in Selenium 4.3	open	2026-10-26		https://github.com/sloria/sublime-selenium-snippets/issues/3		2026-10-26	issue
+rdougan/Sencha.sublime	3	duplicate ready trigger, con lower-cases name	open	2026-10-26		https://github.com/rdougan/Sencha.sublime/issues/3		2026-10-26	issue
+DavidGerva/SendToSandbox-SublimePlugin	3	non-ASCII UnicodeEncodeError	open	2026-10-26		https://github.com/DavidGerva/SendToSandbox-SublimePlugin/issues/3		2026-10-26	issue
+DavidGerva/SendToSandbox-SublimePlugin	4	messages.json comment	open	2026-10-26		https://github.com/DavidGerva/SendToSandbox-SublimePlugin/issues/4		2026-10-26	issue
+rdougan/Sencha.sublime	4	colon filenames skipped on Windows	open	2026-10-26		https://github.com/rdougan/Sencha.sublime/issues/4		2026-10-26	issue
+wch/SendText	20	iTerm IndexError blank lines	open	2026-10-26		https://github.com/wch/SendText/issues/20		2026-10-26	issue
+wch/SendText	21	Windows keymap, no Windows program	open	2026-10-26		https://github.com/wch/SendText/issues/21		2026-10-26	issue
+abhishekchavan/sendtojsonblob	1	failed upload gives no message	open	2026-10-26		https://github.com/abhishekchavan/sendtojsonblob/issues/1		2026-10-26	issue
+abhishekchavan/sendtojsonblob	2	PasteBin leftovers do nothing	open	2026-10-26		https://github.com/abhishekchavan/sendtojsonblob/issues/2		2026-10-26	issue
+xaro/SendToPasteBin	27	failed upload gives no message	open	2026-10-26		https://github.com/xaro/SendToPasteBin/issues/27		2026-10-26	issue
+xaro/SendToPasteBin	28	SyntaxWarning invalid escape	open	2026-10-26		https://github.com/xaro/SendToPasteBin/issues/28		2026-10-26	issue
+kn9ts/sepiarize	2	README two licences	open	2026-10-26		https://github.com/kn9ts/sepiarize/issues/2		2026-10-26	issue
+dkleinsmann/sublime_sequential_build	4	Python 3 unicode/has_key fail at first step	open	2026-10-26		https://github.com/dkleinsmann/sublime_sequential_build/issues/4		2026-10-26	issue
+dkleinsmann/sublime_sequential_build	5	file_extension never replaced	open	2026-10-26		https://github.com/dkleinsmann/sublime_sequential_build/issues/5		2026-10-26	issue
+LucaVazz/SetlXHelper	8	stray brace in if/else snippets	open	2026-10-26		https://github.com/LucaVazz/SetlXHelper/issues/8		2026-10-26	issue
+felquis/SexySnippets	5	Dojo trigger version mismatch	open	2026-10-26		https://github.com/felquis/SexySnippets/issues/5		2026-10-26	issue
+felquis/SexySnippets	6	sx-ga Universal Analytics obsolete	open	2026-10-26		https://github.com/felquis/SexySnippets/issues/6		2026-10-26	issue
+devdinu/ShareFile	2	comment: backend host does not resolve	open	2026-10-26		https://github.com/devdinu/ShareFile/issues/2		2026-10-26	issue
+devdinu/ShareFile	3	SyntaxWarning is not str literal	open	2026-10-26		https://github.com/devdinu/ShareFile/issues/3		2026-10-26	issue
+shagabutdinov/sublime-shell-status	4	comment: FileNotFoundError on every activation, works with a configured command	open	2026-10-26		https://github.com/shagabutdinov/sublime-shell-status/issues/4		2026-10-26	issue
+bantya/Sheller	2	Project Root IndexError with no folder	open	2026-10-26		https://github.com/bantya/Sheller/issues/2		2026-10-26	issue
+rkoeninger/sublime-shen	2	comment: name mismatch, no formatting, undefined names	open	2026-10-26		https://github.com/rkoeninger/sublime-shen/issues/2		2026-10-26	issue
+Frescha/shinken-sublime	3	Object snippets omit the leading define	open	2026-10-26		https://github.com/Frescha/shinken-sublime/issues/3		2026-10-26	issue
+jmnsf/ShouldjsSnippets	17	README tables: missing backtick in sheql row, pipes inside code in Matching table	open	2026-10-26		https://github.com/jmnsf/ShouldjsSnippets/issues/17		2026-10-26	issue
+jk4837/ShowDefinitionEx	6	Run Test fails when installed from Package Control; invalid escape and is warnings; prefix skip only under DEBUG	open	2026-10-26		https://github.com/jk4837/ShowDefinitionEx/issues/6		2026-10-26	issue
+gerardvh/ST3-sightly-language	13	Syntax fails to load on build 4215 (with_prototype recursion) and .html opens as Plain Text	open	2026-10-26		https://github.com/gerardvh/ST3-sightly-language/issues/13		2026-10-26	issue
+franciscosantamaria/sublime-silex	1	README does not match the snippets	open	2026-10-26		https://github.com/franciscosantamaria/sublime-silex/issues/1		2026-10-26	issue
+lanbin/silkyjump	1	Ships a Python 2 silkyjump.pyc: plugin fails to load	open	2026-10-26		https://github.com/lanbin/silkyjump/issues/1		2026-10-26	issue
+AspenWeb/sublime-simplates	1	Section separators not recognised on build 4215; text\html typo in specline rule	open	2026-10-26		https://github.com/AspenWeb/sublime-simplates/issues/1		2026-10-26	issue
+vinipace/sublime-simple-import	7	Ships a Python 2 Handler.pyc: plugin fails to load (bad magic number)	open	2026-10-26		https://github.com/vinipace/sublime-simple-import/issues/7		2026-10-26	issue
+fsaad/Sublime-SimpleAdd	1	Tabs are not treated as delimiters; words like inf and nan are summed as numbers	open	2026-10-26		https://github.com/fsaad/Sublime-SimpleAdd/issues/1		2026-10-26	issue
+mikefowler/simple-clone	13	Split Right leaves the clone in the original group on build 4215 (empty right group)	open	2026-10-26		https://github.com/mikefowler/simple-clone/issues/13		2026-10-26	issue
+jugyo/SublimeSimpleMarker	4	Markers are matched as regular expressions, not literal text	open	2026-10-26		https://github.com/jugyo/SublimeSimpleMarker/issues/4		2026-10-26	issue
+antoniofrignani/SimplePHPSpec-for-Sublime-Text	5	Misleading message with no folder open; README names simple_phpspec but the command is simple_php_spec	open	2026-10-26		https://github.com/antoniofrignani/SimplePHPSpec-for-Sublime-Text/issues/5		2026-10-26	issue
+evgeny-golubev/SimplePHPUnit-for-Sublime-Text	10	exec panel keeps the package colour scheme; error dialog after the package is removed	open	2026-10-26		https://github.com/evgeny-golubev/SimplePHPUnit-for-Sublime-Text/issues/10		2026-10-26	issue
+woodruffw/SimpleSession	8	SyntaxWarning at load: invalid escape sequence d (line 38)	open	2026-10-26		https://github.com/woodruffw/SimpleSession/issues/8		2026-10-26	issue
+jonathan-fielding/SimpleStateManager-Snippets	1	isActive inserts ssm.ready(); setResizeTimeout wrong; shared trigger	open	2026-10-26		https://github.com/jonathan-fielding/SimpleStateManager-Snippets/issues/1		2026-10-26	issue
+jugyo/SublimeSimpleTODO	3	File name saved as absolute path on Windows; gutter dot missing until the tab is re-activated	open	2026-10-26		https://github.com/jugyo/SublimeSimpleTODO/issues/3		2026-10-26	issue
+KELiON/SimplestDebugger	1	debugger; line with trailing spaces is not toggled off; SyntaxWarning for s at load	open	2026-10-26		https://github.com/KELiON/SimplestDebugger/issues/1		2026-10-26	issue
+MorganRodgers/singularity_definition_file_syntax	2	Syntax is not auto-selected; header value unscoped; tests use other scope names	open	2026-10-26		https://github.com/MorganRodgers/singularity_definition_file_syntax/issues/2		2026-10-26	issue
+dmnsgn/sublime-sketchjs	1	Completions: map inserts man(, lerp repeats placeholder 2	open	2026-10-26		https://github.com/dmnsgn/sublime-sketchjs/issues/1		2026-10-26	issue
+mrcook/SkoolkitZ80	2	Strings: period scoped as escape, backslash-quote ends the string	open	2026-10-26		https://github.com/mrcook/SkoolkitZ80/issues/2		2026-10-26	issue
+ice/sleet	1	Syntax does not load: with_prototype recursion, file stays Plain Text	open	2026-10-26		https://github.com/ice/sleet/issues/1		2026-10-26	issue
+enteleform-releases/SublimeText--SlideNav	4	AttributeError settingsLoaded in an untitled view; SyntaxWarning at line 1258	open	2026-10-26		https://github.com/enteleform-releases/SublimeText--SlideNav/issues/4		2026-10-26	issue
+hedgesky/slime.tmbundle	1	Tag names get no entity.name.tag.slime scope on ST 4215	open	2026-10-26		https://github.com/hedgesky/slime.tmbundle/issues/1		2026-10-26	issue
+roboshoes/SmartDuplicate-Sublime	4	Keywords replaced inside longer words (topic, stop, copyright, MAX_SIZE)	open	2026-10-26		https://github.com/roboshoes/SmartDuplicate-Sublime/issues/4		2026-10-26	issue
+santi-h/SmartPathCopy	4	Windows: bad escape \U crash, / rules never match, TypeError on unsaved view	open	2026-10-26		https://github.com/santi-h/SmartPathCopy/issues/4		2026-10-26	issue
+gbaptista/sublime-3-smart-region	1	Windows: ValueError on C:\path:line (split on colon)	open	2026-10-26		https://github.com/gbaptista/sublime-3-smart-region/issues/1		2026-10-26	issue
+poucotm/Smart-Repeat	1	Typo (plus plus) in the format-error message raises TypeError	open	2026-10-26		https://github.com/poucotm/Smart-Repeat/issues/1		2026-10-26	issue
+ericmartel/Smartisan	1	IndexError in process_artisan when artisan output is short (bounds check after index)	open	2026-10-26		https://github.com/ericmartel/Smartisan/issues/1		2026-10-26	issue
+Briles/snazzy-sublime	2	README install name does not match the Package Control name	open	2026-10-26		https://github.com/Briles/snazzy-sublime/issues/2		2026-10-26	issue
+shagabutdinov/sublime-snippet-caller	5	Package Control install fails to import Context, LocalVariable etc. (modal dialogs)	open	2026-10-26		https://github.com/shagabutdinov/sublime-snippet-caller/issues/5		2026-10-26	issue
+omkarjc27/sublime-snipet-index	1	Backend snip-index.herokuapp.com is gone (404 No such app); command only prints a traceback	open	2026-10-26		https://github.com/omkarjc27/sublime-snipet-index/issues/1		2026-10-26	issue
+wghust/snippetSkydragon	1	tb-switch completion has an unclosed placeholder and inserts nothing	open	2026-10-26		https://github.com/wghust/snippetSkydragon/issues/1		2026-10-26	issue
+assem-ch/snowball-sublime-syntax	1	Variables containing digits ($p1) are split in the highlighting	open	2026-10-26		https://github.com/assem-ch/snowball-sublime-syntax/issues/1		2026-10-26	issue
+garfieldnate/Sublime-Soar-Tools	8	TypeError with no project or no file name; SyntaxWarning at line 37	open	2026-10-26		https://github.com/garfieldnate/Sublime-Soar-Tools/issues/8		2026-10-26	issue
+matt-lough/solidity-docstring-generator	5	IndexError on parameters with memory or calldata (string memory name)	open	2026-10-26		https://github.com/matt-lough/solidity-docstring-generator/issues/5		2026-10-26	issue
+stuin/Solisp-Sublime	1	Scope name typo: keyword.operator.arithmtic.solisp	open	2026-10-26		https://github.com/stuin/Solisp-Sublime/issues/1		2026-10-26	issue
+sey/sublime-solium-gutter	1	comment: Windows stack overflow in run.js	open	2026-10-26		https://github.com/sey/sublime-solium-gutter/issues/1		2026-10-26	issue
+fbehrens/sublime_sonic_pi	3	Windows: shlex.quote single quotes are not quoting in cmd.exe	open	2026-10-26		https://github.com/fbehrens/sublime_sonic_pi/issues/3		2026-10-26	issue
+insin/sublime-sort-javascript-imports	7	comment: whole-buffer rewrite with no selection	open	2026-10-26		https://github.com/insin/sublime-sort-javascript-imports/issues/7		2026-10-26	issue
+sascha-wolf/sublime-SortLinesBySelection	4	morph argument raises KeyError on Python 3.13+	open	2026-10-26		https://github.com/sascha-wolf/sublime-SortLinesBySelection/issues/4		2026-10-26	issue
+bordaigorl/sublime-sourcedown	1	Settings - User menu template uses option names the plugin ignores	open	2026-10-26		https://github.com/bordaigorl/sublime-sourcedown/issues/1		2026-10-26	issue
+geekpradd/sublime-sourcesharer-plugin	1	Backend URL returns 404 and the README site does not resolve	open	2026-10-26		https://github.com/geekpradd/sublime-sourcesharer-plugin/issues/1		2026-10-26	issue
+malroc/sourcetalk_st2	3	Service returns 410 and the plugin raises AttributeError on the failed request	open	2026-10-26		https://github.com/malroc/sourcetalk_st2/issues/3		2026-10-26	issue
+gdeOo/sublime-sourcetree	3	comment: endswith .App never matches on macOS	open	2026-10-26		https://github.com/gdeOo/sublime-sourcetree/issues/3		2026-10-26	issue
+gdeOo/sublime-sourcetree	4	Package Settings menu caption is spelled SouceTreeCommands	open	2026-10-26		https://github.com/gdeOo/sublime-sourcetree/issues/4		2026-10-26	issue
+shagabutdinov/sublime-space-snippets	2	Key bindings never fire when installed alone (context keys from other packages)	open	2026-10-26		https://github.com/shagabutdinov/sublime-space-snippets/issues/2		2026-10-26	issue
+rogeriochaves/sublime-spec-finder	1	Toggle Spec does nothing when the full path contains spec	open	2026-10-26		https://github.com/rogeriochaves/sublime-spec-finder/issues/1		2026-10-26	issue
+wireframe/sublime-spec-focuser	6	Plugin fails to load: committed SpecFocuser.pyc has a Python 2 magic number	open	2026-10-26		https://github.com/wireframe/sublime-spec-focuser/issues/6		2026-10-26	issue
+geekpradd/Sphere-Online-Judge-Sublime	1	Backend returns 404 so every problem ID shows Invalid Problem Code	open	2026-10-26		https://github.com/geekpradd/Sphere-Online-Judge-Sublime/issues/1		2026-10-26	issue
+intelkevinputnam/sphinx-ref-helper	1	IndexError when no folder is open	open	2026-10-26		https://github.com/intelkevinputnam/sphinx-ref-helper/issues/1		2026-10-26	issue
+intelkevinputnam/sphinx-ref-helper	2	Label with a leading underscore loses it	open	2026-10-26		https://github.com/intelkevinputnam/sphinx-ref-helper/issues/2		2026-10-26	issue
+Namek/Spider-Sublime-Plugin	4	firstLineMatch node shebang makes Node scripts open as SpiderScript	open	2026-10-26		https://github.com/Namek/Spider-Sublime-Plugin/issues/4		2026-10-26	issue
+Namek/Spider-Sublime-Plugin	5	README snippet forlistif does not exist (trigger is forlistin)	open	2026-10-26		https://github.com/Namek/Spider-Sublime-Plugin/issues/5		2026-10-26	issue
+stevebasher/Split-Line-Sublime-Plugin	2	IndexError on a line with no bracket	open	2026-10-26		https://github.com/stevebasher/Split-Line-Sublime-Plugin/issues/2		2026-10-26	issue
+mew1033/Splunk-Format	2	raise of a plain string gives TypeError on Python 3	open	2026-10-26		https://github.com/mew1033/Splunk-Format/issues/2		2026-10-26	issue
+aarongraham/splunk-syntax-sublime	4	comment: grammar has no comment rule	open	2026-10-26		https://github.com/aarongraham/splunk-syntax-sublime/issues/4		2026-10-26	issue
+DevInsideYou/SpotifyWeb	5	Plugin does not load after install: No module named urllib3	open	2026-10-26		https://github.com/DevInsideYou/SpotifyWeb/issues/5		2026-10-26	issue
+DevInsideYou/SpotifyWeb	6	SyntaxWarning in bundled spotipy oauth2.py: is not 200	open	2026-10-26		https://github.com/DevInsideYou/SpotifyWeb/issues/6		2026-10-26	issue
+Eforen/sublime-syntax-sprak	3	AND and OR inside identifiers are scoped as operators	open	2026-10-26		https://github.com/Eforen/sublime-syntax-sprak/issues/3		2026-10-26	issue
+sproutcore/sproutcore-sublime-text-2-package	3	JSHint on save points at missing files	open	2026-10-26		https://github.com/sproutcore/sproutcore-sublime-text-2-package/issues/3		2026-10-26	issue
+rinas7/StackOverflowSnippets	3	Search fails: HTMLParser has no attribute unescape	open	2026-10-26		https://github.com/rinas7/StackOverflowSnippets/issues/3		2026-10-26	issue
+wyne/sublime-stackmob-js-snippets	1	sms snippet expands to invalid JS; smf and smfe have no scope	open	2026-10-26		https://github.com/wyne/sublime-stackmob-js-snippets/issues/1		2026-10-26	issue
+zhangqibupt/stacktracer	1	Build from selection does nothing for Windows paths	open	2026-10-26		https://github.com/zhangqibupt/stacktracer/issues/1		2026-10-26	issue
+debugginator/SO-debug-helper	1	UnboundLocalError after the Couldnt find an error message	open	2026-10-26		https://github.com/debugginator/SO-debug-helper/issues/1		2026-10-26	issue
+djsutherland/sublime-stan	11	Brace on its own line marks the block as illegal; array not scoped as a type	open	2026-10-26		https://github.com/djsutherland/sublime-stan/issues/11		2026-10-26	issue
+khitov/sublime-standardjs-snippets	1	csx snippet mirrors the base class name into constructor and super arguments	open	2026-10-26		https://github.com/khitov/sublime-standardjs-snippets/issues/1		2026-10-26	issue
+UnknownX7/Sublime-Starbound-Lua-Syntax	4	goto and ::label:: are not highlighted	open	2026-10-26		https://github.com/UnknownX7/Sublime-Starbound-Lua-Syntax/issues/4		2026-10-26	issue
+voltavidTony/Startup-Files	1	Set startup files saves null for every unsaved tab	open	2026-10-26		https://github.com/voltavidTony/Startup-Files/issues/1		2026-10-26	issue
+lowliet/sublimetext-StatusBarTime	6	Uptime clock: setting key case mismatch, and TypeError from displayUpTime	open	2026-10-26		https://github.com/lowliet/sublimetext-StatusBarTime/issues/6		2026-10-26	issue
+lowliet/sublimetext-StatusBarWeather	4	SyntaxError: async used as a parameter name	open	2026-10-26		https://github.com/lowliet/sublimetext-StatusBarWeather/issues/4		2026-10-26	issue
+nicksspirit/StatusBarSymbols	1	False Disable the MagicPython syntax package warning	open	2026-10-26		https://github.com/nicksspirit/StatusBarSymbols/issues/1		2026-10-26	issue
+kgston/stencil-syntax-sublime	1	A script block is never closed; the rest of the file is scoped as JavaScript	open	2026-10-26		https://github.com/kgston/stencil-syntax-sublime/issues/1		2026-10-26	issue
+swwind/StoryScript-Highlight	1	in is scoped as a keyword inside identifiers such as index	open	2026-10-26		https://github.com/swwind/StoryScript-Highlight/issues/1		2026-10-26	issue
+djuretic/SublimeStrace	1	Syscall name is not highlighted after a timestamp or [pid N] prefix	open	2026-10-26		https://github.com/djuretic/SublimeStrace/issues/1		2026-10-26	issue
+michfield/sublime-strapdown-preview	13	Default local strapdown.js path points inside the .sublime-package zip	open	2026-10-26		https://github.com/michfield/sublime-strapdown-preview/issues/13		2026-10-26	issue
+nicholastay/Sublime-StreamerMode	3	Toggling on and off leaves the default binary_file_patterns in user Preferences	open	2026-10-26		https://github.com/nicholastay/Sublime-StreamerMode/issues/3		2026-10-26	issue
+jielimanyili/sublime_string2_lower_hyphen	3	Selecting whole lines joins them: trailing line break is removed	open	2026-10-26		https://github.com/jielimanyili/sublime_string2_lower_hyphen/issues/3		2026-10-26	issue
+p3lim/sublime-strip-whitespace-lines	3	RecursionError on files with several hundred whitespace-only lines	open	2026-10-26		https://github.com/p3lim/sublime-strip-whitespace-lines/issues/3		2026-10-26	issue
+jbrooksuk/StripHTML	1	Text between a plain < and a later > is removed along with the tags	open	2026-10-26		https://github.com/jbrooksuk/StripHTML/issues/1		2026-10-26	issue
+jzipperle/strongview-sublime	1	Installing the package makes every .html file open as HTML (StrongView)	open	2026-10-26		https://github.com/jzipperle/strongview-sublime/issues/1		2026-10-26	issue
+dmnsgn/sublime-stylefmt	37	Node runs on the main thread (UI freezes); failed run shows full Node dump	open	2026-10-26		https://github.com/dmnsgn/sublime-stylefmt/issues/37		2026-10-26	issue
+lnikell/stylus-clean-completions	4	Merged trigger font-kerning font-language-override, duplicate triggers, stray spaces	open	2026-10-26		https://github.com/lnikell/stylus-clean-completions/issues/4		2026-10-26	issue
+noma4i/SubRed	6	Plugin does not load on Python 3.12+: libs/redmine imports distutils	open	2026-10-26		https://github.com/noma4i/SubRed/issues/6		2026-10-26	issue
+dmnsgn/sublime-stylefmt	38	Partial project-level Stylefmt settings raise TypeError on every save	open	2026-10-26		https://github.com/dmnsgn/sublime-stylefmt/issues/38		2026-10-26	issue
+willbrazil/SubTexting	10	Several bugs found by reading	open	2026-10-26		https://github.com/willbrazil/SubTexting/issues/10		2026-10-26	issue
+verrev/SubVal	2	Wrong line reported for repeated timings	open	2026-10-26		https://github.com/verrev/SubVal/issues/2		2026-10-26	issue
+mechio/subhub	9	Windows: clone fails on mkdir -p	open	2026-10-26		https://github.com/mechio/subhub/issues/9		2026-10-26	issue
+CDuke/sublime-tfs	30	AttributeError: thread.isAlive() in on_pre_save	open	2026-10-26		https://github.com/CDuke/sublime-tfs/issues/30		2026-10-26	issue
+jugyo/SublimeTextAPIHelper	4	Debug print left in the insert command	open	2026-10-26		https://github.com/jugyo/SublimeTextAPIHelper/issues/4		2026-10-26	issue
+tgfjt/Sublime-convert-colorcode	1	Converts non-colour text like #facebook	open	2026-10-26		https://github.com/tgfjt/Sublime-convert-colorcode/issues/1		2026-10-26	issue
+springlong/Sublime-wxapp	15	SyntaxWarning invalid escape sequence	open	2026-10-26		https://github.com/springlong/Sublime-wxapp/issues/15		2026-10-26	issue
+aaronpowell/Sublime-KnockoutJS-Snippets	5	ko.foreach snippet inserts nothing	open	2026-10-26		https://github.com/aaronpowell/Sublime-KnockoutJS-Snippets/issues/5		2026-10-26	issue
+timonwong/SublimeAlternate	3	IndexError for a file named like an extension	open	2026-10-26		https://github.com/timonwong/SublimeAlternate/issues/3		2026-10-26	issue
+ckaznocha/SublimeAxosoft	7	set_api_version ignores argument (by reading)	open	2026-10-26		https://github.com/ckaznocha/SublimeAxosoft/issues/7		2026-10-26	issue
+borysf/SublimeGerrit	6	15 SyntaxWarning invalid escape sequence on load	open	2026-10-26		https://github.com/borysf/SublimeGerrit/issues/6		2026-10-26	issue
+a1fred/SublimeGoogle	5	Search text is not URL-encoded	open	2026-10-26		https://github.com/a1fred/SublimeGoogle/issues/5		2026-10-26	issue
+baptistejamin/sublime-42-norminette	9	Messages contain raw ANSI colour codes	open	2026-10-26		https://github.com/baptistejamin/sublime-42-norminette/issues/9		2026-10-26	issue
+ckaznocha/SublimeLinter-contrib-CFLint	29	Logger is named SublimeLinter.plugin.eslint	open	2026-10-26		https://github.com/ckaznocha/SublimeLinter-contrib-CFLint/issues/29		2026-10-26	issue
+spajak/SublimeLinter-contrib-PSScriptAnalyzer	1	Settings path with a space breaks	open	2026-10-26		https://github.com/spajak/SublimeLinter-contrib-PSScriptAnalyzer/issues/1		2026-10-26	issue
+bdeshi/SublimeLinter-contrib-au3check	1	Disabled by SublimeLinter 4	open	2026-10-26		https://github.com/bdeshi/SublimeLinter-contrib-au3check/issues/1		2026-10-26	issue
+DesTincT/SublimeLinter-contrib-bemlint	4	SublimeLinter 4 ignores cls.config_file	open	2026-10-26		https://github.com/DesTincT/SublimeLinter-contrib-bemlint/issues/4		2026-10-26	issue
+thomas-lebeau/SublimeLinter-contrib-bootlint	5	Disabled by SublimeLinter 4	open	2026-10-26		https://github.com/thomas-lebeau/SublimeLinter-contrib-bootlint/issues/5		2026-10-26	issue
+drewbrokke/SublimeLinter-contrib-check-source-formatting	3	Disabled by SublimeLinter 4	open	2026-10-26		https://github.com/drewbrokke/SublimeLinter-contrib-check-source-formatting/issues/3		2026-10-26	issue
+BrunoJJE/SublimeLinter-contrib-checkpatch	2	Disabled by SublimeLinter 4	open	2026-10-26		https://github.com/BrunoJJE/SublimeLinter-contrib-checkpatch/issues/2		2026-10-26	issue
+jdb8/SublimeLinter-contrib-cheetah-flake	1	Disabled by SublimeLinter 4	open	2026-10-26		https://github.com/jdb8/SublimeLinter-contrib-cheetah-flake/issues/1		2026-10-26	issue
+jasjuang/SublimeLinter-contrib-cmakelint	6	Debug print left in split_match	open	2026-10-26		https://github.com/jasjuang/SublimeLinter-contrib-cmakelint/issues/6		2026-10-26	issue
+ocolot/SublimeLinter-contrib-credo	5	Disabled by SublimeLinter 4	open	2026-10-26		https://github.com/ocolot/SublimeLinter-contrib-credo/issues/5		2026-10-26	issue
+csstree/SublimeLinter-contrib-csstree	1	comment: still disabled by SublimeLinter 4	open	2026-10-26		https://github.com/csstree/SublimeLinter-contrib-csstree/issues/1		2026-10-26	issue
+NotSqrt/SublimeLinter-contrib-dennis	2	Disabled by SublimeLinter 4	open	2026-10-26		https://github.com/NotSqrt/SublimeLinter-contrib-dennis/issues/2		2026-10-26	issue
+veelo/SublimeLinter-contrib-dmd	4	cls.name() is a str in SL4; version attrs no effect	open	2026-10-26		https://github.com/veelo/SublimeLinter-contrib-dmd/issues/4		2026-10-26	issue
+johantell/SublimeLinter-contrib-dogma	1	Linter is disabled by SublimeLinter 4	open	2026-10-26		https://github.com/johantell/SublimeLinter-contrib-dogma/issues/1		2026-10-26	issue
+Adarma/SublimeLinter-contrib-dxl	1	Linter is disabled by SublimeLinter 4	open	2026-10-26		https://github.com/Adarma/SublimeLinter-contrib-dxl/issues/1		2026-10-26	issue
+mar-io/SublimeLinter-foodcritic	5	Linter is disabled by SublimeLinter 4	open	2026-10-26		https://github.com/mar-io/SublimeLinter-foodcritic/issues/5		2026-10-26	issue
+glua/SublimeLinter-contrib-glua	4	Linter is disabled by SublimeLinter 4	open	2026-10-26		https://github.com/glua/SublimeLinter-contrib-glua/issues/4		2026-10-26	issue
+FPtje/SublimeLinter-contrib-glualint	9	Loading prints a config_file warning and a SyntaxWarning	open	2026-10-26		https://github.com/FPtje/SublimeLinter-contrib-glualint/issues/9		2026-10-26	issue
+clocklear/SublimeLinter-contrib-gosimple	2	Linter is still disabled by SublimeLinter 4	open	2026-10-26		https://github.com/clocklear/SublimeLinter-contrib-gosimple/issues/2		2026-10-26	issue
+nmn/SublimeLinter-contrib-happiness	2	Linter is disabled by SublimeLinter 4	open	2026-10-26		https://github.com/nmn/SublimeLinter-contrib-happiness/issues/2		2026-10-26	issue
+ch1bo/SublimeLinter-contrib-hdevtools	1	Linter is disabled by SublimeLinter 4	open	2026-10-26		https://github.com/ch1bo/SublimeLinter-contrib-hdevtools/issues/1		2026-10-26	issue
+reekoheek/SublimeLinter-java	1	Linter is disabled by SublimeLinter 4	open	2026-10-26		https://github.com/reekoheek/SublimeLinter-java/issues/1		2026-10-26	issue
+thesave/SublimeLinter-jolint	3	linter.py fails to import: NameError util	open	2026-10-26		https://github.com/thesave/SublimeLinter-jolint/issues/3		2026-10-26	issue
+thesave/SublimeLinter-jolint	4	getJolieHome: platform.system not called, wrong folder name	open	2026-10-26		https://github.com/thesave/SublimeLinter-jolint/issues/4		2026-10-26	issue
+LeoLeal/SublimeLinter-jsdebugmarkers	2	Linter is still disabled by SublimeLinter 4	open	2026-10-26		https://github.com/LeoLeal/SublimeLinter-jsdebugmarkers/issues/2		2026-10-26	issue
+jacksmith15/SublimeLinter-contrib-jsonschema-lint	1	README is still the SublimeLinter template	open	2026-10-26		https://github.com/jacksmith15/SublimeLinter-contrib-jsonschema-lint/issues/1		2026-10-26	issue
+jacksmith15/jsonschema-lint	2	Does not start on Python 3.13+: No module named cgi	open	2026-10-26		https://github.com/jacksmith15/jsonschema-lint/issues/2		2026-10-26	issue
+tomaskrehlik/SublimeLinter-contrib-julialint	6	Linter is disabled by SublimeLinter 4	open	2026-10-26		https://github.com/tomaskrehlik/SublimeLinter-contrib-julialint/issues/6		2026-10-26	issue
+invenia/SublimeLinter-contrib-julialintserver	12	Linter is disabled by SublimeLinter 4, plus two SyntaxWarnings	open	2026-10-26		https://github.com/invenia/SublimeLinter-contrib-julialintserver/issues/12		2026-10-26	issue
+jevogel/SublimeLinter-contrib-modelsim	16	Bundled vcom regex test fails: match_tuple has no code field	open	2026-10-26		https://github.com/jevogel/SublimeLinter-contrib-modelsim/issues/16		2026-10-26	issue
+BrunoJJE/SublimeLinter-contrib-nvc	1	Linter is disabled by SublimeLinter 4	open	2026-10-26		https://github.com/BrunoJJE/SublimeLinter-contrib-nvc/issues/1		2026-10-26	issue
+blahgeek/SublimeLinter-contrib-nvcc	2	Linter is disabled by SublimeLinter 4	open	2026-10-26		https://github.com/blahgeek/SublimeLinter-contrib-nvcc/issues/2		2026-10-26	issue
+nomego/SublimeLinter-contrib-polylint	4	Linter is disabled by SublimeLinter 4	open	2026-10-26		https://github.com/nomego/SublimeLinter-contrib-polylint/issues/4		2026-10-26	issue
+ckaznocha/SublimeLinter-contrib-protoc-gen-lint	3	Linter is still disabled by SublimeLinter 4	open	2026-10-26		https://github.com/ckaznocha/SublimeLinter-contrib-protoc-gen-lint/issues/3		2026-10-26	issue
+mom1/SublimeLinter-contrib-rstylelint	1	Linter is disabled by SublimeLinter 4	open	2026-10-26		https://github.com/mom1/SublimeLinter-contrib-rstylelint/issues/1		2026-10-26	issue
+jawshooah/SublimeLinter-contrib-ruby-lint	2	Linter is disabled by SublimeLinter 4	open	2026-10-26		https://github.com/jawshooah/SublimeLinter-contrib-ruby-lint/issues/2		2026-10-26	issue
+jawshooah/SublimeLinter-contrib-scalac	4	Import of distutils fails on Python 3.12+, linter never loads	open	2026-10-26		https://github.com/jawshooah/SublimeLinter-contrib-scalac/issues/4		2026-10-26	issue
+jawshooah/SublimeLinter-contrib-scalastyle	3	Linter disabled by SublimeLinter 4: selector is mandatory in cls.defaults	open	2026-10-26		https://github.com/jawshooah/SublimeLinter-contrib-scalastyle/issues/3		2026-10-26	issue
+wshxbqq/JdfSublime	1	Plugin fails to load: print statement (Python 2 syntax) in Jdf.py	open	2026-10-26		https://github.com/wshxbqq/JdfSublime/issues/1		2026-10-26	issue
+jcldavid/JustPaste	1	Plugin fails to load: bundled requests imports cgi	open	2026-10-26		https://github.com/jcldavid/JustPaste/issues/1		2026-10-26	issue
+maethu/SublimePloneReload	2	Plugin fails to load: bundled requests imports cgi	open	2026-10-26		https://github.com/maethu/SublimePloneReload/issues/2		2026-10-26	issue
+beaugunderson/SublimeLinter-contrib-serplint	1	Linter disabled by SublimeLinter 4: selector is mandatory in cls.defaults	open	2026-10-26		https://github.com/beaugunderson/SublimeLinter-contrib-serplint/issues/1		2026-10-26	issue
+vaemoi/SublimeLinter-contrib-tailor	2	SublimeLinter 4: cls.selectors error and cls.config_file has no effect	open	2026-10-26		https://github.com/vaemoi/SublimeLinter-contrib-tailor/issues/2		2026-10-26	issue
+patrickrgaffney/SublimeLinter-contrib-terraform	5	find_errors: UnboundLocalError when the output is not JSON	open	2026-10-26		https://github.com/patrickrgaffney/SublimeLinter-contrib-terraform/issues/5		2026-10-26	issue
+uqbar-project/wollok-sublime-linter	1	Linter disabled by SublimeLinter 4	open	2026-10-26		https://github.com/uqbar-project/wollok-sublime-linter/issues/1		2026-10-26	issue
+jmeischner/SublimeLinter-contrib-xqlint	1	Linter disabled by SublimeLinter 4	open	2026-10-26		https://github.com/jmeischner/SublimeLinter-contrib-xqlint/issues/1		2026-10-26	issue
+kliu/SublimeLogHelper	1	FilterLog uses View.begin_edit	open	2026-10-26		https://github.com/kliu/SublimeLogHelper/issues/1		2026-10-26	issue
+robcowie/SublimePaster	19	Plugin fails to load: No module named src	open	2026-10-26		https://github.com/robcowie/SublimePaster/issues/19		2026-10-26	issue
+jamiesun/SublimeTalkincode	1	Plugin fails to load: SyntaxError at 0L	open	2026-10-26		https://github.com/jamiesun/SublimeTalkincode/issues/1		2026-10-26	issue
+jbrooksuk/SublimeWebColors	3	Colour picker list grows with every window	open	2026-10-26		https://github.com/jbrooksuk/SublimeWebColors/issues/3		2026-10-26	issue
+ivershuo/sublime-sublimeweibo	1	Plugin fails to load: bad magic number from committed Python 2 .pyc	open	2026-10-26		https://github.com/ivershuo/sublime-sublimeweibo/issues/1		2026-10-26	issue
+cyrilf/Sublimipsum	3	Plugin fails to load: TabError (mixed tabs and spaces)	open	2026-10-26		https://github.com/cyrilf/Sublimipsum/issues/3		2026-10-26	issue
+smhg/sublime-suncycle	13	Plugin fails to load: Package Control download_manager has no attribute downloader	open	2026-10-26		https://github.com/smhg/sublime-suncycle/issues/13		2026-10-26	issue
+aphex/SuperAnt	17	List Targets fails with AttributeError when no project is open	open	2026-10-26		https://github.com/aphex/SuperAnt/issues/17		2026-10-26	issue
+geoffroymontel/supercollider-package-for-sublime-text	10	Plugin fails to load: Python 2 print statements	open	2026-10-26		https://github.com/geoffroymontel/supercollider-package-for-sublime-text/issues/10		2026-10-26	issue
+acarabott/supercollider-sublime	11	TypeError in update_sc_path when sc_path is None (fresh install before restart, and on removal)	open	2026-10-26		https://github.com/acarabott/supercollider-sublime/issues/11		2026-10-26	issue
+pdaether/Sublime-SymfonyCommander	14	messages.json missing comma; multi_line_output uses removed View.begin_edit	open	2026-10-26		https://github.com/pdaether/Sublime-SymfonyCommander/issues/14		2026-10-26	issue
+reinteractive-open/Syntax-Matcher	4	Plugin fails to load: Python 2 print statement (SyntaxError)	open	2026-10-26		https://github.com/reinteractive-open/Syntax-Matcher/issues/4		2026-10-26	issue
+amisarca/Sublime-Text-Table-Cleaner	5	table_cleaner raises TypeError with table_cleaner_align_to_middle on Python 3 (diff / 2 is a float)	open	2026-10-26		https://github.com/amisarca/Sublime-Text-Table-Cleaner/issues/5		2026-10-26	issue
+ejoubaud/SublimeTabsLimiter	4	Plugin fails to load on Python 3: Python 2 print statements (SyntaxError)	open	2026-10-26		https://github.com/ejoubaud/SublimeTabsLimiter/issues/4		2026-10-26	issue
+jcowgar/sublime-task-timer	6	Status and Stop raise AttributeError when run before Start (sublime.task_timer_time not set)	open	2026-10-26		https://github.com/jcowgar/sublime-task-timer/issues/6		2026-10-26	issue
+kostajh/sublime-taskwarrior	11	messages.json points at message files that do not exist (install error in Package Control)	open	2026-10-26		https://github.com/kostajh/sublime-taskwarrior/issues/11		2026-10-26	issue
+rundef/tau-time-tracker	2	Start task fails: writes into Packages/Tau Time Tracker/, which does not exist for a .sublime-package install	open	2026-10-26		https://github.com/rundef/tau-time-tracker/issues/2		2026-10-26	issue
+SublimeText/ColdFusion	177	cflib.py and coldfusiontagcompletions.py fail to load on Python 3 (urllib.urlopen, implicit relative import of taglib)	open	2026-10-26		https://github.com/SublimeText/ColdFusion/issues/177		2026-10-26	issue
+welovewordpress/SublimePhpTidy	38	Committed php_tidy.pyc (Python 2) makes the plugin fail to load: bad magic number	open	2026-10-26		https://github.com/welovewordpress/SublimePhpTidy/issues/38		2026-10-26	issue
+Warin/SublimeTidyHTML	14	tidy_html on Windows runs Packages\TidyHTML5\bin\tidy.exe, which does not exist for a Package Control install	open	2026-10-26		https://github.com/Warin/SublimeTidyHTML/issues/14		2026-10-26	issue
