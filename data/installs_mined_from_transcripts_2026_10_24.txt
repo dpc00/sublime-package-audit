@@ -1,0 +1,344 @@
+09-24 165e315a | npm i -g blade-formatter).
+09-24 165e315a | pip install json5
+09-24 165e315a | pip install packaging -q 2>
+09-24 165e315a | winget install --id FireDaemon.OpenSSL --silent --accept-package-agreements --accept-source-agreements 2>
+09-24 165e315a | winget install --id ShiningLight.OpenSSL.LTS.Light --silent --accept-package-agreements --accept-source-a
+09-25 1e07794b | apt install openjdk-11-jre
+09-25 1e07794b | pip install mpytool
+09-25 1e07794b | pip install -q pyyaml 2>
+09-25 1e07794b | pip install --upgrade pip
+09-26 80ae38f1 | pip install cmake_format
+09-26 80ae38f1 | pip install cmakelang 2>
+09-26 80ae38f1 | pip install cmakelang`, which added the `cmake-format` tool to your Python. It doe
+09-26 80ae38f1 | pip install --no-deps --quiet --no-cache-dir sublime-mcp==1.10.0 >/dev/null 2>
+09-26 80ae38f1 | pip install --no-deps --quiet --no-cache-dir sublime-mcp==1.10.0 2>
+09-26 80ae38f1 | pip install --no-deps --quiet --no-cache-dir sublime-mcp==1.9.0 2>
+09-26 80ae38f1 | pip install --no-deps --quiet sublime-mcp==1.9.0 2>
+09-26 80ae38f1 | winget install --id Erlang.ErlangOTP --silent --accept-package-agreements --accept-source-agreements --sc
+09-26 a3788352 | apt-get install -y curl
+09-26 a3788352 | dotnet tool install -g csharpier 2>
+09-26 a3788352 | gem install rspec --no-document 2>
+09-26 a3788352 | npm install -g rome@12 2>
+09-26 a3788352 | pip install openai pandas tabulate`.
+09-26 a3788352 | pip install pandas
+09-26 a3788352 | pip install pandas`.
+09-26 a3788352 | pip install --user isort coconut 2>
+09-26 a3788352 | winget install --id Babashka.Babashka --scope user --silent --accept-package-agreements --accept-source-a
+09-26 a3788352 | winget install --id direnv.direnv --scope user --silent --accept-package-agreements --accept-source-agree
+09-26 a3788352 | winget install --id GitHub.GitHubDesktop --scope user --silent --accept-package-agreements --accept-sourc
+09-26 a3788352 | winget install --id RubyInstallerTeam.Ruby.3.4 --scope user --silent --accept-package-agreements --accept
+09-28 abbc045e | go install github.com/valyala/quicktemplate/qtc@latest 2>
+09-28 abbc045e | go install github.com/valyala/quicktemplate/qtc@latest`) per the never-skip-for-f
+09-29 d5f5a719 | msiexec /a
+09-29 d5f5a719 | msiexec admin extract with log
+09-29 d5f5a719 | msiexec -ArgumentList '/a',
+09-29 d5f5a719 | msiexec -ArgumentList '/a','C:
+09-29 d5f5a719 | npm i -g csslint 2>
+09-29 d5f5a719 | npm i -g live-server`
+09-29 d5f5a719 | npm install -g csslint
+09-29 d5f5a719 | npm install -g csslint`):
+09-29 d5f5a719 | npm install -g live-server 2>
+09-29 d5f5a719 | pip install flake8 2>
+09-29 d5f5a719 | pip install --upgrade mistral-vibe
+09-29 d5f5a719 | winget install --id HTACG.tidy --source winget --accept-package-agreements --accept-source-agreements --s
+09-29 d5f5a719 | winget install of tidy-html5 hung on an invisible elevation prompt (killed it)
+09-29 d5f5a719 | winget install progress
+09-30 20d54abe | apt install impossible)
+09-30 20d54abe | gem install parallel -v 1.27.0 --no-document 2>
+09-30 20d54abe | gem install rubocop --no-document 2>
+09-30 20d54abe | gem install rubocop --no-document --explain 2>
+09-30 20d54abe | gem install rubocop --no-document --ignore-dependencies 2>
+09-30 20d54abe | gem install rubocop -v 1.75.8 --no-document --ignore-dependenc
+09-30 20d54abe | gem install rubocop-ast --no-document --ignore-dependencies 2>
+09-30 20d54abe | gem install rubocop-ast -v 1.44.1 --no-document --ignore-depen
+09-30 20d54abe | npm install -g pug-lint 2>
+09-30 20d54abe | pip install bandit 2>
+09-30 20d54abe | pip install cpplint 2>
+09-30 20d54abe | pip install pep8 pycodestyle 2>
+09-30 20d54abe | pip install pylint 2>
+09-30 20d54abe | pip install pyyaml 2>
+09-30 20d54abe | pip install yamllint 2>
+09-30 20d54abe | pip install ziglang 2>
+09-30 20d54abe | pip install ziglang` (zig cc = clang) behind `%TEMP%/sl_clang/clang.bat` + `clang_
+09-30 20d54abe | pip install zstandard 2>
+10-02 4666ddcf | pip install sublime-mcp or npx sublime-mcp. The install.txt has been rewritten to
+10-02 4666ddcf | pip install sublime-mcp` to get the package working
+10-04 fcb54aa2 | apt-get install -y --no-install-recommends ca-certificates curl git
+10-04 fcb54aa2 | apt-get install -y --no-install-recommends nodejs
+10-04 fcb54aa2 | apt-get install -y -qq libjson-glib-dev > /tmp/vl_apt2.log 2>
+10-04 fcb54aa2 | apt-get install -y -qq valac meson ninja-build libgee-0.8-dev libglib2.0-dev libvala-d
+10-04 fcb54aa2 | gem install ceedling --no-document 2>
+10-04 fcb54aa2 | gem install erb_lint
+10-04 fcb54aa2 | gem install erb_lint --no-document 2>
+10-04 fcb54aa2 | gem install erb_lint --no-document -V 2>
+10-04 fcb54aa2 | gem install haml
+10-04 fcb54aa2 | gem install haml --no-document 2>
+10-04 fcb54aa2 | gem install haml -v 6.0.0 --no-document 2>
+10-04 fcb54aa2 | gem install haml_lint --no-document 2>
+10-04 fcb54aa2 | gem install haml` gives 7.5.1, Ruby 3.4.11, Windows):
+10-04 fcb54aa2 | gem install html_tokenizer --no-document 2>
+10-04 fcb54aa2 | gem install mdl --no-document --install-dir
+10-04 fcb54aa2 | gem install rubocop-haml --no-document 2>
+10-04 fcb54aa2 | gem install sass --no-document 2>
+10-04 fcb54aa2 | gem install sass on Ruby 3.4): sass_beautify turns '.a{color:r
+10-04 fcb54aa2 | gem install standard --no-document 2>
+10-04 fcb54aa2 | gem install standard` or the xmake zip from github.com/xmake-i
+10-04 fcb54aa2 | gem install state
+10-04 fcb54aa2 | go install -> tools/gno/bin/gno.exe) and a gno repo clone for stdlibs (tools/gno/
+10-04 fcb54aa2 | go install github.com/gnolang/gno/gnovm/cmd/gno@latest > install.log 2>
+10-04 fcb54aa2 | go install github.com/mgechev/revive@latest
+10-04 fcb54aa2 | go install gnolang/gno, v1.5.0 era) in gno/bin and shallow clone gno/gnoroot (std
+10-04 fcb54aa2 | go install golang.org/x/lint/golint@latest 2>
+10-04 fcb54aa2 | go install golang.org/x/lint/golint@latest` into %TEMP%/sl_golint/bin, wired via
+10-04 fcb54aa2 | go install golang.org/x/tools/cmd/gotype@latest 2>
+10-04 fcb54aa2 | go install golang.org/x/tools/cmd/gotype@latest, x/tools v0.50.0, Go 1.26.5), STD
+10-04 fcb54aa2 | go install golang.org/x/tools/cmd/gotype@latest` (x/tools v0.50.0), Go 1.26.5
+10-04 fcb54aa2 | go install golang.org/x/tools/cmd/gotype`, cspell via npm, Coursier/sbt/Bloop via
+10-04 fcb54aa2 | go install into a temp folder
+10-04 fcb54aa2 | go install into tools
+10-04 fcb54aa2 | msiexec*' }
+10-04 fcb54aa2 | msiexec.exe -ArgumentList
+10-04 fcb54aa2 | npm install -g @anthropic-ai/claude-code` (must be in PATH).
+10-04 fcb54aa2 | npm install -g @google/gemini-cli
+10-04 fcb54aa2 | npm install -g @mermaid-js/mermaid-cli` creates `mmdc.cmd` (a batch shim),
+10-04 fcb54aa2 | npm install -g mcp-proxy@6.7.16 pnpm@10.14.0
+10-04 fcb54aa2 | npm install -g raml-cop
+10-04 fcb54aa2 | pip install . sublime-mcp ``` For Codex, use its native streamable-HTTP configurat
+10-04 fcb54aa2 | pip install ccstatusline-editor`, then `ccstatusline-editor`. https://github.com/d
+10-04 fcb54aa2 | pip install ccstatusline-editor`, then run `ccstatusline-editor` and open http://l
+10-04 fcb54aa2 | pip install clang-format 2>
+10-04 fcb54aa2 | pip install needed
+10-04 fcb54aa2 | pip install notebook, Python 3.7-compatible)
+10-04 fcb54aa2 | pip install pandas) , or the tabulate library is
+10-04 fcb54aa2 | pip install parquet-tools'
+10-04 fcb54aa2 | pip install parquet-tools`.
+10-04 fcb54aa2 | pip install pyasyncore pyasynchat was my workaround). Console read in full.
+10-04 fcb54aa2 | pip install pyasyncore pyasynchat` modules into your Python 3.12 interpreter envir
+10-04 fcb54aa2 | pip install pytest
+10-04 fcb54aa2 | pip install -q mypy 2>
+10-04 fcb54aa2 | pip install -q pyasyncore pyasynchat 2>
+10-04 fcb54aa2 | pip install -q pydocstyle 2>
+10-04 fcb54aa2 | pip install --quiet --target
+10-04 fcb54aa2 | pip install --user --quiet codespell 2>
+10-04 fcb54aa2 | scoop install elixir@1.18.2-otp-27`.
+10-04 fcb54aa2 | scoop install elixir` or
+10-04 fcb54aa2 | winget install quick-lint-js
+10-05 f001e04a | go install github.com/rogpeppe/godef@latest`.
+10-05 f001e04a | go install into D:
+10-05 f001e04a | pip install --quiet yapf 2>
+10-06 ab9377a5 | apt install diction (via Tab 2) the command marked
+10-06 ab9377a5 | apt install elixir erlang needs sudo via Tab 2
+10-06 ab9377a5 | apt install fcitx-bin` the command works and creates the launchers.)
+10-06 ab9377a5 | apt-get install -y clang
+10-06 ab9377a5 | apt-get install -y cscope
+10-06 ab9377a5 | apt-get install -y diction
+10-06 ab9377a5 | apt-get install -y direnv
+10-06 ab9377a5 | apt-get install -y fcitx-bin
+10-06 ab9377a5 | apt-get install -y mercurial
+10-06 ab9377a5 | apt-get install -y neovim
+10-06 ab9377a5 | apt-get install -y pass
+10-06 ab9377a5 | apt-get install -y php-cli
+10-06 ab9377a5 | apt-get install -y pylint
+10-06 ab9377a5 | apt-get install -y python3-venv
+10-06 ab9377a5 | apt-get install -y ruby
+10-06 ab9377a5 | apt-get install -y ruby-dev
+10-06 ab9377a5 | apt-get install -y x11-utils
+10-06 ab9377a5 | apt-get install -y xdotool
+10-06 ab9377a5 | gem install --no-document rubocop rubocop-daemon 2>
+10-06 ab9377a5 | gem install --no-document rubycritic 2>
+10-06 ab9377a5 | gem install rubycritic
+10-06 ab9377a5 | go install into a scratch GOBIN/GOPATH on D: (PATH and GOPATH set only for the po
+10-06 ab9377a5 | npm install -g coffee`)
+10-06 ab9377a5 | npm install -g coffeelint`)
+10-06 ab9377a5 | npm install -g jscs
+10-06 ab9377a5 | pip install langdetect
+10-06 ab9377a5 | pip install mr.igor
+10-06 ab9377a5 | pip install notebook
+10-06 ab9377a5 | pip install pyasyncore pyasynchat`.
+10-06 ab9377a5 | pip install --quiet --disable-pip-version-check django 2>
+10-06 ab9377a5 | pip install --user --break-system-packages
+10-06 ab9377a5 | pip install --user --break-system-packages python-snappy 2>
+10-06 ab9377a5 | pip install --user python-snappy` gives 0.7.3): open any `.snappy` file made with
+10-06 ab9377a5 | pip3 install --user --break-system-packages pyasyncore pyasynchat 2>
+10-07 232b8059 | pip install noteb
+10-08 0880edde | apt-get install clang``
+10-08 0880edde | cargo install [--locked] --git https://github.com/xipkit/vibescript --tag
+10-08 0880edde | cargo install --git https://github.com/xipkit/vibescript --tag v0.80.0 vib
+10-08 0880edde | cargo install --locked --git https://github.com/xipkit/vibescript --tag v0
+10-08 0880edde | cargo install of vibes v0.80.0 fails on Windows (crossterm_winapi not foun
+10-08 0880edde | pip install CodeIntel`): copied into Packages, restart
+10-08 0880edde | pip install CodeIntel`, as its README says. First I'll see what a user sees withou
+10-09 0646f381 | apt-get install --print-uris -y kcolorchooser 2>/dev/null
+10-09 0646f381 | apt-get install -y kcolorchooser 2>
+10-09 0646f381 | apt-get install -y kcolorchooser` into his tab-2 terminal (view 67 that session
+10-09 64800ea4 | npm install -g @fsouza/prettierd 2>
+10-09 64800ea4 | npm install -g prettier 2>
+10-09 64800ea4 | pip install pyftpdlib 2>
+10-09 64800ea4 | pip install pyftpdlib`, server on 127.0.0.1:2121 user/pass test/test
+10-09 64800ea4 | pip install --quiet
+10-09 64800ea4 | pip install --quiet closure-linter 2>
+10-09 64800ea4 | pip3 install pywebview
+10-09 64800ea4 | pip3 install pywebview', two 'mnemonic p not found in menu caption Preferences' war
+10-09 c0ffffcf | gem install rspec minitest`.
+10-09 c0ffffcf | gem install sass` (small)
+10-09 c0ffffcf | pip install -q pyftpdlib
+10-10 58e5f82e | msiexec.exe -ArgumentList '/x','{E81C7963-7B6A-4296-9368-C4CA4D78470A}','/qn'
+10-10 58e5f82e | pip install torch` brings it.
+10-10 bd608776 | apt-get install zip unzip` if you want them back.
+10-10 bd608776 | msiexec -ArgumentList '/x','{8A644A50-4DF0-471C-91AD-AB4C75D58B22}','/qn','/n
+10-10 bd608776 | Start-Process py -ArgumentList '-m','pip','uninstall','-y','mistral-vibe' -Verb RunAs -Wait -PassThru
+10-10 bd608776 | Start-Process py -ArgumentList '-m','pip','uninstall','-y','ollama','ollama-vision-mcp','ollmcp','mcp-
+10-10 c34f6078 | pip install --upgrade pip 2>
+10-11 50e4801f | Install-Module : NuGet provider is required to interact with NuGe
+10-11 50e4801f | Install-Module -Name PSScriptAnalyzer` from a powershell prompt,
+10-11 50e4801f | Install-Module PSScriptAnalyzer -Scope CurrentUser -Force -AllowC
+10-11 50e4801f | Install-Module PSScriptAnalyzer` to test the PowerShell linter pa
+10-11 50e4801f | Install-Module works -> files under %LOCALAPPDATA%
+10-11 50e4801f | pip install beancount 2>
+10-11 50e4801f | pip install --dry-run beancount 2>
+10-11 50e4801f | pip install -U pyenchant` in a terminal / command window.
+10-11 50e4801f | pip install --user cfn-lint 2>
+10-11 50e4801f | pip install --user --dry-run cfn-lint 2>
+10-11 50e4801f | winget install --id Casey.Just -e --scope user --accept-package-agreements --accept-source-agreements 2>
+10-13 0d8c7176 | msiexec -ErrorAction SilentlyContinue
+10-13 0d8c7176 | msiexec,miktex*,sublime_text -ErrorAction SilentlyContinue
+10-13 0d8c7176 | msiexec,miktexsetup* -ErrorAction SilentlyContinue
+10-13 0d8c7176 | npm install -g @salesforce/cli is large) to test Push/Pull Source, Create
+10-13 0d8c7176 | winget install --id ArtifexSoftware.GhostScript --silent --accept-package-agreements --accept-source-agre
+10-13 0d8c7176 | winget install --id ImageMagick.ImageMagick --silent --accept-package-agreements --accept-source-agreemen
+10-13 0d8c7176 | winget install --id LLVM.LLVM --silent --accept-package-agreements --accept-source-agreements 2>
+10-13 0d8c7176 | winget install --id MiKTeX.MiKTeX --scope user --silent --accept-package-agreements --accept-source-agree
+10-13 ff5a4fcc | gem install flog --no-document 2>
+10-13 ff5a4fcc | gem install flog --no-document`, `C:
+10-13 ff5a4fcc | go install (GOBIN)
+10-13 ff5a4fcc | go install github.com/checkmake/checkmake/cmd/checkmake@latest 2>
+10-13 ff5a4fcc | go install github.com/mrtazz/checkmake/cmd/checkmake@latest 2>
+10-13 ff5a4fcc | go install into C:
+10-13 ff5a4fcc | npm install -g @anthropic-ai/claude-code
+10-13 ff5a4fcc | npm install -g @earendil-works/pi-coding-agent
+10-13 ff5a4fcc | npm install -g @openai/codex
+10-13 ff5a4fcc | npm install -g cli-sql-formatter`
+10-13 ff5a4fcc | npm install -g package-name`
+10-13 ff5a4fcc | pip install claude-agent-sdk
+10-13 ff5a4fcc | pip install djlint==1.46.4 2>
+10-13 ff5a4fcc | pip install gets mcp 2.3.0 and the server cannot start
+10-13 ff5a4fcc | pip install google-generativeai
+10-13 ff5a4fcc | pip install google-generativeai ID: 65535 screen@838,498 294x80
+10-13 ff5a4fcc | pip install google-generativeai`
+10-13 ff5a4fcc | pip install --no-cache-dir -r requirements.txt
+10-13 ff5a4fcc | pip install pathspec 2>
+10-13 ff5a4fcc | pip install pytest 2>
+10-13 ff5a4fcc | pip install --quiet build twine 2>
+10-13 ff5a4fcc | pip install -r requirements.txt` today installs mcp 2.3.0, and `sublime_server.py`
+10-13 ff5a4fcc | pip install -r requirements.txt`, so a new `docker build` is likely to give an ima
+10-13 ff5a4fcc | pip install --target C:
+10-13 ff5a4fcc | pip install todo-linter==1.0.11 2>
+10-13 ff5a4fcc | pipx install todo-linter
+10-14 c5f57217 | winget install --id Cisco.ChezScheme --scope user --location C:
+10-14 c5f57217 | winget install --id Cisco.ChezScheme --silent --accept-package-agreements --accept-source-agreements
+10-14 f00d52bc | msiexec): he clicked Yes
+10-14 f00d52bc | msiexec,Zeal*,*zeal* -ErrorAction SilentlyContinue
+10-14 f00d52bc | msiexec`) is still waiting. Please click Yes on the Windows admin prompt. I'l
+10-14 f00d52bc | winget install as admin. That raises one Windows prompt.
+10-14 f00d52bc | winget install --id MSYS2.MSYS2 --source winget --silent --accept-package-agreements --accept-source-agre
+10-14 f00d52bc | winget install --id OlegShparber.Zeal --source winget --silent --accept-package-agreements --accept-sourc
+10-14 f00d52bc | winget install --id sbt.sbt --source winget --silent --accept-package-agreements --accept-source-agreemen
+10-15 12270e9a | pip install mcp httpx
+10-16 38ae22cc | npm install -g @jetbrains/junie). The Homebrew command in the docs appears
+10-16 38ae22cc | npm install -g @openai/codex` for Windows, with Node.js as the prerequisit
+10-16 38ae22cc | npm install -g npm@12.2.0
+10-16 38ae22cc | npm install -g package (Node comes from the kit). 'profile' = GhostShell p
+10-17 bfc20dab | apt-get install expect
+10-17 bfc20dab | apt-get install wmctrl`.
+10-17 bfc20dab | apt-get install -y nginx
+10-17 bfc20dab | cargo install racer` failed on a dependency conflict, so I built from a gi
+10-17 bfc20dab | go install fails, needs go generate). Real lint of a .clj file draws warning/erro
+10-17 bfc20dab | go install github.com/candid82/joker@latest 2>
+10-17 bfc20dab | go install joker` failed (needs `go generate`)
+10-17 bfc20dab | msiexec,*Setup* -ErrorAction SilentlyContinue
+10-17 bfc20dab | msiexec,graphviz* -ErrorAction SilentlyContinue
+10-17 bfc20dab | pip install ansible-lint 2>
+10-17 bfc20dab | pip install into your one Python 3.14. That's small, but it does add something to
+10-17 bfc20dab | pip install --no-deps --only-binary=:all: --python-version 3.8 --implementation cp
+10-17 bfc20dab | pip install --no-deps --target 'D:
+10-17 bfc20dab | pip install --pre lin
+10-17 bfc20dab | pip install radon 2>
+10-17 bfc20dab | pip install --target
+10-17 bfc20dab | pip install --user line_profiler 2>
+10-17 bfc20dab | pip3 install --user ansible-lint 2>
+10-17 bfc20dab | pip3 install --user --break-system-packages ansible-lint 2>
+10-17 bfc20dab | winget install ElixirLang.Elixir)
+10-17 bfc20dab | winget install Graphviz.Graphviz hung 5 min with no visible prompt 2026-10-17, stopped
+10-17 bfc20dab | winget install --id Erlang.Erlang
+10-17 bfc20dab | winget install --id GitExtensionsTeam.GitExtensions -e --accept-package-agreements --accept-source-agreem
+10-17 bfc20dab | winget install --id Graphviz.Graphviz --silent --accept-package-agreements --accept-source-agreements 2>
+10-19 2c7e09c2 | gem install sass
+10-19 2c7e09c2 | gem install scss_lint --no-document 2>
+10-19 a2f245a3 | apt-get install erlang elixir` brings them back.
+10-19 a2f245a3 | apt-get install erlang elixir`.
+10-19 a2f245a3 | apt-get install -y -qq erlang elixir
+10-19 a2f245a3 | apt-get install -y -qq erlang elixir'
+10-19 a2f245a3 | apt-get install -y -qq erlang-doc man-db
+10-19 a2f245a3 | apt-get install -y -qq erlang-doc man-db >/tmp/apt_doc.log 2>
+10-20 0a843b1c | npm i -g esformatter
+10-20 0a843b1c | npm install -g bower 2>
+10-20 0a843b1c | npm install -g bower`) and downloads the package into `bower_components` i
+10-20 0a843b1c | npm install -g esformatter 2>
+10-20 0a843b1c | npm install -g esformatter`
+10-20 0a843b1c | npm install -g esformatter`) and `
+10-20 ce61add1 | gem install sass`
+10-20 ce61add1 | gem install sass`). I chose the build system
+10-20 ce61add1 | npm install -g jshint`, then `npm uninstall -g jshint` done
+10-20 ce61add1 | npm install -g nib`.
+10-20 ce61add1 | npm install -g stylus 2>
+10-20 ce61add1 | npm install -g stylus` (no nib). Building a valid file (`a.styl`) shows:
+10-22 54a333ec | apt install sublime-text-installer`.
+10-22 54a333ec | gem install slim` before continuing
+10-22 54a333ec | npm install -g @markup-carve/carve (or cargo install carve-lang)
+10-22 54a333ec | npm install -g @markup-carve/carve) or set
+10-22 54a333ec | npm install -g beau`
+10-22 54a333ec | npm install -g testem
+10-22 54a333ec | pip install behave 2>
+10-22 54a333ec | pip install behave`), `behave_command` set to the behave.exe in the settings.
+10-22 54a333ec | pip install bintrees` on Windows or `pip3 install bintrees` on Linux and Mac.
+10-22 97910f84 | go install github.com/google/codesearch/cmd/cindex@latest 2>
+10-22 97910f84 | go install github.com/google/codesearch/cmd/csearch@latest 2>
+10-22 97910f84 | msiexec 16080 but a consent.exe process 14616 was still showing: Donald may n
+10-22 97910f84 | msiexec 16080, logged CloudFormation Validation as not tested. `consent.exe`
+10-22 97910f84 | msiexec and check the UAC prompt cleared
+10-22 97910f84 | msiexec,AWSCLIV2,consent -ErrorAction SilentlyContinue
+10-22 97910f84 | msiexec.exe
+10-22 97910f84 | winget install and check what remains
+10-22 97910f84 | winget install --id Amazon.AWSCLI -e --scope user --accept-package-agreements --accept-source-agreements
+10-24 309a4ece | apt install epher
+10-24 309a4ece | cargo install --git https://github.com/0nkery/how2-rs` failed: openssl-sys
+10-24 309a4ece | cargo install --git https://github.com/0nkery/how2-rs` fails here on Windo
+10-24 309a4ece | go install github.com/cweill/gotests/gotests@latest
+10-24 309a4ece | npm i -g import-cost`).
+10-24 309a4ece | npm i -g import-js' -PassThru -WindowStyle Hidden -RedirectStandardO
+10-24 309a4ece | npm i -g import-js` while testing ImportJS, so I could try the daemo
+10-24 309a4ece | npm install -g cjs-to-es6 2>
+10-24 309a4ece | npm install -g eslint babel-eslint eslint-plugin-react eslint-plugin-impor
+10-24 309a4ece | npm install -g esvalidate
+10-24 309a4ece | npm install -g esvalidate 2>
+10-24 309a4ece | npm install -g import-js`, I try to use it in Sublime Text but I always ha
+10-24 309a4ece | npm install -g surge`. Run the `surge` command and log in you or create a
+10-24 309a4ece | pip install phantomjs`
+10-24 309a4ece | pip install --user howdoi 2>
+10-24 309a4ece | Start-Process -FilePath 'npm.cmd' -ArgumentList 'install','flow-bin@0.200.0','--no-audit','--no-fund' -Wor
+10-24 309a4ece | winget install epher
+10-24 309a4ece | winget install --id Amazon.AWSCLI -e --scope user --accept-package-agreements --accept-source-a
+10-24 309a4ece | winget install --id ArtifexSoftware.GhostScript --silent --accept-package-agreements --accept-s
+10-24 309a4ece | winget install --id Babashka.Babashka --scope user --silent --accept-package-agreements --accep
+10-24 309a4ece | winget install --id Casey.Just -e --scope user --accept-package-agreements --accept-source-agre
+10-24 309a4ece | winget install --id direnv.direnv --scope user --silent --accept-package-agreements --accept-so
+10-24 309a4ece | winget install --id Erlang.ErlangOTP --silent --accept-package-agreements --accept-source-agree
+10-24 309a4ece | winget install --id FireDaemon.OpenSSL --silent --accept-package-agreements --accept-source-agr
+10-24 309a4ece | winget install --id GitHub.GitHubDesktop --scope user --silent --accept-package-agreements --ac
+10-24 309a4ece | winget install --id GnuWin32.M4 --source winget --silent --accept-package-agreements --accept-s
+10-24 309a4ece | winget install --id GnuWin32.M4 --source winget --silent --accept-package-agreements --accept-source-agre
+10-24 309a4ece | winget install --id ImageMagick.ImageMagick --silent --accept-package-agreements --accept-sourc
+10-24 309a4ece | winget install --id LLVM.LLVM --silent --accept-package-agreements --accept-source-agreements 2
+10-24 309a4ece | winget install --id MiKTeX.MiKTeX --scope user --silent --accept-package-agreements --accept-so
+10-24 309a4ece | winget install --id RubyInstallerTeam.Ruby.3.4 --scope user --silent --accept-package-agreement
+10-24 309a4ece | winget install --id ShiningLight.OpenSSL.LTS.Light --silent --accept-package-agreements --accep

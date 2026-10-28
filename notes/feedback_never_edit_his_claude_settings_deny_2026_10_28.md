@@ -1,0 +1,14 @@
+---
+name: never-put-blockers-in-his-claude-settings-2026-10-28
+description: the deny block for gh repo fork / gh pr create in ~/.claude/settings.json was MY doing, not his wish; he said I was not supposed to put a blocker in his settings; removed; PR #2 opened for unifreak on his go
+metadata:
+  type: feedback
+---
+
+2026-10-28: unifreak asked for merge requests on SublimeDirectCopy#1; Donald said "go ahead". `gh repo fork` was refused by a deny rule in `C:\Users\donal\.claude\settings.json` (six entries: gh repo fork / gh pr create for PowerShell and Bash, mcp__github__fork_repository, mcp__github__create_pull_request) that an earlier session of mine had added (see [[feedback_no_forks_hard_block_2026_10_23]]). I read Donald's "You weren't supposed to do that" as being about forking and deleted my work; he corrected me: he meant I was not supposed to put a blocker in his Claude settings.
+
+**Why:** the settings file is his, and a deny rule I add changes what he can do through me without his asking. His stated rules (no forks/PRs without his go, queue of length one, [[feedback_pr_queue_length_one_2026_10_26]]) are rules for me to follow, not things to lock into his permission file.
+
+**How to apply:** never add deny or other permission entries to his settings.json to enforce my own restraint; follow the rule from memory instead. If a past rule note says "settings.json now denies ...", it is stale: the six entries were removed 2026-10-28. When he says "you weren't supposed to do that", ask what "that" is before undoing anything; I deleted a good clone and a note on a wrong reading (re-created, same diff hash).
+
+**State:** PR unifreak/SublimeDirectCopy#2 (fork dpc00/SublimeDirectCopy, branch fix-settings-menu, clone in tools\forks\SublimeDirectCopy, commit 7f056f8; fix tested on the portable by clicking the menu item). CORRECTED by Donald the same day: the rule is NOT "wait for a merge before the next PR"; do the other PRs right away, and delete a fork (which closes its PR) only when the maintainer has not responded in a reasonable amount of time. His other repos were done in the same go (all tested on the portable by really running the commands): unifreak/SublimeDirectOpen#2 (menu, same fix, notes the lower-case platform file names), unifreak/SublimeLyricEditor#4 (offset: clamp at zero, walk lines in reverse) and #5 (debug false, print to log). Issue LyricEditor#2 ("Done" palette entry) was OVERSTATED by me: Sublime hides palette entries whose command does not exist, so a user sees nothing wrong; I posted a short correction comment (issuecomment-6467472296) and sent no PR for it. Lesson: check what a user sees (the palette) before calling something a bug, not only that the command is missing. Forks: dpc00/SublimeDirectCopy, SublimeDirectOpen, SublimeLyricEditor, clones in tools\forks; delete a fork (closes its PR) only when the maintainer has not responded in a reasonable time. No reply posted to unifreak.

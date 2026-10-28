@@ -1,0 +1,462 @@
+{
+ "SublimeLinter-pylint": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-27_085604_549865.log:2644: \"SublimeLinter-pylint\" based on the pattern."
+ },
+ "Verilog": {
+  "hits": 5,
+  "files": 1,
+  "example": "ai_2026-09-25_100645_557812.log:1627: \u25cf Bash(where verible-verilog-format 2>&1 | head -2; cd \"$TEMP/q300\" && cat"
+ },
+ "Jinja2": {
+  "hits": 8,
+  "files": 2,
+  "example": "ai_2026-09-24_155325_716182_reattach.log:3399: +by Package Control on this real installation (`Lib/python38/` has `mdpopups`, `markupsafe`, `jinja2`, etc. from the same list, but"
+ },
+ "TOML": {
+  "hits": 7,
+  "files": 3,
+  "example": "ai_2026-09-20_122143_767945.log:461: The error indicates a missing module, digital_mcp_server. Investigating the pyproject.toml file within the failing project might"
+ },
+ "SublimeLinter-xmllint": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-28_142347_480974.log:9136: 23 SublimeLinter-xmllint         58701 installs  upd 2025-04-24  SublimeLinter/SublimeL"
+ },
+ "Debugger": {
+  "hits": 51,
+  "files": 10,
+  "example": "ai_2026-09-19_033313_402401.log:24: \u203a debugger-mcp and lsp-mcp are retired.  Try to remove them from your config.  A extensive audit of Package Control"
+ },
+ "CFML": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-24_155325_716182_reattach.log:449: modern successor blending CFML/ColdFusion-style syntax with first-class Java interop. It runs as scripts, in servers, on AWS Lambda, etc. This"
+ },
+ "Codec": {
+  "hits": 3,
+  "files": 3,
+  "example": "ai_2026-09-24_014614_122362_reattach.log:257: UnicodeEncodeError: 'charmap' codec can't encode characters in position 3543-3545: character maps to <undefined>"
+ },
+ "Mermaid": {
+  "hits": 2,
+  "files": 1,
+  "example": "ai_2026-09-24_155325_716182_reattach.log:2064: +, `pyqrcode`, plus bundled `highlight.js`/`KaTeX`/`Mermaid` assets for Markdown preview. Specifically checked against the missing-a"
+ },
+ "Hosts": {
+  "hits": 20,
+  "files": 10,
+  "example": "ai_2026-09-25_001423_189362.log:3106: load errors from both plugin hosts. Launching it was denied as an unsafe unattended agent. I did not try another way. The files sit only in the"
+ },
+ "Pieces": {
+  "hits": 2,
+  "files": 2,
+  "example": "ai_2026-09-25_100645_557812.log:9790: - Still to do: PostgreSQL, Fantom (fan), Verible and the LSP pieces. Then I test each"
+ },
+ "Wrap": {
+  "hits": 25,
+  "files": 11,
+  "example": "ai_2026-09-21_021258_052022_reattach.log:1826: - The wrap is fragile: a narrower tab moves more items to the second row. A toolbar that hides its own last item when the"
+ },
+ "Claude Code IDE": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-21_021258_052022_reattach.log:1382: SublimeLinter Inline Errors, SublimeLinter-pyflakes, ShowTexdoc, Schema Validator, Claude Code IDE, SQLTools, and STLogs,"
+ },
+ "Lean": {
+  "hits": 9,
+  "files": 2,
+  "example": "ai_2026-09-26_071148_945142.log:350: write-up, so I'll check how the maintainers closed them before we lean on any claim."
+ },
+ "systemd": {
+  "hits": 3,
+  "files": 1,
+  "example": "ai_2026-09-27_082019_163315_reattach.log:692: \u2502 (systemd units, ignition merge/replace, set-hostname, zram, etc.), LICENSE, README.                                                     \u2502"
+ },
+ "Expr": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-27_074058_822870.log:51: - Fixed the edit tool warning that valid Go 1.26 new(expr) calls (e.g. new(f(x))) introduced a syntax error, and ast_grep/ast_edit"
+ },
+ "SublimeCodeIntel": {
+  "hits": 2,
+  "files": 1,
+  "example": "ai_2026-09-28_142347_480974.log:8443: \u2502 mentioned (incl. SublimeCodeIntel 1.86M, Color Highlighter 1.26M, many"
+ },
+ "SublimeREPL": {
+  "hits": 2,
+  "files": 1,
+  "example": "ai_2026-09-21_021258_052022_reattach.log:1329: SublimeZilla, TreeSitter, python-black, ssh-panel), the folders SSH-Panel, SublimeREPL, Terminus and sublime-llm,"
+ },
+ "ConvertToUTF8": {
+  "hits": 4,
+  "files": 1,
+  "example": "ai_2026-09-28_142347_480974.log:8441: \u2502 done in queue, 108 still ahead of #708 (e.g. ConvertToUTF8 is #709, 1.38M installs), 31"
+ },
+ "Color Highlighter": {
+  "hits": 2,
+  "files": 1,
+  "example": "ai_2026-09-28_142347_480974.log:8443: \u2502 mentioned (incl. SublimeCodeIntel 1.86M, Color Highlighter 1.26M, many"
+ },
+ "ESLint": {
+  "hits": 2,
+  "files": 1,
+  "example": "ai_2026-09-28_083636_991986.log:4963: \u25cf 2 open bugs already tracked (#91 KeyError:'jsx', #80 eslint_d leaks errors). Let's check #91 for context before"
+ },
+ "Minify": {
+  "hits": 4,
+  "files": 2,
+  "example": "ai_2026-09-24_155325_716182_reattach.log:3684: 3318 +- Installed live. A substantial EDI (Electronic Data Interchange) toolkit: beautify/minify/validate/repair/convert for EDIFACT, X12"
+ },
+ "SQLTools": {
+  "hits": 36,
+  "files": 6,
+  "example": "ai_2026-09-20_141521_349339.log:13: > my menu \"All Agents History\" produces what's in Tab 2.  What is it?  I have installed SQLTools package and can't figure the package out."
+ },
+ "Glue": {
+  "hits": 4,
+  "files": 2,
+  "example": "ai_2026-09-24_155325_716182_reattach.log:2939: \u25cf A thin wrapper around the well-known, mature titlecase PyPI library \u2014 no bug in the plugin glue itself. No bug found. Uninstalling and moving to"
+ },
+ "FileZilla SFTP Import": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-21_021258_052022_reattach.log:1381: SublimeREPL (twice), TreeSitter, ColorPicker (three times), WakaTime, LiveReload, FileZilla SFTP Import, ImagePaste,"
+ },
+ "npm-install": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-25_001423_189362.log:2714: 028_npm-install\";\u2026)"
+ },
+ "JSONComma": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-25_001423_189362.log:2854: 0938_JSONComma server.py:151 resp = requests.get("
+ },
+ "Processing": {
+  "hits": 5,
+  "files": 3,
+  "example": "ai_2026-09-22_200551_585210_reattach.log:423: 54 -_ENABLE_VIRTUAL_TERMINAL_PROCESSING = 0x0004"
+ },
+ "Keymaps": {
+  "hits": 7,
+  "files": 4,
+  "example": "ai_2026-09-19_030726_962202.log:244: untracked and uncommitted. Sublime reloads keymaps on save, so it should already be live. I didn't confirm that."
+ },
+ "Todo": {
+  "hits": 53,
+  "files": 7,
+  "example": "ai_2026-09-20_194550_007603.log:751: \u25cf Rule 7 is saved. One finding: Terminus isn't installed here, and the only Terminus mentions I found earlier were in old TODO"
+ },
+ "Dictionaries": {
+  "hits": 4,
+  "files": 3,
+  "example": "ai_2026-09-24_014614_122362_reattach.log:285: - Merge: on the test data, a user's profiles layers over the shipped ones profile by profile. Dictionaries merge, and lists replace as a whole. This"
+ },
+ "Composer": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-25_100645_557812.log:9655: Composer."
+ },
+ "Duplicate Lines": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-19_142340_339919.log:766: twice. That's a GhostShell/Grok display issue - duplicate lines in the tab."
+ },
+ "Restart": {
+  "hits": 170,
+  "files": 45,
+  "example": "ai_2026-09-19_030726_962202.log:193: Sublime normally reloads menu files on save, so the entry should show up in the menu bar without a restart. I"
+ },
+ "Automatic Backups": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-21_021258_052022_reattach.log:1366: \u25cf Those timestamped folders are just Package Control's automatic backups from installing/removing packages (like R-IDE), plus a"
+ },
+ "Pywin32": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-25_100645_557812.log:10908: \u25cf A Pythonwin window just popped up, likely triggered by the indexer importing pywin32's"
+ },
+ "Request": {
+  "hits": 93,
+  "files": 22,
+  "example": "ai_2026-09-19_030726_962202.log:393: and nothing sends a reject answer back for that request. So Claude Code closed the tab itself, which usually"
+ },
+ "SublimeLinter Inline Errors": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-21_021258_052022_reattach.log:1382: SublimeLinter Inline Errors, SublimeLinter-pyflakes, ShowTexdoc, Schema Validator, Claude Code IDE, SQLTools, and STLogs,"
+ },
+ "Accessibility": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-27_082019_163315_reattach.log:4067: accessibility tree. To get the actual content, I'll use the portable Sublime's eval_python helper to pull the text from the panel"
+ },
+ "FileZilla": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-21_021258_052022_reattach.log:1381: SublimeREPL (twice), TreeSitter, ColorPicker (three times), WakaTime, LiveReload, FileZilla SFTP Import, ImagePaste,"
+ },
+ "isort": {
+  "hits": 7,
+  "files": 2,
+  "example": "ai_2026-09-25_100645_557812.log:1138: \u25cf I found that isorted runs isort synchronously with a timeout, and on timeout it"
+ },
+ "Local Packages": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-24_101652_749281_reattach.log:2906: removal\u2014skipping names that could collide with local packages and checking main-thread responsiveness before each batch. I'll dry-run it on 3"
+ },
+ "Schema Validator": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-21_021258_052022_reattach.log:1382: SublimeLinter Inline Errors, SublimeLinter-pyflakes, ShowTexdoc, Schema Validator, Claude Code IDE, SQLTools, and STLogs,"
+ },
+ "Carbon": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-25_100645_557812.log:3111: Carbon, tested earlier with Bend). Still open: #334 (MCNP, tested with Bend, no bug),"
+ },
+ "Hooks": {
+  "hits": 16,
+  "files": 7,
+  "example": "ai_2026-09-20_142418_403343.log:1958: \u2502 hooks"
+ },
+ "ImagePaste": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-21_021258_052022_reattach.log:1381: SublimeREPL (twice), TreeSitter, ColorPicker (three times), WakaTime, LiveReload, FileZilla SFTP Import, ImagePaste,"
+ },
+ "ClassName": {
+  "hits": 2,
+  "files": 1,
+  "example": "ai_2026-09-24_231603_815641.log:319: \u2502     \\$c = \\$el.Current.ClassName                                                                                                                  \u2502"
+ },
+ "Cmder": {
+  "hits": 12,
+  "files": 1,
+  "example": "ai_2026-09-28_083636_991986.log:3925: \"description\": \"Send code and text to macOS and Linux Terminals, iTerm, ConEmu, Cmder, Tmux, Terminus; R"
+ },
+ "Diagram": {
+  "hits": 9,
+  "files": 2,
+  "example": "ai_2026-09-20_142418_403343.log:2034: \u2502   WHERE content LIKE '%hardware%' OR content LIKE '%circuit%' OR content LIKE '%diagram%' LIMIT 5;\""
+ },
+ "AWS Lambda": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-24_155325_716182_reattach.log:449: modern successor blending CFML/ColdFusion-style syntax with first-class Java interop. It runs as scripts, in servers, on AWS Lambda, etc. This"
+ },
+ "Jest": {
+  "hits": 7,
+  "files": 1,
+  "example": "ai_2026-09-26_071148_945142.log:49: installing Node/Jest if needed. \u00b7 summary                                             \u25cf"
+ },
+ "SPARQL": {
+  "hits": 3,
+  "files": 1,
+  "example": "ai_2026-09-28_083636_991986.log:1901: (SPARQL/Turtle/TriG/etc.) generated via a build pipeline. Given the maturity, I'll do a live smoke test rather than a deep"
+ },
+ "Sound": {
+  "hits": 7,
+  "files": 2,
+  "example": "ai_2026-09-25_093935_539343.log:21: microphone   Microphone Array (Intel\u00ae Smart Sound Technology for Digital Microphones) (48000 Hz, 2 ch, F32)"
+ },
+ "Levels": {
+  "hits": 2,
+  "files": 2,
+  "example": "ai_2026-09-24_101652_749281_reattach.log:1481: ..\\x, ../../x) were written up to two levels above it. Master has the identical code, and it also handles PyPI libraries."
+ },
+ "Fuse": {
+  "hits": 2,
+  "files": 1,
+  "example": "ai_2026-09-25_001423_189362.log:2688: fuse-open/Fuse.SublimePlugin -> https://github.com/fuse-open/sublime-plugin/issues/37"
+ },
+ "Slack": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-24_155325_716182_reattach.log:3532: +-card numbers (Luhn-validated), API keys/secrets (AWS/Google/GitHub/Slack/JWT/PEM patterns), and more out of the active file/select"
+ },
+ "Context": {
+  "hits": 107,
+  "files": 21,
+  "example": "ai_2026-09-19_030726_962202.log:475: - The fix: change the context operator to regex_match with output\\.agent_ide_diff__.*. That's a keymap-only edit,"
+ },
+ "Method": {
+  "hits": 60,
+  "files": 20,
+  "example": "ai_2026-09-21_223133_344158_reattach.log:1254: 678 +claim gets verified at runtime, logged once in `main()`). Documented every method of this file's own `_Pty` ("
+ },
+ "Toolbar": {
+  "hits": 27,
+  "files": 10,
+  "example": "ai_2026-09-19_030726_962202.log:99: \u25cf Bash(sleep 8; ls \"$APPDATA/Sublime Text/Installed Packages\" | grep -i toolbar; ls \"$APPDATA/Sublime Text/Packages\""
+ },
+ "Chains": {
+  "hits": 2,
+  "files": 1,
+  "example": "ai_2026-09-24_101652_749281_reattach.log:1666: chains with the zip-slip issue (#1769), which is how a .. entry could end up in a RECORD."
+ },
+ "Slate": {
+  "hits": 3,
+  "files": 2,
+  "example": "ai_2026-09-27_085604_549865.log:271: file and restart the portable instance to ensure a clean slate. After that, I'll verify HaoIDE's completion and proceed from there."
+ },
+ "Reason": {
+  "hits": 37,
+  "files": 17,
+  "example": "ai_2026-09-20_122143_767945.log:1312: The reason it became a 10,800-line \"monster\" is that every time an agent hit a timing bug or a scrollbar jiggle, previous agents"
+ },
+ "Cool": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-28_142347_480974.log:8119: like any other package, after things cool down and only with your agreement."
+ },
+ "Oddly": {
+  "hits": 2,
+  "files": 1,
+  "example": "ai_2026-09-28_083636_991986.log:2898: \u25cf Let me check issue #4 (\"TO is coloured oddly in FOR statements\") since the grammar still has no word boundaries"
+ },
+ "Jack": {
+  "hits": 3,
+  "files": 2,
+  "example": "ai_2026-09-24_140555_078724_reattach.log:395: \u276f\ufe0e C:\\Users\\donal\\AppData\\Roaming\\Sublime Text\\Packages\\User\\TabsExtra is some orphan from your testing.  Think up something to do about Jack Cherng's"
+ },
+ "SpotifyWeb": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-25_001423_189362.log:2853: 0901_SpotifyWeb src/spotify/Server.py:51 urllib.request.urlopen(\"http://localhost:{}/\".format(str(redirect_port))).read()"
+ },
+ "Expect": {
+  "hits": 7,
+  "files": 5,
+  "example": "ai_2026-09-20_194550_007603.log:2674: \u276f\ufe0e it is the size.  Given that I am just now informed, I would not expect more that 32KB"
+ },
+ "Gmail": {
+  "hits": 27,
+  "files": 9,
+  "example": "ai_2026-09-23_070037_932960.log:10: Called Gmail 3 times (ctrl+o to expand)"
+ },
+ "Bump": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-23_050243_893054_reattach.log:782: I didn't bump the version or tag a release, so anyone who installed sublime-mcp through Package Control or npm won't get the fix until"
+ },
+ "Eval": {
+  "hits": 79,
+  "files": 14,
+  "example": "ai_2026-09-20_142418_403343.log:355: \u2502 a client with no eval_python-\\nequivalent of its own) -- write the extension to output_file following extension_template\\nand ST loads"
+ },
+ "Click": {
+  "hits": 52,
+  "files": 16,
+  "example": "ai_2026-09-20_142418_403343.log:1021: \u2022 Right-click .db file \u2192 \"Open Database\""
+ },
+ "ShowTexdoc": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-21_021258_052022_reattach.log:1382: SublimeLinter Inline Errors, SublimeLinter-pyflakes, ShowTexdoc, Schema Validator, Claude Code IDE, SQLTools, and STLogs,"
+ },
+ "Verbose": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-24_071124_178189.log:37: - Failed to load verbose setting: a harmless TUI settings read failure, 12 times."
+ },
+ "Notifications": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-28_083636_991986.log:3363: Everything else in the last 12 hours is either GitHub PR/issue notifications (all already covered \u2014 MCP Commander"
+ },
+ "Occur": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-25_100645_557812.log:251: \u25cf The suspected no-view crash doesn't actually occur\u2014it just falls through to the \"need 2"
+ },
+ "Summary": {
+  "hits": 445,
+  "files": 28,
+  "example": "ai_2026-09-20_194550_007603.log:2208: Nine entries are done. Remaining are usage scanning and the agent catalog. Then the ctypes audit, and then a summary table so"
+ },
+ "Launch": {
+  "hits": 53,
+  "files": 25,
+  "example": "ai_2026-09-20_122143_767945.log:1169: - One simple launch dashboard / control panel."
+ },
+ "Factor": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-21_021258_052022_reattach.log:1874: Close dropped to a second row, which sat below the visible edge whenever the view rested a line high. The width factor is now"
+ },
+ "WPCS Whitelist Flags": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-28_142347_480974.log:8471: package, 1000 is 2019, and 3000 is 2014. The package we're on now, WPCS Whitelist Flags, isn't in"
+ },
+ "Wind": {
+  "hits": 2,
+  "files": 1,
+  "example": "ai_2026-09-26_150240_057545_reattach.log:2040: 70 -4. Read the console and check `list_native_wind"
+ },
+ "Mistral": {
+  "hits": 8,
+  "files": 2,
+  "example": "ai_2026-09-23_050243_893054_reattach.log:197: python -m pip install --upgrade mistral-vibe"
+ },
+ "Cross": {
+  "hits": 18,
+  "files": 8,
+  "example": "ai_2026-09-23_204027_235653.log:271: Cross-checking open audit claims against current code so we can close stale rows."
+ },
+ "Architect": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-23_073216_804763.log:48: context7-mcp and icm-architect which aren't package-dependent. The log-location question in docs/LOG_DIRECTORIES.md is still open \u2014"
+ },
+ "DrSync": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-24_231603_815641.log:4899: \u2502 name: DrSync                                                                                                                                      \u2502"
+ },
+ "Done": {
+  "hits": 613,
+  "files": 57,
+  "example": "ai_2026-09-19_030726_962202.log:91: \u273b Worked for 5s \u00b7 done 3:16 AM"
+ },
+ "Hope": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-25_001423_189362.log:346: - Gettext: the unguarded split(':') is real, but low severity. The author's own comment says \"hope for the best\". The issue's Windows-path example"
+ },
+ "Target": {
+  "hits": 58,
+  "files": 17,
+  "example": "ai_2026-09-21_021258_052022_reattach.log:1828: target, as I described before."
+ },
+ "OPUS": {
+  "hits": 2,
+  "files": 1,
+  "example": "ai_2026-09-23_210015_291032.log:4: Get to finished work sooner with Opus 5.5. Switch anytime with /model."
+ },
+ "Fate": {
+  "hits": 8,
+  "files": 1,
+  "example": "ai_2026-09-28_083636_991986.log:4311: +syntax package (dnd3/fate/npc/nwod) sharing a common `npc.sublime-syntax` base, with 4 bundled `s"
+ },
+ "Writing Color Scheme": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-23_103037_245853_reattach.log:371: - prints [ai_terminal] Error writing color scheme file to {p}: {e} to Sublime's console"
+ },
+ "Ultimate Dark": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-25_100645_557812.log:3448: environment, and proceed with the safe ones: MoveTab, the Ultimate Dark Neo theme, and"
+ },
+ "Stan": {
+  "hits": 1,
+  "files": 1,
+  "example": "ai_2026-09-24_155325_716182_reattach.log:3236: 3292 +- Test cleanup note: used a throwaway new window (diffed its ID against `sublime.windows()` before/after `new_window`, per the stan"
+ }
+}

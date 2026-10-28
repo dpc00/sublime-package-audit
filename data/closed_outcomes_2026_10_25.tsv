@@ -1,0 +1,18 @@
+issue	outcome	evidence
+Fansaly/ASL-Syntax-Highlight#2	fixed	commit bc85186
+Fansaly/ASL-Syntax-Highlight#3	fixed	commit bc85186
+hyrious/Glot#4	fixed	commit a43a061 (maintainer says glot.io removed its API key auth)
+marconi/mako-tmbundle#13	fixed	PR #11 referenced by maintainer
+rchl/IndentToParenthesis#3	fixed	PR #4 referenced
+XeCreators/Unyson-Snippets-Sublime#2	fixed	PR #3 renames the three triggers
+aafulei/sublime-exact-quick-find#1	fixed	PRs #2 and #5 merged, release 1.0.3
+aafulei/sublime-exact-quick-find#4	fixed	release 1.0.3
+Flet/SublimeLinter-contrib-standard#44	ignored	maintainer: switch to eslint and neostandard, standard drops its plugin ecosystem
+Flet/SublimeLinter-contrib-standard#45	ignored	same reply as #44
+BenjaminSchaaf/jam-sublime-syntax#3	ignored	closed not_planned: "not the jam language you are looking for"
+digitrev/KoLMafiaAshSyntax#1	ignored	"Why are you opening issues on an 11 year old unmaintained repo?" file nothing more
+digitrev/KoLMafiaAshSyntax#2	ignored	same
+digitrev/KoLMafiaAshSyntax#3	ignored	same
+motine/MarkdownCodePacker#2	ignored	"you are not actually using this software, just scouting for bugs, then i will close this"
+whitequark/LLVM-TableGen.tmBundle#1	closed, reason unknown	no comment, no commit, no PR
+BGR360/lc2k-sublime-plugin#1	closed, reason unknown	no comment, no commit, no PR

@@ -1,0 +1,38 @@
+{
+ "TOML": {
+  "hits": 1,
+  "sessions": 1,
+  "example": "2026-09-25 165e315a: **Mise** (aka mise-en-place, formerly called \"rtx\") is a fast, Rust-based dev tool for managing project-specific language runtime versions \u2014 similar to `asdf` but faster. Per-project, it can:  - Pin/install specific versions of Node, Python",
+  "first_date": "2026-09-25"
+ },
+ "Mermaid": {
+  "hits": 1,
+  "sessions": 1,
+  "example": "2026-09-25 165e315a: )      from .logging import info, error      from .constants import STREAMING_THRESHOLD, LARGE_FILE_THRESHOLD      from .markdown_renderer import MarkdownRenderer, guess_markdown_title, ASSET_URL_PREFIX      from .buffer_cache import Buffer",
+  "first_date": "2026-09-25"
+ },
+ "Hosts": {
+  "hits": 2,
+  "sessions": 2,
+  "example": "2026-09-14 3cb6d4a4: *\"Theme - El Capitan\"** looked recently-pushed but is marked `archived: true` on GitHub by its own author, so it correctly dropped it.  **The 182 survivors:** 46 turned out to have no runtime Python at all (pure themes/syntax files \u2014 nothin",
+  "first_date": "2026-09-14"
+ },
+ "Codeium": {
+  "hits": 1,
+  "sessions": 1,
+  "example": "2026-09-09 6baf5f30:  removed** (e.g., `.terramind`, `.autohand`, `.adal`, `.bob`, etc. \u2014 gone entirely, not just their skills subfolder) - **7 more nested empty ones removed** (`.config/devin`, `.config/crush`, `.snowflake` and its `cortex` subdir, `.tabnine` ",
+  "first_date": "2026-09-09"
+ },
+ "Pieces": {
+  "hits": 1,
+  "sessions": 1,
+  "example": "2026-09-26 a3788352:  a suspicion I could only guess at before. My earlier log note said I couldn't verify either claim because Cursor wasn't installed.  Next is **GlassIt (281)** in full. I've already confirmed transparency works in the portable, so I'll read ",
+  "first_date": "2026-09-26"
+ },
+ "CFML": {
+  "hits": 1,
+  "sessions": 1,
+  "example": "2026-09-14 bd237c82: matically  once it clears, or do you want to check what's pinning your Sublime instance first?    TODO   \u251c\u2500 Live bug hunt \u00b7 1/41   \u2502  \u251c\u2500 \u2611 A File Icon   \u2502  \u251c\u2500 \u2610 ApplySyntax (blocked)   \u2502  \u251c\u2500 \u2610 AutoSetSyntax (blocked)   \u2502  \u251c\u2500 \u2610 BootstrapAuto",
+  "first_date": "2026-09-14"
+ }
+}

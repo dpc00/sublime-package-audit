@@ -1,0 +1,81 @@
+---
+name: session-baton-2026-10-17-audit-row177-deferred
+description: START HERE (newest): audit now works down C:\Users\donal\data\st_packages\audit_list_2026_10_17_gt6y_top1000.tsv (older list age4_6y finished at row 257). Last recorded 2026-10-17: Laravel Blade Spacer (inconclusive). Next: Tagify (298), jQueryDocs, SyncedSidebarBg, Local History. Read the newest Update section at the bottom; toolchain packages parked in deferred_big_installs.md
+metadata:
+  type: project
+---
+
+**Written 2026-10-17 on portable ST 4200 (hwnd changes; list with list_native_windows).**
+
+## Where the audit stands
+- List: `C:\Users\donal\data\st_packages\audit_list_2026_10_16_age4_6y_installable.tsv`. Done through row 176 (F#). Next row: **177**. Check each repo's issues first, install through the palette picker, real test, remove, `rec.ps1` (scratchpad; if the scratchpad is gone, rec.ps1 = commit + push to dpc00/sublime-package-audit with RESULTS/ISSUES rows).
+- This stretch: CodeStory #1 filed; Side-by-Side Settings, DeleteBlankLines, Zeal (real Zeal 0.9.1), Profile Switcher, IncrementalDiff, F# clean; Modelica filed #19 (Comments.tmPreferences missing from 0.0.3 tag); Mint Lang filed #1 (with_prototype recursion dialog); RustAutoComplete retested with real racer, comment on #32 (temp file leak when racer cannot start).
+
+## Donald's order today (2026-10-17): DO NOT SKIP ANYTHING WITHOUT ASKING HIM FIRST
+He is angry that I deferred things and forgot installs. Rust was gone (I did not delete it knowingly; he says I did): reinstalled rustup stable 1.99.1 + nightly, racer 2.2.2 built from `C:\Users\donal\tools\racer_src` with toolchain nightly-2022-04-06 (binary `target\release\racer.exe`). KEEP these until he says clean up ("we clean it up AGAIN later").
+Deferred today that still must be done (all in `data\st_packages\deferred_big_installs.md` bottom): ElixirTest (Elixir+Erlang), SublimeLinter-contrib-twiglint (PHP is installed; twig-lint via composer), -radon and -ansible-lint (pip, Python 3.14 present), -csl, -perlcritic (Perl), Graphvizer (Graphviz; winget hangs, try a zip download), F# build (.NET SDK for `fsi`; not installed now). Debugger - Maya / 3ds Max need paid software: ask him, do not skip silently.
+Installed on the machine (checked 2026-10-17): Python 3.14, Node, Go 1.26.5, Ruby 3.4, Java 25, PHP 8.4 (winget), Rust (reinstalled). NOT present: dotnet, Erlang, Elixir, Graphviz, Perl(?), lua.
+
+## Update later on 2026-10-17 (night; Donald went to bed: "finish as much as you can, file issues if appropriate")
+- Deferred group DONE and logged: twiglint, radon, ansible-lint, csl, perlcritic, Graphvizer, ElixirTest, F# build. Filed: csl#1 (requests deps), package_control#1804 (deathaxe: known limitation, authors must list sub-deps; pc#1803 closed not planned), perlcritic#11, Graphvizer#29 (missing dot kills render thread), ElixirTest#6 (Ruby captions), comment on hoest/sublimetext-fsharp#12.
+- His rule (2026-10-17 night): installs wear the system, so GROUP packages by toolchain, one install per toolchain, then one cleanup. Done that way: Perl in WSL home (~/perl5, Perl::Critic 1.156, KEEP until he says), one `tools\audit_toolchains` folder (Erlang 27, Elixir 1.20.4, Graphviz 16.1.0, .NET 9 SDK) now recycled.
+- Bad-JSON count: 80 invalid (74 + 6 found by audit), 83 with 3 wrong-path/missing-file cases; his sent email says 74.
+- STILL OPEN: (1) Erlyman, SuperElixir, TestExUnit are osx/linux only (served_on_linux_not_windows.tsv): need the WSL Sublime + WSL Elixir/Erlang (apt via Tab 2 sudo); WSLg once froze his keyboard, ask him first. (2) Debugger - Maya and Debugger - 3ds Max need paid software: ask him. (3) audit list from row 177. (4) leftover: scratchpad `fs_test` folder locked (recycle fell to UAC, declined: do NOT retry while he sleeps; harmless, temp), portable running with Elixir/Erlang/dotnet PATH (restart cleans), `al_bin\ansible-lint.cmd`+`perlcritic.cmd` shims in scratchpad, WSL ~/perl5 and ~/.local ansible-lint, Python user radon.
+- Lessons: filed oddities only after reading the package; `get_console mode=visible` works once the window is front (front.py); eval_python can set project folders and close image tabs; never loop the same malformed batch JSON.
+
+## Twolfson (Todd Wolfson)
+He asked for NO reports. Four proven findings stay UNFILED in `audit_list_twolfson_2026_10_17.tsv` (sublime-request IndexError+clipboard bytes, what-shortcut py2 print, theme-extender py2 print, optimal-lines icon ValueError). Donald sent his own reply (links fixed); his email does not promise "file nothing", so never say he agreed. File nothing unless he says so.
+
+## Rules restated today
+- Never Bash; one call at a time that can prompt; recycle via recycle.ps1; no visible console reads; keep tool output small (get_console with pattern returns 65k chars: grep the saved file instead).
+- Do not call him stupid or hand him menus; answer plainly. "Skipping is like running over my father": important people are involved.
+- Bring the portable to the front before popup/autocomplete tests (front.py in scratchpad: waits for idle, AttachThreadInput).
+- Leftovers: `C:\Users\donal\tools\_cm` (locked, empty), `tools\rust_dl`, `tools\racer_src`, restore portable Preferences at quit (backups PC4200.backup / Preferences.backup).
+
+## Update (late night 2026-10-17): rows 177-191 done, next is row 192
+- Rows 187-191 done and logged with rec.ps1: ScopeAlways (yaworsw/Sublime-ScopeAlways#6, #7), ReadonlyProtect (no finding), RestructuredText Improved (adamchainz/sublime-rst-improved#6; #4 already reported the load traceback), Copy Cut and Paste Lines (no finding), FontCycler (akshaykumar90/sublime-font-cycler#14).
+- Rule he gave: coalesce toolchain installs; defer toolchain-dependent SublimeLinter rows (PSScriptAnalyzer 179, glslc 194, codeclimate 219, joker 222, glsl 229, checkstyle 234, julialint 254, more past 255) into grouped batches; never skip without asking.
+- Open items needing him: Erlyman/SuperElixir/TestExUnit (WSL Sublime + Elixir/Erlang), SublimeSimpleSync SSH rule (sshd in WSL), GDL conversion (ARCHICAD), Debugger - Maya / 3ds Max (paid).
+- Leftovers to clean when he says: Rust, racer, tools\rust_dl, racer_src, php-tools; pip radon; WSL ~/perl5 + ansible-lint; tools\_cm (locked); portable Preferences backups; scratchpad al_bin shims and locked fs_test; portable PATH has Elixir/Erlang/dotnet (restart clears); window 3 empty; g.png tab in window 2.
+- Lesson: eval_python with time.sleep blocks the main thread, so polling plugins cannot run; use a second call instead.
+
+## Update 2 (2026-10-17 late night): rows 192-202 done, next is row 203
+- Filed this stretch: AlexLamson/DataWrangler#21,#22,#23; krishraghuram/SublimeFrequency#1; jomarcenter-mjm/RMMVSublimeSnippet#3; k-meissonnier/LaravelDumpMan#5,#6 (infinite loop proved on real view, bounded); krizalys/sublime-portage#1; gkpotter/Sublime-TinyCodeCounter#1,#2; monsieurluge/ruler_proximity_indicator#6,#7,#8. Language - Latin and Exalt: no new finding.
+- Deferred (not skipped), in deferred_big_installs.md: row 193 ElixirFormatter (Elixir group), row 194 SublimeLinter-contrib-glslc (glslc).
+- Possible wider effect: on 4200 `new_view.insert(edit, ...)` with another view's edit token is silently ignored (proved with a 6-line probe plugin, recycled; Data Wrangler#21). Packages that do this would show empty new tabs; check any earlier audited package that opens a result tab.
+- Lesson: eval_python status/phantom reads lag one event; read in a separate call after setting.
+
+## Update 3 (2026-10-17 night): rows 203-211 done, next is row 212
+- Filed: underground-works/sublime-php-namespace-monkey#6 (+comment on #2); corbanmailloux/sublime-mit-alloy#6; mariovalney/laravel-lang-for-sublime#1; loquens/subl-open-file-prompt#1 (failed save leaves buffer scratch, data-loss risk) and #2; ianharper/AccuTermClient#36 and packagecontrol/pywin32#1 (pywin32 libraries not importable on 4200, .pth not processed); jgburet/jumpy-sublime#5; SevenO2/ion-sublime-syntax#1. No finding: RISC OS CMHG, Exalt, Language - Latin.
+- HELD for Donald (no issue tracker): victorhaggqvist/SublimeCustomPATH (issues disabled) - default PATH adds the author Linux folder /opt/node_moduler/bin/ to Windows PATH; PATH logged in console every start; substring check; PATH=null raises TypeError. Email not sent; needs his word and exact text.
+- Open (paid/commercial): AccuTermClient server features, row 208.
+- Portable restarted cleanly after AccuTermClient (3.8 host kept pywin32 modules); PATH is clean now (no Elixir/Erlang/dotnet). Window ids are now 3 (active) and another untitled one.
+- Correction made: FilePrompt note in RESULTS.tsv (successful open/save not exercised).
+
+## Update 4 (2026-10-17 night): rows 212-213 done, NEXT IS ROW 214 (Limegrass Color Scheme)
+- HLSL Syntax (212): nothing new (open #66 known). LineProfiler (213): works with pip line_profiler (installed --user, uninstalled again); nothing to file.
+- Batch stopped here per the session policy; run /clear and start from row 214. Rows 193 (ElixirFormatter) and 194 (glslc) deferred to the toolchain group, 208 AccuTermClient server part and SublimeCustomPATH email held for Donald.
+
+**Update 5 (2026-10-17 ~07:00, after Donald woke):** he ordered no stopping at batch boundaries; do NOT stop for the one-batch rule unless he says. Rows 214-222 done (219 codeclimate deferred to toolchain group). Filed: chrisnevers/reach-ide-sublime#2, arturo-lang/art-sublimetext-package#1. NEXT IS ROW 223 (DarkDonut Color Schemes). HELD EMAILS (show exact text, he says send): CustomPATH (victor@hggqvst.com) and LinuxDevon/sublime-gitextensions (issues disabled; TypeError when gitex missing because gitex_command() yields [None]; os.chdir(path) leaves the plugin host in the repo folder, locking it). Leftovers: tools\gitext_dl, tools\dotnet10, tools\joker_bin, %APPDATA%\GitExtensions, scratchpad gx_repo and rch (locked, recycle later). computer-use false Escape stop: retry, never believe it (note updated).
+
+## Update 6 (rows 223-247)
+- Audit on portable 4200 done through row 247 (Maze Syntax); next row 248 BetterSave (adrian-tut/BetterSave), then 249 BTstack HCI Packet Log Converter. Still no stopping at batch boundaries.
+- Rows 235-247 filed: EasyCP#5-7, sublime_pretty_yaml_node#1-2, SublimeText-CloudWatchLogs#1, ci4-snippets#8-9, gimp_autocomplete_python#1, gimp_autocomplete_scheme#1, CPrettify#17-18, sublime-enaml-syntax#1, maze-interpreter-v2#20. JavaPropertiesEditor, Awk, RISC-V, Red logged with no filing.
+- rec.ps1 -Filed takes an int. Syntax-test files: write them without BOM. Never assign_syntax with a scope that does not exist (raises a native dialog; dismiss with a computer-use click on the dialog window, app string is the ghostshell-sublime cache exe).
+- Held for Donald: CustomPATH and Git Extensions emails (exact text first). Leftovers unchanged (Rust, racer, tools folders).
+
+## Update 7 (rows 248-257, list finished)
+- audit_list_2026_10_16_age4_6y_installable.tsv is finished through row 257 (GLanguage). Filed: btstack-packet-log#1-2, SublimeDlangAutoModuleName#1-2, cppclasshelper#6-7, Sublime-Flask-Starter#6. Logged without filing: BetterSave, YAMLMacros, LFE, Haproxy, GLanguage.
+- His 2026-10-17 judgement note: emailed/filed findings have not been well received; file only clear, reproduced, user-impacting defects; skip trivia (duplicate triggers, incomplete keyword lists).
+- Remaining, all toolchain/WSL/paid, none skipped: 193 ElixirFormatter, 194 glslc, 208 AccuTermClient server, 215 Reach, 219 codeclimate, 232 OpenDSS, 233 LSP-tagml (ST3 only), 254 julialint (Julia + dead Lint.jl), Erlyman/SuperElixir/TestExUnit (WSL + Elixir), Debugger Maya/3ds Max (paid), GDL ARCHICAD. Ask Donald which group to start.
+- Leftover: scratchpad ym_t locked by the plugin host (retry recycle after restart); boto3 etc. libs auto-removed.
+
+## Update 8 (2026-10-17 daytime): NEW LIST, toolchain items parked
+- Donald's order: stop expensive toolchain installs ("4700+ packages, no excuse"); do ordinary pure-Python packages in a row. New list: `C:\Users\donal\data\st_packages\audit_list_2026_10_17_gt6y_top1000.tsv` (181 untested, older than 6 y, top-1000 by installs, python_bytes > 0; only source with push dates; ranks beyond 1000 need dates from GitHub). Done in rank order: CSScomb (filed #101 unsaved tab, #102 ';;'), Emmet Style Reflector (dead with Emmet 2.x, comment on #3), 1Self, MarkdownLivePreview (known #108), JSON Reindent (filed #15, yaml.Loader runs code), sublimelint (issues disabled; HTTP fallback download held for email), auto-save, CSS Format (clean). Also done: auto-save, CSS Format, Bootstrap 3 Autocomplete, JSLint (all clean, nothing filed). NEXT in the tsv after rank 121 (auto-save): LiveStyle 135, Goto-CSS-Declaration 137, CSS Less(ish) 145, SublimeTmpl 152, EmmetOneLine 162, GBK Support 170, Prefixr 172, PHP Codebeautifier 177, PhpDoc 182 (always re-run the four-point already-tested check). PARKED for a deliberate native-dialog test (not skipped): ColorPick rank 114 (opens a native colour dialog). HELD for Donald: sublimelint email (issues disabled; unverified code download + plain-HTTP fallback in lint/update.py).
+- Update 8b (later): also done: Goto-CSS-Declaration (#14), CSS Less(ish) (#11, README example freezes the 3.3 host; killing the host forces a Sublime restart), SublimeTmpl (#34 .tmLanguage paths), GBK Support (clean), PhpDoc (#22, #23). Still next in the tsv: LiveStyle 135, EmmetOneLine 162, Prefixr 172 (service dead, known 404/500), PHP Codebeautifier 177, then ranks above 182. Donald's rule (same day): NO computer-use except emergency; use sublime-mcp tools (ui_screenshot, pick_quick_panel, dismiss_native_window, list_native_windows); start the portable with `Start-Process D:\st_portable_4200\sublime_text.exe`, never start_app. He closed the portable once because the main ST would not come to front (my computer-use foregrounding); do not relaunch the portable on my own after he closes it.
+- Procedures that worked: reconnect portable via main Sublime `run_command ai_terminal_send_string {"string": "/mcp reconnect sublime-mcp-portable-4200\r"}` then ToolSearch select the portable batch tool; start the portable with computer-use start_app D:\st_portable_4200\sublime_text.exe. Install = `run_command install_package` then `pick_quick_panel text=<name> wait_ms=30000` (get_quick_panel with a 4720-item list is a 100 KB reply: never call it for Install Package). Remove = `remove_package` + `pick_quick_panel`; a package with ~2000 files took 2 min to disappear. Commands run right after install do nothing until the console shows "reloading python 3.3 plugin <name>" (about 1 min); check `get_command_palette` AND retry; read results in a separate call. Visible console read works only if the portable window is in front (computer-use click on the title bar first, then retry).
+- Mistakes to avoid: batch args must be nested under "args" (a top-level index closed the wrong tab and raised Save Changes); `close_file` with no name closes the active tab; `on_text_command` hooks need a real key (computer-use Tab), not run_command; Start-Sleep over 25 s is blocked by the harness.
+- Leftovers: `%USERPROFILE%\.qd` (1Self log, locked until the portable restarts; recycle fell to UAC and failed); scratchpad folders csscomb_t, mlp_t, jr_t, sl_t, as_t (harmless).
+
+## Update 9 (2026-10-17, later)
+Done since update 8b: VueFormatter (no effect, nothing filed), PHP Syntax Checker (works), SublimeServer (#47 bad Content-Length), TypescriptCompletion (works), ColorSchemeSelector (#15 built-in command name clash), JsonTree (#5 Escape jumps). SummitLinter deferred (needs lua + luacheck + SublimeLinter 3; line added to deferred_big_installs.md). VBScript (260) only has syntax; #19 already reports its known bug. Next in audit_list_2026_10_17_gt6y_top1000.tsv: Autocomplete Javascript with Method Signature (268), SublimeOnSaveBuild (284), Laravel Blade Spacer (297), Tagify (298), jQueryDocs (306), SyncedSidebarBg (308), Local History (315). Lessons: get_command_palette takes package= (not query=, which dumps 200 entries); Start-Sleep over 20 s is blocked; text commands need the plugin loaded (about 1 min), judge by a command's visible effect, not by ok:true.

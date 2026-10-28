@@ -1,0 +1,265 @@
+Theme - Rose Pine	rose-pine/sublime-text	0	4255
+Writer Color Scheme	tonsky/sublime-scheme-writer	0	4432
+perl-Test-Class	jonasbn/SublimeText-Perl-Test-Class	0	4539
+perl-Test-More	jonasbn/SublimeText-Perl-Test-More	0	4540
+Alphpetize	foxxyz/sublime_alphpetize	1	4586
+CopyWithLineNumbersReloaded	crash5/CopyWithLineNumbersReloaded	1	4666
+PowerCursors	MaokaiLin/PowerCursors	1	4879
+RemoveDuplicateCharacters	xianghongai/RemoveDuplicateCharacters	1	4901
+Abrase	KHN190/Abrase-sublime	0	5082
+AddRemoveFolder	fsaad/Sublime-AddRemoveFolder	1	5085
+AhuAIComplete	ahu/AIComplete	1	5087
+AMPscript Syntax Highlighter	wvpv/ampscript-syntax-highlighter	0	5092
+ANSIescape	aziz/SublimeANSI	1	5097
+AssistantAI	kanutron/AssistantAI	4	5105
+Asymptote	noelmurasko/AsymptoteSyntax	0	5106
+Atomic Color Scheme	gerardbm/atomic	26	5107
+AutoMatlab	asparc/AutoMatlab	5	5115
+AutoProjects	SublimeText/AutoProjects	1	5117
+BBCode (NGA)	stone5265/Sublime-BBCode-NGA	3	5128
+BeyondCompare	npadley/BeyondCompare	1	5132
+Blossom Theme	BlossomTheme/Sublime-Text	0	5137
+BufferScroll	titoBouzout/BufferScroll	1	5144
+build2	build2-community/build2-sublime-text	0	5145
+Carbon Programming Language	RohanVashisht1234/sublime_text_carbon_syntax_highlighter	0	5153
+C++ & C Single File Builder - Minghang Yang	ytlw/C_CppSingleFileBuilder_MinghangYang	0	5155
+C Family Rewrite (C23 and C++23)	camila314/C-Family-Rewrite	0	5159
+CiscoCollab	tonynupe/CiscoCollab	7	5167
+Clannad Theme	lemorage/sublime-clannad-theme	0	5168
+CMake	zyxar/Sublime-CMakeLists	2	5173
+CMakeBuilder	rwols/CMakeBuilder	2	5174
+CoffeeScript	SublimeText/CoffeeScript	5	5179
+Coi	SublimeText/Coi	0	5180
+ColorConverter	braver/ColorConverter	1	5184
+ColorHints	braver/ColorHints	1	5185
+CompareBuff	nexional/CompareBuff	1	5191
+Compressor	joernhees/sublime-compressor	1	5198
+Console Exec	joeyespo/sublimetext-console-exec	1	5199
+Continuous Merge	vim-zz/sublime-cm-syntax	0	5202
+ConvertEpochToDate	nexional/ConvertEpochToDate	1	5203
+Copy Relative Command	patoui/CopyRelativeCommand	1	5207
+CSS3	ryboe/CSS3	11	5215
+CTags	SublimeText/CTags	10	5219
+Custom Buffer Name	kaxing/sublime-custom-buffer-name	1	5223
+DiffTabs	soandrew/DiffTabs	4	5239
+dired	kublaios/dired	4	5240
+DistractionFreeWindow	aziz/DistractionFreeWindow	1	5241
+DlangAutoImport	vitalfadeev/SublimeDlangAutoImport	1	5244
+EditorConfig	sindresorhus/editorconfig-sublime	9	5251
+EJS	SublimeText/EJS	0	5254
+Eloquence	macMikey/eloquence-sublime-text-syntax	0	5259
+Enhanced HTML and CFML	Siddley/Enhanced.HTML.CFML	0	5263
+ESQL	elastic/esql-syntax	0	5265
+Ethereum	davidhq/SublimeEthereum	0	5266
+Expand Selection to Function (JavaScript)	gillibrand/expand-selection-to-function-js	1	5273
+FabricEngine	stepcg/SublimeFabricEngineSyntax	0	5278
+FASM x86	HealsCodes/Sublime-FASM-x86	0	5279
+FASTA	SilentGene/sublime-fasta-syntax	0	5280
+FileBrowser	kaste/SublimeFileBrowser	10	5286
+Flatdata Syntax Highlighting	fermeise/flatdata-sublime-syntax	0	5294
+FlexIDE	rahulsharmagg/FlexIDE	0	5296
+FlutterEnhancements	90-008/FlutterEnhancements	1	5300
+Fmt	mitranim/sublime-fmt	2	5301
+Focus	sindresorhus/focus	0	5302
+Folder Aliaser	SublimeText/FolderAliaser	1	5303
+FoldersSwitch	kitzberger/SublimeFoldersSwitch	1	5304
+Font Size Per View	m-bartlett/SublimeFontSizePerView	1	5307
+Git	kemayo/sublime-text-git	17	5319
+GitGutter	jisaacks/GitGutter	26	5322
+Gitignore	vilhelmen/Sublime-Gitignore	1	5324
+GrADS	fox91/GrADS-Sublime-syntax	0	5349
+Helium	SublimeText/Helium	1	5363
+Highlight Token	cepthomas/SbotHighlight	2	5368
+Hog	Hog-CERN/HogSublime	0	5372
+Image Link Insertion	jtojnar/sublime-image-link-insertion	2	5389
+Inline Fold	predragnikolic/InlineFold	1	5401
+Insert Nums	SublimeText/InsertNums	1	5405
+iOS build system	Swift-Next/iOS-build-sublime	13	5409
+Ipynb Preview as Markdown	valentinbarral/IpynbPreviewAsMarkdown	1	5410
+JaiTools	RobinWragg/JaiTools	4	5416
+JapanWordStop	woodmix/JapanWordStop	1	5419
+Jenkinsfile	june07/sublime-jenkinsfile	1	5424
+Jester	absszero/Jester	1	5426
+JQ Syntax	zogwarg/SublimeJQ	0	5430
+JSCustom	Thom1729/Sublime-JS-Custom	21	5432
+JS Template String Converter	predragnikolic/JS-Template-String-Converter	1	5439
+Julia	JuliaEditorSupport/Julia-sublime	4	5440
+Kamailio Config	igorolhovskiy/kamailio-sublime	0	5443
+kdesrc-build	ratijas/kdesrc-build-sublime	4	5444
+Kotlin	guille/sublime-kotlin	0	5448
+KSP (Kontakt Script Processor)	nojanath/SublimeKSP	24	5449
+Laravel Goto	absszero/LaravelGoto	1	5454
+Less	SublimeText/Less	7	5461
+Liquid	SublimeText/Liquid	0	5470
+LiveServer	molnarmark/sublime-live-server	1	5472
+LLM	tonylchang/sublime-llm	21	5473
+LogbackJsonLogViewer	neno--/LogbackJsonLogViewer	1	5475
+Log Highlight	poucotm/Log-Highlight	1	5476
+MagicPython	MagicStack/MagicPython	2	5484
+Make Bookmarklet	gillibrand/MakeBookmarklet	1	5485
+Markdown Images	xsleonard/sublime-MarkdownImages	1	5488
+Markdown Nav	noahcoad/SublimeMarkdownNav	1	5489
+MarkdownPreviewEnhanced	CaffeineOddity/MarkdownPreviewEnhanced	59	5491
+Markdown Table of Contents	codeleventh/mdtoc	1	5494
+Material Theme	SublimeText/material-theme	8	5502
+MayaSublime	justinfx/MayaSublime	1	5503
+MCNP	SublimeText/MCNP	0	5504
+MCP Commander	dpc00/sublime-mcp	12	5505
+Mediawiker	tosher/Mediawiker	40	5506
+Modelines	SublimeText/Modelines	17	5516
+MoveTab	SublimeText/MoveTab	1	5520
+Mustache	SublimeText/Mustache	0	5523
+MySFTP	icjmaa/MySFTP	6	5524
+Nelua	edubart/nelua-sublime	0	5527
+Nim	nim-lang/NimLime	0	5532
+Norber Theme	mortalis13/Norber-Theme-Sublime	0	5536
+Notepad++ Color Scheme	evandrocoan/NotepadPlusPlusColorScheme	0	5537
+Notes	tbh1/sublime-notes	0	5538
+OpenFileOverSSH	AncientRoman/SublimeOpenFileOverSSH	1	5554
+OpenWrt	xyu/sublime-openwrt	0	5560
+OrgExtended	ihdavids/orgextended	92	5562
+Origami	SublimeText/Origami	1	5563
+Phpcs	benmatselby/sublime-phpcs	1	5587
+Piranha	Kostasn2/piranha-syntax-highlighting-package	0	5594
+PLI10	Kostasn2/pli10_eap-syntax-highlighting-package	0	5598
+Polar	edaniels/sublime-polar	0	5599
+Pony Language	ponylang/sublime-pony	0	5600
+PowerShell	SublimeText/PowerShell	0	5601
+Praia	praia-lang/praia-sublime	0	5602
+Pretty Shell	aerobounce/Sublime-Pretty-Shell	1	5607
+Projectionist	timfjord/Projectionist	22	5611
+Project Planner	pedrokost/STProjectPlanner	5	5613
+PRQL	PRQL/sublime-prql	0	5614
+PSS	blutsvente/PSS-DSL-syntax	0	5615
+PyTest	kaste/PyTest	9	5619
+q KDB	komsit37/sublime-q	24	5622
+QML	SublimeText/QML	0	5623
+QuickTemplate (Go)	SharanSharathi/sublime_qtpl	0	5628
+RAScript	joshraphael/sublime-rascript	0	5633
+raylang	ray-language/sublime-raylang	0	5634
+REBOL	Oldes/Sublime-Rebol	0	5637
+RemoveDuplicateLines	ilyakam/RemoveDuplicateLines	1	5646
+Restructured Text (RST) Snippets	mgaitan/sublime-rst-completion	13	5654
+ROS msg syntax highlight	Binpord/sublime-rosmsg	0	5657
+RPM Spec Syntax	dreadatour/RPMSpec	0	5658
+RSpec	SublimeText/RSpec	6	5659
+Rsync SSH	davidolrik/sublime-rsync-ssh	1	5662
+RustFmt	mitranim/sublime-rust-fmt	2	5666
+Save All New Tabs to One File	Thamulabs/SaveAllNewTabsInOneDocument	1	5670
+ScrollToCursor	SelimJB/ScrollToCursor	1	5677
+Search in Project	deese/SearchInProject_SublimeText	10	5678
+SideBarGit	titoBouzout/SideBarGit	3	5687
+Simplenote	RedAtman/simplenote	14	5691
+Smarty	amitsnyderman/sublime-smarty	0	5702
+SmPL (Coccinelle)	jtojnar/Sublime-SmPL-Syntax	0	5704
+SnippetMaker	jugyo/SublimeSnippetMaker	1	5706
+SortBy	Doi9t/SortBy	7	5708
+Sort Lines (Numerically)	alimony/sublime-sort-numerically	3	5709
+Spreadsheet Formula	axemonk/Spreadsheet-Formula	8	5713
+Starlark	Vasfed/sublime_starlark	0	5720
+StGitlab	tosher/StGitlab	54	5725
+StickySearch	vim-zz/StickySearch	1	5726
+StringUtilities	akalongman/sublimetext-stringutilities	1	5730
+Structurizr DSL	agehrke/structurizr-syntax	0	5731
+sublime-github	bgreenlee/sublime-github	5	5739
+Swift Next	Swift-Next/Swift-Next	0	5755
+SymbolBalloon	matsukido/SymbolBalloon	4	5756
+Tag	titoBouzout/Tag	9	5765
+Tailwind CSS	SublimeText/TailwindCSS	0	5766
+Template Tag	ijlee2/sublime-syntax-definition-template-tag	0	5770
+Templ (go)	papierkorp/sublime-templ	1	5771
+Text Highlighter	kdnk/sublime_text_highlighter	2	5783
+Toggle Sidebar Focus	educbraga/ToggleSidebarFocus	1	5799
+TOML	jasonwilliams/sublime_toml_highlighting	0	5801
+UL4	LivingLogic/LivingLogic.SublimeText.UL4	0	5814
+Ultimate Dark Neo	rubjo/ultimate-dark-neo	0	5816
+UnicodeMath	mvoidex/UnicodeMath	2	5818
+UWSC	stuncloud/Sublime_UWSC	1	5827
+Vala	colinkiama/vala_sublime_text	0	5829
+Veeam Logs Helper	yandexx/VeeamLogsHelper	1	5833
+Verilog	pro711/sublime-verilog	0	5836
+Virtualenv	AdrianLC/sublime-text-virtualenv	3	5845
+Vue	SublimeText/Vue	0	5847
+WASM Interface Type	SublimeText/WasmInterfaceType	0	5848
+WebIDL	queengooborg/WebIDL-Sublime	0	5850
+WML	sevu/Sublime-WML	0	5855
+Word Count	shadax1/word_count	1	5856
+WrapAsYouType	btrekkie/WrapAsYouType	8	5858
+Wrap Plus	ehuss/Sublime-Wrap-Plus	2	5859
+WslBuild	SublimeText/WslBuild	1	5861
+xml2json	vontio/sublime-xml2json	10	5868
+xonsh	eugenesvk/sublime-xonsh	0	5869
+xpath	rawsp33d/sublime-xpath	8	5870
+ytt	Vasfed/sublime_ytt	0	5872
+ZipContents	mawelborn/ZipContents	2	5876
+Calculate	colinta/SublimeCalculate	1	5885
+AutoSetSyntax	jfcherng-sublime/ST-AutoSetSyntax	68	5887
+Fanhuaji	Fanhuaji/Sublime-Fanhuaji	12	5888
+OpenUri	jfcherng-sublime/ST-OpenUri	21	5889
+R-IDE	REditorSupport/sublime-ide-r	11	5896
+SublimeLinter-addon-black-for-flake	kaste/SublimeLinter-addon-black-for-flake	1	5901
+SublimeLinter-addon-filter	kaste/SublimeLinter-addon-filter	1	5902
+SublimeLinter-annotations	SublimeLinter/SublimeLinter-annotations	1	5903
+SublimeLinter-bandit	SublimeLinter/SublimeLinter-bandit	1	5904
+SublimeLinter-clang	SublimeLinter/SublimeLinter-clang	1	5905
+SublimeLinter-contrib-LanguageTool	GiovanH/sublimelint-contrib-languagetool	1	5907
+SublimeLinter-contrib-swiftlint	mailiam/SublimeLinter-contrib-swiftlint	1	5909
+SublimeLinter-contrib-verilator	poucotm/SublimeLinter-contrib-verilator	1	5910
+SublimeLinter-cppcheck	SublimeLinter/SublimeLinter-cppcheck	1	5911
+SublimeLinter-cspell	SublimeLinter/SublimeLinter-cspell	1	5912
+SublimeLinter-csslint	SublimeLinter/SublimeLinter-csslint	1	5913
+SublimeLinter-eslint	SublimeLinter/SublimeLinter-eslint	1	5914
+SublimeLinter-flake8	SublimeLinter/SublimeLinter-flake8	1	5915
+SublimeLinter-gotype	SublimeLinter/SublimeLinter-gotype	1	5916
+SublimeLinter-govet	SublimeLinter/SublimeLinter-govet	1	5917
+SublimeLinter-hlint	SublimeLinter/SublimeLinter-hlint	1	5918
+SublimeLinter-html-tidy	SublimeLinter/SublimeLinter-html-tidy	1	5919
+SublimeLinter-javac	SublimeLinter/SublimeLinter-javac	1	5920
+SublimeLinter-jshint	SublimeLinter/SublimeLinter-jshint	1	5922
+SublimeLinter-jsl	SublimeLinter/SublimeLinter-jsl	1	5923
+SublimeLinter-json	SublimeLinter/SublimeLinter-json	1	5924
+SublimeLinter-jsxhint	SublimeLinter/SublimeLinter-jsxhint	1	5925
+SublimeLinter-pep8	SublimeLinter/SublimeLinter-pep8	1	5926
+SublimeLinter-php	SublimeLinter/SublimeLinter-php	1	5927
+SublimeLinter-phpcs	SublimeLinter/SublimeLinter-phpcs	1	5928
+SublimeLinter-phplint	SublimeLinter/SublimeLinter-phplint	1	5929
+SublimeLinter-pug-lint	SublimeLinter/SublimeLinter-pug-lint	1	5930
+SublimeLinter-pycodestyle	SublimeLinter/SublimeLinter-pycodestyle	1	5931
+SublimeLinter-pyflakes	SublimeLinter/SublimeLinter-pyflakes	1	5932
+SublimeLinter-pylint	SublimeLinter/SublimeLinter-pylint	1	5933
+SublimeLinter-rst	SublimeLinter/SublimeLinter-rst	1	5934
+SublimeLinter-rubocop	SublimeLinter/SublimeLinter-rubocop	1	5935
+SublimeLinter-ruby	SublimeLinter/SublimeLinter-ruby	1	5936
+SublimeLinter-shellcheck	SublimeLinter/SublimeLinter-shellcheck	1	5937
+SublimeLinter-tslint	SublimeLinter/SublimeLinter-tslint	1	5938
+SublimeLinter-vale	SublimeLinter/SublimeLinter-vale	1	5939
+SublimeLinter-xmllint	SublimeLinter/SublimeLinter-xmllint	1	5940
+LSP-angular	sublimelsp/LSP-angular	1	5941
+LSP-astro	sublimelsp/LSP-astro	1	5942
+LSP-bash	sublimelsp/LSP-bash	6	5943
+LSP-clangd	sublimelsp/LSP-clangd	1	5944
+LSP-css	sublimelsp/LSP-css	5	5945
+LSP-Dart	sublimelsp/LSP-Dart	1	5946
+LSP-dockerfile	sublimelsp/LSP-dockerfile	1	5947
+LSP-eslint	sublimelsp/LSP-eslint	1	5949
+LSP-file-watcher-chokidar	sublimelsp/LSP-file-watcher-chokidar	3	5950
+LSP-flow	sublimelsp/LSP-flow	1	5951
+LSP-gopls	sublimelsp/LSP-gopls	9	5952
+LSP-graphql	sublimelsp/LSP-graphql	1	5953
+LSP-html	sublimelsp/LSP-html	5	5954
+LSP-intelephense	sublimelsp/LSP-intelephense	6	5955
+LSP-lua	sublimelsp/LSP-lua	1	5957
+LSP-nimlangserver	sublimelsp/LSP-nimlangserver	1	5959
+LSP-OmniSharp	sublimelsp/LSP-OmniSharp	1	5960
+LSP-PowerShellEditorServices	sublimelsp/LSP-PowerShellEditorServices	1	5961
+LSP-pylsp	sublimelsp/LSP-pylsp	1	5963
+LSP-pyproject	sublimelsp/LSP-pyproject	1	5964
+LSP-rust-analyzer	sublimelsp/LSP-rust-analyzer	3	5966
+LSP-svelte	sublimelsp/LSP-svelte	1	5967
+LSP-tailwindcss	sublimelsp/LSP-tailwindcss	1	5968
+LSP-terraform	sublimelsp/LSP-terraform	1	5970
+LSP-Tinymist	sublimelsp/LSP-Tinymist	1	5971
+LSP-ty	sublimelsp/LSP-ty	8	5972
+LSP-typescript	sublimelsp/LSP-typescript	3	5973
+LSP-volar	sublimelsp/LSP-volar	3	5975
+LSP-vue	sublimelsp/LSP-vue	1	5976

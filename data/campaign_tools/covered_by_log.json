@@ -1,0 +1,2270 @@
+[
+ [
+  "Emmet",
+  6141940,
+  "heading",
+  "line 678: ### Day 2 (2026-09-09): Emmet"
+ ],
+ [
+  "SideBarEnhancements",
+  2951030,
+  "heading",
+  "line 808: ### Day 2 (2026-09-09): SideBarEnhancements"
+ ],
+ [
+  "BracketHighlighter",
+  2671237,
+  "heading",
+  "line 712: ### Day 2 (2026-09-09): BracketHighlighter"
+ ],
+ [
+  "WakaTime",
+  1861616,
+  "heading",
+  "line 920: ### Day 2 (2026-09-09): WakaTime"
+ ],
+ [
+  "Sass",
+  1697152,
+  "heading",
+  "line 2616: ### 2026-09-24: resumed live install-and-exercise bug hunt (from Sass onward)"
+ ],
+ [
+  "AutoFileName",
+  1629252,
+  "weak",
+  "line 3783: - Served but fine on syntax: AWS Helper, QuickSimplenote, Rails Partial, Http Requester, SublimePeek, PHPIntel"
+ ],
+ [
+  "Alignment",
+  1504694,
+  "weak",
+  "line 3015: - Installed live. A substantial (~2700 line), well-architected WinMerge-style file/folder diff and merge tool:"
+ ],
+ [
+  "ColorPicker",
+  1502575,
+  "heading",
+  "line 842: ### Day 2 (2026-09-09): ColorPicker"
+ ],
+ [
+  "Pretty JSON",
+  1391415,
+  "bullet",
+  "line 1277: - Pretty JSON (#15, ~1,388,883) -- needs dedicated MCP: no -- plain TextCommand/WindowCommand set; jq integration is just subprocess + show_input_panel."
+ ],
+ [
+  "A File Icon",
+  1351351,
+  "repo",
+  "line 2586 (repo path): - A File Icon -- https://github.com/SublimeText/AFileIcon/issues/109"
+ ],
+ [
+  "SFTP",
+  1274480,
+  "bullet",
+  "line 1278: - SFTP (#20, ~1,272,651, wbond, commercial/closed-source) -- needs dedicated MCP: no (doc-based, source unavailable) -- public command list is plain sync/browse/diff network operations, no evidence of native UI."
+ ],
+ [
+  "Git",
+  1233122,
+  "heading",
+  "line 4406: ## EasyCommit (queue 348) -- offline check against throwaway git repos, 2026-09-26 (not installed)"
+ ],
+ [
+  "DocBlockr",
+  1213569,
+  "heading",
+  "line 765: ### Day 2 (2026-09-09): DocBlockr"
+ ],
+ [
+  "All Autocomplete",
+  1104512,
+  "bullet",
+  "line 1279: - All Autocomplete (#26, ~1,104,347) -- DROPPED: no `.python-version` (404 confirmed), not investigated."
+ ],
+ [
+  "Anaconda",
+  1074345,
+  "bullet",
+  "line 1280: - Anaconda (#28, ~1,074,100) -- needs dedicated MCP: no -- plain commands talking to a background `jsonserver` subprocess over a plain TCP/Unix socket (JSON-RPC), a confirmed-safe IPC category."
+ ],
+ [
+  "Terminal",
+  963813,
+  "bullet",
+  "line 1281: - Terminal (#29, ~963,359, wbond) -- DROPPED: no `.python-version`, source has explicit ST2/3 `unicode`/`_winreg` branching, not investigated further."
+ ],
+ [
+  "MarkdownPreview",
+  950755,
+  "bullet",
+  "line 1282: - MarkdownPreview (#30, ~947,337, facelessuser) -- needs dedicated MCP: no -- plain commands write HTML to a discoverable temp file/clipboard and shell out via subprocess/`webbrowser.open` to the OS browser."
+ ],
+ [
+  "GitGutter",
+  916583,
+  "heading",
+  "line 166: ### Day 1, fourth package (2026-09-09): GitGutter"
+ ],
+ [
+  "JsFormat",
+  915870,
+  "bullet",
+  "line 1283: - JsFormat (#33, ~915,592) -- DROPPED: no `.python-version`, source explicitly branches `is_py2k`, not investigated further."
+ ],
+ [
+  "LiveReload",
+  765623,
+  "heading",
+  "line 1049: ### Day 2 (2026-09-09): LiveReload -- testing the remaining \"binary/proprietary wire format\" candidate named above"
+ ],
+ [
+  "AdvancedNewFile",
+  762698,
+  "heading",
+  "line 1149: ### Day 2 (2026-09-09): AdvancedNewFile -- the sharper test found, and this time the thesis needed a real fix, not a workaround"
+ ],
+ [
+  "Less",
+  706364,
+  "heading",
+  "line 4321: ## Better Less (queue 305) -- full live procedure, 2026-09-25"
+ ],
+ [
+  "MarkdownEditing",
+  678246,
+  "weak",
+  "line 1588: - **MarkdownEditing** adds nice editing behavior for Markdown files. It"
+ ],
+ [
+  "Python 3",
+  569523,
+  "weak",
+  "line 119: compiled binary matching Sublime's embedded Python 3.8 build exactly --"
+ ],
+ [
+  "Indent XML",
+  524188,
+  "repo",
+  "line 2595 (repo path): - Indent XML -- https://github.com/braver/IndentXML/issues/1"
+ ],
+ [
+  "Theme - Spacegray",
+  519053,
+  "weak",
+  "line 1514: Theme - Brackets, Theme - Monokai Pro, Theme - One, Theme - Spacegray,"
+ ],
+ [
+  "Laravel Blade",
+  464081,
+  "weak",
+  "line 1516: zenburn, EJS, Jinja2, Laravel Blade, Liquid, PostCSS, Twig, Vue.)"
+ ],
+ [
+  "TrailingSpaces",
+  454206,
+  "bullet",
+  "line 1284: - TrailingSpaces (#53, ~454,041) -- needs dedicated MCP: no -- plain TextCommand/WindowCommand set using `view.add_regions`/settings only."
+ ],
+ [
+  "Terminus",
+  453527,
+  "heading",
+  "line 610: ### Day 2 (2026-09-09): Terminus"
+ ],
+ [
+  "Phpcs",
+  430464,
+  "bullet",
+  "line 1285: - Phpcs (#57, ~430,426) -- DROPPED: no `.python-version` (404 confirmed), retains explicit ST2/3 branching, not investigated further."
+ ],
+ [
+  "Compare Side-By-Side",
+  371426,
+  "bullet",
+  "line 1286: - Compare Side-By-Side (#65, ~370,809, kaste) -- needs dedicated MCP: no -- plain commands, quick-panel picking, `view.add_regions` diff highlighting, one background thread for intraline coloring."
+ ],
+ [
+  "LaTeXTools",
+  370443,
+  "bullet",
+  "line 1287: - LaTeXTools (#66, ~370,138) -- needs dedicated MCP: no -- PDF forward-sync to every supported viewer (Skim/SumatraPDF/Evince/Okular/Zathura) goes through the plugin's own subprocess/AppleScript wrapper, not an opaque vi"
+ ],
+ [
+  "PackageResourceViewer",
+  365899,
+  "bullet",
+  "line 1288: - PackageResourceViewer (#67, ~365,751) -- DROPPED: no `.python-version` (404 confirmed), not investigated."
+ ],
+ [
+  "FileDiffs",
+  337749,
+  "bullet",
+  "line 1289: - FileDiffs (#70, ~337,486) -- DROPPED: no `.python-version` present in repo root, not investigated further."
+ ],
+ [
+  "CodeFormatter",
+  333742,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "Color Highlight",
+  322304,
+  "weak",
+  "line 1526: Calculate, ChangeQuotes, Clipboard Manager, Color Highlight, Comments"
+ ],
+ [
+  "FileIcons",
+  319349,
+  "weak",
+  "line 1510: FileIcons, FileIcons Mono, Generic Config, GitHub Theme, Github Color"
+ ],
+ [
+  "CoffeeScript",
+  312254,
+  "weak",
+  "line 1596: - **CoffeeScript** support compiles CoffeeScript files by handing the"
+ ],
+ [
+  "CTags",
+  306675,
+  "bullet",
+  "line 1290: - CTags (#78, ~306,636) -- needs dedicated MCP: no -- plain commands shelling out to the external `ctags` binary, symbol picking via quick panels."
+ ],
+ [
+  "Materialize",
+  275226,
+  "weak",
+  "line 3325: - Investigated a theoretical edge case in `on_hover`: `expression_region = [r for r in self.view.find_by_selec"
+ ],
+ [
+  "Dracula Color Scheme",
+  271274,
+  "weak",
+  "line 1509: Swift Syntax, DoxyDoxygen, Dracula Color Scheme, Enhanced HTML and CFML,"
+ ],
+ [
+  "Tag",
+  263359,
+  "heading",
+  "line 3009: ## Template Tag, Make Bookmarklet, raylang (2026-09-24)"
+ ],
+ [
+  "PHP Companion",
+  243404,
+  "bullet",
+  "line 1291: - PHP Companion (#100, ~243,344) -- DROPPED: no `.python-version`, last commit Jan 2020, not investigated further."
+ ],
+ [
+  "LocalizedMenu",
+  235331,
+  "weak",
+  "line 1529: Guna, HTML (C#), JsPrettier, LanguageTool, LocalizedMenu, NASM x86"
+ ],
+ [
+  "SyncedSideBar",
+  228988,
+  "bullet",
+  "line 1292: - SyncedSideBar (#104, ~228,921) -- DROPPED: no `.python-version` present (repo explicitly still supports ST2); overridden here from the investigating scout's \"simple enough to not matter\" call -- the hard rule has no su"
+ ],
+ [
+  "EditorConfig",
+  223934,
+  "weak",
+  "line 38: the EditorConfig #39 trim-whitespace false finding): an edit-then-save"
+ ],
+ [
+  "WordPress",
+  217038,
+  "weak",
+  "line 1534: wpseek WordPress Developer Assistant, xml2json."
+ ],
+ [
+  "LSP",
+  214977,
+  "heading",
+  "line 2980: ## LSP-copilot (2026-09-24)"
+ ],
+ [
+  "HexViewer",
+  214185,
+  "bullet",
+  "line 1293: - HexViewer (#118, ~213,973, facelessuser) -- needs dedicated MCP: no -- plain commands plus background `threading.Thread` workers for file I/O, all state readable via the view buffer/temp files."
+ ],
+ [
+  "FTPSync",
+  209328,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "PlainTasks",
+  207990,
+  "weak",
+  "line 1606: - **PlainTasks** is a to-do-list manager that lives entirely inside a"
+ ],
+ [
+  "JsPrettier",
+  207030,
+  "weak",
+  "line 1529: Guna, HTML (C#), JsPrettier, LanguageTool, LocalizedMenu, NASM x86"
+ ],
+ [
+  "PowerShell",
+  206964,
+  "weak",
+  "line 1512: Notepad++ Color Scheme, Nunjucks, PowerShell, React + Js Snippets,"
+ ],
+ [
+  "Twig",
+  204061,
+  "heading",
+  "line 5066: ### October Twig Highlighter (queue 605), 2026-09-28 -- channel-level finding, archived upstream"
+ ],
+ [
+  "SublimeGit",
+  189590,
+  "bullet",
+  "line 1294: - SublimeGit (#133, ~189,563) -- DROPPED: no `.python-version` (404 confirmed), not investigated."
+ ],
+ [
+  "phpfmt",
+  177027,
+  "bullet",
+  "line 1295: - phpfmt (#139, ~176,963) -- DROPPED: no `.python-version` anywhere in the repo (404 confirmed); overridden here from the investigating scout's \"no\" verdict, which reasoned past the missing file because the repo claims S"
+ ],
+ [
+  "AutoPEP8",
+  167325,
+  "bullet",
+  "line 1296: - AutoPEP8 (#147, ~167,273) -- DROPPED: no `.python-version`, README states \"Supports ST3 only\" on the ST-locked Python 3.3 interpreter, not investigated further."
+ ],
+ [
+  "Trimmer",
+  163254,
+  "bullet",
+  "line 1297: - Trimmer (#150, ~163,213) -- DROPPED: no `.python-version`, README explicitly states ST2/ST3 compatibility, not investigated further."
+ ],
+ [
+  "Stylus",
+  158055,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "Handlebars",
+  156140,
+  "weak",
+  "line 1511: Theme, Handlebars, JQ Syntax, Kotlin, Mermaid, Neon Color Scheme, Nim,"
+ ],
+ [
+  "Xdebug Client",
+  152336,
+  "bullet",
+  "line 1298: - Xdebug Client (#166, ~152,322) -- DROPPED: no `.python-version` (404 confirmed), not investigated. (Notable miss: a real debugger-protocol package, but too old to qualify.)"
+ ],
+ [
+  "Origami",
+  148460,
+  "bullet",
+  "line 1299: - Origami (#171, ~148,322) -- needs dedicated MCP: no -- pure `window.layout()`/`set_layout()` pane manipulation plus input panels for numeric entry."
+ ],
+ [
+  "GitHubTools",
+  146431,
+  "bullet",
+  "line 1300: - GitHubTools (#173, ~146,407) -- needs dedicated MCP: no -- plain commands shelling out to `git` via subprocess and handing off to the OS browser via the built-in `open_url` command."
+ ],
+ [
+  "Solarized Color Scheme",
+  144463,
+  "weak",
+  "line 1513: Smarty, Solarized Color Scheme, Svelte, TOML, Tailwind CSS, Terraform,"
+ ],
+ [
+  "Diffable",
+  142197,
+  "bullet",
+  "line 1301: - Diffable (#176, ~142,137) -- needs dedicated MCP: no -- a single WindowCommand; external Kaleidoscope diff viewer invoked as a plain subprocess."
+ ],
+ [
+  "ColorHelper",
+  138769,
+  "bullet",
+  "line 1302: - ColorHelper (#178, ~138,581, facelessuser) -- **needs dedicated MCP: yes** -- `use_os_color_picker` setting routes to a native OS modal (ChooseColorW/NSColorPanel/kcolorchooser), same class as ColorPicker; default pick"
+ ],
+ [
+  "Placeholders",
+  133999,
+  "weak",
+  "line 789: as `@param {Function}` (vs. generic `{[type]}` placeholders for `a`/`b`)"
+ ],
+ [
+  "Tabnine",
+  129842,
+  "bullet",
+  "line 1303: - Tabnine (#193, ~129,807) -- DROPPED: no `.python-version` anywhere in repo, not investigated further (source shows its AI-completion IPC is plain subprocess+stdin/stdout JSON, which would have been a confirmed-safe cat"
+ ],
+ [
+  "ApacheConf",
+  126678,
+  "weak",
+  "line 1507: campaign. (Full list: ApacheConf, Brackets Color Scheme, C++ & C Single"
+ ],
+ [
+  "WordingStatus",
+  126568,
+  "bullet",
+  "line 1304: - WordingStatus (#200, ~126,465) -- DROPPED: no `.python-version`, README targets ST3 only, fork of a pre-2013 plugin, not investigated further."
+ ],
+ [
+  "Rust Enhanced",
+  120798,
+  "bullet",
+  "line 1305: - Rust Enhanced (#205, ~120,662, official rust-lang) -- needs dedicated MCP: no -- plain WindowCommands driving `cargo` via subprocess, JSON output rendered into phantoms/regions/quick panels."
+ ],
+ [
+  "React IDE",
+  120447,
+  "weak",
+  "line 3800: - Reviewed but not filed yet: `os.system` with interpolated file paths in Open In Browser (macOS/Linux, `'{url"
+ ],
+ [
+  "Theme - Monokai Pro",
+  120292,
+  "weak",
+  "line 1514: Theme - Brackets, Theme - Monokai Pro, Theme - One, Theme - Spacegray,"
+ ],
+ [
+  "Theme - One",
+  119957,
+  "weak",
+  "line 1514: Theme - Brackets, Theme - Monokai Pro, Theme - One, Theme - Spacegray,"
+ ],
+ [
+  "Auto Close HTML Tags",
+  116036,
+  "weak",
+  "line 1525: further than that one check. (Full list: Auto Close HTML Tags, CSS3,"
+ ],
+ [
+  "Highlight",
+  113757,
+  "heading",
+  "line 3261: ## Highlight Token / SbotHighlight (2026-09-24)"
+ ],
+ [
+  "PackageDev",
+  112666,
+  "bullet",
+  "line 1306: - PackageDev (#220, ~112,603) -- needs dedicated MCP: no -- resource-authoring commands plus `ViewEventListener`s that read the view's own parsed scope tree (`find_by_selector`/`match_selector`); no native UI anywhere."
+ ],
+ [
+  "SublimeLinter-annotations",
+  111945,
+  "heading",
+  "line 645: ### Day 2 (2026-09-09): SublimeLinter (+ SublimeLinter-annotations)"
+ ],
+ [
+  "SVN",
+  107022,
+  "bullet",
+  "line 1307: - SVN (#227, ~106,982, wbond, commercial/closed-source) -- needs dedicated MCP: no (doc-based, source unavailable) -- public docs describe plain `svn` CLI wrapping plus input/quick panels for merge/resolve."
+ ],
+ [
+  "JS Snippets",
+  105011,
+  "weak",
+  "line 1512: Notepad++ Color Scheme, Nunjucks, PowerShell, React + Js Snippets,"
+ ],
+ [
+  "CMake",
+  101602,
+  "bullet",
+  "line 1308: - CMake (#238, ~101,504) -- needs dedicated MCP: n/a -- not actually a plugin at all, pure `.sublime-syntax`/completions resource files, zero runtime Python for any MCP (generic or dedicated) to control."
+ ],
+ [
+  "Swift",
+  97329,
+  "heading",
+  "line 4104: ## Decent Swift Syntax (queue 240) -- full live procedure, 2026-09-25"
+ ],
+ [
+  "rsub",
+  89948,
+  "repo",
+  "line 968 (repo path): `randy3k`'s active fork of `henrikpersson/rsub` (the rmate protocol for"
+ ],
+ [
+  "ApplySyntax",
+  87736,
+  "weak",
+  "line 1610: - **ApplySyntax** lets you tell it \"treat files that look like this as"
+ ],
+ [
+  "GitSavvy",
+  87508,
+  "heading",
+  "line 562: ### Day 2 (2026-09-09): GitSavvy"
+ ],
+ [
+  "LaTeXing",
+  86823,
+  "weak",
+  "line 4671: Read-only scan of dependencies.json in all 3,828 queued repos (129 have one): after PC's legacy-name map + bui"
+ ],
+ [
+  "Pretty YAML",
+  84676,
+  "weak",
+  "line 3800: - Reviewed but not filed yet: `os.system` with interpolated file paths in Open In Browser (macOS/Linux, `'{url"
+ ],
+ [
+  "JavaScript Enhancements",
+  83372,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "Highlighter",
+  81237,
+  "heading",
+  "line 3502: ## ESQL, Piranha, PLI10, AMPscript Syntax Highlighter, Flatdata Syntax Highlighting (2026-09-25)"
+ ],
+ [
+  "SideBarTools",
+  80598,
+  "bullet",
+  "line 1309: - SideBarTools (#290, ~80,498) -- needs dedicated MCP: no -- plain WindowCommands, `show_input_panel` for renames, background thread for copy/move, subprocess for the optional external difftool."
+ ],
+ [
+  "Case Conversion",
+  80303,
+  "bullet",
+  "line 1310: - Case Conversion (#292, ~80,269) -- DROPPED: no `.python-version` (404 confirmed), not investigated."
+ ],
+ [
+  "Text Pastry",
+  78266,
+  "bullet",
+  "line 1311: - Text Pastry (#295, ~78,218) -- DROPPED: no `.python-version` present, not investigated further."
+ ],
+ [
+  "Terraform",
+  76120,
+  "weak",
+  "line 1513: Smarty, Solarized Color Scheme, Svelte, TOML, Tailwind CSS, Terraform,"
+ ],
+ [
+  "TodoReview",
+  76034,
+  "bullet",
+  "line 1312: - TodoReview (#304, ~76,006) -- DROPPED: no `.python-version` (404 confirmed), not investigated."
+ ],
+ [
+  "TernJS",
+  74249,
+  "weak",
+  "line 3789: - Dismissed after checking: TernJS and Extend Selection (`settings` is bound through `globals()['settings'] = "
+ ],
+ [
+  "gruvbox",
+  73779,
+  "heading",
+  "line 5452: ## #674 Gruvbox Material Theme (KarimLeVallois/gruvbox-material-sublime-text)"
+ ],
+ [
+  "ColorConverter",
+  72268,
+  "repo",
+  "line 2591 (repo path): - ColorConverter -- https://github.com/braver/ColorConverter/issues/6"
+ ],
+ [
+  "UnicodeConverter",
+  71874,
+  "weak",
+  "line 1533: UIkitCompletions, UnicodeConverter, Unity Shader, Verilog Gadget, fish,"
+ ],
+ [
+  "TortoiseSVN",
+  71511,
+  "weak",
+  "line 3783: - Served but fine on syntax: AWS Helper, QuickSimplenote, Rails Partial, Http Requester, SublimePeek, PHPIntel"
+ ],
+ [
+  "PHPUnit",
+  70818,
+  "repo",
+  "line 3788 (repo path): - Not filed (archived): paxtonhare/MarkLogic-Sublime (`Timer` not imported), toxinu/Sublimall (`Error`), chigix/sublime-php-connector, seiyria/sublime-dreams, s"
+ ],
+ [
+  "SublimeLinter-pyflakes",
+  70195,
+  "weak",
+  "line 27: false negative on SublimeLinter-pyflakes (package #37): a run that had"
+ ],
+ [
+  "Print to HTML",
+  69361,
+  "repo",
+  "line 3788 (repo path): - Not filed (archived): paxtonhare/MarkLogic-Sublime (`Timer` not imported), toxinu/Sublimall (`Error`), chigix/sublime-php-connector, seiyria/sublime-dreams, s"
+ ],
+ [
+  "Open Folder",
+  69206,
+  "weak",
+  "line 3193: - Reviewed the dotenv-loading logic (merges `.env` + `*.env` from every open folder in a multi-root window) --"
+ ],
+ [
+  "SystemVerilog",
+  68157,
+  "weak",
+  "line 1531: Text (RST) Snippets, SQF Language, SystemVerilog, Table Editor,"
+ ],
+ [
+  "OmniSharp",
+  63987,
+  "weak",
+  "line 3787: - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`str"
+ ],
+ [
+  "FileBrowser",
+  63938,
+  "repo",
+  "line 461 (repo path): ## Package 10: FileBrowser (kaste/SublimeFileBrowser)"
+ ],
+ [
+  "Dart",
+  63715,
+  "repo",
+  "line 3803 (repo path): - Every Sublime JSON resource file (keymap/menu/commands/build/completions/settings/theme/macro/mousemap/color-scheme, 10,755 files in 2,258 repos) was run thro"
+ ],
+ [
+  "React + Js Snippets",
+  63355,
+  "weak",
+  "line 1512: Notepad++ Color Scheme, Nunjucks, PowerShell, React + Js Snippets,"
+ ],
+ [
+  "Google Spell Check",
+  63348,
+  "weak",
+  "line 1618: - **Google Spell Check** sends your selected text to Google's public"
+ ],
+ [
+  "Gitignore",
+  62893,
+  "heading",
+  "line 4616: ### Gitignore Extended (458), 2026-09-26 - filed Isaac-the-Man/Sublime-Gitignore-Extended#1"
+ ],
+ [
+  "GitHub Theme",
+  61782,
+  "weak",
+  "line 1510: FileIcons, FileIcons Mono, Generic Config, GitHub Theme, Github Color"
+ ],
+ [
+  "PHP Getters and Setters",
+  57093,
+  "repo",
+  "line 2599 (repo path): - PHP Getters and Setters -- https://github.com/SublimeText/PHPGettersSetters/issues/1"
+ ],
+ [
+  "Compass",
+  56649,
+  "heading",
+  "line 3038: ## Compass Navigator (2026-09-24)"
+ ],
+ [
+  "Table Editor",
+  55931,
+  "weak",
+  "line 1531: Text (RST) Snippets, SQF Language, SystemVerilog, Table Editor,"
+ ],
+ [
+  "Elixir",
+  55568,
+  "heading",
+  "line 5428: ## #670 ElixirDocs (reisub/sublime-elixir-docs)"
+ ],
+ [
+  "EasyDiff",
+  53806,
+  "weak",
+  "line 1626: - **EasyDiff** compares two pieces of text using your operating"
+ ],
+ [
+  "Bracketeer",
+  53500,
+  "weak",
+  "line 1629: - **Bracketeer** handles smart bracket/quote insertion and matching"
+ ],
+ [
+  "ExportHtml",
+  53423,
+  "weak",
+  "line 1632: - **ExportHtml** turns your current file into a styled HTML or RTF"
+ ],
+ [
+  "Simple FTP Deploy",
+  52696,
+  "repo",
+  "line 2643 (repo path): - **Simple FTP Deploy** -- HexRx/simple-ftp-deploy#21-#24 (sibling-folder"
+ ],
+ [
+  "Neon Color Scheme",
+  51488,
+  "weak",
+  "line 1511: Theme, Handlebars, JQ Syntax, Kotlin, Mermaid, Neon Color Scheme, Nim,"
+ ],
+ [
+  "RawLineEdit",
+  50677,
+  "weak",
+  "line 1640: - **RawLineEdit** lets you toggle between seeing a line \"as written\" or"
+ ],
+ [
+  "ESLint-Formatter",
+  50602,
+  "weak",
+  "line 1528: ESLint-Formatter, Elixir, Emacs Pro Essentials, GitHubinator, Gitignore,"
+ ],
+ [
+  "ChangeQuotes",
+  50213,
+  "weak",
+  "line 1526: Calculate, ChangeQuotes, Clipboard Manager, Color Highlight, Comments"
+ ],
+ [
+  "Brackets Color Scheme",
+  49220,
+  "weak",
+  "line 1507: campaign. (Full list: ApacheConf, Brackets Color Scheme, C++ & C Single"
+ ],
+ [
+  "RegReplace",
+  48340,
+  "weak",
+  "line 1643: - **RegReplace** runs find-and-replace rules you've defined in your"
+ ],
+ [
+  "CSV",
+  47296,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "FileIcons Mono",
+  45710,
+  "weak",
+  "line 1510: FileIcons, FileIcons Mono, Generic Config, GitHub Theme, Github Color"
+ ],
+ [
+  "DotENV",
+  44096,
+  "weak",
+  "line 3190: - Installed live. A Postman-lite tool: parses `.http`-style request blocks from the buffer, sends them via a v"
+ ],
+ [
+  "RSpec",
+  43320,
+  "repo",
+  "line 2600 (repo path): - RSpec -- https://github.com/SublimeText/RSpec/issues/80"
+ ],
+ [
+  "Clickable URLs",
+  41601,
+  "repo",
+  "line 2606 (repo path): - Clickable URLs (pakhromov/ClickableUrls)"
+ ],
+ [
+  "VHDL",
+  41458,
+  "heading",
+  "line 4345: ## Smart VHDL (queue 327) -- retest of my #33, 2026-09-25"
+ ],
+ [
+  "FuzzyFilePath",
+  41270,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "Clipboard Manager",
+  40545,
+  "weak",
+  "line 1526: Calculate, ChangeQuotes, Clipboard Manager, Color Highlight, Comments"
+ ],
+ [
+  "x86 and x86_64 Assembly",
+  40257,
+  "weak",
+  "line 1515: VimL, Visual Studio Code Plus Scheme, XAML, x86 and x86_64 Assembly,"
+ ],
+ [
+  "DoxyDoxygen",
+  39716,
+  "weak",
+  "line 1509: Swift Syntax, DoxyDoxygen, Dracula Color Scheme, Enhanced HTML and CFML,"
+ ],
+ [
+  "LSP-pyright",
+  38915,
+  "weak",
+  "line 55: - LSP (via LSP-pyright) -- hover/definition/references/etc. bridge"
+ ],
+ [
+  "SmartMarkdown",
+  38607,
+  "weak",
+  "line 3800: - Reviewed but not filed yet: `os.system` with interpolated file paths in Open In Browser (macOS/Linux, `'{url"
+ ],
+ [
+  "SideBarMenuAdvanced",
+  37666,
+  "repo",
+  "line 3777 (repo path): - NOT filed (repository archived): wisdman/SideBarMenuAdvanced (`.format` KeyError in duplicate handler), quarnster/ADBView (`groups`), idleberg/sublime-atomizr"
+ ],
+ [
+  "MarkdownTOC",
+  37352,
+  "repo",
+  "line 2597 (repo path): - MarkdownTOC -- https://github.com/naokazuterada/MarkdownTOC/issues/175"
+ ],
+ [
+  "StringEncode",
+  36989,
+  "repo",
+  "line 2626 (repo path): padding + Base16/32 lowercase (#55) -- colinta/SublimeStringEncode."
+ ],
+ [
+  "RainbowBrackets",
+  36949,
+  "weak",
+  "line 1661: - **RainbowBrackets** colors matching brackets different colors as you"
+ ],
+ [
+  "CoolFormat",
+  36921,
+  "weak",
+  "line 1527: Aware Enter, CoolFormat, CursorRuler, DictionaryAutoComplete,"
+ ],
+ [
+  "Theme - El Capitan",
+  36387,
+  "weak",
+  "line 1471: a color theme called \"Theme - El Capitan,\" looked recent by that date but"
+ ],
+ [
+  "Emacs Pro Essentials",
+  36259,
+  "weak",
+  "line 1528: ESLint-Formatter, Elixir, Emacs Pro Essentials, GitHubinator, Gitignore,"
+ ],
+ [
+  "LSP-json",
+  34895,
+  "weak",
+  "line 510: alongside LSP/LSP-pyright/LSP-json, Debugger, and OpenUri in the user's"
+ ],
+ [
+  "Ruby Debugger",
+  34198,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "Devastate",
+  33329,
+  "heading",
+  "line 5472: ## #677 Devastate Mode-Z (CocaineJohnsson/sublime-devastate-mode-z)"
+ ],
+ [
+  "Whitespace",
+  33291,
+  "weak",
+  "line 38: the EditorConfig #39 trim-whitespace false finding): an edit-then-save"
+ ],
+ [
+  "Deviot (Arduino IDE)",
+  32701,
+  "repo",
+  "line 3772 (repo path): - WebHare/sublime-package#4 (`highlight` never imported), RobinWragg/JaiTools#6 (build command uses four undefined helpers), warmdev/SublimeOutline#46 (`same_pa"
+ ],
+ [
+  "Transparency",
+  32449,
+  "weak",
+  "line 1532: TextFormatting, TodoTxt Syntax, Translator, Transparency,"
+ ],
+ [
+  "Ngx HTML",
+  32233,
+  "weak",
+  "line 1530: Assembly, Ngx HTML, PlantUmlDiagrams, Prettierd Format, Restructured"
+ ],
+ [
+  "xpath",
+  31529,
+  "heading",
+  "line 2907: ### 2026-09-24: xpath#47 PR (explicit one-off exception to the report-only rule)"
+ ],
+ [
+  "GhostText",
+  30534,
+  "weak",
+  "line 1667: - **GhostText** lets a web browser extension send text from a browser"
+ ],
+ [
+  "GitHubinator",
+  30098,
+  "weak",
+  "line 1528: ESLint-Formatter, Elixir, Emacs Pro Essentials, GitHubinator, Gitignore,"
+ ],
+ [
+  "Http Requester",
+  28727,
+  "weak",
+  "line 3783: - Served but fine on syntax: AWS Helper, QuickSimplenote, Rails Partial, Http Requester, SublimePeek, PHPIntel"
+ ],
+ [
+  "TabsExtra",
+  28379,
+  "weak",
+  "line 1672: - **TabsExtra** adds extra tab-management features (closing groups of"
+ ],
+ [
+  "NeoVintageous",
+  28315,
+  "weak",
+  "line 1675: - **NeoVintageous** brings Vim-style keyboard editing to Sublime Text."
+ ],
+ [
+  "GraphQL",
+  27934,
+  "heading",
+  "line 4644: ### GraphQL Playground (485), Norber Theme (487), Scarpet (483), WWB (478), TooltipLSL (476), 2026-09-26"
+ ],
+ [
+  "PlainNotes",
+  27754,
+  "weak",
+  "line 3809: - `nonraw_b` scan (non-raw `\\b` in re.*): only PlainNotes (commented out) and SublimeXiki `re.compile('.\\b')` "
+ ],
+ [
+  "LSP-copilot",
+  27665,
+  "heading",
+  "line 2980: ## LSP-copilot (2026-09-24)"
+ ],
+ [
+  "BootstrapAutocomplete",
+  27222,
+  "repo",
+  "line 2589 (repo path): - BootstrapAutocomplete -- https://github.com/jfcherng-sublime/ST-BootstrapAutocomplete/issues/6"
+ ],
+ [
+  "UIkitCompletions",
+  26550,
+  "weak",
+  "line 1533: UIkitCompletions, UnicodeConverter, Unity Shader, Verilog Gadget, fish,"
+ ],
+ [
+  "EasyMotion",
+  26302,
+  "weak",
+  "line 3032: - Installed live. An EasyMotion/AceJump-style label-overlay jump plugin, notably including a sophisticated han"
+ ],
+ [
+  "RemoteSubl",
+  24892,
+  "heading",
+  "line 966: ### Day 2 (2026-09-09): RemoteSubl -- deliberately picked to attack the thesis, not just sample it"
+ ],
+ [
+  "Open URL",
+  24448,
+  "weak",
+  "line 1683: - **Open URL** finds and opens URLs in your text, checking that they're"
+ ],
+ [
+  "Open In Browser",
+  24314,
+  "weak",
+  "line 3800: - Reviewed but not filed yet: `os.system` with interpolated file paths in Open In Browser (macOS/Linux, `'{url"
+ ],
+ [
+  "Wrap Plus",
+  23876,
+  "repo",
+  "line 2631 (repo path): ehuss/Sublime-Wrap-Plus#71; added a comment with current-master repro and"
+ ],
+ [
+  "ReIndent",
+  23599,
+  "weak",
+  "line 3856: Installed, messages view read and closed, no dialogs. Ran reindent_buffer, select_topmost_form, toggle_comment"
+ ],
+ [
+  "wpseek WordPress Developer Assistant",
+  23377,
+  "weak",
+  "line 1534: wpseek WordPress Developer Assistant, xml2json."
+ ],
+ [
+  "LaTeXBox",
+  23334,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "SQF Language",
+  23055,
+  "weak",
+  "line 1531: Text (RST) Snippets, SQF Language, SystemVerilog, Table Editor,"
+ ],
+ [
+  "Console Exec",
+  23037,
+  "repo",
+  "line 2636 (repo path): - **Console Exec** -- joeyespo/sublimetext-console-exec#12 (Windows: cmd /c quote"
+ ],
+ [
+  "DictionaryAutoComplete",
+  23028,
+  "weak",
+  "line 1527: Aware Enter, CoolFormat, CursorRuler, DictionaryAutoComplete,"
+ ],
+ [
+  "File Rename",
+  22308,
+  "weak",
+  "line 5280: - **Real bug found, reproduced live, and filed: Globidev/Sublime-Text-42-Headers#24 -- DATA LOSS, high severit"
+ ],
+ [
+  "Catppuccin color schemes",
+  22240,
+  "weak",
+  "line 1508: File Builder - Minghang Yang, Catppuccin color schemes, Cisco, Decent"
+ ],
+ [
+  "Kulture",
+  21732,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "Generic Config",
+  21433,
+  "weak",
+  "line 1510: FileIcons, FileIcons Mono, Generic Config, GitHub Theme, Github Color"
+ ],
+ [
+  "Theme - Monokai",
+  20474,
+  "weak",
+  "line 1514: Theme - Brackets, Theme - Monokai Pro, Theme - One, Theme - Spacegray,"
+ ],
+ [
+  "Notes",
+  20257,
+  "heading",
+  "line 4657: ### Outline Notes Publisher (499), 2026-09-26"
+ ],
+ [
+  "Scheme",
+  19911,
+  "heading",
+  "line 5170: ## #627 Freedom Colour Scheme (frithrah/freedom-sublime)"
+ ],
+ [
+  "Prettierd Format",
+  19854,
+  "weak",
+  "line 1530: Assembly, Ngx HTML, PlantUmlDiagrams, Prettierd Format, Restructured"
+ ],
+ [
+  "Verilog Gadget",
+  18715,
+  "weak",
+  "line 1533: UIkitCompletions, UnicodeConverter, Unity Shader, Verilog Gadget, fish,"
+ ],
+ [
+  "PostCSS",
+  18571,
+  "weak",
+  "line 1516: zenburn, EJS, Jinja2, Laravel Blade, Liquid, PostCSS, Twig, Vue.)"
+ ],
+ [
+  "Visual Studio Code Plus Scheme",
+  18246,
+  "weak",
+  "line 1515: VimL, Visual Studio Code Plus Scheme, XAML, x86 and x86_64 Assembly,"
+ ],
+ [
+  "anaconda_php",
+  18055,
+  "repo",
+  "line 3804 (repo path): - Commands referenced by a package's palette/menu/keymap that no class of the package defines (Sublime's own class-name rule; `triage/cmd_scan.py` + `near.py` f"
+ ],
+ [
+  "Sublimall",
+  17846,
+  "repo",
+  "line 3788 (repo path): - Not filed (archived): paxtonhare/MarkLogic-Sublime (`Timer` not imported), toxinu/Sublimall (`Error`), chigix/sublime-php-connector, seiyria/sublime-dreams, s"
+ ],
+ [
+  "Markdown Images",
+  17616,
+  "weak",
+  "line 387: - Second instance tonight (after Markdown Images) of a legacy Python 3.3"
+ ],
+ [
+  "SSH Config",
+  17433,
+  "repo",
+  "line 2602 (repo path): - SSH Config -- https://github.com/robballou/sublimetext-sshconfig/issues/46"
+ ],
+ [
+  "ScopeHunter",
+  17295,
+  "weak",
+  "line 1699: - **ScopeHunter** shows you technical info about the text style/scope"
+ ],
+ [
+  "BeautifyLatex",
+  16992,
+  "repo",
+  "line 3804 (repo path): - Commands referenced by a package's palette/menu/keymap that no class of the package defines (Sublime's own class-name rule; `triage/cmd_scan.py` + `near.py` f"
+ ],
+ [
+  "Calculate",
+  16822,
+  "weak",
+  "line 1526: Calculate, ChangeQuotes, Clipboard Manager, Color Highlight, Comments"
+ ],
+ [
+  "Rails Partial",
+  16623,
+  "weak",
+  "line 3783: - Served but fine on syntax: AWS Helper, QuickSimplenote, Rails Partial, Http Requester, SublimePeek, PHPIntel"
+ ],
+ [
+  "Tailwind CSS",
+  16496,
+  "heading",
+  "line 4666: ### Yara (508) syntax tests pass (31); Hog (500), Pokemon Team (490): syntax registers (source.hog, source.pktm), not scope-tested; NimPlus (502): upstream has "
+ ],
+ [
+  "Block Cursor Everywhere",
+  16069,
+  "weak",
+  "line 3789: - Dismissed after checking: TernJS and Extend Selection (`settings` is bound through `globals()['settings'] = "
+ ],
+ [
+  "PlantUmlDiagrams",
+  15916,
+  "weak",
+  "line 1530: Assembly, Ngx HTML, PlantUmlDiagrams, Prettierd Format, Restructured"
+ ],
+ [
+  "LanguageTool",
+  15900,
+  "weak",
+  "line 1529: Guna, HTML (C#), JsPrettier, LanguageTool, LocalizedMenu, NASM x86"
+ ],
+ [
+  "AceJump",
+  15863,
+  "weak",
+  "line 3032: - Installed live. An EasyMotion/AceJump-style label-overlay jump plugin, notably including a sophisticated han"
+ ],
+ [
+  "Translator",
+  15657,
+  "weak",
+  "line 1532: TextFormatting, TodoTxt Syntax, Translator, Transparency,"
+ ],
+ [
+  "JQ Syntax",
+  15235,
+  "weak",
+  "line 1511: Theme, Handlebars, JQ Syntax, Kotlin, Mermaid, Neon Color Scheme, Nim,"
+ ],
+ [
+  "Laravel Goto",
+  15096,
+  "weak",
+  "line 1702: - **Laravel Goto** helps you jump to Laravel framework files (views,"
+ ],
+ [
+  "ColorHints",
+  14368,
+  "repo",
+  "line 2592 (repo path): - ColorHints -- https://github.com/braver/ColorHints/issues/12"
+ ],
+ [
+  "VimL",
+  14332,
+  "weak",
+  "line 1515: VimL, Visual Studio Code Plus Scheme, XAML, x86 and x86_64 Assembly,"
+ ],
+ [
+  "SassSolution",
+  14317,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "Enhanced HTML and CFML",
+  14163,
+  "weak",
+  "line 1509: Swift Syntax, DoxyDoxygen, Dracula Color Scheme, Enhanced HTML and CFML,"
+ ],
+ [
+  "RustFmt",
+  14163,
+  "weak",
+  "line 1709: - **RustFmt** runs the standard Rust code formatter on your file"
+ ],
+ [
+  "GenerateUUID",
+  13993,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "Theme - Brackets",
+  13981,
+  "weak",
+  "line 1514: Theme - Brackets, Theme - Monokai Pro, Theme - One, Theme - Spacegray,"
+ ],
+ [
+  "Helium",
+  13026,
+  "heading",
+  "line 104: ### Day 1, second package (2026-09-09): Helium"
+ ],
+ [
+  "ADBView",
+  13015,
+  "repo",
+  "line 3777 (repo path): - NOT filed (repository archived): wisdman/SideBarMenuAdvanced (`.format` KeyError in duplicate handler), quarnster/ADBView (`groups`), idleberg/sublime-atomizr"
+ ],
+ [
+  "GoTools",
+  12936,
+  "repo",
+  "line 3788 (repo path): - Not filed (archived): paxtonhare/MarkLogic-Sublime (`Timer` not imported), toxinu/Sublimall (`Error`), chigix/sublime-php-connector, seiyria/sublime-dreams, s"
+ ],
+ [
+  "TextFormatting",
+  12868,
+  "weak",
+  "line 1532: TextFormatting, TodoTxt Syntax, Translator, Transparency,"
+ ],
+ [
+  "Flow",
+  12831,
+  "heading",
+  "line 3634: ## ProjectThis (Tomescape) (2026-09-25) -- not installed (its flow ends in modal dialogs + open_project_or_workspace)"
+ ],
+ [
+  "PerlTidy",
+  12823,
+  "repo",
+  "line 3793 (repo path): - Filed: guillermooo/Mercurial#6 (SublimeHg: `raise NoRepositoryFound()` vs class `NoRepositoryFoundError` -> NameError escapes the handler; also `logging` not "
+ ],
+ [
+  "HTML (C#)",
+  12788,
+  "weak",
+  "line 1529: Guna, HTML (C#), JsPrettier, LanguageTool, LocalizedMenu, NASM x86"
+ ],
+ [
+  "TodoTxt Syntax",
+  12549,
+  "weak",
+  "line 1532: TextFormatting, TodoTxt Syntax, Translator, Transparency,"
+ ],
+ [
+  "Libsass Build",
+  12514,
+  "weak",
+  "line 4671: Read-only scan of dependencies.json in all 3,828 queued repos (129 have one): after PC's legacy-name map + bui"
+ ],
+ [
+  "LSP-yaml",
+  12319,
+  "weak",
+  "line 4811: **Verdict**: thesis holds perfectly. No code, no dispatch, no runtime state. Fully covered by ST's built-in sy"
+ ],
+ [
+  "Notepad++ Color Scheme",
+  12243,
+  "weak",
+  "line 1512: Notepad++ Color Scheme, Nunjucks, PowerShell, React + Js Snippets,"
+ ],
+ [
+  "Mercurial",
+  12211,
+  "repo",
+  "line 3793 (repo path): - Filed: guillermooo/Mercurial#6 (SublimeHg: `raise NoRepositoryFound()` vs class `NoRepositoryFoundError` -> NameError escapes the handler; also `logging` not "
+ ],
+ [
+  "FuzzyFileNav",
+  12159,
+  "weak",
+  "line 1712: - **FuzzyFileNav** is a quick file-browser popup for jumping between"
+ ],
+ [
+  "LSP-file-watcher-chokidar",
+  11888,
+  "weak",
+  "line 4389: Needs LSP + LSP-file-watcher-chokidar and creates real chokidar watchers for every window folder (Donald's win"
+ ],
+ [
+  "OpenAI completion",
+  11811,
+  "repo",
+  "line 2598 (repo path): - OpenAI completion -- https://github.com/yaroslavyaroslav/OpenAI-sublime-text/issues/164"
+ ],
+ [
+  "GoGdb",
+  11642,
+  "repo",
+  "line 3793 (repo path): - Filed: guillermooo/Mercurial#6 (SublimeHg: `raise NoRepositoryFound()` vs class `NoRepositoryFoundError` -> NameError escapes the handler; also `logging` not "
+ ],
+ [
+  "CNC Sinumerik",
+  11541,
+  "repo",
+  "line 2590 (repo path): - CNC Sinumerik -- https://github.com/deathaxe/sublime-s840d/issues/6"
+ ],
+ [
+  "AutoSetSyntax",
+  11095,
+  "repo",
+  "line 2588 (repo path): - AutoSetSyntax -- https://github.com/jfcherng-sublime/ST-AutoSetSyntax/issues/39"
+ ],
+ [
+  "R-IDE",
+  10844,
+  "heading",
+  "line 323: ### Day 1, seventh package (2026-09-09): R-IDE"
+ ],
+ [
+  "Unity Shader",
+  10518,
+  "weak",
+  "line 1533: UIkitCompletions, UnicodeConverter, Unity Shader, Verilog Gadget, fish,"
+ ],
+ [
+  "Sort Lines (Numerically)",
+  10394,
+  "repo",
+  "line 2629 (repo path): text (#16) -- alimony/sublime-sort-numerically."
+ ],
+ [
+  "CursorRuler",
+  10369,
+  "weak",
+  "line 1527: Aware Enter, CoolFormat, CursorRuler, DictionaryAutoComplete,"
+ ],
+ [
+  "Zig Language",
+  10145,
+  "weak",
+  "line 3227: - Installed live. Zig language support: syntax, snippets, and a build-system integration (build/run/test/fmt v"
+ ],
+ [
+  "Run",
+  9181,
+  "heading",
+  "line 3614: ## InlineShell (randolph555/sublime-run-command) (2026-09-25) -- macOS/Linux only"
+ ],
+ [
+  "Csslisible",
+  9130,
+  "weak",
+  "line 3783: - Served but fine on syntax: AWS Helper, QuickSimplenote, Rails Partial, Http Requester, SublimePeek, PHPIntel"
+ ],
+ [
+  "PhpConnector",
+  8963,
+  "repo",
+  "line 3788 (repo path): - Not filed (archived): paxtonhare/MarkLogic-Sublime (`Timer` not imported), toxinu/Sublimall (`Error`), chigix/sublime-php-connector, seiyria/sublime-dreams, s"
+ ],
+ [
+  "Bitbucket",
+  8437,
+  "weak",
+  "line 2656: prefix aborts release lookup in github/gitlab/bitbucket clients."
+ ],
+ [
+  "FileList",
+  8404,
+  "weak",
+  "line 3739: - Filed znuny/Znuny-Sublime#14 (all GitHub requests run in quick-panel callbacks on the UI thread, no timeout;"
+ ],
+ [
+  "Unicode Escape",
+  8082,
+  "weak",
+  "line 2624: Escape Regex breaks on backslashes (#52), Unicode Escape mojibake (#53),"
+ ],
+ [
+  "WinMerge",
+  7845,
+  "weak",
+  "line 3015: - Installed live. A substantial (~2700 line), well-architected WinMerge-style file/folder diff and merge tool:"
+ ],
+ [
+  "Task",
+  7726,
+  "heading",
+  "line 4001: ## Run Task (queue 206) -- full live procedure, 2026-09-25"
+ ],
+ [
+  "HypnotoadSVN",
+  7685,
+  "weak",
+  "line 14: **Rolled back 2026-09-14**: entries for packages 24+ (HypnotoadSVN"
+ ],
+ [
+  "Package Reloader",
+  7650,
+  "repo",
+  "line 3793 (repo path): - Filed: guillermooo/Mercurial#6 (SublimeHg: `raise NoRepositoryFound()` vs class `NoRepositoryFoundError` -> NameError escapes the handler; also `logging` not "
+ ],
+ [
+  "SublimeXiki",
+  7612,
+  "weak",
+  "line 3809: - `nonraw_b` scan (non-raw `\\b` in re.*): only PlainNotes (commented out) and SublimeXiki `re.compile('.\\b')` "
+ ],
+ [
+  "DevDocs",
+  7559,
+  "weak",
+  "line 3799: - Filed: xjsender/haoide#219 (every Salesforce call incl. login `verify=False`), mlf4aiur/SublimeConfluence#8,"
+ ],
+ [
+  "CPrettify",
+  7421,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "Visual studio code",
+  7199,
+  "weak",
+  "line 1515: VimL, Visual Studio Code Plus Scheme, XAML, x86 and x86_64 Assembly,"
+ ],
+ [
+  "Indent Size",
+  6820,
+  "weak",
+  "line 2164: watched what it did: it quietly ignored the bad indent size (left tab"
+ ],
+ [
+  "Doctypes",
+  6611,
+  "repo",
+  "line 3803 (repo path): - Every Sublime JSON resource file (keymap/menu/commands/build/completions/settings/theme/macro/mousemap/color-scheme, 10,755 files in 2,258 repos) was run thro"
+ ],
+ [
+  "Requester",
+  6334,
+  "weak",
+  "line 3783: - Served but fine on syntax: AWS Helper, QuickSimplenote, Rails Partial, Http Requester, SublimePeek, PHPIntel"
+ ],
+ [
+  "Package Coverage",
+  6284,
+  "weak",
+  "line 4671: Read-only scan of dependencies.json in all 3,828 queued repos (129 have one): after PC's legacy-name map + bui"
+ ],
+ [
+  "Plist Binary",
+  6112,
+  "weak",
+  "line 3800: - Reviewed but not filed yet: `os.system` with interpolated file paths in Open In Browser (macOS/Linux, `'{url"
+ ],
+ [
+  "Expression",
+  5920,
+  "weak",
+  "line 1826: But its third way of matching -- plain regular-expression rules, like"
+ ],
+ [
+  "Layout",
+  5764,
+  "heading",
+  "line 3719: ## NeoCodeMap (klmp200) (2026-09-25) -- not installed (its sheet/layout code would rearrange Donald's window); exec'd its source as a package in the 3.8 host, d"
+ ],
+ [
+  "Open",
+  5707,
+  "heading",
+  "line 3634: ## ProjectThis (Tomescape) (2026-09-25) -- not installed (its flow ends in modal dialogs + open_project_or_workspace)"
+ ],
+ [
+  "PyTest",
+  5681,
+  "heading",
+  "line 206: ### Day 1, fifth package (2026-09-09): PyTest"
+ ],
+ [
+  "Hugofy",
+  5431,
+  "repo",
+  "line 3803 (repo path): - Every Sublime JSON resource file (keymap/menu/commands/build/completions/settings/theme/macro/mousemap/color-scheme, 10,755 files in 2,258 repos) was run thro"
+ ],
+ [
+  "SublimePeek",
+  5422,
+  "weak",
+  "line 3783: - Served but fine on syntax: AWS Helper, QuickSimplenote, Rails Partial, Http Requester, SublimePeek, PHPIntel"
+ ],
+ [
+  "Emoji Code",
+  5411,
+  "heading",
+  "line 4670: ### Emoji Code (from dependency scan), 2026-09-26"
+ ],
+ [
+  "Python Unittest Helper",
+  5273,
+  "repo",
+  "line 3793 (repo path): - Filed: guillermooo/Mercurial#6 (SublimeHg: `raise NoRepositoryFound()` vs class `NoRepositoryFoundError` -> NameError escapes the handler; also `logging` not "
+ ],
+ [
+  "Acme Plumbing",
+  4860,
+  "repo",
+  "line 3793 (repo path): - Filed: guillermooo/Mercurial#6 (SublimeHg: `raise NoRepositoryFound()` vs class `NoRepositoryFoundError` -> NameError escapes the handler; also `logging` not "
+ ],
+ [
+  "Competitive Programming",
+  4726,
+  "weak",
+  "line 4686: Cloned 40 repos, ruff F821/F823/F811/E722/B006/E999 + pattern scan (folders()[0], project_data()['folders'], r"
+ ],
+ [
+  "Markdown Code Blocks",
+  4608,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "Send to 3ds Max",
+  4566,
+  "weak",
+  "line 3778: - Dismissed: Incomprehensible Ex (`run` on an EventListener is never called), MarkdownWriter `EmptyClipboard` "
+ ],
+ [
+  "CombineAndMinify",
+  4145,
+  "repo",
+  "line 3782 (repo path): - Filed (all \"cannot be loaded by ST3/4\"): brynbellomy/Sublime-Aqueducts#2 (sample file `screenshot-src.py` fails at every startup), GuimDev/LeekScript-Sublime#"
+ ],
+ [
+  "AMPScript",
+  3958,
+  "heading",
+  "line 3502: ## ESQL, Piranha, PLI10, AMPscript Syntax Highlighter, Flatdata Syntax Highlighting (2026-09-25)"
+ ],
+ [
+  "Atomizr",
+  3933,
+  "repo",
+  "line 3777 (repo path): - NOT filed (repository archived): wisdman/SideBarMenuAdvanced (`.format` KeyError in duplicate handler), quarnster/ADBView (`groups`), idleberg/sublime-atomizr"
+ ],
+ [
+  "PhpNinJaManual",
+  3929,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "Latest Migration",
+  3916,
+  "weak",
+  "line 4181: Installed (3.3-host plugin, source == HEAD c5644b6), no dialogs, issue list empty. README claims Windows suppo"
+ ],
+ [
+  "FoldFunctions",
+  3632,
+  "weak",
+  "line 5273: - Read `foldfunctions.py`: `CursorListener.on_selection_modified_async` is a global `EventListener` (fires for"
+ ],
+ [
+  "GameMaker Language (GML) Bundle",
+  3569,
+  "repo",
+  "line 3803 (repo path): - Every Sublime JSON resource file (keymap/menu/commands/build/completions/settings/theme/macro/mousemap/color-scheme, 10,755 files in 2,258 repos) was run thro"
+ ],
+ [
+  "Semicolon",
+  3487,
+  "weak",
+  "line 4316: Installed 2.10.0 (folder install), no dialogs; issue list read first (#47 is my earlier static finding: `subLi"
+ ],
+ [
+  "YamlToJson",
+  3471,
+  "weak",
+  "line 3800: - Reviewed but not filed yet: `os.system` with interpolated file paths in Open In Browser (macOS/Linux, `'{url"
+ ],
+ [
+  "Merlin",
+  3216,
+  "heading",
+  "line 3747: ## 65816 (ksherlock/65816.tmbundle) (2026-09-25) -- not installed; imported `merlin-fixs.py` under a system Python with stubbed sublime modules (pure function)"
+ ],
+ [
+  "MicroPython Tools",
+  3208,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "lessy",
+  3170,
+  "repo",
+  "line 3782 (repo path): - Filed (all \"cannot be loaded by ST3/4\"): brynbellomy/Sublime-Aqueducts#2 (sample file `screenshot-src.py` fails at every startup), GuimDev/LeekScript-Sublime#"
+ ],
+ [
+  "Sublime Tweet",
+  3128,
+  "repo",
+  "line 3793 (repo path): - Filed: guillermooo/Mercurial#6 (SublimeHg: `raise NoRepositoryFound()` vs class `NoRepositoryFoundError` -> NameError escapes the handler; also `logging` not "
+ ],
+ [
+  "Test Runner",
+  3016,
+  "weak",
+  "line 3130: - Test-case parsing from LeetCode's own fetched example text uses `ast.literal_eval` (safe -- no arbitrary cod"
+ ],
+ [
+  "Focus",
+  2960,
+  "heading",
+  "line 4150: ## HandyLLM (queue 255) -- full live procedure, 2026-09-25 (redone once because my throwaway window took focus while Donald was typing; the second run kept the "
+ ],
+ [
+  "Breadcrumbs",
+  2946,
+  "weak",
+  "line 4274: Installed (.python-version 3.8; needs the ruamel.yaml library, which install_package skipped -> first load rai"
+ ],
+ [
+  "On Save",
+  2829,
+  "weak",
+  "line 3421: - Installed live (1.6.2). SFTP/FTP/SCP sync via system OpenSSH, upload on save, connection pool, threaded (the"
+ ],
+ [
+  "FlowType",
+  2814,
+  "repo",
+  "line 3804 (repo path): - Commands referenced by a package's palette/menu/keymap that no class of the package defines (Sublime's own class-name rule; `triage/cmd_scan.py` + `near.py` f"
+ ],
+ [
+  "MarkdownWriter",
+  2724,
+  "weak",
+  "line 3778: - Dismissed: Incomprehensible Ex (`run` on an EventListener is never called), MarkdownWriter `EmptyClipboard` "
+ ],
+ [
+  "SublimeManpage",
+  2720,
+  "weak",
+  "line 3783: - Served but fine on syntax: AWS Helper, QuickSimplenote, Rails Partial, Http Requester, SublimePeek, PHPIntel"
+ ],
+ [
+  "Statement",
+  2564,
+  "weak",
+  "line 1768: a statement about the packages people actually use today, not the"
+ ],
+ [
+  "Beancount",
+  2368,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "BrowserBookmarks",
+  2323,
+  "repo",
+  "line 3793 (repo path): - Filed: guillermooo/Mercurial#6 (SublimeHg: `raise NoRepositoryFound()` vs class `NoRepositoryFoundError` -> NameError escapes the handler; also `logging` not "
+ ],
+ [
+  "CheckTypos",
+  1992,
+  "weak",
+  "line 3783: - Served but fine on syntax: AWS Helper, QuickSimplenote, Rails Partial, Http Requester, SublimePeek, PHPIntel"
+ ],
+ [
+  "Confluence",
+  1924,
+  "repo",
+  "line 3799 (repo path): - Filed: xjsender/haoide#219 (every Salesforce call incl. login `verify=False`), mlf4aiur/SublimeConfluence#8, itdc/sublimetext-itdchelper#10, Haiquan-27/SSH-Pa"
+ ],
+ [
+  "JSON2Apex",
+  1907,
+  "weak",
+  "line 3800: - Reviewed but not filed yet: `os.system` with interpolated file paths in Open In Browser (macOS/Linux, `'{url"
+ ],
+ [
+  "Aqueducts",
+  1862,
+  "repo",
+  "line 3782 (repo path): - Filed (all \"cannot be loaded by ST3/4\"): brynbellomy/Sublime-Aqueducts#2 (sample file `screenshot-src.py` fails at every startup), GuimDev/LeekScript-Sublime#"
+ ],
+ [
+  "Scratchpad",
+  1834,
+  "heading",
+  "line 2803: ### 2026-09-24: per-package LIVE testing resumed, recently-updated-first queue (3,828 candidates; queue.json in scratchpad\\campaign)"
+ ],
+ [
+  "MarkLogic",
+  1817,
+  "repo",
+  "line 3788 (repo path): - Not filed (archived): paxtonhare/MarkLogic-Sublime (`Timer` not imported), toxinu/Sublimall (`Error`), chigix/sublime-php-connector, seiyria/sublime-dreams, s"
+ ],
+ [
+  "Synesthesia",
+  1785,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "Pandoc Referencer",
+  1781,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "Blender Development",
+  1766,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "GitHubIssue",
+  1711,
+  "weak",
+  "line 4671: Read-only scan of dependencies.json in all 3,828 queued repos (129 have one): after PC's legacy-name map + bui"
+ ],
+ [
+  "LightPaper Markdown",
+  1683,
+  "repo",
+  "line 3804 (repo path): - Commands referenced by a package's palette/menu/keymap that no class of the package defines (Sublime's own class-name rule; `triage/cmd_scan.py` + `near.py` f"
+ ],
+ [
+  "OpenUri",
+  1632,
+  "heading",
+  "line 144: ### Day 1, third package (2026-09-09): OpenUri"
+ ],
+ [
+  "Meetio",
+  1631,
+  "heading",
+  "line 4065: ## Meetio Theme (queue 227) -- full live procedure, 2026-09-25"
+ ],
+ [
+  "Github Search",
+  1603,
+  "weak",
+  "line 5686: Method: `campaign_tools/github_record_stats.py` (GitHub search API for everything authored by dpc00; closer lo"
+ ],
+ [
+  "GoToAnchor",
+  1548,
+  "weak",
+  "line 3800: - Reviewed but not filed yet: `os.system` with interpolated file paths in Open In Browser (macOS/Linux, `'{url"
+ ],
+ [
+  "COLT",
+  1484,
+  "repo",
+  "line 3793 (repo path): - Filed: guillermooo/Mercurial#6 (SublimeHg: `raise NoRepositoryFound()` vs class `NoRepositoryFoundError` -> NameError escapes the handler; also `logging` not "
+ ],
+ [
+  "Just",
+  1480,
+  "heading",
+  "line 966: ### Day 2 (2026-09-09): RemoteSubl -- deliberately picked to attack the thesis, not just sample it"
+ ],
+ [
+  "AssistantAI",
+  1466,
+  "heading",
+  "line 376: ### Day 1, ninth package (2026-09-09): AssistantAI"
+ ],
+ [
+  "QuickSimplenote",
+  1431,
+  "weak",
+  "line 3783: - Served but fine on syntax: AWS Helper, QuickSimplenote, Rails Partial, Http Requester, SublimePeek, PHPIntel"
+ ],
+ [
+  "WebDavSync",
+  1378,
+  "repo",
+  "line 3782 (repo path): - Filed (all \"cannot be loaded by ST3/4\"): brynbellomy/Sublime-Aqueducts#2 (sample file `screenshot-src.py` fails at every startup), GuimDev/LeekScript-Sublime#"
+ ],
+ [
+  "TreeSitter",
+  1333,
+  "heading",
+  "line 507: ### Day 2 (2026-09-09): TreeSitter"
+ ],
+ [
+  "Smart Indent",
+  1304,
+  "weak",
+  "line 4859: Installed cleanly. No dialogs. Grammar provides basic folding but no comment toggling or smart indent rules."
+ ],
+ [
+  "BowerInjector",
+  1303,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "Valgrind",
+  1288,
+  "repo",
+  "line 3804 (repo path): - Commands referenced by a package's palette/menu/keymap that no class of the package defines (Sublime's own class-name rule; `triage/cmd_scan.py` + `near.py` f"
+ ],
+ [
+  "SequentialBuilder",
+  1263,
+  "repo",
+  "line 3793 (repo path): - Filed: guillermooo/Mercurial#6 (SublimeHg: `raise NoRepositoryFound()` vs class `NoRepositoryFoundError` -> NameError escapes the handler; also `logging` not "
+ ],
+ [
+  "Scratch",
+  1248,
+  "heading",
+  "line 3714: ## mdtoc (codeleventh) (2026-09-25) -- not installed (exec'd its source in the 3.8 host against a scratch Markdown view in a throwaway window)"
+ ],
+ [
+  "Baidu FE Code Style",
+  1236,
+  "weak",
+  "line 3789: - Dismissed after checking: TernJS and Extend Selection (`settings` is bound through `globals()['settings'] = "
+ ],
+ [
+  "Regex Escape",
+  1219,
+  "weak",
+  "line 2466: regex escape sequence at all:"
+ ],
+ [
+  "ImprovedMacros",
+  1217,
+  "repo",
+  "line 3793 (repo path): - Filed: guillermooo/Mercurial#6 (SublimeHg: `raise NoRepositoryFound()` vs class `NoRepositoryFoundError` -> NameError escapes the handler; also `logging` not "
+ ],
+ [
+  "EDN",
+  1214,
+  "heading",
+  "line 4601: ### Pretty EDN (465), 2026-09-26"
+ ],
+ [
+  "IRC",
+  1204,
+  "heading",
+  "line 3837: ## IRC Syntax (queue 132) -- full live procedure, 2026-09-25"
+ ],
+ [
+  "Grammalecte",
+  1197,
+  "weak",
+  "line 3778: - Dismissed: Incomprehensible Ex (`run` on an EventListener is never called), MarkdownWriter `EmptyClipboard` "
+ ],
+ [
+  "CSS RTL generator",
+  1187,
+  "repo",
+  "line 3782 (repo path): - Filed (all \"cannot be loaded by ST3/4\"): brynbellomy/Sublime-Aqueducts#2 (sample file `screenshot-src.py` fails at every startup), GuimDev/LeekScript-Sublime#"
+ ],
+ [
+  "gmsh-Tools",
+  1140,
+  "weak",
+  "line 3803: - Every Sublime JSON resource file (keymap/menu/commands/build/completions/settings/theme/macro/mousemap/color"
+ ],
+ [
+  "Custom Elements Importer",
+  1088,
+  "repo",
+  "line 3782 (repo path): - Filed (all \"cannot be loaded by ST3/4\"): brynbellomy/Sublime-Aqueducts#2 (sample file `screenshot-src.py` fails at every startup), GuimDev/LeekScript-Sublime#"
+ ],
+ [
+  "Incomprehensible Ex",
+  1055,
+  "weak",
+  "line 3778: - Dismissed: Incomprehensible Ex (`run` on an EventListener is never called), MarkdownWriter `EmptyClipboard` "
+ ],
+ [
+  "Grammatical Framework",
+  918,
+  "repo",
+  "line 3782 (repo path): - Filed (all \"cannot be loaded by ST3/4\"): brynbellomy/Sublime-Aqueducts#2 (sample file `screenshot-src.py` fails at every startup), GuimDev/LeekScript-Sublime#"
+ ],
+ [
+  "Extend Selection",
+  878,
+  "weak",
+  "line 3789: - Dismissed after checking: TernJS and Extend Selection (`settings` is bound through `globals()['settings'] = "
+ ],
+ [
+  "DevDocs offline",
+  829,
+  "repo",
+  "line 3799 (repo path): - Filed: xjsender/haoide#219 (every Salesforce call incl. login `verify=False`), mlf4aiur/SublimeConfluence#8, itdc/sublimetext-itdchelper#10, Haiquan-27/SSH-Pa"
+ ],
+ [
+  "Test",
+  818,
+  "heading",
+  "line 1149: ### Day 2 (2026-09-09): AdvancedNewFile -- the sharper test found, and this time the thesis needed a real fix, not a workaround"
+ ],
+ [
+  "OpenFileOverSSH",
+  801,
+  "repo",
+  "line 50 (repo path): - OpenFileOverSSH (AncientRoman/SublimeOpenFileOverSSH) -- 1/1 commands,"
+ ],
+ [
+  "Dream Maker",
+  799,
+  "repo",
+  "line 3788 (repo path): - Not filed (archived): paxtonhare/MarkLogic-Sublime (`Timer` not imported), toxinu/Sublimall (`Error`), chigix/sublime-php-connector, seiyria/sublime-dreams, s"
+ ],
+ [
+  "XMPFilter",
+  776,
+  "repo",
+  "line 3793 (repo path): - Filed: guillermooo/Mercurial#6 (SublimeHg: `raise NoRepositoryFound()` vs class `NoRepositoryFoundError` -> NameError escapes the handler; also `logging` not "
+ ],
+ [
+  "FastSwitch",
+  776,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "ImpactJS",
+  753,
+  "repo",
+  "line 3803 (repo path): - Every Sublime JSON resource file (keymap/menu/commands/build/completions/settings/theme/macro/mousemap/color-scheme, 10,755 files in 2,258 repos) was run thro"
+ ],
+ [
+  "Slyblime",
+  752,
+  "repo",
+  "line 3772 (repo path): - WebHare/sublime-package#4 (`highlight` never imported), RobinWragg/JaiTools#6 (build command uses four undefined helpers), warmdev/SublimeOutline#46 (`same_pa"
+ ],
+ [
+  "With Python",
+  725,
+  "weak",
+  "line 4578: re.sub(project_path,...) with Windows/regex-special paths: re.error \\U / path not stripped (verified with pyth"
+ ],
+ [
+  "AgentRansack",
+  721,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "RoboType",
+  685,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "LeekScript Syntax",
+  683,
+  "repo",
+  "line 3782 (repo path): - Filed (all \"cannot be loaded by ST3/4\"): brynbellomy/Sublime-Aqueducts#2 (sample file `screenshot-src.py` fails at every startup), GuimDev/LeekScript-Sublime#"
+ ],
+ [
+  "Badges",
+  680,
+  "heading",
+  "line 5504: ## #682 Git badges like VS Code (arxeiss/Sublime-GitBadgesLikeVSCode)"
+ ],
+ [
+  "Imba",
+  668,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "AmnesiaIO",
+  667,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "iRules",
+  645,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "DFormat",
+  643,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "MagerunCommander",
+  641,
+  "repo",
+  "line 3793 (repo path): - Filed: guillermooo/Mercurial#6 (SublimeHg: `raise NoRepositoryFound()` vs class `NoRepositoryFoundError` -> NameError escapes the handler; also `logging` not "
+ ],
+ [
+  "InterSystems Cache",
+  624,
+  "repo",
+  "line 3794 (repo path): - Not filed (archived): brandonhorst/SublimeCache (`x` undefined; `{1}}` format string)."
+ ],
+ [
+  "HackerRankHelper",
+  599,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "NotePad",
+  567,
+  "weak",
+  "line 1512: Notepad++ Color Scheme, Nunjucks, PowerShell, React + Js Snippets,"
+ ],
+ [
+  "TamarinProver",
+  541,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "UbuntuPaste",
+  530,
+  "repo",
+  "line 3813 (repo path): - Not filed (issues disabled): 3v1n0/UbuntuPaste (`import pwd` at module level while the channel says platforms `*`)."
+ ],
+ [
+  "Syncrow",
+  520,
+  "repo",
+  "line 3812 (repo path): - Import scan of root-level plugin modules vs stdlib / package-local / `dependencies.json` / bundled copies in the SERVED release archive. Filed: Afzal7/syncrow"
+ ],
+ [
+  "jsimports",
+  464,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "FishTank",
+  459,
+  "repo",
+  "line 3803 (repo path): - Every Sublime JSON resource file (keymap/menu/commands/build/completions/settings/theme/macro/mousemap/color-scheme, 10,755 files in 2,258 repos) was run thro"
+ ],
+ [
+  "AiComplete",
+  425,
+  "weak",
+  "line 2964: - **#8 [renumbered] AhuAIComplete** (ahu/AIComplete, updated 2026-09-17): overall a genuinely"
+ ],
+ [
+  "IrView",
+  420,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "Exec Parser",
+  420,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "LLM",
+  410,
+  "heading",
+  "line 234: ### Day 1, sixth package (2026-09-09): LLM"
+ ],
+ [
+  "NamedMark",
+  359,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "RandomCase",
+  353,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "LikeGit",
+  351,
+  "repo",
+  "line 3772 (repo path): - WebHare/sublime-package#4 (`highlight` never imported), RobinWragg/JaiTools#6 (build command uses four undefined helpers), warmdev/SublimeOutline#46 (`same_pa"
+ ],
+ [
+  "TodoTxt",
+  323,
+  "weak",
+  "line 1532: TextFormatting, TodoTxt Syntax, Translator, Transparency,"
+ ],
+ [
+  "Morse",
+  313,
+  "repo",
+  "line 3782 (repo path): - Filed (all \"cannot be loaded by ST3/4\"): brynbellomy/Sublime-Aqueducts#2 (sample file `screenshot-src.py` fails at every startup), GuimDev/LeekScript-Sublime#"
+ ],
+ [
+  "tQuery",
+  300,
+  "repo",
+  "line 3803 (repo path): - Every Sublime JSON resource file (keymap/menu/commands/build/completions/settings/theme/macro/mousemap/color-scheme, 10,755 files in 2,258 repos) was run thro"
+ ],
+ [
+  "Infinidat Plugin",
+  285,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "TicketMaster",
+  280,
+  "repo",
+  "line 3793 (repo path): - Filed: guillermooo/Mercurial#6 (SublimeHg: `raise NoRepositoryFound()` vs class `NoRepositoryFoundError` -> NameError escapes the handler; also `logging` not "
+ ],
+ [
+  "Troubleshooting",
+  268,
+  "weak",
+  "line 4671: Read-only scan of dependencies.json in all 3,828 queued repos (129 have one): after PC's legacy-name map + bui"
+ ],
+ [
+  "fluent-logger",
+  262,
+  "repo",
+  "line 3787 (repo path): - Filed via gh: SublimeText/GenerateUUID#12 (`re` not imported), ericmartel/Sublime-Text-2-CSV-Plugin#12 (`string` not imported), dmi7ry/dfmt-sublime#5, ismnoie"
+ ],
+ [
+  "Propel",
+  231,
+  "repo",
+  "line 3782 (repo path): - Filed (all \"cannot be loaded by ST3/4\"): brynbellomy/Sublime-Aqueducts#2 (sample file `screenshot-src.py` fails at every startup), GuimDev/LeekScript-Sublime#"
+ ],
+ [
+  "Z",
+  227,
+  "heading",
+  "line 3738: ## Znuny (znuny/Znuny-Sublime) (2026-09-25) -- not installed (five commands, ctrl+alt+z chords; exec'd ZnunyCustomizers in the 3.8 host in a throwaway window; t"
+ ],
+ [
+  "Registers",
+  206,
+  "heading",
+  "line 4666: ### Yara (508) syntax tests pass (31); Hog (500), Pokemon Team (490): syntax registers (source.hog, source.pktm), not scope-tested; NimPlus (502): upstream has "
+ ],
+ [
+  "Create WebP Image",
+  173,
+  "weak",
+  "line 3800: - Reviewed but not filed yet: `os.system` with interpolated file paths in Open In Browser (macOS/Linux, `'{url"
+ ],
+ [
+  "Frequency",
+  164,
+  "weak",
+  "line 2759: - **Package Control, cleanup/upgrader pass (read + sandboxed calls):** #1778 auto_upgrade_frequency"
+ ],
+ [
+  "Gourmet",
+  160,
+  "repo",
+  "line 3782 (repo path): - Filed (all \"cannot be loaded by ST3/4\"): brynbellomy/Sublime-Aqueducts#2 (sample file `screenshot-src.py` fails at every startup), GuimDev/LeekScript-Sublime#"
+ ],
+ [
+  "Test Switcher",
+  150,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "Redmine Pastie",
+  146,
+  "repo",
+  "line 3804 (repo path): - Commands referenced by a package's palette/menu/keymap that no class of the package defines (Sublime's own class-name rule; `triage/cmd_scan.py` + `near.py` f"
+ ],
+ [
+  "MotionBuilder",
+  136,
+  "repo",
+  "line 3804 (repo path): - Commands referenced by a package's palette/menu/keymap that no class of the package defines (Sublime's own class-name rule; `triage/cmd_scan.py` + `near.py` f"
+ ],
+ [
+  "Shen",
+  116,
+  "repo",
+  "line 3782 (repo path): - Filed (all \"cannot be loaded by ST3/4\"): brynbellomy/Sublime-Aqueducts#2 (sample file `screenshot-src.py` fails at every startup), GuimDev/LeekScript-Sublime#"
+ ],
+ [
+  "ITDCHelper",
+  112,
+  "repo",
+  "line 3799 (repo path): - Filed: xjsender/haoide#219 (every Salesforce call incl. login `verify=False`), mlf4aiur/SublimeConfluence#8, itdc/sublimetext-itdchelper#10, Haiquan-27/SSH-Pa"
+ ],
+ [
+  "SmojSubmit",
+  84,
+  "repo",
+  "line 3799 (repo path): - Filed: xjsender/haoide#219 (every Salesforce call incl. login `verify=False`), mlf4aiur/SublimeConfluence#8, itdc/sublimetext-itdchelper#10, Haiquan-27/SSH-Pa"
+ ],
+ [
+  "Issues",
+  80,
+  "heading",
+  "line 2572: ### 2026-09-14 (later still): filed real GitHub issues for the confirmed bugs above"
+ ],
+ [
+  "Kattis",
+  71,
+  "repo",
+  "line 3776 (repo path): - Filed (gh CLI + `triage/file_issues.py`): billchurch/sublime-iRules#3, aghontpi/CPrettify-Sublime-text-3#16, norseghost/sublime-beancount#24, ahmedam55/SassSo"
+ ],
+ [
+  "Notr",
+  66,
+  "heading",
+  "line 70: ### Day 1 (2026-09-09): Notr"
+ ],
+ [
+  "Task List",
+  7,
+  "weak",
+  "line 2309: `\"mde.list_indent_bullets\": []` and ran \"Insert Task List Item\" -- got"
+ ]
+]

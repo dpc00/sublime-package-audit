@@ -1,0 +1,157 @@
+﻿ClaudeSublime	2026-10-11	v1.2.0 on portable 4200, picker install, AI list tier 1: loads clean; the panel command offers to install Terminus (modal) and, after Terminus is in, opens a panel running the real claude CLI (folder-trust prompt, exit handled, no process left); Generate Project Config writes a Windows panel-only ClaudeSublime.json; not tested: notifications and CLAUDE.md commands (would touch his real Claude files); no defects; removed with Terminus (test file recycled; 2 generated Terminus schemes left in User)
+Notedown	2026-10-17	v1.3.0 on portable 4200, picker install, age4_6y list; issues disabled on the repo. Tested on real notes: [[Bar]] alias link opens the note, notedown_lint lists the broken [[Missing]] link, opening it offers Create File and creates Missing.md with a backlink, heading edit then save asks to rename (Foo ~ Bar.md becomes Foo2.md, the alias is dropped and backlinks rewritten to [[Foo2]]). No console errors. Not tested: [[ autocomplete popup. No defect.
+Automatic Backups	2026-10-17	v1.0.0 on portable 4200, picker install, age4_6y list, backup_dir pointed at a test folder: every save writes a timestamped copy with the source path mirrored; stepping through history works; console clean. Defect: palette captions for the two jump commands are swapped (Step to start of history goes to the current version, Step to end of history goes to the oldest backup; README and keymap are right); filed joelpt/sublimetext-automatic-backups#19. Open older issues seen: #17 WinError 206 filename too long. Not tested: merge with an external tool.
+Boxy Theme	2026-10-21	Not installable: the channel entry has no release for any platform and the repository (ihodev/sublime-boxy) and its owner account return 404; the name is not in the Install Package picker; nothing installed
+Bing Translator	2026-10-22	ST2-only: Python 2 code (urllib2, reload(sys)), not offered in the ST4 Install Package list (typed the name, no hit); Azure DataMarket OAuth endpoint it uses is retired. Nothing filed: not reachable by ST4 users.
+Blogify	2026-10-22	skipped: ST2-only (absent from the ST4 install list; uses view.begin_edit/end_edit and Python 2 im_func); nothing installed, nothing filed
+CNPunctuationAutopair	2026-10-22	Skipped: ST2-only release (sublime_text <3000), keymap only, idle since 2013
+CSS Auto Commenting	2026-10-22	Skipped: ST2-only release (sublime_text <3000); open issue 5 says it does not work in ST3; idle since 2014
+CSS Selector Reveal	2026-10-22	Skipped: ST2-only release (sublime_text <3000), idle since 2013, open issue asks for ST3
+CSharpreter	2026-10-22	Skipped: ST2-only release (sublime_text <3000), idle since 2012
+Clientside	2026-10-22	skipped (ST2-only, not in ST4 list, last push 2012)
+CloseAllButThis	2026-10-22	skipped (ST2-only: not in ST4 list, Python 2 print statement)
+Code Foo	2026-10-22	skipped (ST2-only: not in ST4 list, repo says Sublime Text 2 plug in, last push 2013)
+Coffee Formatter	2026-10-22	not tested: not offered in the Install Package picker on ST4 (ST2-only listing; no Coffee Formatter among the 23 Coffee matches)
+CoffeeScript Function Finder	2026-10-22	not tested: not offered in the ST4 Install Package picker (ST2-only, Python 2 code: print statements, ur'' literals)
+CommandOnSave	2026-10-22	not tested: not offered in the ST4 Install Package picker (ST2-era listing)
+CommentAnyWhere	2026-10-22	not tested: not offered in the ST4 Install Package picker (ST2-only: Python 2 print statement, view.begin_edit)
+CompactExpandCss	2026-10-22	not tested: not offered in the ST4 Install Package picker
+CompleteSharp	2026-10-22	not tested: not offered in the ST4 Install Package picker; repo dormant since 2013, issues disabled
+ContextBuild	2026-10-22	not tested: not offered in the ST4 Install Package picker (2013, ST2-era)
+ControlScroll	2026-10-22	not tested: not offered in the ST4 Install Package picker
+Cool Code Scheme	2026-10-22	not tested: not offered in the ST4 Install Package picker
+Copy PHP Namespace	2026-10-22	not tested: not offered in the ST4 Install Package picker
+Cycle Setting	2026-10-22	not tested: not offered in the ST4 Install Package picker
+DBLP Search	2026-10-22	not tested: not offered in the ST4 Install Package picker
+DCPU-16	2026-10-22	not tested: not offered in the ST4 Install Package picker
+DLE Syntax Highlighting	2026-10-22	not tested: not offered in the ST4 Install Package picker
+DLX Syntax	2026-10-22	not tested: not offered in the ST4 Install Package picker
+Dashed Comments	2026-10-22	not tested: not offered in the ST4 Install Package picker
+Debug Killer	2026-10-22	not tested: not offered in the ST4 Install Package picker
+Display Functions (Java)	2026-10-22	not tested: not offered in the ST4 Install Package picker (2012 package, ST2/ST3 era)
+Django-Tools	2026-10-22	not tested: not offered in the ST4 Install Package picker (2013 package)
+Dog Ears	2026-10-22	not tested: not offered in the ST4 Install Package picker (2012 package)
+DokuWiki	2026-10-22	not tested: not offered in the ST4 Install Package picker (only DokuWiki Syntax is)
+Drush	2026-10-22	not offered in the ST4 Install Package picker (only subDrush matches); not tested
+Dummy Image Generator	2026-10-22	not offered in the ST4 Install Package picker; not tested
+Duplicate Same	2026-10-22	not offered in the ST4 Install Package picker; not tested
+E-Max	2026-10-22	not offered in the ST4 Install Package picker; not tested
+EC2Upload	2026-10-22	not offered in the ST4 Install Package picker (windows-only entry); not tested
+ESP (EcmaScript Pages) Edit Mode	2026-10-22	not offered in the Install Package picker; not tested; nothing filed
+ErlDoc	2026-10-22	row 290: not offered in the ST4 Install Package picker (0 matches for ErlDoc), not tested
+Everything Search	2026-10-22	row 294: not offered in the ST4 Install Package picker (0 matches), not tested
+Example Overflow	2026-10-22	row 295: not offered in the ST4 Install Package picker (0 matches), not tested
+ExcelExec	2026-10-22	row 296: not offered in the ST4 Install Package picker (0 matches for ExcelExec and Excel), not tested
+Exec In Window	2026-10-22	row 298: not offered in the ST4 Install Package picker (0 matches), not tested
+Expand Selection by Paragraph	2026-10-22	row 301: not offered in the ST4 Install Package picker (0 matches), not tested
+Expand Selection to Line Before	2026-10-22	row 302: not offered in the ST4 Install Package picker (0 matches), not tested
+File Switcher	2026-10-22	not tested: not offered in the ST4 Install Package picker (Bitbucket repo)
+FileCleanup	2026-10-22	not tested: not offered in the ST4 Install Package picker
+FilezillaImport	2026-10-22	not tested: not offered in the ST4 Install Package picker
+Fillerati	2026-10-22	not tested: not offered in the ST4 Install Package picker
+Find Function Definition	2026-10-22	not tested: not offered in the ST4 Install Package picker
+Fis	2026-10-22	not offered by the ST4 picker (filter Fis matched 5 other packages); not tested; its open issue #6 is a feature request (custom Smarty delimiters)
+Flashback	2026-10-23	not offered by the ST4 picker (filter matched 0); not tested
+Follow Function PHP	2026-10-23	not offered by the ST4 picker (filters Follow Function PHP and Follow Function matched 0); not tested
+FoxCode	2026-10-23	skipped: not in the Install Package picker on build 4215 (ST2-era package, hidden by Package Control)
+GPD	2026-10-23	skipped: not in the Install picker on build 4215 (hidden by Package Control, like FoxCode)
+GTags	2026-10-23	skipped: not in the Install picker on build 4215 (hidden by Package Control)
+Ggu	2026-10-23	skipped: ST2-only, not offered by the 4215 picker (issues 1-4 already open, all ST2)
+Gherkin-highlight-sublimetext	2026-10-23	skipped: not offered by the 4215 Install Package picker (no match for Gherkin-highlight)
+GitGrep	2026-10-23	skipped: not offered by the 4215 Install Package picker (no match)
+Go To Node Module Homepage	2026-10-23	skipped: not offered by the Install Package picker (ST2-only entry); nothing to test
+GoToDoc	2026-10-23	skipped: not offered by the Install Package picker (only unrelated GotoDocumentation matches)
+Google Apps Scripts	2026-10-23	skipped: not offered by the Install Package picker (ST2-only, hidden)
+Google Reader	2026-10-23	skipped: not offered by the Install Package picker
+Google Translate	2026-10-23	skipped: not offered by the Install Package picker (ST2-only)
+GotoRecent	2026-10-23	Skipped: not in the Package Control picker (not on PC, issue #1 asks to add)
+GuardHelpers	2026-10-23	Skipped: not offered by the Package Control picker
+Hexcode	2026-10-23	skipped: not in the Install Package picker (Hexcode and Hex filters show other packages); repo bitbucket.org/asmodai/hexcode returns 404 (page and API); nothing to install, nothing to file
+Hide Files	2026-10-23	skipped: not in the Install Package picker (Hide Files, HideFiles filters show only unrelated fuzzy hits); repo dunckr/hidefiles exists, last push 2013-12, so the entry is probably ST2-only and hidden on build 4215; nothing to file
+Hide Tabs	2026-10-23	skipped: not in the Install Package picker on build 4215 (filter Hide Tabs shows nothing); repo croach/SublimeHideTabs issue 6 asks for the Sublime Text 3 channel, so it is ST2-only; nothing to file
+Hogan Build	2026-10-23	skipped: not in the Install Package picker on build 4215 (filters Hogan Build and Hogan show only fuzzy hits of other packages); repo mtdb/Hogan-Build last pushed 2013-02 (Hogan.sublime-build plus hulk.py), so ST2-era and hidden; its one issue is already fixed; nothing to file
+Hookblime	2026-10-23	skipped: not in the Install Package picker on build 4215 (Hookblime and Hook filters show other packages); repo Pafsis/hookblime last pushed 2012-07 (Hookblime.py only), ST2-era and hidden; nothing to file
+Clientside	2026-10-23	row 560: SKIP, not offered by the Install Package picker (no match for Clientside or the author name); trentrichardson/Clientside, nothing installed
+HTML Export	2026-10-23	SKIP: revolunet/sublimetext-html-export is not offered by the Install Package picker (the only match is the different package ExportHtml); nothing installed
+Indent.txt	2026-10-23	skipped: not offered by the Install Package picker (ST2-only entry, repo last pushed 2013); typed Indent.txt and Indent.t, no match
+Iris Path	2026-10-23	skipped: not in Package Control picker (no match for the name), nothing to install
+JRubyFX	2026-10-23	skipped: not in Package Control picker (no match for the name), nothing to install
+JS Minify	2026-10-23	skipped: not in Package Control picker (no match for the name), nothing to install
+JSHint Inline	2026-10-23	skipped: not in Package Control picker (no match for the name), nothing to install
+JSON to CSV Converter	2026-10-23	skipped: not in Package Control picker (no match for the name), nothing to install
+KeymapManager	2026-10-24	skipped; not listed in the Install Package picker (ST2-only package, 2012), nothing installed
+Kraken Snippets	2026-10-24	skipped; not listed in the Install Package picker (ST2-only 2013 package), nothing installed
+Line Completion	2026-10-24	skipped: not in the Install Package picker on 4215 (ST2-only, README says Sublime Text 2); open issue 5 reports a Region TypeError
+Listenr	2026-10-24	skipped: not in the picker (ST2-only, hidden by Package Control); open issue 1 ST3 update
+Lookupdic	2026-10-24	skipped: not in the Install Package picker (ST2-only package hidden from ST4 picker)
+LoremPixel	2026-10-24	skipped: not in the Install Package picker (ST2-only package hidden from ST4 picker)
+LoremText	2026-10-24	skipped: not in the Install Package picker (zero matches for the exact name)
+Lucky Link	2026-10-24	skipped: not in the Install Package picker (ST2-only; closed issue asks for ST3 support)
+MTML Completions	2026-10-24	skipped: not offered by the ST4 picker (search_packages finds nothing), ST2-era repo bit-part/MTML-ST2 last pushed 2014; nothing installed, nothing filed
+Magento - TemplateCopy	2026-10-24	skipped: not offered by the ST4 picker (search_packages Magento lists 3 other packages); ST2-era repo dedg3/sublime-magento-TemplateCopy last pushed 2012, its open issue #2 already asks for ST3 support; nothing installed, nothing filed
+MakeExecutable	2026-10-24	skipped: ST2-only, not offered by the Install Package picker on 4215 (last push 2013, issue #4 asks for Sublime 3 support); nothing installed
+MarkPress	2026-10-24	skipped: not offered by the Install Package picker on 4215 (ST2-only, last push 2012); nothing installed
+Markboard3	2026-10-24	skipped: not offered by the Install Package picker on Windows 4215 (README: Mac OS X only, needs Pandoc which is not installed); nothing installed. Read finding not filed: checkPandoc uses output after the except branch, UnboundLocalError when pandoc is missing (static, untested)
+Markdown Todo	2026-10-24	skipped: ST2-only (channel sublime_text <3000), not in the 4215 picker; nothing installed; issues disabled on repo
+MarkdownBuild	2026-10-24	skipped: ST2-only (channel sublime_text <3000), not in the 4215 picker; nothing installed
+Mimosa	2026-10-24	skipped, ST2-only (channel sublime_text <3000)
+Mina	2026-10-24	skipped, ST2-only (channel sublime_text <3000)
+Moai Debugger	2026-10-24	skipped, ST2-only (channel sublime_text <3000)
+Mocha Runner	2026-10-24	skipped, ST2-only (channel sublime_text <3000)
+ModJS - JavaScript Workflow Tooling	2026-10-24	skipped, ST2-only (channel sublime_text <3000)
+NPMInfo	2026-10-25	skipped: ST2-only (sublime_text <3000), hidden from ST4 picker; issue #2 already asks for ST3
+Named (Bind) Helpers	2026-10-25	skipped: ST2-only (sublime_text <3000)
+NaturalDocs	2026-10-25	skipped: not in the Install Package picker on 4215 (packagecontrol.io homepage is just NaturalDocs, no repository URL)
+Navigation History	2026-10-25	skipped: ST2-only (sublime_text <3000); issue #8 already asks for ST3
+New from Selection	2026-10-25	skipped: ST2-only plugin, not offered by the ST4 picker (Install Package search returns no match)
+NightCycle	2026-10-25	skipped: not offered by the ST4 picker (search returns no match)
+NodeEval	2026-10-25	skipped: not offered by the ST4 picker; source read only (from imp import reload fails on Python 3.14, not run)
+Number Manipulation	2026-10-25	skipped: not offered by the ST4 picker (ST2-only; open issue #12 asks for ST3 availability)
+Opa	2026-10-25	skipped: ST2-only package (st_versions [2]), not offered in the Package Control picker on 4215; nothing installed
+Open Recent Files	2026-10-25	skipped: ST2-only package (st_versions [2]), not offered in the Package Control picker on 4215; nothing installed
+Open Shading Language	2026-10-25	skipped: ST2-only package (st_versions [2]), not offered in the Package Control picker on 4215; nothing installed
+Open in Total Commander	2026-10-25	skipped: ST2-only package (st_versions [2]), not offered in the Package Control picker on 4215; nothing installed
+OpenFromPath	2026-10-25	skipped: ST2-only (st_versions [2]), not offered by the picker on this build
+P4Sublime	2026-10-25	skipped: ST2-only (st_versions [2]), not offered by the picker on this build
+PDB Finder	2026-10-25	skipped: ST2-only (st_versions [2]), not offered by the picker on this build
+PHP Built-in WebServer	2026-10-25	row 1048: skipped, ST2-only (st_versions [2]), not offered by the picker
+PHP Namespace Command	2026-10-25	row 1051: skipped, ST2-only (st_versions [2]), not offered by the picker
+PHP Haml	2026-10-25	row 1051: skipped, st_versions [2,3] and not offered by the Install picker on build 4215 (0 matches)
+Pandoc (Markdown)	2026-10-25	row 1062: skipped, ST2-only (st_versions [2]), not offered by the picker
+Pane Navigation	2026-10-25	row 1065: skipped, ST2-only (st_versions [2]), not offered by the picker
+Papyrus	2026-10-25	row 1068: skipped, ST2-only (st_versions [2]), not offered by the picker
+Parallel Builder	2026-10-25	skipped: ST2-only (st_versions [2]), not offered by the picker
+Paste Anywhere	2026-10-25	skipped: ST2-only (st_versions [2]), not offered by the picker
+Paste to friendpaste.com	2026-10-25	skipped: ST2-only (st_versions [2])
+Paste to paste.pm	2026-10-25	skipped: ST2-only (st_versions [2]); open issue asks for ST3 support
+Path to File	2026-10-25	skipped: ST2-only (st_versions [2])
+PhpDox	2026-10-25	skipped: not listed in the Install picker on 4215 (ST2-only, last push 2012)
+PowerMTML Completions	2026-10-25	skipped: ST2-only, not in the picker
+PowershellUtils	2026-10-25	skipped: ST2-only, not in the picker
+Prevu	2026-10-25	skipped: ST2-only, not in the picker
+ProjectSpecific	2026-10-25	skipped: ST2-only, not in the picker
+ProtoBufCodeFormatter	2026-10-25	skipped: not in the Package Control picker (ST2-only or hidden); nothing installed, nothing filed
+Puppet Syntax checking	2026-10-25	skipped: not in the Package Control picker (ST2-only or hidden); nothing installed, nothing filed
+PyQt Search	2026-10-25	skipped: not in the Package Control picker (ST2-only or hidden); nothing installed, nothing filed
+PyTags	2026-10-25	skipped: not in the Package Control picker (ST2-only or hidden); nothing installed, nothing filed
+Python Anywhere Editor	2026-10-25	skipped: not in the Package Control picker (ST2-only or hidden); nothing installed, nothing filed
+Python PEP8 Indent	2026-10-25	skipped: not in the Install Package picker (ST2-only or hidden); nothing installed, nothing filed
+PythonOpenModule	2026-10-25	skipped: not in the Install Package picker (ST2-only or hidden); nothing installed, nothing filed
+PythonTidy	2026-10-25	skipped: not in the Install Package picker (ST2-only or hidden); nothing installed, nothing filed
+PythonVoiceCodingPlugin	2026-10-25	skipped: prerequisite not installed (needs a Caster/Dragon speech-recognition setup, not installable through the picker); nothing installed, nothing filed
+QuickPrint	2026-10-25	skipped: not in the Install Package picker (ST2-only or hidden); nothing installed, nothing filed
+PythonOpenModule (retest from repo)	2026-10-25	row 1185 retest from the GitHub repo (not in picker): python_open_module raises SyntaxError, print sys.path is Python 2 syntax with python 3 on PATH (live); filed SublimeText/PythonOpenModule#5; copy recycled, verified gone
+Rosetta Code Snippets	2026-10-25	row 1307: skipped, not in the picker (ST2-only, 2012); getRosetta.py is Python 2 (print statement, urllib.urlopen) so it cannot load on ST3/ST4; read on GitHub, nothing installed, nothing filed
+RspecBuild	2026-10-25	row 1309: not in the picker; RunSpec.py and the build file downloaded from GitHub raw into Packages; fails to load on ST4 (No module named exec), fix via Default.exec tested; filed erinata/SublimeRspecBuild#6
+Ruby Coverage	2026-10-25	row 1310: not in the picker, issues disabled; files downloaded from GitHub raw; opening any .rb without a coverage dir raises TypeError (None into os.path.join), fix tested; findings\RubyCoverage-typeerror-without-coverage-dir.md, not sent
+Ruby Extract Method	2026-10-25	not in picker, copied from GitHub raw; loads on 4215, ruby_extract_method extracted a line into show_sum and set the clipboard; no defect found; removed via picker, baseline verified
+Ruby Hash Reverter	2026-10-25	not in picker, copied from GitHub raw; works; strings rewritten (12:30, URLs); removed via picker, baseline verified
+RubyCheckOnSave	2026-10-25	not in picker, copied from GitHub raw; settings name via __name__ gives None -> TypeError on every .rb save (fix tested); /usr/bin/ruby default; py2 error branch by reading; removed, baseline verified
+RubyFormat	2026-10-25	not in picker, copied from GitHub raw; does not load on ST4 (py2 print), then import rubybeautifier fails; both fixes tested, formatter works; cursor jumps to EOF when cursor is before first non-ws char (tested); repo dormant since 2012 so findings only: findings\RubyFormat-python2-load-and-cursor-jump.md, not sent; removed, baseline verified
+RunCommand	2026-10-26	not in picker, copied from GitHub raw; Python 2 only (getargspec ImportError at line 10), palette commands do nothing silently; repo dormant since 2012 so findings only: findings\RunCommand-python2-only-does-not-load.md, not sent; removed, baseline verified
+SBT Runner	2026-10-26	skipped: not in the Install Package picker (only SublimeSBT is); repo last pushed 2013-08, needs sbt which is not installed; nothing installed
+Scaffolding	2026-10-26	skipped: not in the ST4 picker (2013 repo, ST2-era)
+ScalaTest	2026-10-26	skipped: not in the ST4 picker (2013 repo, ST2-era)
+SchemeCycler	2026-10-26	skipped: not in the ST4 picker (2012 repo; its own issue #6 says not listed for ST3)
+Sublime-Hhhhold	2026-10-26	not installable (not in picker)
+MXUnit	2026-10-24	skipped: not offered by the ST4 picker (search_packages finds only CFAutoMock, already tested); homepage mxunit.org, not a GitHub repo; noth

@@ -1,0 +1,1410 @@
+list	name	repo	installs	last_modified	logHits	tsvRows	nonStaticRows	inRESULTS	class
+audit_list_2026_10_27_gap.tsv	DrSync	https://github.com/spywhere/DrSync			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Plugin Debugger	http://quelltexter.org/			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	3024 Color Scheme	https://github.com/0x3024			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Abacus	https://github.com/khiltd/Abacus			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	ABC Notation	https://github.com/jimhawkridge/SublimeABC			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Accessibility	https://sublime.wbond.net/packages/Accessibility			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Adianti Snippets for PHP	https://github.com/dmonteirosouza/adianti-snippets			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	ADOdb library snippets for PHP	https://github.com/madhs/ADOdb_snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	AdonisJs	https://github.com/ctf0/adonis-sublime			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Agola Color Schemes	https://packagecontrol.io/packages/Agola%20Color%20Schemes			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Align Arguments	https://github.com/denniskempin/align-arguments			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Alphpetize	https://github.com/foxxyz/sublime_alphpetize			0	2	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Alternative Autocompletion	https://github.com/atombender/sublime_text_alternative_autocompletion			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Amalgamate	https://github.com/donteatyellowsnow/amalgamate			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	AMD Butler	https://github.com/agrc/AmdButler			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	AngularJS	https://github.com/angular-ui/AngularJS-sublime-package			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	AngularJS Jasmine Boilerplate	https://github.com/namoscato/angular-jasmine-boilerplate-sublime			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Ant Buildfile	https://github.com/alefragnani/Sublime-Ant-Buildfile			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Apex Intention Actions	https://github.com/nchursin/ApexIntentionActions			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	API Blueprint	https://github.com/apiaryio/api-blueprint-sublime-plugin			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	APICloudPackage	https://github.com/apicloudcom/Sublime-APICloud-Package			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Apple Pips Color Scheme	https://github.com/idleberg/ApplePips.tmTheme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Arnold Clark Snippets for Ruby	https://github.com/arnoldclark/ac-ruby-snippets			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	ASCII Cowpletions	https://github.com/idleberg/ASCII-Cowpletions			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	AutoCompleteJS	https://github.com/titoBouzout/AutoCompleteJS			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Auto Hide Sidebar	https://github.com/xunker/AutoHideSidebar			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Auto Semi-Colon	https://github.com/vivait/SublimeAutoSemiColon			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	AVA Standard	https://github.com/sotojuan/sublime-ava-standard			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	AVR-ASM-Sublime	https://github.com/vyivanov/AVR-ASM-Sublime			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	BazelSyntax	https://github.com/niosus/BazelSyntax			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Behat	https://github.com/omissis/sublime-behat-syntax			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Behat Completions	https://github.com/jadu/sublime-behat-completions			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Better Bookmarks	https://github.com/dusk125/sublime-betterbookmarks			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Better TypeScript	https://github.com/lavrton/sublime-better-typescript			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	BHT-BASIC	https://github.com/kriswema/Sublime-BHT-BASIC			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Biml	https://github.com/sorrell/subiml			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	BioPythonUtils	https://github.com/bosborne/BioPythonUtils			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	BlackRain	https://github.com/edheltzel/Sublime-BlackRain			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Boron Color Scheme	https://github.com/MJIO/boron.tmtheme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	bourbon_completions	https://github.com/tysongach/bourbon-completions			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Boxy Theme Addon - Font Face	https://github.com/ihodev/sublime-boxy-addon-font-face			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Boxy Theme Addon - Linter Theme	https://github.com/oivva/boxy-addon-linter-theme			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Boxy Theme Addon - Mono File Icons	https://github.com/ihodev/sublime-boxy-addon-mono-file-icons			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Boxy Theme Addon - Mono File Icons - Light UI	https://github.com/oivva/st-boxy-addon-mono-file-icons-light-ui			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Boxy Theme Addon - Widget Font MD	https://github.com/oivva/boxy-addon-widget-font-md			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Boxy Theme Addon - Widget Font Size	https://github.com/ihodev/sublime-boxy-addon-widget-font-size			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Boxy Theme Addon - Widget Font XL	https://github.com/oivva/boxy-addon-widget-font-xl			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Boxy Theme Addon - Widget Font XS	https://github.com/oivva/boxy-addon-widget-font-xs			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Brainfuck Interpreter	https://github.com/dotzero/SublimeText-Brainfuck/			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	BridleNSIS	https://github.com/idleberg/sublime-bridlensis			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Broadcast Color Scheme	https://vinkla.com/			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Browser Sync	https://github.com/iamdjones/sublime-text-browser-sync			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Build Next	https://packagecontrol.io/packages/Build%20Next			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Bunch	https://bunchapp.co			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	C++11	https://github.com/noct/sublime-cpp11			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	C99	https://github.com/noct/sublime-c99			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Camaleon	https://github.com/titoBouzout/Camaleon			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Can I Use	http://azd325.github.io/sublime-text-caniuse/			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Cappuccino	https://github.com/aparajita/Cappuccino-Sublime			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	CasperJS	https://github.com/n1k0/SublimeText-CasperJS			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	CBP Syntax Highlighter	https://github.com/destruc7i0n/CBP_Sublime			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	CFeather	https://github.com/frou/CFeather			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Chain of Command	https://github.com/jisaacks/ChainOfCommand			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Cheat Sheets	https://github.com/dmikalova/sublime-cheat-sheets			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	ChineseLoremIpsum	https://github.com/cjltsod/sublime-ChineseLoremIpsum			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	ChineseTranslator	https://github.com/toaol/sublime-translate			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Chopstick Autocompletion	https://github.com/getchopstick/chopstick-completion			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Ciapre Mod	https://github.com/itsjzt/CiapreMod-Sublime-Text			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	C Improved	https://packagecontrol.io/packages/C%20Improved			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Circuits	https://github.com/jdpatt/circuits			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Civic Color Scheme	https://github.com/hum-n/civic			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	ClipboardCommands	https://github.com/titoBouzout/ClipboardCommands			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	ClojureDocSearch	https://github.com/Foxboron/ClojureDoc-Search			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	CMB snippets	https://packagecontrol.io/packages/CMB%20snippets			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	cmd-caller	https://github.com/esphas/cmd-caller			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	CMS Made Simple Snippets	https://github.com/bbonora/SublimeCMSMadeSimple			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Cobalt2 Flat Theme	https://github.com/r3volution11/Theme-Cobalt2-Flat			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	CoberturaCoverage	https://github.com/jeffrand/CoberturaCoverage			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	CodeDrafts	https://github.com/subeeshb/codedrafts_sublime_plugin			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	CodeIgniter 3 Snippets	https://github.com/agoenks29D/Codeigniter-3-Sublime-Snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Codepad.org Paste Plugin	http://codepad.org/			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	CodePresenter	https://github.com/fwph/codepresenter			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	CodeTestSwitcher	https://github.com/maltize/sublime-text-code-test-switcher			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Coffee2Js	https://github.com/mattseymour/sublime-coffee2js			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	CoffeeComplete Plus (Autocompletion)	https://github.com/justinmahar/SublimeCSAutocompletePlus			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Color Highlighter	https://sublime.wbond.net/packages/Color%20Highlighter			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Color Scheme - Baara Dark	https://github.com/jobedom/sublime-baara-dark			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Color Scheme - saulhudson	https://github.com/saulhudson/saulhudson-color-schemes			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Contao Front-End Snippets	https://packagecontrol.io/packages/Contao%20Front-End%20Snippets			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Convoy	https://github.com/joshbeitler/convoy			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Copy Paste Increment	https://git.xvrqt.com/amy/duplicate-and-increment			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	CopyWithLineNumbersReloaded	https://github.com/crash5/CopyWithLineNumbersReloaded			0	2	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	CopyWithQuotes	https://github.com/samsha1971/CopyWithQuotes			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Cortex	https://github.com/cortoproject/CortexIDE			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	CSON Converter	https://github.com/idleberg/sublime-cson-converter			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	CSS Colors	https://github.com/idleberg/CSS-Colors			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Cucumber Snippets e Highlight em Inglês	https://github.com/RobertoPegoraro/cucumber-snippets-highlight-english			0	0	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Cucumber Snippets e Highlight em Português	https://github.com/RobertoPegoraro/cucumber-snippets-highlight-portugues			0	0	0	True	static-only
+audit_list_2026_10_27_gap.tsv	CV3 Developer Tools	https://github.com/thisishuey/CV3-Developer-Tools			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Cython+	https://github.com/petervaro/python			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	DA CS	https://github.com/ihodev/sublime-da-cs			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Dark Neon Color Scheme	https://github.com/RainyDayMedia/DarkNeon			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Darwin	https://github.com/kgori/DarwinHighlight			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Debugger - 3ds Max	https://github.com/blurstudio/sublime_debugger-3dsMax			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Debugger - Maya	https://github.com/blurstudio/sublime_debugger-Maya			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	DevSkim	https://github.com/microsoft/DevSkim-Sublime-Plugin			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Dimmed Color Scheme	https://git.io/dimmed			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Dimmed UI	https://github.com/uonick/dimmed-ui			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	DistZilla Build	https://github.com/tmueller/sublime-distzilla-build			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Doctrine Snippets	https://github.com/npostulart/doctrine-sublime-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	doi2bibSublime	https://github.com/monty5811/doi2bibSublime			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Dota Reborn Package	https://github.com/XavierCHN/Dota-Reborn-Package			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Dream Maker	https://github.com/seiyria/sublime-dreams			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Drunken NSIS	https://github.com/idleberg/sublime-drunken-nsis			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Drunken PHP	https://github.com/idleberg/sublime-drunken-php			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	DummyData	https://github.com/blcook223/DummyData			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Duplicate And Increment	https://github.com/112KA/duplicate_and_increment			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Easy Import	https://github.com/tushortz/EasyImport			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	EditorConfigSnippets	https://github.com/mfuentesg/EditorConfigSnippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	ElixirPlayground	https://github.com/gmcabrita/SublimeElixirPlayground			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Emacs-like Modelines	https://github.com/kvs/STEmacsModelines			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Emmet Css Snippets	http://p233.github.com/Emmet-Css-Snippets-for-Sublime-Text-2/			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Enhanced Clojure	https://github.com/Foxboron/SublimeClojure			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Entropy	https://bitbucket.org/demandware/entropy			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Entypo Completions	https://github.com/jbrooksuk/SublimeEntypoCompletions			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Epitech Coding Style	https://github.com/demaisj/epitech-sublime			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	ePub	https://github.com/titoBouzout/ePub			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	EvercodeLab Sublime Snippets	https://github.com/EvercodeLab/evercodelab-sublime-snippets			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Express Completion	https://github.com/fakhrullah/sublime-expressjs-4-completion			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Extract Lines	https://github.com/poma/sublime-extractlines			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Extract Text to Laravel Blade View	https://github.com/mohannadnaj-archive/sublime-extract-to-blade			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Fabric Engine - KL Language Support	https://github.com/fabric-engine/Sublime-KL			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Factus 12C Color Scheme	https://github.com/idleberg/Factus12C.tmTheme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	FakeDataGenerator	https://github.com/titoBouzout/FakeDataGenerator			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	FakeImg.pl Image Placeholder Snippet	https://github.com/tinacious/fakeimg.sublime-snippet			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	FancyWord	https://eastonlee.com/blog/2017/03/31/fancyword-a-sublimetext-plugin-that-improves-your-word-choice-in-english-writing/			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	fasd	https://github.com/externl/sublime-fasd			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Fat-Free Framework Snippets	https://github.com/uonick/fatfree-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Fecoding	http://fecoding.calljs.com/			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	FEI Syntax-n-Snippets	https://github.com/jaabell/fei-syntax-n-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Fex	https://github.com/hwangzhiming/sublime-text-fex			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	FileSync	https://github.com/bcharbonnier/SublimeFileSync			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	FilterPipes	https://github.com/tylerl/FilterPipes			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	FindSelected	https://github.com/CodeEffect/FindSelected			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Firelime	https://github.com/gavrilovmiroslav/firelime			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	five_easy_color_schemes	https://github.com/gerardroche/sublime_five_easy_color_schemes			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Fizzy Theme	https://github.com/XandrTV/fizzy-theme			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Flat Chameleon	https://github.com/r3a1ay/flat-chameleon-sublime-theme			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Flight JS Snippets	https://github.com/cameronhunter/flight-js-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Focus Last Tab	https://github.com/eproxus/focus_last_tab			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Fold Python	https://github.com/svenfraeys/SublimeFoldPython			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Foundation 5 Snippets	https://github.com/zurb/foundation-5-sublime-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Four Spaces JavaScript (snippets)	https://github.com/Ky6uk/fsjs			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	FSharp	https://github.com/fsharp/sublime-fsharp-package			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Future Funk - Color Scheme	https://github.com/Twiebie/ST-FutureFunk			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Galen	https://github.com/professant/sublime-galen			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	GameMaker Language (GML) Bundle	https://github.com/uduse/Sublime-GameMaker-Studio-Language-Bundle			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Gemma	https://github.com/parachute-io/gemma			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	GitSyntaxes	https://github.com/vovkkk/sublime_git_syntaxes			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	GLSL Compiler	https://github.com/sindney/GLSLCompiler			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	gmESSI-gmsh Tools	https://github.com/SumeetSinha/gmESSI-SublimePlugin			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	GoDebug	https://github.com/dishmaev/GoDebug			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	GoFeather	https://github.com/frou/GoFeather			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Golite	https://github.com/wy-z/Golite			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Google Closure Template snippets	https://github.com/picimako/GoogleClosureTemplateSnippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	GoogleTesting	https://github.com/SublimeText/GoogleTesting			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	GoSnippets	https://github.com/ccirello/sublime-gosnippets			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	GotoLastModified	https://github.com/Wuage-FE/GotoLast			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	GoToMark	https://github.com/arnaud-f/GoToMark			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Grepmark	https://github.com/dusk125/sublime-grepmark			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Grid6	https://github.com/cpojer/grid6-sublime			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Groupie	https://github.com/noct/sublime-groupie			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Grunt	https://github.com/sptndc/sublime-grunt			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Grunt Snippets	https://github.com/devatrox/grunt-sublime-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	HackerTyper	https://github.com/rexxars/sublime-hacker-typer			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Hammer for Mac Snippets	https://github.com/dpskvn/Hammer-Snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Harper Color Scheme	https://github.com/idleberg/Harper.tmTheme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Hasher	http://dangelov.com			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	haxelang	https://github.com/sup/sublime-haxelang			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Highlight Build Errors	https://sublime.wbond.net/packages/Highlight%20Build%20Errors			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	hlsl	https://github.com/wpp1983/hlsl			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Homebrew Build System	https://github.com/idleberg/sublime-homebrew-build			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Hopscotch Color Scheme	https://github.com/idleberg/Hopscotch.tmTheme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	HTML5 Doctor CSS Reset snippet	https://github.com/tinacious/CSS-Reset-Sublime-Snippet			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	HTML Email Snippets	https://github.com/cabaret/html-email-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Hybris Impex Syntax	https://github.com/Blumed/Impex_Highlighting			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	IceWorld Color Scheme	https://github.com/chemdemo/IceWorld			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Idiomatic-CSS-Comments-Snippets	https://github.com/chrisborrowdale/Idiomatic-CSS-Comments-Snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Iifefy	https://github.com/erquhart/sublime-iifefy			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	iLorem	https://github.com/msudgh/iLorem			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Image2Base64	https://github.com/tm-minty/sublime-text-2-image2base64			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Inline Python	https://github.com/apiad/Sublime-InlinePython			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Inno Setup	https://github.com/idleberg/sublime-innosetup			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	IntelXDK	https://github.com/gomobile/sublime-xdk-package			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	InterSystems Cache	https://github.com/brandonhorst/SublimeCache			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Invert Selection	https://github.com/vontio/sublime-invert-selection			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Ionic Snippets	https://github.com/BeeJaySoft/ionic-snippets-sublime-plugin			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	io Node Framework	https://github.com/justind000/ionode_sublime_plugin			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	iReset	https://github.com/msudgh/iReset			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Jade Snippets	https://github.com/P233/Jade-Snippets-for-Sublime-Text-2			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	JavaScript & Coffeescript Build Systems	https://github.com/IlanFrumer/sublime-js-coffee-build-systems			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Javatar	https://javatar.readthedocs.org/			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Jenkins Dashboard	https://github.com/benmatselby/sublime-jenkins-dashboard			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	JS-firebug	https://github.com/sebfindling/JS-firebug			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	JuliaCompletions	https://github.com/jakeconnor/JuliaCompletions			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	JumpTo	https://github.com/SublimeText/JumpTo			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Junos Snippets	https://github.com/pewpewp3w/sublime-juniper-snippets			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	JXA Build System	https://github.com/eppfel/JXASublimeText			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Kaneva API (KPI) Completions	https://github.com/FracturedShader/kpiCompletions			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Kimbie Color Scheme	https://github.com/idleberg/Kimbie.tmTheme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Kirby2 CMS Snippets	https://github.com/mauricerenck/sublime-kirby2			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Kivy Language	https://github.com/ivlevdenis/kivylng			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	KIXtart	https://github.com/vipex/KIXtart.tmLanguage			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	knockdown	https://github.com/aziz/knockdown			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	KnowledgeBase	http://kb.sublimetext.info			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Kodery	https://github.com/tgvashworth/sublime.kodery			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	L2U AutoComplete	https://github.com/sNaticY/L2U-AutoComplete			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Language - Italian - Italiano	https://github.com/nixxo/SublimeTextLanguageItaliano			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Language SAP	https://github.com/hanabdo/language-sap-sublime			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Laravel 5 Artisan	https://github.com/dydx/Laravel-5-Artisan			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Laravel Migrations Snippets	https://github.com/marceloxp/laravel_migration_snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Laravel Snippets	http://laravel.com			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	LaTeX Track Changes	https://github.com/rioderaca/LaTeX-Track-Changes			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	LD library Path	https://github.com/nicolas-cherel/LDLibPath			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Legal Document Creator	https://github.com/compleatang/Legal-Markdown-Sublime			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Legal Document Snippets	https://github.com/compleatang/Legal-Snippets-Sublime			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	lestle	https://github.com/lewislepton/lestle.tmTheme			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	LightningComponentsCompletions	https://github.com/pkozuchowski/LightningComponentsCompletions			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	LineEndings	https://github.com/titoBouzout/LineEndings			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	LineMessages	https://github.com/nfaggian/SublimeLineMessages			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Logstash Syntax Highlighting	https://github.com/nir0s/sublime-logstash-syntax-highlighter			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Louk	https://github.com/louk-lang/louk-editor-sublime			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	LuaComplete	https://github.com/FourierTransformer/LuaComplete-Sublime			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	LuaSimpleComplete	https://github.com/iamfredng/LuaSimpleComplete			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	MacDictionary	https://packagecontrol.io/packages/MacDictionary			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	MacDown App Menu	https://github.com/diimdeep/sublime-text-macdown-app-menu			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Madebyphunky Color Scheme	https://github.com/Phunky/madebyphunky			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	MakeTargets	https://github.com/dusk125/sublime-maketargets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	MapTool Syntax	https://github.com/wwmoraes/Sublime-MapTool-Syntax			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Markboard	https://github.com/phyllisstein/Markboard			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	MarkdownHighlighting	https://github.com/braver/MarkdownHighlighting			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	MarkdownLight	https://github.com/sekogan/MarkdownLight			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Marko	https://github.com/merwan7/sublime-marko			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Marksy Convert	https://github.com/thomscode/Marksy-Convert			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Markup Jira Confluence	https://github.com/mlf4aiur/sublimetext-markup-jira-confluence			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Material Color Scheme	https://github.com/willsoto/material-color-scheme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Maude Syntax Highlighting	https://github.com/jpsikorra/maude_syntax_highlight			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	MavensMate	http://mavensmate.com			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Meav	https://github.com/linlymatsumura/Meav			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	MelonJS Completions	https://github.com/swmuron/melonjs-sublime-completions			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	MetaQuotes (MQL4) Compiler	https://github.com/IlanFrumer/mql4compiler			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Mika	https://github.com/judah-caruso/Mika			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Minify JS To Clipboard	https://github.com/vicapow/sublime-minify-js-to-clipboard			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Minimal Tabs	https://github.com/rosvik/sublime-minimal-tabs			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	MiniPy	https://github.com/vim-zz/MiniPy			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Missing Palette Commands	https://github.com/fjl/Sublime-Missing-Palette-Commands			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Mistral	https://github.com/giampierod/mistral-sublime			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	MODX Placeholder Snippets	https://github.com/mkay/MODX-Placeholders			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	MongoDB - PHP Completions	https://sublime.wbond.net/packages/MongoDB%20-%20PHP%20Completions			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Monkberry	https://github.com/monkberry/language-monkberry			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Monokai Extended	https://github.com/jonschlinkert			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Monokai Rich	https://github.com/mmghv/sublime-monokai-rich			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Monokai - Spacegray	https://github.com/pyoio/monokai-spacegray			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	MoonBit	https://docs.moonbitlang.com			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Mou Markdown App (OSX)	https://github.com/rwoody/mou-markdown-sublime			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Move By Symbols	https://github.com/abusalimov/SublimeMoveBySymbols			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Multibyte Word Separators	https://github.com/naoyukik/SublimeMultibyteWordSeparators			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Myrkur Color Scheme	https://github.com/superjan/myrkur			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	My Snippets	https://github.com/erikgassler/My-Snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Nasl	https://github.com/mr6r4y/Nasl			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	NetSuite Bundle	https://github.com/ththev/NetSuite-Bundle-for-Sublime			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Neutron	https://github.com/notpushkin/SublimeText-Neutron-Syntax			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Newline Seperated to List	https://github.com/jeechu/NewlineSeparatedToList			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	New Moon Color Scheme	https://taniarascia.github.io/new-moon			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Night Soft Color Scheme	https://github.com/notiv-nt/Sublime-Night-Soft-Color-Scheme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Nocturnal Color Scheme	https://github.com/noct/nocturnal-color-scheme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Nova Theme	http://www.trevordmiller.com/nova/			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Npackd	https://github.com/idleberg/sublime-npackd			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	NuGet	https://github.com/idleberg/sublime-nuget			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	objc .strings syntax language	https://github.com/PaNaVTEC/Objc-Strings-Syntax-Language			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	OCaml Autocompletion	https://github.com/whitequark/sublime-ocp-index			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Oddly	https://sublime.wbond.net/packages/Oddly			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Okami – Adaptive Color Schemes	https://github.com/Rayraegah/okami			0	0	0	False	no-record
+audit_list_2026_10_27_gap.tsv	OpenERP Snippets	https://github.com/FrancoTampieri/Sublime-OpenERP			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	OPUS	https://github.com/spywhere/OPUS			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	OVH UI-Kit Snippets	https://github.com/antleblanc/sublime-ovh-ui-kit-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Owl Color Scheme	https://github.com/omnus/owl_color_scheme			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	PackageTesting	https://github.com/SublimeText/PackageTesting			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Pandoc Academic	https://github.com/larlequin/PandocAcademic			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	PanePane	https://github.com/mikesmithgh/PanePane			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Paraiso Black Color Scheme	https://github.com/idleberg/ParaisoBlack.tmTheme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Paraiso Color Scheme	https://github.com/idleberg/Paraiso.tmTheme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Path Tools	https://github.com/pjdietz/sublime-path-tools			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Pebble	http://james-brooks.uk			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	PEG.js	https://github.com/alexstrat/PEGjs.tmbundle			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Persistent Console	https://github.com/idleberg/sublime-persistent-console			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	PersistentPython	https://github.com/mottosso/PersistentPython			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	PHP Codebeautifier	https://github.com/Ennosuke/PHP-Codebeautifier			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	PhpConnector	https://packagecontrol.io/packages/PhpConnector			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	PhpDebugHelper	https://github.com/yangxikun/sublime-phpdebughelper			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	polyfill	https://github.com/gerardroche/sublime-polyfill			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	PostCSS Sorting	https://packagecontrol.io/packages/PostCSS%20Sorting			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Poster	https://github.com/ssddanbrown/Poster			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Powder Sublime	https://github.com/CasperLaiTW/powder-sublime			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	PowerCursors	https://github.com/MaokaiLin/PowerCursors			0	2	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Preap	https://packagecontrol.io/packages/Preap			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Prismic.io snippets	https://github.com/prismicio/prismic-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	ProductiveSnippetsRuby	https://rbjl.janlelis.com/71-be-more-productive-with-better-sublime-snippets-for-ruby			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Prolog	https://github.com/alnkpa/sublimeprolog			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	ProtoFeather	https://github.com/frou/ProtoFeather			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Prototypo Syntax Highlighting	https://github.com/byte-foundry/prototypo-sublimetext			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	PyFusion	https://github.com/pdilyard/pyfusion			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Pylinter	https://github.com/biermeester/Pylinter			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Pynsist	https://github.com/idleberg/sublime-pynsist			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	PySide	https://github.com/DamnWidget/SublimePySide			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Python2UnicodeFixer	https://github.com/allieus-archives/Python2UnicodeFixer			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Python Checker	https://github.com/patrys/PythonChecker			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Python Output Format	https://github.com/Tenzer/PythonOutputFormat			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	PyYapf Python Formatter	https://github.com/jason-kane/PyYapf			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Quick Google Anno	https://github.com/meloalright/quick-google-anno			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	QuickJava	https://github.com/jameshiew/QuickJava			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	QuickPuTTY	https://packagecontrol.io/packages/QuickPuTTY			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	rbenv	https://github.com/felipeelias/sublime-text-2-rbenv			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	React Native Autocomplete	https://github.com/gebeto/react-native-autocomplete			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Readme-Helper	https://github.com/idleberg/Readme-Helper			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Refactor	https://github.com/Delermando/Refactor			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	RemoveDuplicateCharacters	https://github.com/xianghongai/RemoveDuplicateCharacters			0	2	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	RemoveNonAsciiChars	https://packagecontrol.io/packages/RemoveNonAsciiChars			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	REM PX	https://github.com/brockriemenschneider/REM-PX			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Resesif Color Scheme	https://resesif.carloscuesta.me			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Retro Computers Color Schemes	https://github.com/idleberg/RetroComputers.tmTheme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	RobotFrameworkAssistant	https://github.com/andriyko/sublime-robot-framework-assistant			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	RocketNative Snippets	https://github.com/Rocketseat/rocketnative-sublime-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	RPN	https://github.com/bphunter1972/RPN			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	RSpec (snippets and syntax)	https://github.com/rspec/rspec-tmbundle			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Ruby Blue Color Scheme	https://github.com/stil/rubyblue			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Ruby on Rails snippets	https://github.com/tadast/sublime-rails-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Run In InDesign	https://github.com/vamitul/RunInIndesign			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	RustCodeFormatter	https://github.com/kylepink/RustCodeFormatter			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	RustFormat	https://github.com/Rypac/sublime-rust-format			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Sail Color Scheme	https://github.com/dennistimmermann/sail-scheme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SalesforceXyTools	http://salesforcexytools.com/SalesforceXyTools/			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	SaltStack-related syntax highlighting and snippets	https://github.com/vmware-archive/sublime-text			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Scalafmt	https://github.com/fedragon/sublime-scalafmt			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	ScalaProjectGeneratorFacade	https://github.com/lgmerek/ScalaProjectGeneratorFacade			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Scala Snippets	https://github.com/watzon/sublime-scala-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Scala Syntax	https://github.com/gwenzek/scalaSublimeSyntax			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Schema Validator	https://github.com/ligershark/SchemaValidator			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Scrapy	https://github.com/marco-lavagnino/scrapy-sublime-plugin			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SCSS Snippets	https://github.com/npostulart/SCSS-Snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	ScummC	https://github.com/idleberg/sublime-scummc			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Select By Regex	https://github.com/mvoidex/SublimeSelectByRegex			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SelectionsToFiles	https://github.com/titoBouzout/SelectionsToFiles			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	SelectUntil	https://github.com/xavi-/sublime-selectuntil			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Semantic UI	https://github.com/idleberg/sublime-semantic-ui			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Seti_UX	https://github.com/ctf0/Seti_UX			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SfCommand	https://github.com/jtwebb/sfcommand			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	SFV	https://github.com/idleberg/sublime-sfv			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Shader Syntax (GLSL HLSL Cg)	https://github.com/noct/sublime-shaders			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SHARC or Blackfin DSP assembly highlighting	https://github.com/calculuswhiz/SHARC-assembly-Sublime-Syntax			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Shuffle	https://github.com/TiborIntelSoft/SublimeShuffle			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SilverStripe	https://github.com/benjamin-smith/sublime-text-silverstripe			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SimpleConfig	https://github.com/AaronGillBraun/Sublime-SimpleConfig			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	SimpleCSSFormat	https://github.com/SublimeText/SimpleCSSFormat			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	SimpleSyntax	https://github.com/budlime/SimpleSyntax			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Six - Future JavaScript Syntax	http://github.com/matthewrobb/six			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Skript	https://github.com/piratjsk/ST3_Skript			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Slugify	https://github.com/alimony/sublime-slugify			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	smartifdef	https://github.com/robinchenyu/smartifdef			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SortList	https://github.com/kylebebak/sublime_sort_list			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Sourcegraph	https://sourcegraph.com			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Sourcetrail	https://github.com/CoatiSoftware/sublime-sourcetrail			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Soy	https://github.com/Medium/soy-sublime			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Splunk Conf File Syntax Highlighting	https://packagecontrol.io/packages/Splunk%20Conf%20File%20Syntax%20Highlighting			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Squib Snippets	https://github.com/andymeneely/sublime-squib			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	StackExchangeQuery	https://github.com/anhmv/stackexchangequery			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Stata Enhanced	https://github.com/andrewheiss/SublimeStataEnhanced			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Stupid Indent	https://github.com/tzvetkoff/sublime_stupid_indent			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	StyleSorter	https://github.com/AndreasBackx/StyleSorter			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SubDpaste	http://www.dpaste.de/			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	sublack	https://github.com/jgirardet/sublack			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	subl-comment-snippets	https://github.com/hachesilva/subl-comment-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SubLilyPond	https://github.com/yrammos/SubLilyPond			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SublimeDancer	http://ky6uk.org			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	SublimeLog	https://github.com/yrammos/SublimeLog			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	sublimetext.github.com	https://github.com/SublimeText/sublimetext.github.com			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Subway Color Schemes	https://github.com/idleberg/Subway.tmTheme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SuiteCommerce-Advanced	https://github.com/venda/SCA-SublimeText			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	SummitLinter	https://github.com/corvisa/SummitLinter			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Sundried Color Scheme	https://github.com/frou/Sundried			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	SuperPython	https://github.com/clarabstract/SuperPython			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SVG Icon Snippets	https://github.com/idleberg/sublime-svg-icons			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SwinGameCompletions	https://github.com/DunNZ/SwinGameCompletions			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	SwitchLanguage	https://github.com/zerok/Sublime2-SwitchLanguage			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Switch View in Group	https://github.com/adamchainz/SublimeSwitchViewInGroup			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Sync Settings	https://mfuentesg.dev/SyncSettings			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	SysLog	https://github.com/gregschoen/sublimetext-syslog			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	TabSnippets	https://github.com/oleksiyk/SublimeTabSnippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	TailwindCSSAutocomplete	https://github.com/bradlc/sublime-tailwindcss			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	TeaCode Helper	https://github.com/Apptorium/TeaCode-Sublime-Helper			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Terminality	https://github.com/spywhere/Terminality			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Test Switcher	https://github.com/davidmreed/test_switcher			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Theme - Alpenglow	https://github.com/AlpenglowTheme/alpenglow-theme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Theme - Aprosopo	https://github.com/facelessuser/Aprosopo			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Theme - Arc	https://github.com/nogerine/sublime-arc-theme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Theme - Augmented Reaction	https://github.com/ESWAT/augmentedreaction-theme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Theme - Carmesim	https://packagecontrol.io/packages/Theme%20-%20Carmesim			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Theme - Elementary	http://piotrkubisa.github.io/sublime-elementary/			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Theme - Fengshui	https://github.com/jobedom/fengshui-theme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Theme - Freesia	https://github.com/nilium/st-theme-freesia			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Theme - Honeykoa	https://github.com/Radioreve/honeykoa-theme			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Theme - Mersi	https://github.com/grandsilence/mersi			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Theme - Minimal	http://minimaldev.com/minimal-sublime-text-theme			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Theme - Nil	https://github.com/nilium/st2-nil-theme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Theme - Pigment	https://github.com/neunato/Pigment			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Theme - Primer	https://packagecontrol.io/packages/Theme%20-%20Primer			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Theme - Pure	https://github.com/xianghongai/Theme-Pure			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Theme - Sea Lion	https://github.com/braver/theme-sea-lion			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Theme - Soda	https://buymeasoda.github.io/soda-theme/			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Theme - Spaceblack	https://packagecontrol.io/packages/Theme%20-%20Spaceblack			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Theme - Spacefunk	https://github.com/jasperjorna/ST-Spacefunk			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Theme - Windows 10	https://github.com/andreibsk/win10-theme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Themosis Framework Snippets	https://github.com/wmarquardt/themosis-framework-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Thinkphp	https://github.com/yangweijie/SublimeThinkPHP			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	ThreatConnect Exchange Snippets	https://github.com/fhightower-tc/tcex-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	ThreatConnect Python Snippets	https://github.com/fhightower/threatconnect-python-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	ThreatConnect Share Comments	https://github.com/fhightower-tc/threatconnect-share-comment-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	TimeTracker	https://github.com/Schepotin/SublimeTimeTracker			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	TinTin++ Syntax Highlighter	https://bitbucket.org/Mifuyne/tintin-script-syntax-highlighter			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Toggle Delphi File	https://github.com/alefragnani/toggle-delphi-file			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Toggle Read-Only	https://github.com/reflog/toggle-readonly			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	ToggleSettings	https://github.com/lowerworld/SublimeToggleSettings			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	ToggleWrap	https://github.com/shagabutdinov/sublime-toggle-wrap			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Toggl Timer	https://github.com/chadrien/sublime-toggl			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Tomorrow Night Italics Color Scheme	https://github.com/not-kennethreitz/sublime-tomorrow-night-italics-theme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Toolbar	https://github.com/titoBouzout/Toolbar			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Toss File	https://packagecontrol.io/packages/Toss%20File			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Tumblr Themes Syntax and Completions	https://packagecontrol.io/packages/Tumblr%20Themes%20Syntax%20and%20Completions			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	TwoColumns	https://github.com/pykong/TwoColumns			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	TypeScript Syntax	https://github.com/braver/TypeScriptSyntax			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Underscore.js Snippets	https://github.com/czottmann/sublime-underscorejs-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Unicode Character Highlighter	https://github.com/possan/sublime_unicode_nbsp			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Unity3D Build System	https://github.com/fredericvauchelles/UnityBuild			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Unity C# Snippets	http://www.viewportgames.ca			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Unnatural	https://github.com/andref/Unnatural-Sublime-Package			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	URLEncode	https://github.com/btoews/URLEncode			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	VBScript	https://github.com/SublimeText/VBScript			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Vintage Numbers	https://github.com/ignacysokolowski/SublimeVintageNumbers			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Voxa Framework Snippets	https://github.com/wuelcas/sublime-voxa-framework-snippets			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	W3CValidators	https://github.com/ericsorenson/Sublime-W3CValidators			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Warp-OS Color Scheme	https://github.com/idleberg/WarpOS.tmTheme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	WarpScript	https://github.com/cityzendata/sublime-warpscript			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	WD AngularJS Snippets	https://github.com/k3v3n/wd-angular-js-snippets			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	WebdriverIO	http://webdriver.io			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	WebOS	https://github.com/Tenzer/WebOS			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	WeSnipp Add	http://wesnipp.com			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Winamp Skin Developer	https://github.com/idleberg/sublime-winamp-skin-dev			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Window Mode	https://github.com/rwols/WindowMode			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	WinSCP	https://github.com/thecotne/sublime-WinSCP			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Wordless	https://github.com/welaika/Sublime-Text-Wordless			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	WordpressDev	https://github.com/huntlyc/Sublime-Wordpress-Dev-Plugin			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	WordPress Salts	https://github.com/idleberg/sublime-wordpress-salts			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	WPath	https://github.com/jtwebb/WPath			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	WrapIt	https://github.com/pykong/WrapIt			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	YAML Nav	https://github.com/ddiachkov/sublime-yaml-nav			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Yeti_UI	https://github.com/ctf0/Yeti_ST3			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Yeti_UX	https://github.com/ctf0/Yeti_UX			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	YouCompleteMe	https://github.com/sublime-ycmd/sublime-ycmd			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Zissou Color Schemes	https://github.com/idleberg/Zissou.tmTheme			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	zoneinfo	https://github.com/gilmoreorless/sublime-zoneinfo			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Zucchini	http://www.zucchiniframework.org			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	KnifeSolo	https://github.com/amazedkoumei/SublimeKnifeSolo			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SurroundWith	http://andrano.de/SurroundWith/			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	=BB= LSL	https://github.com/buildersbrewery/sublime-lsl			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	i18n and l10n Helper	https://github.com/kltk/sublime-i18n-and-l10n-helper			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	LaTeX-cwl	http://www.latexing.com			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	Solarized Toggle	https://github.com/damccull/sublimetext-SolarizedToggle			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	DA UI	https://github.com/ihodev/sublime-da-ui			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	AutoSetIndentation	https://github.com/jfcherng-sublime/ST-AutoSetIndentation			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	ShellScriptImproved	https://github.com/jfcherng-sublime/ST-ShellScriptImproved			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	VisualizeZeroWidthChars	https://github.com/jfcherng-sublime/ST-VisualizeZeroWidthChars			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	RailsEval	https://github.com/jfernandez/SublimeRailsEval			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	ClassHierarchy	https://github.com/noraesae/ClassHierarchy			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	CheckBounce	https://github.com/phyllisstein/CheckBounce			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	R-Box	https://github.com/randy3k/R-Box			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SublimeLinter-contrib-brew	https://github.com/idleberg/SublimeLinter-contrib-brew			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SublimeLinter-contrib-elixirc	https://github.com/smanolloff/SublimeLinter-contrib-elixirc			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SublimeLinter-contrib-fasterer	https://github.com/r1x1/SublimeLinter-contrib-fasterer			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap.tsv	SublimeLinter-contrib-frosted	https://github.com/Shura1oplot/SublimeLinter-contrib-frosted			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SublimeLinter-contrib-gometalinter	https://github.com/alecthomas/SublimeLinter-contrib-gometalinter			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SublimeLinter-contrib-hadolint	https://github.com/niksite/SublimeLinter-contrib-hadolint			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SublimeLinter-contrib-iscc	https://github.com/idleberg/SublimeLinter-contrib-iscc			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SublimeLinter-contrib-reek	https://github.com/codequest-eu/SublimeLinter-contrib-reek			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SublimeLinter-contrib-slim-lint	https://github.com/elstgav/SublimeLinter-slim-lint			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SublimeLinter-contrib-spider	https://github.com/zekesonxx/SublimeLinter-contrib-spider			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	SublimeLinter-contrib-stylelint_d	https://github.com/jo-sm/SublimeLinter-contrib-stylelint_d			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Language - French - Français	https://github.com/superbob/SublimeTextLanguageFrench			0	0	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Chrome Refresh	https://github.com/teddyknox/SublimeChromeRefresh			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	smart less build	https://github.com/thecotne/smart_less_build			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	Quick Look	https://github.com/wallysalami/QuickLook			0	1	0	True	static-only
+audit_list_2026_10_27_gap.tsv	DB1	https://sequoiastudios.io/db1			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SFTP	https://codexns.io/products/sftp_for_sublime			16	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SVN	https://codexns.io/products/svn_for_sublime			8	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Live Coding in Python	https://donkirkby.github.io/live-py-plugin			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	0x0	https://github.com/axsuul/sublime-0x0			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	42 Function Count Lines	https://github.com/DoKca42/42_sublime_ft_count_line			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	42 Headers	https://github.com/Globidev/Sublime-Text-42-Headers			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Abrase	https://github.com/KHN190/Abrase-sublime			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Achievement	https://github.com/airtoxin/Achievement			9	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ADBView	https://github.com/quarnster/ADBView			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AddRemoveFolder	https://github.com/fsaad/Sublime-AddRemoveFolder			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Agila Theme	https://github.com/arvi/Agila-Theme			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AhuAIComplete	https://github.com/ahu/AIComplete			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Alan	https://github.com/alan-platform/AlanForSublime			0	1	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	Alignment	http://wbond.net/sublime_packages/alignment			11	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Alter Text	https://packagecontrol.io/packages/Alter%20Text			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AMPScript	https://github.com/mmoriar1/AMPScript			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AMPscript Syntax Highlighter	https://github.com/wvpv/ampscript-syntax-highlighter			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	anaconda_go	https://github.com/DamnWidget/anaconda_go			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	anaconda_rust	https://github.com/DamnWidget/anaconda_rust			8	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AndroidImport	https://github.com/ribot/SublimeAndroidImport			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Ansible	https://github.com/clifford-github/sublime-ansible			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ANSIescape	https://github.com/aziz/SublimeANSI			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Ant	https://github.com/xeno-by/sublime-ant			0	1	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	Apex	https://github.com/SublimeText/Apex			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ApplySyntax	https://facelessuser.github.io/ApplySyntax/			16	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ArcticTypescript	https://github.com/Phaiax/ArcticTypescript			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Artisan	https://github.com/Narven/sublime-artisan			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ASCII Decorator	https://github.com/viisual/ASCII-Decorator			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Asciidoctor	https://github.com/asciidoctor/sublimetext-asciidoc			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AssistantAI	https://github.com/kanutron/AssistantAI			8	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Asymptote	https://github.com/noelmurasko/AsymptoteSyntax			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Atomic Color Scheme	https://github.com/gerardbm/atomic			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Atomizr	https://github.com/idleberg/sublime-atomizr			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AutoBackups	https://github.com/akalongman/sublimetext-autobackups			7	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Auto Close Panel	https://github.com/aerobounce/Sublime-AutoClosePanel			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AutoDarkLinux	https://packagecontrol.io/packages/AutoDarkLinux			7	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AutoDocstring	https://github.com/KristoforMaynard/SublimeAutoDocstring			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AutoFileName	https://github.com/liamcain/AutoFileName			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AutoF-Strings	https://github.com/vraneb/AutoF-Strings			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AutoMatlab	https://github.com/asparc/AutoMatlab			6	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AutoPEP8	https://github.com/wistful/SublimeAutoPEP8			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AutoProjects	https://github.com/SublimeText/AutoProjects			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Auto-Spacing	https://github.com/xwartz/auto-spacing			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AVA	https://packagecontrol.io/packages/AVA			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AWS Helper	https://packagecontrol.io/packages/AWS%20Helper			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AWS Lambda	https://github.com/revmischa/sublime-awslambda			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Babel	https://babeljs.io/			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Badges	https://github.com/idleberg/sublime-badges			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Baidu FE Code Style	https://github.com/leeight/Baidu-FE-Code-Style			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Base16 Color Schemes	https://github.com/chriskempson/base16			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Bats	https://github.com/SublimeText/bash-automated-testing-system			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	BBC BASIC Syntax	https://github.com/gerph/sublimetext-bbcbasic-syntax			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	BBCode (NGA)	https://github.com/stone5265/Sublime-BBCode-NGA			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	BeautifyLatex	https://github.com/ketan/BeautifyLatex			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	BetaCode	https://github.com/kugland/Sublime-BetaCode			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	BetterFindBuffer	https://github.com/aziz/BetterFindBuffer			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	BeyondCompare	https://github.com/npadley/BeyondCompare			6	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	BinViewer	https://github.com/AetelFinch/BinViewer			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Bitbucket	https://packagecontrol.io/packages/Bitbucket			6	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Blast Dark	https://github.com/furtidev/blast-dark			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Block Cursor Everywhere	https://github.com/karlhorky/BlockCursorEverywhere			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Blossom Theme	https://github.com/BlossomTheme/Sublime-Text			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Bootstrap 4 Autocomplete	https://github.com/webchun/bootstrap-4-sublime-autocomplete			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	BowerInjector	https://github.com/ismnoiet/BowerInjector			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Breadcrumbs	https://github.com/qbolec/Breadcrumbs			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Browse	https://github.com/hikaruworld/Browse			10	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	BrowserBookmarks	https://github.com/svenfraeys/BrowserBookmarks			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Browser Integration	https://github.com/apiad/sublime-browser-integration			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	BufferScroll	https://github.com/titoBouzout/BufferScroll			5	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	build2	https://github.com/build2-community/build2-sublime-text			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Buildview	https://github.com/rctay/sublime-text-buildview			11	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	BuildX	https://github.com/cj1128/sublime-buildx			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Bullet	https://github.com/erinata/SublimeBullet			9	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Bump	https://github.com/yavorsky/Bump			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Butane	https://github.com/jdoss/sublime-butane			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	C0	https://github.com/mahmoudalismail/SublimeC0			0	1	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	caniuse_local	https://github.com/leecade/caniuse_local			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Carbon Programming Language	https://github.com/RohanVashisht1234/sublime_text_carbon_syntax_highlighter			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Case Conversion	https://github.com/jdavisclark/CaseConversion			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	C++ & C Single File Builder - Minghang Yang	https://github.com/ytlw/C_CppSingleFileBuilder_MinghangYang			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	cdnjs	https://github.com/dafrancis/Sublime-Text--cdnjs			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Ceedling	http://throwtheswitch.org			10	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Cert Tools	https://github.com/Gui13/sublime-certtools			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	C Family Rewrite (C23 and C++23)	https://github.com/camila314/C-Family-Rewrite			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Chains	https://github.com/hc-12/chains			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CheckTypos	https://github.com/vaisaghvt/CheckTypos			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Chef	https://packagecontrol.io/packages/Chef			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ChineseLocalizations	https://github.com/rexdf/ChineseLocalization			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ChoiceScript	https://github.com/fawkesy/choicescript-syntax			8	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Chromeless	https://github.com/ggets/Sublime_Chromeless			7	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ChromeREPL	https://github.com/acarabott/ChromeREPL			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CiscoCollab	https://github.com/tonynupe/CiscoCollab			6	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Clannad Theme	https://github.com/lemorage/sublime-clannad-theme			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ClassName	https://packagecontrol.io/packages/ClassName			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Claudette	https://claudette.dev			3	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Click	https://github.com/drbarrett/click-sublime			59	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CloseGroupAndAppend	https://github.com/davidhcefx/CloseGroupAndAppend			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CMake	https://github.com/zyxar/Sublime-CMakeLists			13	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CMakeBuilder	https://github.com/rwols/CMakeBuilder			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CMakeFormat	https://github.com/jasjuang/sublime_cmake_format			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Cmder	http://salesforcexytools.com/Cmder/			4	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Codechef	https://github.com/prongs/SublimeCodechef			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CoffeeCompile	https://github.com/surjikal/sublime-coffee-compile			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CoffeeScript	https://github.com/SublimeText/CoffeeScript			17	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Coi	https://github.com/SublimeText/Coi			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ColdBox Platform	https://www.coldbox.org			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CollaBroText	https://github.com/shantanu3637/CollaBroText			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Colorcoder	https://github.com/vprimachenko/Sublime-Colorcoder			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ColorConverter	https://github.com/braver/ColorConverter			4	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ColorHints	https://github.com/braver/ColorHints			11	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Colorsublime	https://github.com/Colorsublime/Colorsublime-Plugin			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	COLT	https://github.com/code-orchestra/colt-sublime-plugin			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Column Select	https://github.com/ehuss/Sublime-Column-Select			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CommandsBrowser	https://packagecontrol.io/packages/CommandsBrowser			7	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Comment Marks	https://github.com/maegul/comment_marks			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CompareBuff	https://github.com/nexional/CompareBuff			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Compass	https://github.com/whatwedo/sublime-text-compass			7	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Competitive Programming	https://github.com/egtoney/CompetitiveProgramming			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Competitive Programming Lite	https://packagecontrol.io/packages/Competitive%20Programming%20Lite			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CompetitiveProgrammingParser	https://github.com/codeuniverse101/CompetitiveProgrammingParser			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CompletePHP	https://github.com/desean1625/CompletePHP			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Composer	https://github.com/francodacosta/composer-sublime			13	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Compressor	https://github.com/joernhees/sublime-compressor			6	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Console Exec	https://github.com/joeyespo/sublimetext-console-exec			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Console Wrap	https://github.com/unknownuser88/consolewrap			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Context	https://github.com/shagabutdinov/sublime-context			95	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Continuous Merge	https://github.com/vim-zz/sublime-cm-syntax			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ConvertEpochToDate	https://github.com/nexional/ConvertEpochToDate			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ConvertFullHalfWidth	https://github.com/naoyukik/SublimeConvertFullHalfWidth			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Cool	https://github.com/princjef/sublime-cool-highlighter			0	1	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	Copy as HTML	https://github.com/liulex/CopyAsHtml			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Copy Relative Command	https://github.com/patoui/CopyRelativeCommand			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Copy Relative Path	https://github.com/bpicolo/CopyRelativePath			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Coreboot syntax	https://github.com/coreboot/sublime-text-coreboot-syntax			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Cottle	https://github.com/SublimeText/Cottle			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CP Parser	https://github.com/hritikchaudhary/CPParser			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Crypto	https://github.com/mediaupstream/SublimeText-Crypto			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Crystal	https://github.com/crystal-lang-tools/sublime-crystal			20	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CSharpier	https://github.com/mkonstapel/sublime-text-csharpier-plugin			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CSS3	https://github.com/ryboe/CSS3			10	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CSS Extended Completions	https://github.com/subhaze/CSS-Extended			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Csslisible	https://github.com/thierrylemoulec/Sublime-Csslisible			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CSSOrder	https://github.com/lightningtgc/sublime-cssorder			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CTags	https://github.com/SublimeText/CTags			10	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Cucumber	https://github.com/drewda/cucumber-sublime-bundle			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Cucumber Snippets e Highlight em Inglês	https://github.com/RobertoPegoraro/cucumber-snippets-highlight-english			0	0	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	Cucumber Snippets e Highlight em Português	https://github.com/RobertoPegoraro/cucumber-snippets-highlight-portugues			0	0	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	Custom Buffer Name	https://github.com/kaxing/sublime-custom-buffer-name			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	D2	https://gitlab.com/sotilrac/d2-syntax			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	DailyOrganizer	https://github.com/mremallin/DailyOrganizer			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	DaisyUI Autocomplete	https://github.com/etoundi2nd/daisyui-autocomplete			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Dart	https://github.com/guillermooo/dart-sublime-bundle			16	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	DataConverter	https://github.com/fitnr/SublimeDataConverter			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Date	https://github.com/ololduck/sublimetext-date			30	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Default File Type	https://github.com/spadgos/sublime-DefaultFileType			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Definition Preview	https://github.com/nickav/DefinitionPreview			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Deselect	https://github.com/glutanimate/sublime-deselect			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Devastate	https://github.com/vlakarados/devastate			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Devastate Mode-Z	https://github.com/TheBeardOfTruth/sublime-devastate-mode-z			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Devhelp	https://packagecontrol.io/packages/Devhelp			12	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Diction	https://github.com/GeeF/SublimeDiction			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Dictionary	https://packagecontrol.io/packages/Dictionary			9	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Diffable	https://github.com/yaroslavyaroslav/Diffable			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	DiffTabs	https://github.com/soandrew/DiffTabs			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	dired	https://github.com/kublaios/dired			7	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	DistractionFreeWindow	https://github.com/aziz/DistractionFreeWindow			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Django Manage Commands	https://github.com/vladimirnani/DjangoCommands			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Django Syntax	https://packagecontrol.io/packages/Django Syntax			5	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	DlangAutoImport	https://github.com/vitalfadeev/SublimeDlangAutoImport			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	DocPHPManualer	https://github.com/garveen/docphp			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Done	https://github.com/snehlsen/sublime-done			58	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	DoxyDoc	https://github.com/Rapptz/DoxyDoc			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Earthbound Themes	https://packagecontrol.io/packages/Earthbound%20Themes			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	EasyDiff	http://facelessuser.github.io/EasyDiff/			7	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	EasyMotion	https://github.com/tednaleid/sublime-EasyMotion			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	EditorConfig	https://github.com/sindresorhus/editorconfig-sublime			8	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Edit Preferences	https://github.com/sublimator/EditPreferences			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	EDN	https://github.com/kernelp4nic/sublime-edn			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	EJS	https://github.com/SublimeText/EJS			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ElasticsearchClient	https://github.com/KunihikoKido/sublime-elasticsearch-client			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Elixir	https://elixir-lang.org/			14	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ElixirDocs	https://github.com/reisub/sublime-elixir-docs			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ElixirSublime	https://github.com/vishnevskiy/ElixirSublime			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Eloquence	https://github.com/macMikey/eloquence-sublime-text-syntax			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Emoji	https://packagecontrol.io/packages/Emoji			49	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Emoji Code	https://github.com/idleberg/sublime-emoji-code			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	EncodingHelper	https://github.com/titoBouzout/EncodingHelper			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Enhanced HTML and CFML	https://github.com/Siddley/Enhanced.HTML.CFML			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	EPM	https://github.com/project-douglas/epm-sublime			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ESQL	https://github.com/elastic/esql-syntax			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Ethereum	https://github.com/davidhq/SublimeEthereum			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Eval	https://github.com/ViktorQvarfordt/Sublime-Eval			85	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	exercism	https://github.com/thosgood/STexercism			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Expand and Edit	https://github.com/aafulei/sublime-expand-and-edit			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ExpandCMacro	https://github.com/pl-ca/ExpandCMacro			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ExpandRegion	https://github.com/aronwoost/sublime-expand-region			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ExpandSelectionToComments	https://github.com/timfjord/ExpandSelectionToComments			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Expand Selection to Function (JavaScript)	https://github.com/gillibrand/expand-selection-to-function-js			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Expand Selection to Line Upwards	https://github.com/aafulei/sublime-expand-selection-to-line-upwards			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Expect	https://github.com/mokkabonna/sublime-expect			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Expression	https://github.com/shagabutdinov/sublime-expression			19	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Extend Selection	https://github.com/anly2/sublime-extend-selection			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FabricEngine	https://github.com/stepcg/SublimeFabricEngineSyntax			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FASM x86	https://github.com/HealsCodes/Sublime-FASM-x86			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FASTA	https://github.com/SilentGene/sublime-fasta-syntax			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FastSwitch	https://github.com/papaDoc/FastSwitch			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Fate	https://github.com/kode4food/fate-sublime			11	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FcitxInput	https://github.com/ubuntugege/FcitxInput			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Fennel	https://packagecontrol.io/packages/Fennel			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Figlet Big ASCII Text	https://github.com/adamchainz/SublimeFiglet			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FileBrowser	https://github.com/kaste/SublimeFileBrowser			9	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FileHeader	https://github.com/yann-shi/FileHeader			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	File History	https://github.com/FichteFoll/FileHistory			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FileOpTabContextMenu	https://github.com/sigsergv/SublimeFileOpTabContextMenu			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FileZilla	https://github.com/thecotne/sublime-filezilla			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FileZilla SFTP Import	https://github.com/ment4list/SublimeZilla			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FindKeyConflicts	https://github.com/skuroda/FindKeyConflicts			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Firebase Rules Syntax	https://github.com/jingyuexing/Sublime-Firebase-Syntax			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Flatdata Syntax Highlighting	https://github.com/fermeise/flatdata-sublime-syntax			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Flex	https://github.com/itsgg/Flex-Sublimetext			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FlexIDE	https://github.com/rahulsharmagg/FlexIDE			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Flow	https://github.com/73rhodes/Sublime-Flow			56	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FlowIDE	https://github.com/tptee/FlowIDE			8	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	fluent-logger	https://github.com/airtoxin/fluent-logger-sublimetext			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FlutterEnhancements	https://github.com/90-008/FlutterEnhancements			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Fmt	https://github.com/mitranim/sublime-fmt			9	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Focus	https://github.com/sindresorhus/focus			39	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Folder Aliaser	https://github.com/SublimeText/FolderAliaser			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FoldersSwitch	https://github.com/kitzberger/SublimeFoldersSwitch			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FoldFunctions	https://github.com/math2001/FoldFunctions			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Fold Javascript Functions	https://github.com/LuckyKat/sublime-fold-functions			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Font Size Per View	https://github.com/m-bartlett/SublimeFontSizePerView			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Freedom Colour Scheme	https://github.com/frithrah/freedom-sublime			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FullwidthTabSpaces	https://github.com/woodmix/FullwidthTabSpaces			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Fuse	https://github.com/fuse-open/sublime-plugin			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FuzzyFileNav	https://facelessuser.github.io/FuzzyFileNav/			5	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	FuzzyFilePath	https://github.com/sagold/FuzzyFilePath			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GDScript (Godot Engine)	https://github.com/beefsack/GDScript-sublime			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Gemini	https://packagecontrol.io/packages/Gemini			17	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GeminiCLI	https://gemini.termmate.app			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GenerateUUID	https://github.com/SublimeText/GenerateUUID			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GhostText	https://ghosttext.fregante.com			9	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Ginkgo Completions	https://github.com/onsi/ginkgo-sublime-completions			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Git	https://github.com/kemayo/sublime-text-git			99	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Git badges like VS Code	https://github.com/arxeiss/Sublime-GitBadgesLikeVSCode			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Git Config	https://github.com/robballou/gitconfig-sublimetext			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GitGutter	https://github.com/jisaacks/GitGutter			11	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GitHubIssue	https://github.com/divinites/gissues			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Gitignore	https://github.com/vilhelmen/Sublime-Gitignore			9	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Gitignored File Excluder	https://github.com/ExplodingCabbage/sublime-gitignorer			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Gitignore Extended	https://github.com/Isaac-the-Man/Sublime-Gitignore-Extended			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Gitk	https://www.gerardroche.com			8	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GitlabIntegrate	https://github.com/SnoringFrog/GitlabIntegrate			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GitLink	http://ryan.sc			3	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Git Message Auto Save	https://github.com/franciscolourenco/sublime-git-message-auto-save			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Glue	http://gluedocs.readthedocs.org/			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Gmail	https://github.com/divinites/oauth-mail			18	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GMod Lua	http://www.facepunch.com/threads/1038951			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	gmsh-Tools	https://packagecontrol.io/packages/gmsh-Tools			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Gno	https://github.com/gno-playground/gno-sublime-text			9	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Godef	https://github.com/buaazp/Godef			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Gofmt	https://github.com/noonat/sublime-gofmt			8	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GoGdb	https://github.com/centny/GoGdb			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Golang Tools Integration	https://github.com/liuhewei/gotools-sublime			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GoOracle	https://github.com/waigani/GoOracle			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GoToAnchor	https://github.com/eecolella/GoToAnchor			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GoToClass	https://github.com/vovayatsyuk/GoToClass			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GotoDefinitionSplit	https://www.gerardroche.com			4	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GotoEndOfLineOrScope	https://github.com/SublimeText/GoToEndOfLineOrScope			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GoTools	https://github.com/ironcladlou/GoTools			9	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Goto Related	https://github.com/schreifels/sublime-goto-related			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Gourmet	https://github.com/gourmet/sublime			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GPG	https://github.com/dmitrievav/sublime_gpg			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GrADS	https://github.com/fox91/GrADS-Sublime-syntax			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Grammalecte	https://github.com/autoiue/GrammalecteST3			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GraphQL	https://github.com/dncrews/GraphQL-SublimeText3			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	GraphQL Playground	https://github.com/kapitanluffy/sublime-graphql-playground			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Gremlins	https://github.com/redoPop/SublimeGremlins			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Gruvbox Material Theme	https://github.com/karimlevallois/gruvbox-material-sublime-text			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Gutter Color	https://github.com/ggordan/GutterColor			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Hacklang	https://github.com/albertxing/sublime-hacklang			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Hansl-Gretl-Language	https://github.com/atecon/Hansl-Gretl-Language			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	HaoGist	https://github.com/xjsender/HaoGist			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	haoide	https://github.com/xjsender/haoide			13	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Haskell HSX	https://github.com/digitallyinduced/sublime-text-hsx			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Hayaku - tools for writing CSS faster	https://github.com/hayaku/hayaku			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	HDL_Automation	https://github.com/ToTamire/HDL_Automation			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Helium	https://github.com/SublimeText/Helium			9	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Hexa	https://packagecontrol.io/packages/Hexa			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	HgCommitMsg	https://github.com/tylorr/HgCommitMsg			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Highlight	https://github.com/n1k0/SublimeHighlight			61	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Highlighter	https://github.com/bluegray/Highlighter			16	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Highlight Token	https://github.com/cepthomas/SbotHighlight			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Hipster	https://packagecontrol.io/packages/Hipster			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Hipster Ipsum	https://github.com/phyllisstein/HipsterIpsum			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	HL7	https://github.com/craighurley/sublime-hl7-syntax			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Hog	https://github.com/Hog-CERN/HogSublime			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	HoogleSearch	https://github.com/s4wny/HoogleSearch			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Hope	https://github.com/Kikobeats/Hope-Snippets			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Hosts	https://packagecontrol.io/packages/Hosts			15	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Hotspots	https://github.com/x0th/hotspots			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Hover Locales	https://github.com/alvesjtiago/hover-locales			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	HTML2Text	https://github.com/jaredmoody/sublime_html_to_text			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	HTML5	https://github.com/mrmartineau/HTML5			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	HTMLBeautify	https://github.com/rareyman/HTMLBeautify			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	HTML-CSS-JS Prettify	https://github.com/victorporof/Sublime-HTMLPrettify			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	HTML Minifier	https://github.com/geekpradd/sublime-html5-minifier			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Http Requester	https://github.com/braindamageinc/SublimeHttpRequester			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Hugofy	https://github.com/akmittal/Hugofy-sublime			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	HyperClick	https://github.com/aziz/SublimeHyperClick			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Hyperscript	https://packagecontrol.io/packages/Hyperscript			5	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	HypnotoadSVN	https://github.com/m-hall/HypnotoadSVN			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Icon Fonts (Legacy)	https://github.com/idleberg/sublime-icon-fonts-legacy			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Image Link Insertion	https://github.com/jtojnar/sublime-image-link-insertion			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ImageMagick	https://github.com/Kentzo/SublimeMagick			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ImagePaste	https://github.com/robinchenyu/imagepaste			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ImagePreview	https://github.com/alvesjtiago/hover-preview			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ImportFileNames	https://github.com/felixcatto/ImportFileNames			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ImprovedMacros	https://github.com/skuroda/ImprovedMacros			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	InactivePanes	https://github.com/SublimeText/InactivePanes			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Inc-Dec-Value	https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Incomprehensible Ex	https://github.com/barretov/Incomprehensible-ex			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Increment Decrement	https://packagecontrol.io/packages/Increment%20Decrement			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Incrementor	https://github.com/eBookArchitects/Incrementor			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Indent Size	https://github.com/socsieng/sublime-indent-size			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Inline Fold	https://github.com/predragnikolic/InlineFold			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	InputArgs	https://github.com/bilalba/InputArgs			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	InQlik-Tools	https://github.com/inqlik/inqlik-tools			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	InsertDate	https://github.com/FichteFoll/InsertDate			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Insert Nums	https://github.com/SublimeText/InsertNums			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	INTENS Language	https://packagecontrol.io/packages/INTENS%20Language			3	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Interpol	https://github.com/kode4food/interpol-sublime			0	1	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	iOpener	https://github.com/rosshemsley/iOpener			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	iOS build system	https://github.com/Swift-Next/iOS-build-sublime			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Ipynb Preview as Markdown	https://github.com/valentinbarral/IpynbPreviewAsMarkdown			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	IPython Notebook	https://github.com/maximsch2/SublimeIPythonNotebook			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	IRC	https://github.com/markbirbeck/sublime-text-irc			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Issues	http://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095			542	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ITDCHelper	https://github.com/itdc/sublimetext-itdchelper			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Jade	https://github.com/davidrios/jade-tmbundle			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	JaiTools	https://github.com/RobinWragg/JaiTools			4	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	JamfLog	https://github.com/jorks/sublime-jamflog			13	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Janet	https://github.com/archydragon/sublime-janet			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	JapanWordStop	https://github.com/woodmix/JapanWordStop			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Jasmine JS	https://github.com/nicosantangelo/sublime-jasmine			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Javascript Beautify	https://github.com/enginespot/js-beautify-sublime			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	JavaScript Completions	https://github.com/pichillilorenzo/JavaScript-Completions			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	JavaScriptExtractFunction	https://github.com/tricinel/JavascriptExtractFunction			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Jenkinsfile	https://github.com/june07/sublime-jenkinsfile			10	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Jest	https://github.com/nicosantangelo/sublime-jest			7	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Jester	https://github.com/absszero/Jester			6	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Jinja2	https://packagecontrol.io/packages/Jinja2			18	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Jira	https://github.com/mix86/SublimeJira			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Jq	https://gitlab.com/jiehong/sublime_jq			22	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	JQ Syntax	https://github.com/zogwarg/SublimeJQ			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	JSCS-Formatter	https://github.com/elicwhite/SublimeJSCSFormatter			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	JSCustom	https://github.com/Thom1729/Sublime-JS-Custom			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	JsDebuggr	https://github.com/rDr4g0n/JsDebuggr			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	JSHint Gutter	https://github.com/victorporof/Sublime-JSHint			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	JSON2Apex	https://github.com/nchursin/json2apex			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	JSONComma	https://github.com/jsoncomma/sublime-jsoncomma			7	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	JSON Key-Value	https://github.com/aurule/json-kv			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	JS Snippets	https://github.com/RadLikeWhoa/JS-Snippets			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	JS Template String Converter	https://github.com/predragnikolic/JS-Template-String-Converter			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Julia	https://github.com/JuliaEditorSupport/Julia-sublime			14	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Jump Along Indent	https://github.com/mwean/sublime_jump_along_indent			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	JWT Decode	https://github.com/Xiangjiaox/jwt-sublime-text			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Kamailio Config	https://github.com/igorolhovskiy/kamailio-sublime			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	kdesrc-build	https://github.com/ratijas/kdesrc-build-sublime			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Kick Assembler (C64)	https://github.com/Swoffa/SublimeKickAssemblerC64			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Kite Python Autocomplete	https://github.com/kiteco/KiteSublime			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	klog	https://packagecontrol.io/packages/klog			3	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Kotlin	https://github.com/guille/sublime-kotlin			20	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	KSP (Kontakt Script Processor)	https://github.com/nojanath/SublimeKSP			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Kulture	https://github.com/OmniSharp/Kulture			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Language - Mongolian	https://bataak.github.io/dict-mn/			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Laravel Blade AutoComplete	https://github.com/ahmedash95/sublime-laravel-blade-autocomplete			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Laravel Filament	https://packagecontrol.io/packages/Laravel%20Filament			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Laravel Goto	https://github.com/absszero/LaravelGoto			2	3	2	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Latest Migration	https://packagecontrol.io/packages/Latest%20Migration			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LaTeXSmartQuotes	https://github.com/r-stein/sublime-text-latex-smart-quotes			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Launch	https://github.com/zinefer/sublime-launch			15	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Layout	https://github.com/loggerhead/Layout			41	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Leaf	https://github.com/usagizmo/sublime-language-leaf			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LedgerTools	https://github.com/etienne-monier/LedgerTools			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Less	https://github.com/SublimeText/Less			24	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Less2Css	https://github.com/timdouglas/sublime-less2css			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	lessc	https://github.com/Shimmi/Lessc-Sublime			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Levels	https://github.com/mazurov/sublime-levels			7	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Libsass Build	https://github.com/blitzrk/sublime_libsass			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Lightning	https://github.com/dcarroll/sublime-lightning			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LightSearch	https://github.com/prokopchukdim/light-search			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LikeGit	https://github.com/poucotm/LikeGit			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Linguist Syntax	https://github.com/hronro/sublime-linguist-syntax			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Liquid	https://github.com/SublimeText/Liquid			9	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LiveReloadMake	https://github.com/alepez/LiveReloadMake-sublimetext3			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LiveServer	https://github.com/molnarmark/sublime-live-server			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LLM	https://github.com/tonylchang/sublime-llm			28	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Localpod	https://github.com/ijoyc/Localpod			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LogbackJsonLogViewer	https://github.com/neno--/LogbackJsonLogViewer			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Log Highlight	https://github.com/poucotm/Log-Highlight			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LOVELY2D	https://github.com/kevinfiol/LOVELY2D			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LPrint	https://github.com/mbr/LPrint			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSL	https://github.com/Makopo/sublime-text-lsl			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LuaFormat	https://github.com/floydawong/LuaFormat			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ludik	https://github.com/jonny64/ludik			8	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Lumi	https://github.com/smadeja/lumi			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	MagicComment	https://packagecontrol.io/packages/MagicComment			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	MagicPython	https://github.com/MagicStack/MagicPython			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Make Bookmarklet	https://github.com/gillibrand/MakeBookmarklet			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	MarkdownAssistant	https://packagecontrol.io/packages/MarkdownAssistant			4	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Markdown HTML Preview	https://github.com/zeyon/MarkdownHtmlPreview			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Markdown Images	https://github.com/xsleonard/sublime-MarkdownImages			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Markdown Nav	https://github.com/noahcoad/SublimeMarkdownNav			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	MarkdownPreview	https://facelessuser.github.io/MarkdownPreview/			3	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	MarkdownPreviewEnhanced	https://github.com/CaffeineOddity/MarkdownPreviewEnhanced			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Markdown Table Creator	https://github.com/yusufb/MarkdownTableCreator#markdown-table-creator			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Markdown Table Formatter	https://github.com/bitwiser73/MarkdownTableFormatter			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Markdown Table of Contents	https://github.com/codeleventh/mdtoc			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	MarkdownWriter	https://github.com/vanleo2001/MarkdownWriter			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	MarkLogic	https://github.com/paxtonhare/MarkLogic-Sublime			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Markmon real-time markdown preview	https://github.com/yyjhao/sublime-text-markmon			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Marshal Command Code	https://github.com/nlipiarski/MCC			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Mask	https://github.com/tenbits/sublime-mask			0	1	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	Match	https://github.com/li-vu/st-match			116	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Materialize	https://packagecontrol.io/packages/Materialize			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Material Theme	https://github.com/SublimeText/material-theme			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	MayaSublime	https://github.com/justinfx/MayaSublime			7	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	MCNP	https://github.com/SublimeText/MCNP			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	MCP Commander	https://github.com/dpc00/sublime-mcp			5	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Mediawiker	https://github.com/tosher/Mediawiker			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Mercurial	https://github.com/guillermooo/Mercurial			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Merlin	https://github.com/cynddl/sublime-text-merlin			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	MessagesPylint	https://github.com/KristoforMaynard/SublimeMessagesPylint			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	MessagesSublemake	https://github.com/KristoforMaynard/SublimeMessagesSublemake			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Method	https://github.com/shagabutdinov/sublime-method			58	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Mindustry Assembly	https://github.com/gigamicro/Mindustry4Sublime			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Minify	https://github.com/tssajo/Minify			13	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Minteresting	https://github.com/daytonn/Minteresting			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	MJML-syntax	https://packagecontrol.io/packages/MJML-syntax			3	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Modelines	https://github.com/SublimeText/Modelines			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ModernFortran	https://github.com/eirik-kjonstad/modern-fortran-syntax			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Modific	https://github.com/gornostal/Modific			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Moonlight	https://github.com/mauroreisvieira/moonlight-sublime-theme			7	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	MoveTab	https://github.com/SublimeText/MoveTab			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Mplus	https://github.com/bkeller2/Mplus			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	MrIgor	https://github.com/tisto/MrIgor			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Mustache	https://github.com/SublimeText/Mustache			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	MySFTP	https://github.com/icjmaa/MySFTP			5	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Nano Bots	https://packagecontrol.io/packages/Nano%20Bots			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Naomi	https://github.com/borela/naomi			15	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Nelua	https://github.com/edubart/nelua-sublime			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	NeoVintageous	https://neovintageous.github.io			15	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	NeoVintageousHighlightLine	https://www.gerardroche.com			5	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	NeoVintageousLineNumbers	https://www.gerardroche.com			8	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	NeoVintageousToggle	https://github.com/NeoVintageous/NeoVintageousToggle			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Nim	https://github.com/nim-lang/NimLime			25	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	NimPlus	https://github.com/vanyle/NimPlus			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Ninja	https://github.com/pope/SublimeNinja			0	1	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	NodeRequirer	https://github.com/ganemone/NodeRequirer			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Norber Theme	https://github.com/mortalis13/Norber-Theme-Sublime			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Notepad++ Color Scheme	https://github.com/evandrocoan/NotepadPlusPlusColorScheme			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Notes	https://github.com/tbh1/sublime-notes			49	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Notifications	https://github.com/thomscode/Notifications			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	NukeToolsST	https://packagecontrol.io/packages/NukeToolsST			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Nushell	https://github.com/stevenxxiu/sublime_text_nushell			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	NX Sublime Coverage	https://github.com/raynode/NXSublimeCoverage			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Occur	https://github.com/dreki/sublime-occur			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Octo	https://github.com/mattmikolay/octo-sublime			7	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	October Twig Highlighter	https://github.com/daftspunk/october-twig			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Odin	https://github.com/odin-lang/sublime-odin			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Okami – Adaptive Color Schemes	https://github.com/Rayraegah/okami			0	0	0	False	no-record
+audit_list_2026_10_27_gap2.tsv	Old-Style ASCII Property Lists	https://github.com/p4t5h3/ascii-property-lists-for-sublime-text			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	OmniSharp	http://omnisharp-sublime.readthedocs.org/en/latest/			3	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	On Save	https://github.com/wl879/SublimeOnSave			14	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Open	https://github.com/danielfrg/sublime-open			531	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	OpenCL	https://github.com/kbenzie/Sublime-OpenCL			0	1	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	Open DOI	https://packagecontrol.io/packages/Open%20DOI			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	OpenFileOverSSH	https://github.com/AncientRoman/SublimeOpenFileOverSSH			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	OpenGL Shading Language (GLSL)	https://github.com/euler0/sublime-glsl			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Open In Browser	https://packagecontrol.io/packages/Open%20In%20Browser			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Open in Default Application	https://github.com/SublimeText/OpenDefaultApplication			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	OpenVPN	https://github.com/idleberg/sublime-openvpn			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Open With	https://github.com/j-martin/open-with-sublime			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	OpenWrt	https://github.com/xyu/sublime-openwrt			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Oracle	https://github.com/Thom1729/sublime-oracle			9	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	OrgExtended	https://github.com/ihdavids/orgextended			7	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Origami	https://github.com/SublimeText/Origami			8	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Outline	https://github.com/warmdev/SublimeOutline			20	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Outline Notes Publisher	https://github.com/gnat/sublime-outline-notes-publisher			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Oz	https://github.com/mozart/sublime-oz			0	1	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	Package Control	https://packagecontrol.io			293	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Package Coverage	https://github.com/codexns/package_coverage			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PackagesUI	https://github.com/unknownuser88/PackagesUI			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Packed	https://duraki.github.io/sublime-packed			20	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Pad	https://github.com/mborgerson/Pad			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Padawan (PHP completion)	https://github.com/padawan-php/padawan.sublime			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Pandown	https://github.com/phyllisstein/Pandown			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	paredit	https://github.com/odyssomay/paredit			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Parinfer	https://github.com/oakmac/sublime-text-parinfer			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Pass Manager	https://github.com/degami/PassManager			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Paste As Column	https://github.com/TheClams/PasteAsColumn			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Paste Plus	https://github.com/ggets/Sublime_PastePlus			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Patch Apply	https://github.com/kkujawinski/sublime-text-3-patch-apply			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PathBox	https://github.com/budlime/PathBox			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Pawn syntax	https://github.com/Southclaws/pawn-sublime-language			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PerlSubs	https://github.com/shmuelfomberg/Sublime-Text-Perl-Subs			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PersistentRegexHighlight	https://github.com/skuroda/PersistentRegexHighlight			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Phpactor	https://github.com/tkotosz/sublime-phpactor-plugin			7	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PHP Companion	https://github.com/erichard/SublimePHPCompanion			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PHP Completions Kit	https://www.gerardroche.com			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Phpcs	https://github.com/benmatselby/sublime-phpcs			9	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PHP CS Fixer	https://github.com/adael/SublimePhpCsFixer			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PHP Snippets	https://github.com/Mombuyish/sublime-fast-snippets-with-php			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PHPUnit	https://github.com/stuartherbert/sublime-phpunit			12	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PHPUnit Completions	https://github.com/tkowalewski/phpunit-sublime-completions			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Pieces	https://pieces.app/			11	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Pine	https://www.gerardroche.com			5	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Piranha	https://github.com/Kostasn2/piranha-syntax-highlighting-package			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PKGBUILD	https://github.com/git-commit/pkgbuild-st3			12	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Pkl (Pickle)	https://pkl-lang.org/main/current/language-reference/index.html			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Placeholders	https://github.com/mrmartineau/Placeholders			8	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PLI10	https://github.com/Kostasn2/pli10_eap-syntax-highlighting-package			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Polar	https://github.com/edaniels/sublime-polar			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Pony Language	https://github.com/ponylang/sublime-pony			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PowerShell	https://github.com/SublimeText/PowerShell			27	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Praia	https://github.com/praia-lang/praia-sublime			7	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PreTeXtual	https://github.com/daverosoff/PreTeXtual			7	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Pretty EDN	https://github.com/oakmac/sublime-pretty-edn			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Pretty Lua	https://github.com/aerobounce/Sublime-Pretty-Lua			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Pretty Protobuf	https://github.com/hanfezh/pretty-protobuf			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Pretty Shell	https://github.com/aerobounce/Sublime-Pretty-Shell			4	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Prisma	https://packagecontrol.io/packages/Prisma			6	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Programmatic Key Bindings	https://github.com/VonHeikemen/sublime-pro-key-bindings			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Project And Workspace Management	https://github.com/kyoobey/ProjectAndWorkspaceManagement			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Projectionist	https://github.com/timfjord/Projectionist			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Project PHP ClassBrowser	https://github.com/degami/ProjectPHPClassBrowser			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Project Planner	https://github.com/pedrokost/STProjectPlanner			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PRQL	https://github.com/PRQL/sublime-prql			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PSS	https://github.com/blutsvente/PSS-DSL-syntax			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Pug	https://github.com/davidrios/pug-tmbundle			19	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PureBasic	https://github.com/p4t5h3/purebasic-language-for-sublime-text			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PureScript	https://github.com/b123400/purescript-ide-sublime			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PyTest	https://github.com/kaste/PyTest			16	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Python 3	https://github.com/petervaro/python			142	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Python Flake8 Lint	https://github.com/dreadatour/Flake8Lint			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	q KDB	https://github.com/komsit37/sublime-q			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	QML	https://github.com/SublimeText/QML			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Quarto	https://github.com/quarto-dev/quarto-sublime			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Quickfix List	https://packagecontrol.io/packages/Quickfix%20List			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	QuickRails	https://github.com/danpe/QuickRails			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	QuickSimplenote	https://github.com/sickmartian/quick_simplenote			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	QuickTemplate (Go)	https://github.com/SharanSharathi/sublime_qtpl			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	RailsGoToSpec	https://github.com/sporto/rails-go-to-spec-sublime			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Rails Partial	https://github.com/wesf90/rails-partial			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Rake	https://github.com/SublimeText/Rake			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	RAML Syntax Highlighter	https://sublime.wbond.net/packages/RAML%20Syntax%20Highlighter			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	RAScript	https://github.com/joshraphael/sublime-rascript			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	raylang	https://github.com/ray-language/sublime-raylang			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Reason	https://github.com/reasonml-editor/sublime-reason			11	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ReaSyntax	https://github.com/Breeder/ReaSyntax			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	REBOL	https://github.com/Oldes/Sublime-Rebol			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	RedEye	https://github.com/mattmag/RedEye			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	REG	https://github.com/robertcollier4/REG			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Regex Escape	https://github.com/Jonnymcc/sublime_regex_escape			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ReIndent	https://github.com/kamilkp/Sublime-Text-ReIndent			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	RemoteDiff-BCompare	https://github.com/Rain7232/RemoteDiff-BCompare			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	RemoteEdit	https://github.com/sligodave/sublime_remote_edit			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	RemoteTree	https://github.com/denull/RemoteTree			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	RemoveComments	https://github.com/junliu-lab/RemoveComments			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	RemoveDuplicateLines	https://github.com/ilyakam/RemoveDuplicateLines			4	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	RemoveGreekAccents	https://github.com/kyrpas/SublimeRemoveGreekAccents			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Render Tree	https://github.com/cpeccei/RenderTree			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Renpy Language	https://github.com/koroshiya/Sublime-Renpy			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Request	https://github.com/twolfson/sublime-request			80	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Requester	https://kylebebak.github.io/Requester/			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Restart	https://github.com/yedderson/SublimeRestart			186	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	RESTer HTTP Client	https://github.com/pjdietz/rester-sublime-http-client			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Restructured Text (RST) Snippets	https://github.com/mgaitan/sublime-rst-completion			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Rmate	https://github.com/gja/sublime-rmate			8	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Rome Formatter	https://github.com/marekpiechut/sublime-rome-formatter			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ROS msg syntax highlight	https://github.com/Binpord/sublime-rosmsg			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	RPM Spec Syntax	https://github.com/dreadatour/RPMSpec			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	RSpec	https://github.com/SublimeText/RSpec			6	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	rsub	https://github.com/henrikpersson/rsub			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	RSync	https://github.com/gcarvalho/RSync			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Rsync SSH	https://github.com/davidolrik/sublime-rsync-ssh			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	RubocopDaemon	https://github.com/Lichtbit/sublime_rubocop_daemon			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Rubycritic	https://github.com/pedrocarmona/SublimeRubycritic			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Run	https://github.com/glorieux/Run			579	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	RustFmt	https://github.com/mitranim/sublime-rust-fmt			4	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Salesforce Reference	https://github.com/Oblongmana/sublime-salesforce-reference			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SassBeautify	https://github.com/badsyntax/SassBeautify			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SassSolution	https://github.com/ahmedam55/SassSolution			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Save All New Tabs to One File	https://github.com/Thamulabs/SaveAllNewTabsInOneDocument			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Save Copy As	https://github.com/NickHatBoecker/SaveCopyAs			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Scarpet	https://github.com/lucifiel1618/SublimeScarpetSyntax			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Scenic	https://github.com/UCSCFormalMethods/Scenic-tmLanguage			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ScopeHunter	https://facelessuser.github.io/ScopeHunter/			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Scratch	https://github.com/jschonberg/Scratch			92	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Scratchpad	https://github.com/ianunay/sublime_scratchpad			44	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ScrollToCursor	https://github.com/SelimJB/ScrollToCursor			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Search in Project	https://github.com/deese/SearchInProject_SublimeText			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Semantic Highlighter	https://github.com/kapitanluffy/sublime-semantic-highlighter			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Semi	https://github.com/yyx990803/semi-sublime			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Semicolon	https://github.com/shagabutdinov/sublime-semicolon			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Send to 3ds Max	https://github.com/cb109/sublime3dsmax			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Session Manager	https://github.com/sascha-wolf/sublime-SessionManager			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Show Character Code	https://github.com/borislubimov/ShowCharacterCode			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ShowTexdoc	https://github.com/CareF/Show-Texdoc			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Show Unicode Name	https://github.com/ned-martin/sublime-text-show-unicode-name			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SideBarGit	https://github.com/titoBouzout/SideBarGit			6	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SideBarMenuAdvanced	https://github.com/wisdman/SideBarMenuAdvanced			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Simple FTP Deploy	https://packagecontrol.io/packages/Simple%20FTP%20Deploy			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Simple Fuzzy	https://github.com/ukyouz/SublimeText-SimpleFuzzy			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Simplenote	https://github.com/RedAtman/simplenote			7	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Simple Print Function	https://github.com/svenax/SublimePrint			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Six	http://www.sublimesix.com			24	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Skins	https://github.com/deathaxe/sublime-skins			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Slack	http://simionbaws.ro/sublime-text-3-slack-integration-plugin/			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Slate	https://github.com/kvs/ST2Slate			0	1	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	Slice	https://github.com/zeroc-ice/sublime-slice			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Slyblime	https://github.com/s-clerc/slyblime			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Smali	https://github.com/QuinnWilton/sublime-smali			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Smart Indent	https://github.com/YKZDY/SmartIndent-sublime			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SmartMarkdown	https://github.com/demon386/SmartMarkdown			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Smarty	https://github.com/amitsnyderman/sublime-smarty			8	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SmojSubmit	https://github.com/YanWQ-monad/SmojSubmit			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SmPL (Coccinelle)	https://github.com/jtojnar/Sublime-SmPL-Syntax			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Snappy	https://github.com/chenditc/sublime-snappy			12	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SnippetMaker	https://github.com/jugyo/SublimeSnippetMaker			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Sophia	https://github.com/aeternity/sublime-sophia			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SortBy	https://github.com/Doi9t/SortBy			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Sort Lines (Numerically)	https://github.com/alimony/sublime-sort-numerically			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SortTabs	https://github.com/bizoo/SortTabs			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Sound	https://github.com/airtoxin/Sublime-Sound			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SourcePawn Completions	https://github.com/ppalex7/SourcePawnCompletions			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Spreadsheet Formula	https://github.com/axemonk/Spreadsheet-Formula			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SQLPlus	https://github.com/bofm/sublime_sqlplus			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SQLTools	https://code.mteixeira.dev/SublimeText-SQLTools/			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Squiggle	https://github.com/squiggle-lang/squiggle-sublime			0	1	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	Squirrel	https://github.com/Enduriel/Sublime-Squirrel			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SRT	https://github.com/SalGnt/Sublime-SRT			0	1	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	StandardFormat	https://packagecontrol.io/packages/StandardFormat			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Starlark	https://github.com/Vasfed/sublime_starlark			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	StataEditor	https://github.com/mattiasnordin/StataEditor			7	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Statement	https://github.com/shagabutdinov/sublime-statement			9	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Status Bar Clock	https://github.com/lukstep/StatusBarClock			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Status Bar JsonPath	https://github.com/akirk/StatusBarJsonPath			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	StGitlab	https://github.com/tosher/StGitlab			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	StickySearch	https://github.com/vim-zz/StickySearch			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Streamlit	https://packagecontrol.io/packages/Streamlit			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Stringify	https://github.com/BurnerPat/sublimetext-stringify			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Strings Resource File	https://github.com/p4t5h3/strings-resource-file-language-for-sublime-text			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	StringUtilities	https://github.com/akalongman/sublimetext-stringutilities			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Structurizr DSL	https://github.com/agehrke/structurizr-syntax			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Subclim	https://github.com/JulianEberius/Subclim			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Sublimall	https://github.com/toxinu/Sublimall			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeAnarchy	https://github.com/AnarchyTools/SublimeAnarchy			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeAnarchyDebug	https://github.com/AnarchyTools/SublimeAnarchyDebug			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Sublime Bookmarks	https://github.com/bollu/sublimeBookmark			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeGDB	https://github.com/quarnster/SublimeGDB			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeGit	https://sublimegit.readthedocs.io			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	sublime-github	https://github.com/bgreenlee/sublime-github			4	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Sublime Input	https://github.com/mavidser/SublimeInput			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter Inline Errors	https://github.com/alexkuz/SublimeLinter-inline-errors			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimePeek	https://github.com/jlegewie/SublimePeek			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimePythonIDE	https://github.com/JulianEberius/SublimePythonIDE			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Sublime Tutor	https://sublimetutor.com			3	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeXiki	https://github.com/lunixbochs/SublimeXiki			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SubNotify	http://facelessuser.github.io/SubNotify/			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	subversion_for_sublime_txt3	https://github.com/xiewandongqq/subversion_for_sublime_txt3			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Summary	https://github.com/geekpradd/Summary-Sublime			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Super Templates	https://github.com/WiseLibs/super-templates-syntax			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SVGO	https://packagecontrol.io/packages/SVGO			5	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SVG Viewer	https://packagecontrol.io/packages/SVG Viewer			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Swift	https://github.com/quiqueg/Swift-Sublime-Package			37	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Swift Autocomplete	https://github.com/Dan2552/SublimeTextSwiftAutocomplete			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Swift Format	https://github.com/aerobounce/Sublime-Swift-Format			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Swift Next	https://github.com/Swift-Next/Swift-Next			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SymbolBalloon	https://github.com/matsukido/SymbolBalloon			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Syncrow	https://github.com/Afzal7/syncrow			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Synesthesia	https://github.com/dariusf/synesthesia			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SystemRDL	https://github.com/deanMaker/sublime-language-systemrdl			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Tab Filter	https://github.com/robinmalburn/sublime-tabfilter			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Table of comments	https://github.com/kizza/Table-of-comments			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Tabnine	https://www.tabnine.com/install/sublime			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	TabsExtra	https://facelessuser.github.io/TabsExtra/			3	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Tact	https://tact-lang.org			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Tag	https://github.com/titoBouzout/Tag			110	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Tailwind CSS	https://github.com/SublimeText/TailwindCSS			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Tailwind CSS Autocomplete	https://packagecontrol.io/packages/Tailwind%20CSS%20Autocomplete			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Tailwind Reorder	https://github.com/54nd10/Tailwind-reorder			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Task	http://blog.samsonis.me/2012/02/introducing-sublimetask-gtd/			41	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Template Tag	https://github.com/ijlee2/sublime-syntax-definition-template-tag			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Templ (go)	https://github.com/papierkorp/sublime-templ			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Tensorflow	https://github.com/baptisteArno/Sublime-Tensorflow			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Terminal	https://packagecontrol.io/packages/Terminal			41	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	TerminalView	https://github.com/Wramberg/TerminalView			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	TermMate	https://termmate.app/sublime/			7	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	TernJS	https://github.com/emmetio/sublime-tern			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Terrafmt	https://github.com/p3lim/sublime-terrafmt			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Test	https://www.gerardroche.com			854	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Test Double	https://github.com/testdouble/sublime-test-double			0	1	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	TestRSpec	https://github.com/astrauka/TestRSpec			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Test Runner	https://github.com/accerqueira/sublime-test-runner			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	TextCommands	https://github.com/chaosphere2112/TextCommands			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Text Highlighter	https://github.com/kdnk/sublime_text_highlighter			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Text Marker	https://github.com/Kronuz/TextMarker			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	textract	https://github.com/germtb/textract			0	1	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	Theme - El Capitan	https://github.com/iccir/El-Capitan-Theme			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Theme - Monokai	https://github.com/joshuahiggins/sublime-text-monokai			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ThemeScheduler	http://facelessuser.github.io/ThemeScheduler/			3	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Themr	https://github.com/benweier/Themr			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	TicketMaster	https://github.com/amit-bansil/TicketMaster			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	TimeNotify	https://github.com/halfmoonvic/TimeNotify			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Timestamp converter	https://github.com/Zlitus/sublime-text-timestamp			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Tint Terminal	https://github.com/joshgoebel/sublime-tint-terminal			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Tips	https://github.com/kapitanluffy/sublime-tips			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	tmux	https://github.com/huntie/sublime-tmux			11	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Todo	https://github.com/nijikokun/todo-tmbundle			26	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	TodoTxt	https://packagecontrol.io/packages/TodoTxt			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Toggle Dark Mode	https://github.com/ElMassimo/sublime-toggle-dark-mode			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Toggle Sidebar Focus	https://github.com/educbraga/ToggleSidebarFocus			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Toggle Words	https://github.com/gordio/ToggleWords			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	TOML	https://github.com/jasonwilliams/sublime_toml_highlighting			22	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	TooltipLSL	https://github.com/Makopo/sublime-text-tooltip-lsl			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	tQuery	https://github.com/jeromeetienne/tquery-sublime			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Translate	https://github.com/standfast/Translate			10	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Trello	https://github.com/nicosantangelo/sublime-text-trello			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Troubleshooting	https://github.com/guillermooo/sublime-troubleshooting			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	TSQLEasy	https://github.com/tosher/TSQLEasy			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Tup	https://github.com/petervaro/tup			0	1	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	Twig	https://packagecontrol.io/packages/Twig			11	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	TwilightBright	https://github.com/sepisoad/sublime-twilight-bright-color			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	TypeScript	https://typescriptlang.org			22	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	TypoScript	https://github.com/DanielSiepmann/Sublime-Text-TypoScript			0	1	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	UbuntuPaste	https://github.com/3v1n0/UbuntuPaste			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	UL4	https://github.com/LivingLogic/LivingLogic.SublimeText.UL4			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Ultimate Dark	https://github.com/rubjo/ultimate-dark			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Ultimate Dark Neo	https://github.com/rubjo/ultimate-dark-neo			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Umajin	https://github.com/Umajin/SublimeText-Umajin			10	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	UnicodeMath	https://github.com/mvoidex/UnicodeMath			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Unicon	https://github.com/tajmone/Sublime-Unicon			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Unity Test Completions	https://github.com/pajacobson/unity_test_completions			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Unquote	https://github.com/mradamh/sublime-unquote			0	1	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	UnrealScriptIDE	https://github.com/Zinggi/UnrealScriptIDE			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	UrlConverter	https://packagecontrol.io/packages/UrlConverter			4	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	uroboroSQL Formatter	https://github.com/future-architect/Sublime-uroboroSQL-formatter			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	USFOS	https://github.com/ckunte/usfos_st			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	UVMLog	https://github.com/UVMLog/UVMLog			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	UWSC	https://github.com/stuncloud/Sublime_UWSC			6	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Vagrant	https://github.com/Stubbs/sublime-vagrant			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Vala	https://github.com/colinkiama/vala_sublime_text			11	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Vale	https://packagecontrol.io/packages/Vale			14	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	VAlign	https://github.com/jarod2d/sublime_valign			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	VCS Gutter	https://github.com/bradsokol/VcsGutter			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Veeam Logs Helper	https://github.com/yandexx/VeeamLogsHelper			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Ver	https://github.com/nyx-platform/ver-tmbundle			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Verbose	https://github.com/Starli0n/SublimeVerbose			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Verilog	https://github.com/pro711/sublime-verilog			23	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	VHDL	https://github.com/yangsu/sublime-vhdl			13	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	VHDL Mode	https://github.com/Remillard/VHDL-Mode			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	VimL	https://packagecontrol.io/packages/VimL			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	VintageES	http://www.sublimetext.com/docs/3/vintage.html			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Vintage Escape	https://github.com/tonymagro/VintageEscape			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Vintageous	http://guillermooo.bitbucket.org/Vintageous/			7	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	VintageousOrigami	https://github.com/rodcloutier/Vintageous-Origami			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Vintage Relative Lines	https://github.com/bicarlsen/vintage_relnums			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Virtualenv	https://github.com/AdrianLC/sublime-text-virtualenv			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	VPC Script	https://github.com/GitSparTV/VPCSyntaxHighlighting			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Vue	https://github.com/SublimeText/Vue			31	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	WASM Interface Type	https://github.com/SublimeText/WasmInterfaceType			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	webAgent	https://packagecontrol.io/packages/webAgent			8	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	WebIDL	https://github.com/queengooborg/WebIDL-Sublime			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	WGSL	https://github.com/relrelb/sublime-wgsl			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Whiley	https://github.com/Whiley/WhileySyntaxBundle			10	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Whitelines	https://github.com/TEParsons/Whitelines			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Wind	https://github.com/phyllisstein/Wind			0	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	WML	https://github.com/sevu/Sublime-WML			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Word Count	https://github.com/shadax1/word_count			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Worksheet	https://github.com/jcartledge/sublime-worksheet			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	WrapAsYouType	https://github.com/btrekkie/WrapAsYouType			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Wrap Plus	https://github.com/ehuss/Sublime-Wrap-Plus			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Wren	https://github.com/munificent/wren-sublime			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	WslBuild	https://github.com/SublimeText/WslBuild			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	WWB	https://github.com/rusiv/WWB			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	wxapp	https://github.com/floydawong/wxapp			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Xcode Configuration Settings	https://github.com/p4t5h3/xcode-build-configuration-language-for-sublime-text			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	XDC	https://github.com/LDprg/XDC			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	xit!	https://packagecontrol.io/packages/xit!			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Xkcd	https://github.com/EivindArvesen/xkcd			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	xml2json	https://github.com/vontio/sublime-xml2json			4	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	xonsh	https://github.com/eugenesvk/sublime-xonsh			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	xpath	https://github.com/rawsp33d/sublime-xpath			15	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	YcmdCompletion	https://github.com/LuckyGeck/YcmdCompletion			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ytt	https://github.com/Vasfed/sublime_ytt			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Z	https://github.com/externl/sublime-z			17	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Zen Tabs	https://github.com/travmik/ZenTabs			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Zig Language	https://codeberg.org/ziglang/sublime-zig-language			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ZipContents	https://github.com/mawelborn/ZipContents			4	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ZSH	https://github.com/molovo/sublime-zsh			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	DoxyDoxygen	http://20tauri.free.fr/DoxyDoxygen/			8	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	DoxyDoxygen (evolution)	http://20tauri.free.fr/DoxyDoxygen/			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeManpage	https://github.com/apophys/SublimeManpage			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LinkedData	https://github.com/blake-regalia/linked-data.syntaxes			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Octopress	https://github.com/blueplanet/sublime-text-octopress			8	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	PHP Code Coverage	https://github.com/bradfeehan/SublimePHPCoverage			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	IMESupport	https://github.com/chikatoike/IMESupport			8	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Calculate	https://github.com/colinta/SublimeCalculate			6	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Browser Refresh	http://gcollazo.github.com/BrowserRefresh-Sublime			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	AutoSetSyntax	https://github.com/jfcherng-sublime/ST-AutoSetSyntax			9	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Fanhuaji	https://github.com/Fanhuaji/Sublime-Fanhuaji			8	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	OpenUri	https://github.com/jfcherng-sublime/ST-OpenUri			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Updater	https://github.com/Kaizhi/SublimeUpdater			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Japanize	https://github.com/kik0220/sublimetext_japanize			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ChangeList	https://github.com/randy3k/ChangeList			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LaTeXBox	https://github.com/randy3k/LaTeXBox			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LaTeXYZ	https://github.com/randy3k/LaTeXYZ			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	ProjectManager	https://github.com/randy3k/ProjectManager			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	R-IDE	https://github.com/REditorSupport/sublime-ide-r			5	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SendCode	https://github.com/randy3k/SendCode			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	UnicodeCompletion	https://github.com/randy3k/UnicodeCompletion			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Whitespace	https://github.com/randy3k/Whitespace			29	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	CodeComplice	https://github.com/spectacles/CodeComplice			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-addon-black-for-flake	https://github.com/kaste/SublimeLinter-addon-black-for-flake			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-addon-filter	https://github.com/kaste/SublimeLinter-addon-filter			4	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-annotations	https://github.com/SublimeLinter/SublimeLinter-annotations			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-bandit	https://github.com/SublimeLinter/SublimeLinter-bandit			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-clang	https://github.com/SublimeLinter/SublimeLinter-clang			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-contrib-ameba	https://packagecontrol.io/packages/SublimeLinter-contrib-ameba			3	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-contrib-LanguageTool	https://github.com/GiovanH/sublimelint-contrib-languagetool			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-contrib-standardrb	https://github.com/testdouble/SublimeLinter-contrib-standardrb			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-contrib-swiftlint	https://github.com/mailiam/SublimeLinter-contrib-swiftlint			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-contrib-verilator	https://github.com/poucotm/SublimeLinter-contrib-verilator			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-cppcheck	https://github.com/SublimeLinter/SublimeLinter-cppcheck			4	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-cspell	https://github.com/SublimeLinter/SublimeLinter-cspell			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-csslint	https://github.com/SublimeLinter/SublimeLinter-csslint			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-eslint	https://github.com/SublimeLinter/SublimeLinter-eslint			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-flake8	https://github.com/SublimeLinter/SublimeLinter-flake8			4	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-gotype	https://github.com/SublimeLinter/SublimeLinter-gotype			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-govet	https://github.com/SublimeLinter/SublimeLinter-govet			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-hlint	https://github.com/SublimeLinter/SublimeLinter-hlint			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-html-tidy	https://github.com/SublimeLinter/SublimeLinter-html-tidy			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-javac	https://github.com/SublimeLinter/SublimeLinter-javac			4	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-jscs	https://github.com/mdevils/node-jscs/			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-jshint	https://github.com/SublimeLinter/SublimeLinter-jshint			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-jsl	https://github.com/SublimeLinter/SublimeLinter-jsl			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-json	https://github.com/SublimeLinter/SublimeLinter-json			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-jsxhint	https://github.com/SublimeLinter/SublimeLinter-jsxhint			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-pep8	https://github.com/SublimeLinter/SublimeLinter-pep8			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-php	https://github.com/SublimeLinter/SublimeLinter-php			7	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-phpcs	https://github.com/SublimeLinter/SublimeLinter-phpcs			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-phplint	https://github.com/SublimeLinter/SublimeLinter-phplint			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-pug-lint	https://github.com/SublimeLinter/SublimeLinter-pug-lint			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-pycodestyle	https://github.com/SublimeLinter/SublimeLinter-pycodestyle			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-pyflakes	https://github.com/SublimeLinter/SublimeLinter-pyflakes			3	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-pylint	https://github.com/SublimeLinter/SublimeLinter-pylint			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-rst	https://github.com/SublimeLinter/SublimeLinter-rst			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-rubocop	https://github.com/SublimeLinter/SublimeLinter-rubocop			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-ruby	https://github.com/SublimeLinter/SublimeLinter-ruby			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-shellcheck	https://github.com/SublimeLinter/SublimeLinter-shellcheck			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-tslint	https://github.com/SublimeLinter/SublimeLinter-tslint			4	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-vale	https://github.com/SublimeLinter/SublimeLinter-vale			1	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	SublimeLinter-xmllint	https://github.com/SublimeLinter/SublimeLinter-xmllint			2	2	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-angular	https://github.com/sublimelsp/LSP-angular			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-astro	https://github.com/sublimelsp/LSP-astro			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-bash	https://github.com/sublimelsp/LSP-bash			7	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-clangd	https://github.com/sublimelsp/LSP-clangd			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-css	https://github.com/sublimelsp/LSP-css			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-Dart	https://github.com/sublimelsp/LSP-Dart			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-dockerfile	https://github.com/sublimelsp/LSP-dockerfile			3	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-elixir	https://lsp.sublimetext.io/			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-eslint	https://github.com/sublimelsp/LSP-eslint			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-file-watcher-chokidar	https://github.com/sublimelsp/LSP-file-watcher-chokidar			7	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-flow	https://github.com/sublimelsp/LSP-flow			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-gopls	https://github.com/sublimelsp/LSP-gopls			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-graphql	https://github.com/sublimelsp/LSP-graphql			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-html	https://github.com/sublimelsp/LSP-html			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-intelephense	https://github.com/sublimelsp/LSP-intelephense			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-jdtls	https://packagecontrol.io/packages/LSP-jdtls			3	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-lua	https://github.com/sublimelsp/LSP-lua			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-metals	https://packagecontrol.io/packages/LSP-metals			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-nimlangserver	https://github.com/sublimelsp/LSP-nimlangserver			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-OmniSharp	https://github.com/sublimelsp/LSP-OmniSharp			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-PowerShellEditorServices	https://github.com/sublimelsp/LSP-PowerShellEditorServices			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-prisma	https://packagecontrol.io/packages/LSP-prisma			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-pylsp	https://github.com/sublimelsp/LSP-pylsp			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-pyproject	https://github.com/sublimelsp/LSP-pyproject			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-ruff	https://packagecontrol.io/packages/LSP-ruff			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-rust-analyzer	https://github.com/sublimelsp/LSP-rust-analyzer			5	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-svelte	https://github.com/sublimelsp/LSP-svelte			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-tailwindcss	https://github.com/sublimelsp/LSP-tailwindcss			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-taplo	https://taplo.tamasfe.dev			2	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-terraform	https://github.com/sublimelsp/LSP-terraform			1	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-Tinymist	https://github.com/sublimelsp/LSP-Tinymist			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-ty	https://github.com/sublimelsp/LSP-ty			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-typescript	https://github.com/sublimelsp/LSP-typescript			12	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-vale-ls	https://packagecontrol.io/packages/LSP-vale-ls			1	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-volar	https://github.com/sublimelsp/LSP-volar			6	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	LSP-vue	https://github.com/sublimelsp/LSP-vue			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Language - French - Français	https://github.com/superbob/SublimeTextLanguageFrench			0	0	0	True	static-only
+audit_list_2026_10_27_gap2.tsv	Pandoc	https://github.com/tbfisher/sublimetext-Pandoc			7	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	subl protocol	https://github.com/thecotne/subl-protocol			2	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Quokka	http://quokkajs.com			9	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	Wallaby	http://wallabyjs.com			4	1	1	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	InputHelper	https://github.com/xgenvn/InputHelper			4	1	0	True	tested-earlier
+audit_list_2026_10_27_gap2.tsv	DirectorySettings	https://codeberg.org/TobyGiacometti/SublimeDirectorySettings			1	1	1	True	tested-earlier

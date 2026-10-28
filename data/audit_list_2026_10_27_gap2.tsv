@@ -1,0 +1,909 @@
+order	installs_rank	pkg	repo	installs	last_modified	platforms
+1	0	SFTP	https://codexns.io/products/sftp_for_sublime			*
+2	0	SVN	https://codexns.io/products/svn_for_sublime			*
+3	0	Live Coding in Python	https://donkirkby.github.io/live-py-plugin			*
+4	0	0x0	https://github.com/axsuul/sublime-0x0			*
+5	0	42 Function Count Lines	https://github.com/DoKca42/42_sublime_ft_count_line			*
+6	0	42 Headers	https://github.com/Globidev/Sublime-Text-42-Headers			*
+7	0	Abrase	https://github.com/KHN190/Abrase-sublime			*
+8	0	Achievement	https://github.com/airtoxin/Achievement			*
+9	0	ADBView	https://github.com/quarnster/ADBView			*
+10	0	AddRemoveFolder	https://github.com/fsaad/Sublime-AddRemoveFolder			*
+11	0	Agila Theme	https://github.com/arvi/Agila-Theme			*
+12	0	AhuAIComplete	https://github.com/ahu/AIComplete			*
+13	0	Alan	https://github.com/alan-platform/AlanForSublime			*
+14	0	Alignment	http://wbond.net/sublime_packages/alignment			*
+15	0	Alter Text	https://packagecontrol.io/packages/Alter%20Text			*
+16	0	AMPScript	https://github.com/mmoriar1/AMPScript			*
+17	0	AMPscript Syntax Highlighter	https://github.com/wvpv/ampscript-syntax-highlighter			*
+18	0	anaconda_go	https://github.com/DamnWidget/anaconda_go			*
+19	0	anaconda_rust	https://github.com/DamnWidget/anaconda_rust			*
+20	0	AndroidImport	https://github.com/ribot/SublimeAndroidImport			*
+21	0	Ansible	https://github.com/clifford-github/sublime-ansible			*
+22	0	ANSIescape	https://github.com/aziz/SublimeANSI			*
+23	0	Ant	https://github.com/xeno-by/sublime-ant			*
+24	0	Apex	https://github.com/SublimeText/Apex			*
+25	0	ApplySyntax	https://facelessuser.github.io/ApplySyntax/			*
+26	0	ArcticTypescript	https://github.com/Phaiax/ArcticTypescript			*
+27	0	Artisan	https://github.com/Narven/sublime-artisan			*
+28	0	ASCII Decorator	https://github.com/viisual/ASCII-Decorator			*
+29	0	Asciidoctor	https://github.com/asciidoctor/sublimetext-asciidoc			*
+30	0	AssistantAI	https://github.com/kanutron/AssistantAI			*
+31	0	Asymptote	https://github.com/noelmurasko/AsymptoteSyntax			*
+32	0	Atomic Color Scheme	https://github.com/gerardbm/atomic			*
+33	0	Atomizr	https://github.com/idleberg/sublime-atomizr			*
+34	0	AutoBackups	https://github.com/akalongman/sublimetext-autobackups			*
+35	0	Auto Close Panel	https://github.com/aerobounce/Sublime-AutoClosePanel			*
+36	0	AutoDarkLinux	https://packagecontrol.io/packages/AutoDarkLinux			*
+37	0	AutoDocstring	https://github.com/KristoforMaynard/SublimeAutoDocstring			*
+38	0	AutoFileName	https://github.com/liamcain/AutoFileName			*
+39	0	AutoF-Strings	https://github.com/vraneb/AutoF-Strings			*
+40	0	AutoMatlab	https://github.com/asparc/AutoMatlab			*
+41	0	AutoPEP8	https://github.com/wistful/SublimeAutoPEP8			*
+42	0	AutoProjects	https://github.com/SublimeText/AutoProjects			*
+43	0	Auto-Spacing	https://github.com/xwartz/auto-spacing			*
+44	0	AVA	https://packagecontrol.io/packages/AVA			*
+45	0	AWS Helper	https://packagecontrol.io/packages/AWS%20Helper			*
+46	0	AWS Lambda	https://github.com/revmischa/sublime-awslambda			*
+47	0	Babel	https://babeljs.io/			*
+48	0	Badges	https://github.com/idleberg/sublime-badges			*
+49	0	Baidu FE Code Style	https://github.com/leeight/Baidu-FE-Code-Style			*
+50	0	Base16 Color Schemes	https://github.com/chriskempson/base16			*
+51	0	Bats	https://github.com/SublimeText/bash-automated-testing-system			*
+52	0	BBC BASIC Syntax	https://github.com/gerph/sublimetext-bbcbasic-syntax			*
+53	0	BBCode (NGA)	https://github.com/stone5265/Sublime-BBCode-NGA			*
+54	0	BeautifyLatex	https://github.com/ketan/BeautifyLatex			*
+55	0	BetaCode	https://github.com/kugland/Sublime-BetaCode			*
+56	0	BetterFindBuffer	https://github.com/aziz/BetterFindBuffer			*
+57	0	BeyondCompare	https://github.com/npadley/BeyondCompare			*
+58	0	BinViewer	https://github.com/AetelFinch/BinViewer			*
+59	0	Bitbucket	https://packagecontrol.io/packages/Bitbucket			*
+60	0	Blast Dark	https://github.com/furtidev/blast-dark			*
+61	0	Block Cursor Everywhere	https://github.com/karlhorky/BlockCursorEverywhere			*
+62	0	Blossom Theme	https://github.com/BlossomTheme/Sublime-Text			*
+63	0	Bootstrap 4 Autocomplete	https://github.com/webchun/bootstrap-4-sublime-autocomplete			*
+64	0	BowerInjector	https://github.com/ismnoiet/BowerInjector			*
+65	0	Breadcrumbs	https://github.com/qbolec/Breadcrumbs			*
+66	0	Browse	https://github.com/hikaruworld/Browse			*
+67	0	BrowserBookmarks	https://github.com/svenfraeys/BrowserBookmarks			*
+68	0	Browser Integration	https://github.com/apiad/sublime-browser-integration			*
+69	0	BufferScroll	https://github.com/titoBouzout/BufferScroll			*
+70	0	build2	https://github.com/build2-community/build2-sublime-text			*
+71	0	Buildview	https://github.com/rctay/sublime-text-buildview			*
+72	0	BuildX	https://github.com/cj1128/sublime-buildx			*
+73	0	Bullet	https://github.com/erinata/SublimeBullet			*
+74	0	Bump	https://github.com/yavorsky/Bump			*
+75	0	Butane	https://github.com/jdoss/sublime-butane			*
+76	0	C0	https://github.com/mahmoudalismail/SublimeC0			*
+77	0	caniuse_local	https://github.com/leecade/caniuse_local			*
+78	0	Carbon Programming Language	https://github.com/RohanVashisht1234/sublime_text_carbon_syntax_highlighter			*
+79	0	Case Conversion	https://github.com/jdavisclark/CaseConversion			*
+80	0	C++ & C Single File Builder - Minghang Yang	https://github.com/ytlw/C_CppSingleFileBuilder_MinghangYang			*
+81	0	cdnjs	https://github.com/dafrancis/Sublime-Text--cdnjs			*
+82	0	Ceedling	http://throwtheswitch.org			*
+83	0	Cert Tools	https://github.com/Gui13/sublime-certtools			*
+84	0	C Family Rewrite (C23 and C++23)	https://github.com/camila314/C-Family-Rewrite			*
+85	0	Chains	https://github.com/hc-12/chains			*
+86	0	CheckTypos	https://github.com/vaisaghvt/CheckTypos			*
+87	0	Chef	https://packagecontrol.io/packages/Chef			*
+88	0	ChineseLocalizations	https://github.com/rexdf/ChineseLocalization			*
+89	0	ChoiceScript	https://github.com/fawkesy/choicescript-syntax			*
+90	0	Chromeless	https://github.com/ggets/Sublime_Chromeless			*
+91	0	ChromeREPL	https://github.com/acarabott/ChromeREPL			*
+92	0	CiscoCollab	https://github.com/tonynupe/CiscoCollab			*
+93	0	Clannad Theme	https://github.com/lemorage/sublime-clannad-theme			*
+94	0	ClassName	https://packagecontrol.io/packages/ClassName			*
+95	0	Claudette	https://claudette.dev			*
+96	0	Click	https://github.com/drbarrett/click-sublime			*
+97	0	CloseGroupAndAppend	https://github.com/davidhcefx/CloseGroupAndAppend			*
+98	0	CMake	https://github.com/zyxar/Sublime-CMakeLists			*
+99	0	CMakeBuilder	https://github.com/rwols/CMakeBuilder			*
+100	0	CMakeFormat	https://github.com/jasjuang/sublime_cmake_format			*
+101	0	Cmder	http://salesforcexytools.com/Cmder/			*
+102	0	Codechef	https://github.com/prongs/SublimeCodechef			*
+103	0	CoffeeCompile	https://github.com/surjikal/sublime-coffee-compile			*
+104	0	CoffeeScript	https://github.com/SublimeText/CoffeeScript			*
+105	0	Coi	https://github.com/SublimeText/Coi			*
+106	0	ColdBox Platform	https://www.coldbox.org			*
+107	0	CollaBroText	https://github.com/shantanu3637/CollaBroText			*
+108	0	Colorcoder	https://github.com/vprimachenko/Sublime-Colorcoder			*
+109	0	ColorConverter	https://github.com/braver/ColorConverter			*
+110	0	ColorHints	https://github.com/braver/ColorHints			*
+111	0	Colorsublime	https://github.com/Colorsublime/Colorsublime-Plugin			*
+112	0	COLT	https://github.com/code-orchestra/colt-sublime-plugin			*
+113	0	Column Select	https://github.com/ehuss/Sublime-Column-Select			*
+114	0	CommandsBrowser	https://packagecontrol.io/packages/CommandsBrowser			*
+115	0	Comment Marks	https://github.com/maegul/comment_marks			*
+116	0	CompareBuff	https://github.com/nexional/CompareBuff			*
+117	0	Compass	https://github.com/whatwedo/sublime-text-compass			*
+118	0	Competitive Programming	https://github.com/egtoney/CompetitiveProgramming			*
+119	0	Competitive Programming Lite	https://packagecontrol.io/packages/Competitive%20Programming%20Lite			*
+120	0	CompetitiveProgrammingParser	https://github.com/codeuniverse101/CompetitiveProgrammingParser			*
+121	0	CompletePHP	https://github.com/desean1625/CompletePHP			*
+122	0	Composer	https://github.com/francodacosta/composer-sublime			*
+123	0	Compressor	https://github.com/joernhees/sublime-compressor			*
+124	0	Console Exec	https://github.com/joeyespo/sublimetext-console-exec			*
+125	0	Console Wrap	https://github.com/unknownuser88/consolewrap			*
+126	0	Context	https://github.com/shagabutdinov/sublime-context			*
+127	0	Continuous Merge	https://github.com/vim-zz/sublime-cm-syntax			*
+128	0	ConvertEpochToDate	https://github.com/nexional/ConvertEpochToDate			*
+129	0	ConvertFullHalfWidth	https://github.com/naoyukik/SublimeConvertFullHalfWidth			*
+130	0	Cool	https://github.com/princjef/sublime-cool-highlighter			*
+131	0	Copy as HTML	https://github.com/liulex/CopyAsHtml			*
+132	0	Copy Relative Command	https://github.com/patoui/CopyRelativeCommand			*
+133	0	Copy Relative Path	https://github.com/bpicolo/CopyRelativePath			*
+134	0	Coreboot syntax	https://github.com/coreboot/sublime-text-coreboot-syntax			*
+135	0	Cottle	https://github.com/SublimeText/Cottle			*
+136	0	CP Parser	https://github.com/hritikchaudhary/CPParser			*
+137	0	Crypto	https://github.com/mediaupstream/SublimeText-Crypto			*
+138	0	Crystal	https://github.com/crystal-lang-tools/sublime-crystal			*
+139	0	CSharpier	https://github.com/mkonstapel/sublime-text-csharpier-plugin			*
+140	0	CSS3	https://github.com/ryboe/CSS3			*
+141	0	CSS Extended Completions	https://github.com/subhaze/CSS-Extended			*
+142	0	Csslisible	https://github.com/thierrylemoulec/Sublime-Csslisible			*
+143	0	CSSOrder	https://github.com/lightningtgc/sublime-cssorder			*
+144	0	CTags	https://github.com/SublimeText/CTags			*
+145	0	Cucumber	https://github.com/drewda/cucumber-sublime-bundle			*
+146	0	Cucumber Snippets e Highlight em Inglês	https://github.com/RobertoPegoraro/cucumber-snippets-highlight-english			*
+147	0	Cucumber Snippets e Highlight em Português	https://github.com/RobertoPegoraro/cucumber-snippets-highlight-portugues			*
+148	0	Custom Buffer Name	https://github.com/kaxing/sublime-custom-buffer-name			*
+149	0	D2	https://gitlab.com/sotilrac/d2-syntax			*
+150	0	DailyOrganizer	https://github.com/mremallin/DailyOrganizer			*
+151	0	DaisyUI Autocomplete	https://github.com/etoundi2nd/daisyui-autocomplete			*
+152	0	Dart	https://github.com/guillermooo/dart-sublime-bundle			*
+153	0	DataConverter	https://github.com/fitnr/SublimeDataConverter			*
+154	0	Date	https://github.com/ololduck/sublimetext-date			*
+155	0	Default File Type	https://github.com/spadgos/sublime-DefaultFileType			*
+156	0	Definition Preview	https://github.com/nickav/DefinitionPreview			*
+157	0	Deselect	https://github.com/glutanimate/sublime-deselect			*
+158	0	Devastate	https://github.com/vlakarados/devastate			*
+159	0	Devastate Mode-Z	https://github.com/TheBeardOfTruth/sublime-devastate-mode-z			*
+160	0	Devhelp	https://packagecontrol.io/packages/Devhelp			*
+161	0	Diction	https://github.com/GeeF/SublimeDiction			*
+162	0	Dictionary	https://packagecontrol.io/packages/Dictionary			*
+163	0	Diffable	https://github.com/yaroslavyaroslav/Diffable			*
+164	0	DiffTabs	https://github.com/soandrew/DiffTabs			*
+165	0	dired	https://github.com/kublaios/dired			*
+166	0	DistractionFreeWindow	https://github.com/aziz/DistractionFreeWindow			*
+167	0	Django Manage Commands	https://github.com/vladimirnani/DjangoCommands			*
+168	0	Django Syntax	https://packagecontrol.io/packages/Django Syntax			*
+169	0	DlangAutoImport	https://github.com/vitalfadeev/SublimeDlangAutoImport			*
+170	0	DocPHPManualer	https://github.com/garveen/docphp			*
+171	0	Done	https://github.com/snehlsen/sublime-done			*
+172	0	DoxyDoc	https://github.com/Rapptz/DoxyDoc			*
+173	0	Earthbound Themes	https://packagecontrol.io/packages/Earthbound%20Themes			*
+174	0	EasyDiff	http://facelessuser.github.io/EasyDiff/			*
+175	0	EasyMotion	https://github.com/tednaleid/sublime-EasyMotion			*
+176	0	EditorConfig	https://github.com/sindresorhus/editorconfig-sublime			*
+177	0	Edit Preferences	https://github.com/sublimator/EditPreferences			*
+178	0	EDN	https://github.com/kernelp4nic/sublime-edn			*
+179	0	EJS	https://github.com/SublimeText/EJS			*
+180	0	ElasticsearchClient	https://github.com/KunihikoKido/sublime-elasticsearch-client			*
+181	0	Elixir	https://elixir-lang.org/			*
+182	0	ElixirDocs	https://github.com/reisub/sublime-elixir-docs			*
+183	0	ElixirSublime	https://github.com/vishnevskiy/ElixirSublime			*
+184	0	Eloquence	https://github.com/macMikey/eloquence-sublime-text-syntax			*
+185	0	Emoji	https://packagecontrol.io/packages/Emoji			*
+186	0	Emoji Code	https://github.com/idleberg/sublime-emoji-code			*
+187	0	EncodingHelper	https://github.com/titoBouzout/EncodingHelper			*
+188	0	Enhanced HTML and CFML	https://github.com/Siddley/Enhanced.HTML.CFML			*
+189	0	EPM	https://github.com/project-douglas/epm-sublime			*
+190	0	ESQL	https://github.com/elastic/esql-syntax			*
+191	0	Ethereum	https://github.com/davidhq/SublimeEthereum			*
+192	0	Eval	https://github.com/ViktorQvarfordt/Sublime-Eval			*
+193	0	exercism	https://github.com/thosgood/STexercism			*
+194	0	Expand and Edit	https://github.com/aafulei/sublime-expand-and-edit			*
+195	0	ExpandCMacro	https://github.com/pl-ca/ExpandCMacro			*
+196	0	ExpandRegion	https://github.com/aronwoost/sublime-expand-region			*
+197	0	ExpandSelectionToComments	https://github.com/timfjord/ExpandSelectionToComments			*
+198	0	Expand Selection to Function (JavaScript)	https://github.com/gillibrand/expand-selection-to-function-js			*
+199	0	Expand Selection to Line Upwards	https://github.com/aafulei/sublime-expand-selection-to-line-upwards			*
+200	0	Expect	https://github.com/mokkabonna/sublime-expect			*
+201	0	Expression	https://github.com/shagabutdinov/sublime-expression			*
+202	0	Extend Selection	https://github.com/anly2/sublime-extend-selection			*
+203	0	FabricEngine	https://github.com/stepcg/SublimeFabricEngineSyntax			*
+204	0	FASM x86	https://github.com/HealsCodes/Sublime-FASM-x86			*
+205	0	FASTA	https://github.com/SilentGene/sublime-fasta-syntax			*
+206	0	FastSwitch	https://github.com/papaDoc/FastSwitch			*
+207	0	Fate	https://github.com/kode4food/fate-sublime			*
+208	0	FcitxInput	https://github.com/ubuntugege/FcitxInput			*
+209	0	Fennel	https://packagecontrol.io/packages/Fennel			*
+210	0	Figlet Big ASCII Text	https://github.com/adamchainz/SublimeFiglet			*
+211	0	FileBrowser	https://github.com/kaste/SublimeFileBrowser			*
+212	0	FileHeader	https://github.com/yann-shi/FileHeader			*
+213	0	File History	https://github.com/FichteFoll/FileHistory			*
+214	0	FileOpTabContextMenu	https://github.com/sigsergv/SublimeFileOpTabContextMenu			*
+215	0	FileZilla	https://github.com/thecotne/sublime-filezilla			*
+216	0	FileZilla SFTP Import	https://github.com/ment4list/SublimeZilla			*
+217	0	FindKeyConflicts	https://github.com/skuroda/FindKeyConflicts			*
+218	0	Firebase Rules Syntax	https://github.com/jingyuexing/Sublime-Firebase-Syntax			*
+219	0	Flatdata Syntax Highlighting	https://github.com/fermeise/flatdata-sublime-syntax			*
+220	0	Flex	https://github.com/itsgg/Flex-Sublimetext			*
+221	0	FlexIDE	https://github.com/rahulsharmagg/FlexIDE			*
+222	0	Flow	https://github.com/73rhodes/Sublime-Flow			*
+223	0	FlowIDE	https://github.com/tptee/FlowIDE			*
+224	0	fluent-logger	https://github.com/airtoxin/fluent-logger-sublimetext			*
+225	0	FlutterEnhancements	https://github.com/90-008/FlutterEnhancements			*
+226	0	Fmt	https://github.com/mitranim/sublime-fmt			*
+227	0	Focus	https://github.com/sindresorhus/focus			*
+228	0	Folder Aliaser	https://github.com/SublimeText/FolderAliaser			*
+229	0	FoldersSwitch	https://github.com/kitzberger/SublimeFoldersSwitch			*
+230	0	FoldFunctions	https://github.com/math2001/FoldFunctions			*
+231	0	Fold Javascript Functions	https://github.com/LuckyKat/sublime-fold-functions			*
+232	0	Font Size Per View	https://github.com/m-bartlett/SublimeFontSizePerView			*
+233	0	Freedom Colour Scheme	https://github.com/frithrah/freedom-sublime			*
+234	0	FullwidthTabSpaces	https://github.com/woodmix/FullwidthTabSpaces			*
+235	0	Fuse	https://github.com/fuse-open/sublime-plugin			*
+236	0	FuzzyFileNav	https://facelessuser.github.io/FuzzyFileNav/			*
+237	0	FuzzyFilePath	https://github.com/sagold/FuzzyFilePath			*
+238	0	GDScript (Godot Engine)	https://github.com/beefsack/GDScript-sublime			*
+239	0	Gemini	https://packagecontrol.io/packages/Gemini			*
+240	0	GeminiCLI	https://gemini.termmate.app			*
+241	0	GenerateUUID	https://github.com/SublimeText/GenerateUUID			*
+242	0	GhostText	https://ghosttext.fregante.com			*
+243	0	Ginkgo Completions	https://github.com/onsi/ginkgo-sublime-completions			*
+244	0	Git	https://github.com/kemayo/sublime-text-git			*
+245	0	Git badges like VS Code	https://github.com/arxeiss/Sublime-GitBadgesLikeVSCode			*
+246	0	Git Config	https://github.com/robballou/gitconfig-sublimetext			*
+247	0	GitGutter	https://github.com/jisaacks/GitGutter			*
+248	0	GitHubIssue	https://github.com/divinites/gissues			*
+249	0	Gitignore	https://github.com/vilhelmen/Sublime-Gitignore			*
+250	0	Gitignored File Excluder	https://github.com/ExplodingCabbage/sublime-gitignorer			*
+251	0	Gitignore Extended	https://github.com/Isaac-the-Man/Sublime-Gitignore-Extended			*
+252	0	Gitk	https://www.gerardroche.com			*
+253	0	GitlabIntegrate	https://github.com/SnoringFrog/GitlabIntegrate			*
+254	0	GitLink	http://ryan.sc			*
+255	0	Git Message Auto Save	https://github.com/franciscolourenco/sublime-git-message-auto-save			*
+256	0	Glue	http://gluedocs.readthedocs.org/			*
+257	0	Gmail	https://github.com/divinites/oauth-mail			*
+258	0	GMod Lua	http://www.facepunch.com/threads/1038951			*
+259	0	gmsh-Tools	https://packagecontrol.io/packages/gmsh-Tools			*
+260	0	Gno	https://github.com/gno-playground/gno-sublime-text			*
+261	0	Godef	https://github.com/buaazp/Godef			*
+262	0	Gofmt	https://github.com/noonat/sublime-gofmt			*
+263	0	GoGdb	https://github.com/centny/GoGdb			*
+264	0	Golang Tools Integration	https://github.com/liuhewei/gotools-sublime			*
+265	0	GoOracle	https://github.com/waigani/GoOracle			*
+266	0	GoToAnchor	https://github.com/eecolella/GoToAnchor			*
+267	0	GoToClass	https://github.com/vovayatsyuk/GoToClass			*
+268	0	GotoDefinitionSplit	https://www.gerardroche.com			*
+269	0	GotoEndOfLineOrScope	https://github.com/SublimeText/GoToEndOfLineOrScope			*
+270	0	GoTools	https://github.com/ironcladlou/GoTools			*
+271	0	Goto Related	https://github.com/schreifels/sublime-goto-related			*
+272	0	Gourmet	https://github.com/gourmet/sublime			*
+273	0	GPG	https://github.com/dmitrievav/sublime_gpg			*
+274	0	GrADS	https://github.com/fox91/GrADS-Sublime-syntax			*
+275	0	Grammalecte	https://github.com/autoiue/GrammalecteST3			*
+276	0	GraphQL	https://github.com/dncrews/GraphQL-SublimeText3			*
+277	0	GraphQL Playground	https://github.com/kapitanluffy/sublime-graphql-playground			*
+278	0	Gremlins	https://github.com/redoPop/SublimeGremlins			*
+279	0	Gruvbox Material Theme	https://github.com/karimlevallois/gruvbox-material-sublime-text			*
+280	0	Gutter Color	https://github.com/ggordan/GutterColor			*
+281	0	Hacklang	https://github.com/albertxing/sublime-hacklang			*
+282	0	Hansl-Gretl-Language	https://github.com/atecon/Hansl-Gretl-Language			*
+283	0	HaoGist	https://github.com/xjsender/HaoGist			*
+284	0	haoide	https://github.com/xjsender/haoide			*
+285	0	Haskell HSX	https://github.com/digitallyinduced/sublime-text-hsx			*
+286	0	Hayaku - tools for writing CSS faster	https://github.com/hayaku/hayaku			*
+287	0	HDL_Automation	https://github.com/ToTamire/HDL_Automation			*
+288	0	Helium	https://github.com/SublimeText/Helium			*
+289	0	Hexa	https://packagecontrol.io/packages/Hexa			*
+290	0	HgCommitMsg	https://github.com/tylorr/HgCommitMsg			*
+291	0	Highlight	https://github.com/n1k0/SublimeHighlight			*
+292	0	Highlighter	https://github.com/bluegray/Highlighter			*
+293	0	Highlight Token	https://github.com/cepthomas/SbotHighlight			*
+294	0	Hipster	https://packagecontrol.io/packages/Hipster			*
+295	0	Hipster Ipsum	https://github.com/phyllisstein/HipsterIpsum			*
+296	0	HL7	https://github.com/craighurley/sublime-hl7-syntax			*
+297	0	Hog	https://github.com/Hog-CERN/HogSublime			*
+298	0	HoogleSearch	https://github.com/s4wny/HoogleSearch			*
+299	0	Hope	https://github.com/Kikobeats/Hope-Snippets			*
+300	0	Hosts	https://packagecontrol.io/packages/Hosts			*
+301	0	Hotspots	https://github.com/x0th/hotspots			*
+302	0	Hover Locales	https://github.com/alvesjtiago/hover-locales			*
+303	0	HTML2Text	https://github.com/jaredmoody/sublime_html_to_text			*
+304	0	HTML5	https://github.com/mrmartineau/HTML5			*
+305	0	HTMLBeautify	https://github.com/rareyman/HTMLBeautify			*
+306	0	HTML-CSS-JS Prettify	https://github.com/victorporof/Sublime-HTMLPrettify			*
+307	0	HTML Minifier	https://github.com/geekpradd/sublime-html5-minifier			*
+308	0	Http Requester	https://github.com/braindamageinc/SublimeHttpRequester			*
+309	0	Hugofy	https://github.com/akmittal/Hugofy-sublime			*
+310	0	HyperClick	https://github.com/aziz/SublimeHyperClick			*
+311	0	Hyperscript	https://packagecontrol.io/packages/Hyperscript			*
+312	0	HypnotoadSVN	https://github.com/m-hall/HypnotoadSVN			*
+313	0	Icon Fonts (Legacy)	https://github.com/idleberg/sublime-icon-fonts-legacy			*
+314	0	Image Link Insertion	https://github.com/jtojnar/sublime-image-link-insertion			*
+315	0	ImageMagick	https://github.com/Kentzo/SublimeMagick			*
+316	0	ImagePaste	https://github.com/robinchenyu/imagepaste			*
+317	0	ImagePreview	https://github.com/alvesjtiago/hover-preview			*
+318	0	ImportFileNames	https://github.com/felixcatto/ImportFileNames			*
+319	0	ImprovedMacros	https://github.com/skuroda/ImprovedMacros			*
+320	0	InactivePanes	https://github.com/SublimeText/InactivePanes			*
+321	0	Inc-Dec-Value	https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value			*
+322	0	Incomprehensible Ex	https://github.com/barretov/Incomprehensible-ex			*
+323	0	Increment Decrement	https://packagecontrol.io/packages/Increment%20Decrement			*
+324	0	Incrementor	https://github.com/eBookArchitects/Incrementor			*
+325	0	Indent Size	https://github.com/socsieng/sublime-indent-size			*
+326	0	Inline Fold	https://github.com/predragnikolic/InlineFold			*
+327	0	InputArgs	https://github.com/bilalba/InputArgs			*
+328	0	InQlik-Tools	https://github.com/inqlik/inqlik-tools			*
+329	0	InsertDate	https://github.com/FichteFoll/InsertDate			*
+330	0	Insert Nums	https://github.com/SublimeText/InsertNums			*
+331	0	INTENS Language	https://packagecontrol.io/packages/INTENS%20Language			*
+332	0	Interpol	https://github.com/kode4food/interpol-sublime			*
+333	0	iOpener	https://github.com/rosshemsley/iOpener			*
+334	0	iOS build system	https://github.com/Swift-Next/iOS-build-sublime			*
+335	0	Ipynb Preview as Markdown	https://github.com/valentinbarral/IpynbPreviewAsMarkdown			*
+336	0	IPython Notebook	https://github.com/maximsch2/SublimeIPythonNotebook			*
+337	0	IRC	https://github.com/markbirbeck/sublime-text-irc			*
+338	0	Issues	http://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095			*
+339	0	ITDCHelper	https://github.com/itdc/sublimetext-itdchelper			*
+340	0	Jade	https://github.com/davidrios/jade-tmbundle			*
+341	0	JaiTools	https://github.com/RobinWragg/JaiTools			*
+342	0	JamfLog	https://github.com/jorks/sublime-jamflog			*
+343	0	Janet	https://github.com/archydragon/sublime-janet			*
+344	0	JapanWordStop	https://github.com/woodmix/JapanWordStop			*
+345	0	Jasmine JS	https://github.com/nicosantangelo/sublime-jasmine			*
+346	0	Javascript Beautify	https://github.com/enginespot/js-beautify-sublime			*
+347	0	JavaScript Completions	https://github.com/pichillilorenzo/JavaScript-Completions			*
+348	0	JavaScriptExtractFunction	https://github.com/tricinel/JavascriptExtractFunction			*
+349	0	Jenkinsfile	https://github.com/june07/sublime-jenkinsfile			*
+350	0	Jest	https://github.com/nicosantangelo/sublime-jest			*
+351	0	Jester	https://github.com/absszero/Jester			*
+352	0	Jinja2	https://packagecontrol.io/packages/Jinja2			*
+353	0	Jira	https://github.com/mix86/SublimeJira			*
+354	0	Jq	https://gitlab.com/jiehong/sublime_jq			*
+355	0	JQ Syntax	https://github.com/zogwarg/SublimeJQ			*
+356	0	JSCS-Formatter	https://github.com/elicwhite/SublimeJSCSFormatter			*
+357	0	JSCustom	https://github.com/Thom1729/Sublime-JS-Custom			*
+358	0	JsDebuggr	https://github.com/rDr4g0n/JsDebuggr			*
+359	0	JSHint Gutter	https://github.com/victorporof/Sublime-JSHint			*
+360	0	JSON2Apex	https://github.com/nchursin/json2apex			*
+361	0	JSONComma	https://github.com/jsoncomma/sublime-jsoncomma			*
+362	0	JSON Key-Value	https://github.com/aurule/json-kv			*
+363	0	JS Snippets	https://github.com/RadLikeWhoa/JS-Snippets			*
+364	0	JS Template String Converter	https://github.com/predragnikolic/JS-Template-String-Converter			*
+365	0	Julia	https://github.com/JuliaEditorSupport/Julia-sublime			*
+366	0	Jump Along Indent	https://github.com/mwean/sublime_jump_along_indent			*
+367	0	JWT Decode	https://github.com/Xiangjiaox/jwt-sublime-text			*
+368	0	Kamailio Config	https://github.com/igorolhovskiy/kamailio-sublime			*
+369	0	kdesrc-build	https://github.com/ratijas/kdesrc-build-sublime			*
+370	0	Kick Assembler (C64)	https://github.com/Swoffa/SublimeKickAssemblerC64			*
+371	0	Kite Python Autocomplete	https://github.com/kiteco/KiteSublime			*
+372	0	klog	https://packagecontrol.io/packages/klog			*
+373	0	Kotlin	https://github.com/guille/sublime-kotlin			*
+374	0	KSP (Kontakt Script Processor)	https://github.com/nojanath/SublimeKSP			*
+375	0	Kulture	https://github.com/OmniSharp/Kulture			*
+376	0	Language - Mongolian	https://bataak.github.io/dict-mn/			*
+377	0	Laravel Blade AutoComplete	https://github.com/ahmedash95/sublime-laravel-blade-autocomplete			*
+378	0	Laravel Filament	https://packagecontrol.io/packages/Laravel%20Filament			*
+379	0	Laravel Goto	https://github.com/absszero/LaravelGoto			*
+380	0	Latest Migration	https://packagecontrol.io/packages/Latest%20Migration			*
+381	0	LaTeXSmartQuotes	https://github.com/r-stein/sublime-text-latex-smart-quotes			*
+382	0	Launch	https://github.com/zinefer/sublime-launch			*
+383	0	Layout	https://github.com/loggerhead/Layout			*
+384	0	Leaf	https://github.com/usagizmo/sublime-language-leaf			*
+385	0	LedgerTools	https://github.com/etienne-monier/LedgerTools			*
+386	0	Less	https://github.com/SublimeText/Less			*
+387	0	Less2Css	https://github.com/timdouglas/sublime-less2css			*
+388	0	lessc	https://github.com/Shimmi/Lessc-Sublime			*
+389	0	Levels	https://github.com/mazurov/sublime-levels			*
+390	0	Libsass Build	https://github.com/blitzrk/sublime_libsass			*
+391	0	Lightning	https://github.com/dcarroll/sublime-lightning			*
+392	0	LightSearch	https://github.com/prokopchukdim/light-search			*
+393	0	LikeGit	https://github.com/poucotm/LikeGit			*
+394	0	Linguist Syntax	https://github.com/hronro/sublime-linguist-syntax			*
+395	0	Liquid	https://github.com/SublimeText/Liquid			*
+396	0	LiveReloadMake	https://github.com/alepez/LiveReloadMake-sublimetext3			*
+397	0	LiveServer	https://github.com/molnarmark/sublime-live-server			*
+398	0	LLM	https://github.com/tonylchang/sublime-llm			*
+399	0	Localpod	https://github.com/ijoyc/Localpod			*
+400	0	LogbackJsonLogViewer	https://github.com/neno--/LogbackJsonLogViewer			*
+401	0	Log Highlight	https://github.com/poucotm/Log-Highlight			*
+402	0	LOVELY2D	https://github.com/kevinfiol/LOVELY2D			*
+403	0	LPrint	https://github.com/mbr/LPrint			*
+404	0	LSL	https://github.com/Makopo/sublime-text-lsl			*
+405	0	LuaFormat	https://github.com/floydawong/LuaFormat			*
+406	0	ludik	https://github.com/jonny64/ludik			*
+407	0	Lumi	https://github.com/smadeja/lumi			*
+408	0	MagicComment	https://packagecontrol.io/packages/MagicComment			*
+409	0	MagicPython	https://github.com/MagicStack/MagicPython			*
+410	0	Make Bookmarklet	https://github.com/gillibrand/MakeBookmarklet			*
+411	0	MarkdownAssistant	https://packagecontrol.io/packages/MarkdownAssistant			*
+412	0	Markdown HTML Preview	https://github.com/zeyon/MarkdownHtmlPreview			*
+413	0	Markdown Images	https://github.com/xsleonard/sublime-MarkdownImages			*
+414	0	Markdown Nav	https://github.com/noahcoad/SublimeMarkdownNav			*
+415	0	MarkdownPreview	https://facelessuser.github.io/MarkdownPreview/			*
+416	0	MarkdownPreviewEnhanced	https://github.com/CaffeineOddity/MarkdownPreviewEnhanced			*
+417	0	Markdown Table Creator	https://github.com/yusufb/MarkdownTableCreator#markdown-table-creator			*
+418	0	Markdown Table Formatter	https://github.com/bitwiser73/MarkdownTableFormatter			*
+419	0	Markdown Table of Contents	https://github.com/codeleventh/mdtoc			*
+420	0	MarkdownWriter	https://github.com/vanleo2001/MarkdownWriter			*
+421	0	MarkLogic	https://github.com/paxtonhare/MarkLogic-Sublime			*
+422	0	Markmon real-time markdown preview	https://github.com/yyjhao/sublime-text-markmon			*
+423	0	Marshal Command Code	https://github.com/nlipiarski/MCC			*
+424	0	Mask	https://github.com/tenbits/sublime-mask			*
+425	0	Match	https://github.com/li-vu/st-match			*
+426	0	Materialize	https://packagecontrol.io/packages/Materialize			*
+427	0	Material Theme	https://github.com/SublimeText/material-theme			*
+428	0	MayaSublime	https://github.com/justinfx/MayaSublime			*
+429	0	MCNP	https://github.com/SublimeText/MCNP			*
+430	0	MCP Commander	https://github.com/dpc00/sublime-mcp			*
+431	0	Mediawiker	https://github.com/tosher/Mediawiker			*
+432	0	Mercurial	https://github.com/guillermooo/Mercurial			*
+433	0	Merlin	https://github.com/cynddl/sublime-text-merlin			*
+434	0	MessagesPylint	https://github.com/KristoforMaynard/SublimeMessagesPylint			*
+435	0	MessagesSublemake	https://github.com/KristoforMaynard/SublimeMessagesSublemake			*
+436	0	Method	https://github.com/shagabutdinov/sublime-method			*
+437	0	Mindustry Assembly	https://github.com/gigamicro/Mindustry4Sublime			*
+438	0	Minify	https://github.com/tssajo/Minify			*
+439	0	Minteresting	https://github.com/daytonn/Minteresting			*
+440	0	MJML-syntax	https://packagecontrol.io/packages/MJML-syntax			*
+441	0	Modelines	https://github.com/SublimeText/Modelines			*
+442	0	ModernFortran	https://github.com/eirik-kjonstad/modern-fortran-syntax			*
+443	0	Modific	https://github.com/gornostal/Modific			*
+444	0	Moonlight	https://github.com/mauroreisvieira/moonlight-sublime-theme			*
+445	0	MoveTab	https://github.com/SublimeText/MoveTab			*
+446	0	Mplus	https://github.com/bkeller2/Mplus			*
+447	0	MrIgor	https://github.com/tisto/MrIgor			*
+448	0	Mustache	https://github.com/SublimeText/Mustache			*
+449	0	MySFTP	https://github.com/icjmaa/MySFTP			*
+450	0	Nano Bots	https://packagecontrol.io/packages/Nano%20Bots			*
+451	0	Naomi	https://github.com/borela/naomi			*
+452	0	Nelua	https://github.com/edubart/nelua-sublime			*
+453	0	NeoVintageous	https://neovintageous.github.io			*
+454	0	NeoVintageousHighlightLine	https://www.gerardroche.com			*
+455	0	NeoVintageousLineNumbers	https://www.gerardroche.com			*
+456	0	NeoVintageousToggle	https://github.com/NeoVintageous/NeoVintageousToggle			*
+457	0	Nim	https://github.com/nim-lang/NimLime			*
+458	0	NimPlus	https://github.com/vanyle/NimPlus			*
+459	0	Ninja	https://github.com/pope/SublimeNinja			*
+460	0	NodeRequirer	https://github.com/ganemone/NodeRequirer			*
+461	0	Norber Theme	https://github.com/mortalis13/Norber-Theme-Sublime			*
+462	0	Notepad++ Color Scheme	https://github.com/evandrocoan/NotepadPlusPlusColorScheme			*
+463	0	Notes	https://github.com/tbh1/sublime-notes			*
+464	0	Notifications	https://github.com/thomscode/Notifications			*
+465	0	NukeToolsST	https://packagecontrol.io/packages/NukeToolsST			*
+466	0	Nushell	https://github.com/stevenxxiu/sublime_text_nushell			*
+467	0	NX Sublime Coverage	https://github.com/raynode/NXSublimeCoverage			*
+468	0	Occur	https://github.com/dreki/sublime-occur			*
+469	0	Octo	https://github.com/mattmikolay/octo-sublime			*
+470	0	October Twig Highlighter	https://github.com/daftspunk/october-twig			*
+471	0	Odin	https://github.com/odin-lang/sublime-odin			*
+472	0	Okami – Adaptive Color Schemes	https://github.com/Rayraegah/okami			*
+473	0	Old-Style ASCII Property Lists	https://github.com/p4t5h3/ascii-property-lists-for-sublime-text			*
+474	0	OmniSharp	http://omnisharp-sublime.readthedocs.org/en/latest/			*
+475	0	On Save	https://github.com/wl879/SublimeOnSave			*
+476	0	Open	https://github.com/danielfrg/sublime-open			*
+477	0	OpenCL	https://github.com/kbenzie/Sublime-OpenCL			*
+478	0	Open DOI	https://packagecontrol.io/packages/Open%20DOI			*
+479	0	OpenFileOverSSH	https://github.com/AncientRoman/SublimeOpenFileOverSSH			*
+480	0	OpenGL Shading Language (GLSL)	https://github.com/euler0/sublime-glsl			*
+481	0	Open In Browser	https://packagecontrol.io/packages/Open%20In%20Browser			*
+482	0	Open in Default Application	https://github.com/SublimeText/OpenDefaultApplication			*
+483	0	OpenVPN	https://github.com/idleberg/sublime-openvpn			*
+484	0	Open With	https://github.com/j-martin/open-with-sublime			*
+485	0	OpenWrt	https://github.com/xyu/sublime-openwrt			*
+486	0	Oracle	https://github.com/Thom1729/sublime-oracle			*
+487	0	OrgExtended	https://github.com/ihdavids/orgextended			*
+488	0	Origami	https://github.com/SublimeText/Origami			*
+489	0	Outline	https://github.com/warmdev/SublimeOutline			*
+490	0	Outline Notes Publisher	https://github.com/gnat/sublime-outline-notes-publisher			*
+491	0	Oz	https://github.com/mozart/sublime-oz			*
+492	0	Package Control	https://packagecontrol.io			*
+493	0	Package Coverage	https://github.com/codexns/package_coverage			*
+494	0	PackagesUI	https://github.com/unknownuser88/PackagesUI			*
+495	0	Packed	https://duraki.github.io/sublime-packed			*
+496	0	Pad	https://github.com/mborgerson/Pad			*
+497	0	Padawan (PHP completion)	https://github.com/padawan-php/padawan.sublime			*
+498	0	Pandown	https://github.com/phyllisstein/Pandown			*
+499	0	paredit	https://github.com/odyssomay/paredit			*
+500	0	Parinfer	https://github.com/oakmac/sublime-text-parinfer			*
+501	0	Pass Manager	https://github.com/degami/PassManager			*
+502	0	Paste As Column	https://github.com/TheClams/PasteAsColumn			*
+503	0	Paste Plus	https://github.com/ggets/Sublime_PastePlus			*
+504	0	Patch Apply	https://github.com/kkujawinski/sublime-text-3-patch-apply			*
+505	0	PathBox	https://github.com/budlime/PathBox			*
+506	0	Pawn syntax	https://github.com/Southclaws/pawn-sublime-language			*
+507	0	PerlSubs	https://github.com/shmuelfomberg/Sublime-Text-Perl-Subs			*
+508	0	PersistentRegexHighlight	https://github.com/skuroda/PersistentRegexHighlight			*
+509	0	Phpactor	https://github.com/tkotosz/sublime-phpactor-plugin			*
+510	0	PHP Companion	https://github.com/erichard/SublimePHPCompanion			*
+511	0	PHP Completions Kit	https://www.gerardroche.com			*
+512	0	Phpcs	https://github.com/benmatselby/sublime-phpcs			*
+513	0	PHP CS Fixer	https://github.com/adael/SublimePhpCsFixer			*
+514	0	PHP Snippets	https://github.com/Mombuyish/sublime-fast-snippets-with-php			*
+515	0	PHPUnit	https://github.com/stuartherbert/sublime-phpunit			*
+516	0	PHPUnit Completions	https://github.com/tkowalewski/phpunit-sublime-completions			*
+517	0	Pieces	https://pieces.app/			*
+518	0	Pine	https://www.gerardroche.com			*
+519	0	Piranha	https://github.com/Kostasn2/piranha-syntax-highlighting-package			*
+520	0	PKGBUILD	https://github.com/git-commit/pkgbuild-st3			*
+521	0	Pkl (Pickle)	https://pkl-lang.org/main/current/language-reference/index.html			*
+522	0	Placeholders	https://github.com/mrmartineau/Placeholders			*
+523	0	PLI10	https://github.com/Kostasn2/pli10_eap-syntax-highlighting-package			*
+524	0	Polar	https://github.com/edaniels/sublime-polar			*
+525	0	Pony Language	https://github.com/ponylang/sublime-pony			*
+526	0	PowerShell	https://github.com/SublimeText/PowerShell			*
+527	0	Praia	https://github.com/praia-lang/praia-sublime			*
+528	0	PreTeXtual	https://github.com/daverosoff/PreTeXtual			*
+529	0	Pretty EDN	https://github.com/oakmac/sublime-pretty-edn			*
+530	0	Pretty Lua	https://github.com/aerobounce/Sublime-Pretty-Lua			*
+531	0	Pretty Protobuf	https://github.com/hanfezh/pretty-protobuf			*
+532	0	Pretty Shell	https://github.com/aerobounce/Sublime-Pretty-Shell			*
+533	0	Prisma	https://packagecontrol.io/packages/Prisma			*
+534	0	Programmatic Key Bindings	https://github.com/VonHeikemen/sublime-pro-key-bindings			*
+535	0	Project And Workspace Management	https://github.com/kyoobey/ProjectAndWorkspaceManagement			*
+536	0	Projectionist	https://github.com/timfjord/Projectionist			*
+537	0	Project PHP ClassBrowser	https://github.com/degami/ProjectPHPClassBrowser			*
+538	0	Project Planner	https://github.com/pedrokost/STProjectPlanner			*
+539	0	PRQL	https://github.com/PRQL/sublime-prql			*
+540	0	PSS	https://github.com/blutsvente/PSS-DSL-syntax			*
+541	0	Pug	https://github.com/davidrios/pug-tmbundle			*
+542	0	PureBasic	https://github.com/p4t5h3/purebasic-language-for-sublime-text			*
+543	0	PureScript	https://github.com/b123400/purescript-ide-sublime			*
+544	0	PyTest	https://github.com/kaste/PyTest			*
+545	0	Python 3	https://github.com/petervaro/python			*
+546	0	Python Flake8 Lint	https://github.com/dreadatour/Flake8Lint			*
+547	0	q KDB	https://github.com/komsit37/sublime-q			*
+548	0	QML	https://github.com/SublimeText/QML			*
+549	0	Quarto	https://github.com/quarto-dev/quarto-sublime			*
+550	0	Quickfix List	https://packagecontrol.io/packages/Quickfix%20List			*
+551	0	QuickRails	https://github.com/danpe/QuickRails			*
+552	0	QuickSimplenote	https://github.com/sickmartian/quick_simplenote			*
+553	0	QuickTemplate (Go)	https://github.com/SharanSharathi/sublime_qtpl			*
+554	0	RailsGoToSpec	https://github.com/sporto/rails-go-to-spec-sublime			*
+555	0	Rails Partial	https://github.com/wesf90/rails-partial			*
+556	0	Rake	https://github.com/SublimeText/Rake			*
+557	0	RAML Syntax Highlighter	https://sublime.wbond.net/packages/RAML%20Syntax%20Highlighter			*
+558	0	RAScript	https://github.com/joshraphael/sublime-rascript			*
+559	0	raylang	https://github.com/ray-language/sublime-raylang			*
+560	0	Reason	https://github.com/reasonml-editor/sublime-reason			*
+561	0	ReaSyntax	https://github.com/Breeder/ReaSyntax			*
+562	0	REBOL	https://github.com/Oldes/Sublime-Rebol			*
+563	0	RedEye	https://github.com/mattmag/RedEye			*
+564	0	REG	https://github.com/robertcollier4/REG			*
+565	0	Regex Escape	https://github.com/Jonnymcc/sublime_regex_escape			*
+566	0	ReIndent	https://github.com/kamilkp/Sublime-Text-ReIndent			*
+567	0	RemoteDiff-BCompare	https://github.com/Rain7232/RemoteDiff-BCompare			*
+568	0	RemoteEdit	https://github.com/sligodave/sublime_remote_edit			*
+569	0	RemoteTree	https://github.com/denull/RemoteTree			*
+570	0	RemoveComments	https://github.com/junliu-lab/RemoveComments			*
+571	0	RemoveDuplicateLines	https://github.com/ilyakam/RemoveDuplicateLines			*
+572	0	RemoveGreekAccents	https://github.com/kyrpas/SublimeRemoveGreekAccents			*
+573	0	Render Tree	https://github.com/cpeccei/RenderTree			*
+574	0	Renpy Language	https://github.com/koroshiya/Sublime-Renpy			*
+575	0	Request	https://github.com/twolfson/sublime-request			*
+576	0	Requester	https://kylebebak.github.io/Requester/			*
+577	0	Restart	https://github.com/yedderson/SublimeRestart			*
+578	0	RESTer HTTP Client	https://github.com/pjdietz/rester-sublime-http-client			*
+579	0	Restructured Text (RST) Snippets	https://github.com/mgaitan/sublime-rst-completion			*
+580	0	Rmate	https://github.com/gja/sublime-rmate			*
+581	0	Rome Formatter	https://github.com/marekpiechut/sublime-rome-formatter			*
+582	0	ROS msg syntax highlight	https://github.com/Binpord/sublime-rosmsg			*
+583	0	RPM Spec Syntax	https://github.com/dreadatour/RPMSpec			*
+584	0	RSpec	https://github.com/SublimeText/RSpec			*
+585	0	rsub	https://github.com/henrikpersson/rsub			*
+586	0	RSync	https://github.com/gcarvalho/RSync			*
+587	0	Rsync SSH	https://github.com/davidolrik/sublime-rsync-ssh			*
+588	0	RubocopDaemon	https://github.com/Lichtbit/sublime_rubocop_daemon			*
+589	0	Rubycritic	https://github.com/pedrocarmona/SublimeRubycritic			*
+590	0	Run	https://github.com/glorieux/Run			*
+591	0	RustFmt	https://github.com/mitranim/sublime-rust-fmt			*
+592	0	Salesforce Reference	https://github.com/Oblongmana/sublime-salesforce-reference			*
+593	0	SassBeautify	https://github.com/badsyntax/SassBeautify			*
+594	0	SassSolution	https://github.com/ahmedam55/SassSolution			*
+595	0	Save All New Tabs to One File	https://github.com/Thamulabs/SaveAllNewTabsInOneDocument			*
+596	0	Save Copy As	https://github.com/NickHatBoecker/SaveCopyAs			*
+597	0	Scarpet	https://github.com/lucifiel1618/SublimeScarpetSyntax			*
+598	0	Scenic	https://github.com/UCSCFormalMethods/Scenic-tmLanguage			*
+599	0	ScopeHunter	https://facelessuser.github.io/ScopeHunter/			*
+600	0	Scratch	https://github.com/jschonberg/Scratch			*
+601	0	Scratchpad	https://github.com/ianunay/sublime_scratchpad			*
+602	0	ScrollToCursor	https://github.com/SelimJB/ScrollToCursor			*
+603	0	Search in Project	https://github.com/deese/SearchInProject_SublimeText			*
+604	0	Semantic Highlighter	https://github.com/kapitanluffy/sublime-semantic-highlighter			*
+605	0	Semi	https://github.com/yyx990803/semi-sublime			*
+606	0	Semicolon	https://github.com/shagabutdinov/sublime-semicolon			*
+607	0	Send to 3ds Max	https://github.com/cb109/sublime3dsmax			*
+608	0	Session Manager	https://github.com/sascha-wolf/sublime-SessionManager			*
+609	0	Show Character Code	https://github.com/borislubimov/ShowCharacterCode			*
+610	0	ShowTexdoc	https://github.com/CareF/Show-Texdoc			*
+611	0	Show Unicode Name	https://github.com/ned-martin/sublime-text-show-unicode-name			*
+612	0	SideBarGit	https://github.com/titoBouzout/SideBarGit			*
+613	0	SideBarMenuAdvanced	https://github.com/wisdman/SideBarMenuAdvanced			*
+614	0	Simple FTP Deploy	https://packagecontrol.io/packages/Simple%20FTP%20Deploy			*
+615	0	Simple Fuzzy	https://github.com/ukyouz/SublimeText-SimpleFuzzy			*
+616	0	Simplenote	https://github.com/RedAtman/simplenote			*
+617	0	Simple Print Function	https://github.com/svenax/SublimePrint			*
+618	0	Six	http://www.sublimesix.com			*
+619	0	Skins	https://github.com/deathaxe/sublime-skins			*
+620	0	Slack	http://simionbaws.ro/sublime-text-3-slack-integration-plugin/			*
+621	0	Slate	https://github.com/kvs/ST2Slate			*
+622	0	Slice	https://github.com/zeroc-ice/sublime-slice			*
+623	0	Slyblime	https://github.com/s-clerc/slyblime			*
+624	0	Smali	https://github.com/QuinnWilton/sublime-smali			*
+625	0	Smart Indent	https://github.com/YKZDY/SmartIndent-sublime			*
+626	0	SmartMarkdown	https://github.com/demon386/SmartMarkdown			*
+627	0	Smarty	https://github.com/amitsnyderman/sublime-smarty			*
+628	0	SmojSubmit	https://github.com/YanWQ-monad/SmojSubmit			*
+629	0	SmPL (Coccinelle)	https://github.com/jtojnar/Sublime-SmPL-Syntax			*
+630	0	Snappy	https://github.com/chenditc/sublime-snappy			*
+631	0	SnippetMaker	https://github.com/jugyo/SublimeSnippetMaker			*
+632	0	Sophia	https://github.com/aeternity/sublime-sophia			*
+633	0	SortBy	https://github.com/Doi9t/SortBy			*
+634	0	Sort Lines (Numerically)	https://github.com/alimony/sublime-sort-numerically			*
+635	0	SortTabs	https://github.com/bizoo/SortTabs			*
+636	0	Sound	https://github.com/airtoxin/Sublime-Sound			*
+637	0	SourcePawn Completions	https://github.com/ppalex7/SourcePawnCompletions			*
+638	0	Spreadsheet Formula	https://github.com/axemonk/Spreadsheet-Formula			*
+639	0	SQLPlus	https://github.com/bofm/sublime_sqlplus			*
+640	0	SQLTools	https://code.mteixeira.dev/SublimeText-SQLTools/			*
+641	0	Squiggle	https://github.com/squiggle-lang/squiggle-sublime			*
+642	0	Squirrel	https://github.com/Enduriel/Sublime-Squirrel			*
+643	0	SRT	https://github.com/SalGnt/Sublime-SRT			*
+644	0	StandardFormat	https://packagecontrol.io/packages/StandardFormat			*
+645	0	Starlark	https://github.com/Vasfed/sublime_starlark			*
+646	0	StataEditor	https://github.com/mattiasnordin/StataEditor			*
+647	0	Statement	https://github.com/shagabutdinov/sublime-statement			*
+648	0	Status Bar Clock	https://github.com/lukstep/StatusBarClock			*
+649	0	Status Bar JsonPath	https://github.com/akirk/StatusBarJsonPath			*
+650	0	StGitlab	https://github.com/tosher/StGitlab			*
+651	0	StickySearch	https://github.com/vim-zz/StickySearch			*
+652	0	Streamlit	https://packagecontrol.io/packages/Streamlit			*
+653	0	Stringify	https://github.com/BurnerPat/sublimetext-stringify			*
+654	0	Strings Resource File	https://github.com/p4t5h3/strings-resource-file-language-for-sublime-text			*
+655	0	StringUtilities	https://github.com/akalongman/sublimetext-stringutilities			*
+656	0	Structurizr DSL	https://github.com/agehrke/structurizr-syntax			*
+657	0	Subclim	https://github.com/JulianEberius/Subclim			*
+658	0	Sublimall	https://github.com/toxinu/Sublimall			*
+659	0	SublimeAnarchy	https://github.com/AnarchyTools/SublimeAnarchy			*
+660	0	SublimeAnarchyDebug	https://github.com/AnarchyTools/SublimeAnarchyDebug			*
+661	0	Sublime Bookmarks	https://github.com/bollu/sublimeBookmark			*
+662	0	SublimeGDB	https://github.com/quarnster/SublimeGDB			*
+663	0	SublimeGit	https://sublimegit.readthedocs.io			*
+664	0	sublime-github	https://github.com/bgreenlee/sublime-github			*
+665	0	Sublime Input	https://github.com/mavidser/SublimeInput			*
+666	0	SublimeLinter Inline Errors	https://github.com/alexkuz/SublimeLinter-inline-errors			*
+667	0	SublimePeek	https://github.com/jlegewie/SublimePeek			*
+668	0	SublimePythonIDE	https://github.com/JulianEberius/SublimePythonIDE			*
+669	0	Sublime Tutor	https://sublimetutor.com			*
+670	0	SublimeXiki	https://github.com/lunixbochs/SublimeXiki			*
+671	0	SubNotify	http://facelessuser.github.io/SubNotify/			*
+672	0	subversion_for_sublime_txt3	https://github.com/xiewandongqq/subversion_for_sublime_txt3			*
+673	0	Summary	https://github.com/geekpradd/Summary-Sublime			*
+674	0	Super Templates	https://github.com/WiseLibs/super-templates-syntax			*
+675	0	SVGO	https://packagecontrol.io/packages/SVGO			*
+676	0	SVG Viewer	https://packagecontrol.io/packages/SVG Viewer			*
+677	0	Swift	https://github.com/quiqueg/Swift-Sublime-Package			*
+678	0	Swift Autocomplete	https://github.com/Dan2552/SublimeTextSwiftAutocomplete			*
+679	0	Swift Format	https://github.com/aerobounce/Sublime-Swift-Format			*
+680	0	Swift Next	https://github.com/Swift-Next/Swift-Next			*
+681	0	SymbolBalloon	https://github.com/matsukido/SymbolBalloon			*
+682	0	Syncrow	https://github.com/Afzal7/syncrow			*
+683	0	Synesthesia	https://github.com/dariusf/synesthesia			*
+684	0	SystemRDL	https://github.com/deanMaker/sublime-language-systemrdl			*
+685	0	Tab Filter	https://github.com/robinmalburn/sublime-tabfilter			*
+686	0	Table of comments	https://github.com/kizza/Table-of-comments			*
+687	0	Tabnine	https://www.tabnine.com/install/sublime			*
+688	0	TabsExtra	https://facelessuser.github.io/TabsExtra/			*
+689	0	Tact	https://tact-lang.org			*
+690	0	Tag	https://github.com/titoBouzout/Tag			*
+691	0	Tailwind CSS	https://github.com/SublimeText/TailwindCSS			*
+692	0	Tailwind CSS Autocomplete	https://packagecontrol.io/packages/Tailwind%20CSS%20Autocomplete			*
+693	0	Tailwind Reorder	https://github.com/54nd10/Tailwind-reorder			*
+694	0	Task	http://blog.samsonis.me/2012/02/introducing-sublimetask-gtd/			*
+695	0	Template Tag	https://github.com/ijlee2/sublime-syntax-definition-template-tag			*
+696	0	Templ (go)	https://github.com/papierkorp/sublime-templ			*
+697	0	Tensorflow	https://github.com/baptisteArno/Sublime-Tensorflow			*
+698	0	Terminal	https://packagecontrol.io/packages/Terminal			*
+699	0	TerminalView	https://github.com/Wramberg/TerminalView			*
+700	0	TermMate	https://termmate.app/sublime/			*
+701	0	TernJS	https://github.com/emmetio/sublime-tern			*
+702	0	Terrafmt	https://github.com/p3lim/sublime-terrafmt			*
+703	0	Test	https://www.gerardroche.com			*
+704	0	Test Double	https://github.com/testdouble/sublime-test-double			*
+705	0	TestRSpec	https://github.com/astrauka/TestRSpec			*
+706	0	Test Runner	https://github.com/accerqueira/sublime-test-runner			*
+707	0	TextCommands	https://github.com/chaosphere2112/TextCommands			*
+708	0	Text Highlighter	https://github.com/kdnk/sublime_text_highlighter			*
+709	0	Text Marker	https://github.com/Kronuz/TextMarker			*
+710	0	textract	https://github.com/germtb/textract			*
+711	0	Theme - El Capitan	https://github.com/iccir/El-Capitan-Theme			*
+712	0	Theme - Monokai	https://github.com/joshuahiggins/sublime-text-monokai			*
+713	0	ThemeScheduler	http://facelessuser.github.io/ThemeScheduler/			*
+714	0	Themr	https://github.com/benweier/Themr			*
+715	0	TicketMaster	https://github.com/amit-bansil/TicketMaster			*
+716	0	TimeNotify	https://github.com/halfmoonvic/TimeNotify			*
+717	0	Timestamp converter	https://github.com/Zlitus/sublime-text-timestamp			*
+718	0	Tint Terminal	https://github.com/joshgoebel/sublime-tint-terminal			*
+719	0	Tips	https://github.com/kapitanluffy/sublime-tips			*
+720	0	tmux	https://github.com/huntie/sublime-tmux			*
+721	0	Todo	https://github.com/nijikokun/todo-tmbundle			*
+722	0	TodoTxt	https://packagecontrol.io/packages/TodoTxt			*
+723	0	Toggle Dark Mode	https://github.com/ElMassimo/sublime-toggle-dark-mode			*
+724	0	Toggle Sidebar Focus	https://github.com/educbraga/ToggleSidebarFocus			*
+725	0	Toggle Words	https://github.com/gordio/ToggleWords			*
+726	0	TOML	https://github.com/jasonwilliams/sublime_toml_highlighting			*
+727	0	TooltipLSL	https://github.com/Makopo/sublime-text-tooltip-lsl			*
+728	0	tQuery	https://github.com/jeromeetienne/tquery-sublime			*
+729	0	Translate	https://github.com/standfast/Translate			*
+730	0	Trello	https://github.com/nicosantangelo/sublime-text-trello			*
+731	0	Troubleshooting	https://github.com/guillermooo/sublime-troubleshooting			*
+732	0	TSQLEasy	https://github.com/tosher/TSQLEasy			*
+733	0	Tup	https://github.com/petervaro/tup			*
+734	0	Twig	https://packagecontrol.io/packages/Twig			*
+735	0	TwilightBright	https://github.com/sepisoad/sublime-twilight-bright-color			*
+736	0	TypeScript	https://typescriptlang.org			*
+737	0	TypoScript	https://github.com/DanielSiepmann/Sublime-Text-TypoScript			*
+738	0	UbuntuPaste	https://github.com/3v1n0/UbuntuPaste			*
+739	0	UL4	https://github.com/LivingLogic/LivingLogic.SublimeText.UL4			*
+740	0	Ultimate Dark	https://github.com/rubjo/ultimate-dark			*
+741	0	Ultimate Dark Neo	https://github.com/rubjo/ultimate-dark-neo			*
+742	0	Umajin	https://github.com/Umajin/SublimeText-Umajin			*
+743	0	UnicodeMath	https://github.com/mvoidex/UnicodeMath			*
+744	0	Unicon	https://github.com/tajmone/Sublime-Unicon			*
+745	0	Unity Test Completions	https://github.com/pajacobson/unity_test_completions			*
+746	0	Unquote	https://github.com/mradamh/sublime-unquote			*
+747	0	UnrealScriptIDE	https://github.com/Zinggi/UnrealScriptIDE			*
+748	0	UrlConverter	https://packagecontrol.io/packages/UrlConverter			*
+749	0	uroboroSQL Formatter	https://github.com/future-architect/Sublime-uroboroSQL-formatter			*
+750	0	USFOS	https://github.com/ckunte/usfos_st			*
+751	0	UVMLog	https://github.com/UVMLog/UVMLog			*
+752	0	UWSC	https://github.com/stuncloud/Sublime_UWSC			*
+753	0	Vagrant	https://github.com/Stubbs/sublime-vagrant			*
+754	0	Vala	https://github.com/colinkiama/vala_sublime_text			*
+755	0	Vale	https://packagecontrol.io/packages/Vale			*
+756	0	VAlign	https://github.com/jarod2d/sublime_valign			*
+757	0	VCS Gutter	https://github.com/bradsokol/VcsGutter			*
+758	0	Veeam Logs Helper	https://github.com/yandexx/VeeamLogsHelper			*
+759	0	Ver	https://github.com/nyx-platform/ver-tmbundle			*
+760	0	Verbose	https://github.com/Starli0n/SublimeVerbose			*
+761	0	Verilog	https://github.com/pro711/sublime-verilog			*
+762	0	VHDL	https://github.com/yangsu/sublime-vhdl			*
+763	0	VHDL Mode	https://github.com/Remillard/VHDL-Mode			*
+764	0	VimL	https://packagecontrol.io/packages/VimL			*
+765	0	VintageES	http://www.sublimetext.com/docs/3/vintage.html			*
+766	0	Vintage Escape	https://github.com/tonymagro/VintageEscape			*
+767	0	Vintageous	http://guillermooo.bitbucket.org/Vintageous/			*
+768	0	VintageousOrigami	https://github.com/rodcloutier/Vintageous-Origami			*
+769	0	Vintage Relative Lines	https://github.com/bicarlsen/vintage_relnums			*
+770	0	Virtualenv	https://github.com/AdrianLC/sublime-text-virtualenv			*
+771	0	VPC Script	https://github.com/GitSparTV/VPCSyntaxHighlighting			*
+772	0	Vue	https://github.com/SublimeText/Vue			*
+773	0	WASM Interface Type	https://github.com/SublimeText/WasmInterfaceType			*
+774	0	webAgent	https://packagecontrol.io/packages/webAgent			*
+775	0	WebIDL	https://github.com/queengooborg/WebIDL-Sublime			*
+776	0	WGSL	https://github.com/relrelb/sublime-wgsl			*
+777	0	Whiley	https://github.com/Whiley/WhileySyntaxBundle			*
+778	0	Whitelines	https://github.com/TEParsons/Whitelines			*
+779	0	Wind	https://github.com/phyllisstein/Wind			*
+780	0	WML	https://github.com/sevu/Sublime-WML			*
+781	0	Word Count	https://github.com/shadax1/word_count			*
+782	0	Worksheet	https://github.com/jcartledge/sublime-worksheet			*
+783	0	WrapAsYouType	https://github.com/btrekkie/WrapAsYouType			*
+784	0	Wrap Plus	https://github.com/ehuss/Sublime-Wrap-Plus			*
+785	0	Wren	https://github.com/munificent/wren-sublime			*
+786	0	WslBuild	https://github.com/SublimeText/WslBuild			*
+787	0	WWB	https://github.com/rusiv/WWB			*
+788	0	wxapp	https://github.com/floydawong/wxapp			*
+789	0	Xcode Configuration Settings	https://github.com/p4t5h3/xcode-build-configuration-language-for-sublime-text			*
+790	0	XDC	https://github.com/LDprg/XDC			*
+791	0	xit!	https://packagecontrol.io/packages/xit!			*
+792	0	Xkcd	https://github.com/EivindArvesen/xkcd			*
+793	0	xml2json	https://github.com/vontio/sublime-xml2json			*
+794	0	xonsh	https://github.com/eugenesvk/sublime-xonsh			*
+795	0	xpath	https://github.com/rawsp33d/sublime-xpath			*
+796	0	YcmdCompletion	https://github.com/LuckyGeck/YcmdCompletion			*
+797	0	ytt	https://github.com/Vasfed/sublime_ytt			*
+798	0	Z	https://github.com/externl/sublime-z			*
+799	0	Zen Tabs	https://github.com/travmik/ZenTabs			*
+800	0	Zig Language	https://codeberg.org/ziglang/sublime-zig-language			*
+801	0	ZipContents	https://github.com/mawelborn/ZipContents			*
+802	0	ZSH	https://github.com/molovo/sublime-zsh			*
+803	0	DoxyDoxygen	http://20tauri.free.fr/DoxyDoxygen/			*
+804	0	DoxyDoxygen (evolution)	http://20tauri.free.fr/DoxyDoxygen/			*
+805	0	SublimeManpage	https://github.com/apophys/SublimeManpage			*
+806	0	LinkedData	https://github.com/blake-regalia/linked-data.syntaxes			*
+807	0	Octopress	https://github.com/blueplanet/sublime-text-octopress			*
+808	0	PHP Code Coverage	https://github.com/bradfeehan/SublimePHPCoverage			*
+809	0	IMESupport	https://github.com/chikatoike/IMESupport			*
+810	0	Calculate	https://github.com/colinta/SublimeCalculate			*
+811	0	Browser Refresh	http://gcollazo.github.com/BrowserRefresh-Sublime			*
+812	0	AutoSetSyntax	https://github.com/jfcherng-sublime/ST-AutoSetSyntax			*
+813	0	Fanhuaji	https://github.com/Fanhuaji/Sublime-Fanhuaji			*
+814	0	OpenUri	https://github.com/jfcherng-sublime/ST-OpenUri			*
+815	0	Updater	https://github.com/Kaizhi/SublimeUpdater			*
+816	0	Japanize	https://github.com/kik0220/sublimetext_japanize			*
+817	0	ChangeList	https://github.com/randy3k/ChangeList			*
+818	0	LaTeXBox	https://github.com/randy3k/LaTeXBox			*
+819	0	LaTeXYZ	https://github.com/randy3k/LaTeXYZ			*
+820	0	ProjectManager	https://github.com/randy3k/ProjectManager			*
+821	0	R-IDE	https://github.com/REditorSupport/sublime-ide-r			*
+822	0	SendCode	https://github.com/randy3k/SendCode			*
+823	0	UnicodeCompletion	https://github.com/randy3k/UnicodeCompletion			*
+824	0	Whitespace	https://github.com/randy3k/Whitespace			*
+825	0	CodeComplice	https://github.com/spectacles/CodeComplice			*
+826	0	SublimeLinter-addon-black-for-flake	https://github.com/kaste/SublimeLinter-addon-black-for-flake			*
+827	0	SublimeLinter-addon-filter	https://github.com/kaste/SublimeLinter-addon-filter			*
+828	0	SublimeLinter-annotations	https://github.com/SublimeLinter/SublimeLinter-annotations			*
+829	0	SublimeLinter-bandit	https://github.com/SublimeLinter/SublimeLinter-bandit			*
+830	0	SublimeLinter-clang	https://github.com/SublimeLinter/SublimeLinter-clang			*
+831	0	SublimeLinter-contrib-ameba	https://packagecontrol.io/packages/SublimeLinter-contrib-ameba			*
+832	0	SublimeLinter-contrib-LanguageTool	https://github.com/GiovanH/sublimelint-contrib-languagetool			*
+833	0	SublimeLinter-contrib-standardrb	https://github.com/testdouble/SublimeLinter-contrib-standardrb			*
+834	0	SublimeLinter-contrib-swiftlint	https://github.com/mailiam/SublimeLinter-contrib-swiftlint			*
+835	0	SublimeLinter-contrib-verilator	https://github.com/poucotm/SublimeLinter-contrib-verilator			*
+836	0	SublimeLinter-cppcheck	https://github.com/SublimeLinter/SublimeLinter-cppcheck			*
+837	0	SublimeLinter-cspell	https://github.com/SublimeLinter/SublimeLinter-cspell			*
+838	0	SublimeLinter-csslint	https://github.com/SublimeLinter/SublimeLinter-csslint			*
+839	0	SublimeLinter-eslint	https://github.com/SublimeLinter/SublimeLinter-eslint			*
+840	0	SublimeLinter-flake8	https://github.com/SublimeLinter/SublimeLinter-flake8			*
+841	0	SublimeLinter-gotype	https://github.com/SublimeLinter/SublimeLinter-gotype			*
+842	0	SublimeLinter-govet	https://github.com/SublimeLinter/SublimeLinter-govet			*
+843	0	SublimeLinter-hlint	https://github.com/SublimeLinter/SublimeLinter-hlint			*
+844	0	SublimeLinter-html-tidy	https://github.com/SublimeLinter/SublimeLinter-html-tidy			*
+845	0	SublimeLinter-javac	https://github.com/SublimeLinter/SublimeLinter-javac			*
+846	0	SublimeLinter-jscs	https://github.com/mdevils/node-jscs/			*
+847	0	SublimeLinter-jshint	https://github.com/SublimeLinter/SublimeLinter-jshint			*
+848	0	SublimeLinter-jsl	https://github.com/SublimeLinter/SublimeLinter-jsl			*
+849	0	SublimeLinter-json	https://github.com/SublimeLinter/SublimeLinter-json			*
+850	0	SublimeLinter-jsxhint	https://github.com/SublimeLinter/SublimeLinter-jsxhint			*
+851	0	SublimeLinter-pep8	https://github.com/SublimeLinter/SublimeLinter-pep8			*
+852	0	SublimeLinter-php	https://github.com/SublimeLinter/SublimeLinter-php			*
+853	0	SublimeLinter-phpcs	https://github.com/SublimeLinter/SublimeLinter-phpcs			*
+854	0	SublimeLinter-phplint	https://github.com/SublimeLinter/SublimeLinter-phplint			*
+855	0	SublimeLinter-pug-lint	https://github.com/SublimeLinter/SublimeLinter-pug-lint			*
+856	0	SublimeLinter-pycodestyle	https://github.com/SublimeLinter/SublimeLinter-pycodestyle			*
+857	0	SublimeLinter-pyflakes	https://github.com/SublimeLinter/SublimeLinter-pyflakes			*
+858	0	SublimeLinter-pylint	https://github.com/SublimeLinter/SublimeLinter-pylint			*
+859	0	SublimeLinter-rst	https://github.com/SublimeLinter/SublimeLinter-rst			*
+860	0	SublimeLinter-rubocop	https://github.com/SublimeLinter/SublimeLinter-rubocop			*
+861	0	SublimeLinter-ruby	https://github.com/SublimeLinter/SublimeLinter-ruby			*
+862	0	SublimeLinter-shellcheck	https://github.com/SublimeLinter/SublimeLinter-shellcheck			*
+863	0	SublimeLinter-tslint	https://github.com/SublimeLinter/SublimeLinter-tslint			*
+864	0	SublimeLinter-vale	https://github.com/SublimeLinter/SublimeLinter-vale			*
+865	0	SublimeLinter-xmllint	https://github.com/SublimeLinter/SublimeLinter-xmllint			*
+866	0	LSP-angular	https://github.com/sublimelsp/LSP-angular			*
+867	0	LSP-astro	https://github.com/sublimelsp/LSP-astro			*
+868	0	LSP-bash	https://github.com/sublimelsp/LSP-bash			*
+869	0	LSP-clangd	https://github.com/sublimelsp/LSP-clangd			*
+870	0	LSP-css	https://github.com/sublimelsp/LSP-css			*
+871	0	LSP-Dart	https://github.com/sublimelsp/LSP-Dart			*
+872	0	LSP-dockerfile	https://github.com/sublimelsp/LSP-dockerfile			*
+873	0	LSP-elixir	https://lsp.sublimetext.io/			*
+874	0	LSP-eslint	https://github.com/sublimelsp/LSP-eslint			*
+875	0	LSP-file-watcher-chokidar	https://github.com/sublimelsp/LSP-file-watcher-chokidar			*
+876	0	LSP-flow	https://github.com/sublimelsp/LSP-flow			*
+877	0	LSP-gopls	https://github.com/sublimelsp/LSP-gopls			*
+878	0	LSP-graphql	https://github.com/sublimelsp/LSP-graphql			*
+879	0	LSP-html	https://github.com/sublimelsp/LSP-html			*
+880	0	LSP-intelephense	https://github.com/sublimelsp/LSP-intelephense			*
+881	0	LSP-jdtls	https://packagecontrol.io/packages/LSP-jdtls			*
+882	0	LSP-lua	https://github.com/sublimelsp/LSP-lua			*
+883	0	LSP-metals	https://packagecontrol.io/packages/LSP-metals			*
+884	0	LSP-nimlangserver	https://github.com/sublimelsp/LSP-nimlangserver			*
+885	0	LSP-OmniSharp	https://github.com/sublimelsp/LSP-OmniSharp			*
+886	0	LSP-PowerShellEditorServices	https://github.com/sublimelsp/LSP-PowerShellEditorServices			*
+887	0	LSP-prisma	https://packagecontrol.io/packages/LSP-prisma			*
+888	0	LSP-pylsp	https://github.com/sublimelsp/LSP-pylsp			*
+889	0	LSP-pyproject	https://github.com/sublimelsp/LSP-pyproject			*
+890	0	LSP-ruff	https://packagecontrol.io/packages/LSP-ruff			*
+891	0	LSP-rust-analyzer	https://github.com/sublimelsp/LSP-rust-analyzer			*
+892	0	LSP-svelte	https://github.com/sublimelsp/LSP-svelte			*
+893	0	LSP-tailwindcss	https://github.com/sublimelsp/LSP-tailwindcss			*
+894	0	LSP-taplo	https://taplo.tamasfe.dev			*
+895	0	LSP-terraform	https://github.com/sublimelsp/LSP-terraform			*
+896	0	LSP-Tinymist	https://github.com/sublimelsp/LSP-Tinymist			*
+897	0	LSP-ty	https://github.com/sublimelsp/LSP-ty			*
+898	0	LSP-typescript	https://github.com/sublimelsp/LSP-typescript			*
+899	0	LSP-vale-ls	https://packagecontrol.io/packages/LSP-vale-ls			*
+900	0	LSP-volar	https://github.com/sublimelsp/LSP-volar			*
+901	0	LSP-vue	https://github.com/sublimelsp/LSP-vue			*
+902	0	Language - French - Français	https://github.com/superbob/SublimeTextLanguageFrench			*
+903	0	Pandoc	https://github.com/tbfisher/sublimetext-Pandoc			*
+904	0	subl protocol	https://github.com/thecotne/subl-protocol			*
+905	0	Quokka	http://quokkajs.com			*
+906	0	Wallaby	http://wallabyjs.com			*
+907	0	InputHelper	https://github.com/xgenvn/InputHelper			*
+908	0	DirectorySettings	https://codeberg.org/TobyGiacometti/SublimeDirectorySettings			*

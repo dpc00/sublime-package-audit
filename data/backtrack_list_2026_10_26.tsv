@@ -1,0 +1,261 @@
+﻿skipped-by-age-or-type	Theme - Kronuz	2026-10-07	skipped: last release 2018, long-dead
+skipped-by-age-or-type	CoolBase64	2026-10-07	skipped: last release 2020, long-dead
+skipped-by-age-or-type	WordPress Customizer	2026-10-07	skipped: last release 2016, long-dead
+skipped-by-age-or-type	DashDoc	2026-10-07	skipped: last release 2019, long-dead
+skipped-by-age-or-type	SublimeLinter-contrib-htmlhint	2026-10-07	skipped: last release 2019, long-dead
+not-in-picker-untested	Dictionaries	2026-10-07	skipped: not in the channel under that name
+skipped-by-age-or-type	PostgreSQL Syntax Highlighting	2026-10-07	skipped: last release 2020, long-dead
+skipped-by-age-or-type	Predawn	2026-10-07	skipped: last release 2017, long-dead
+not-in-picker-untested	LSP-promql	2026-10-08	skipped: not in the Install Package picker on 4215 (5,000+ entries searched), cannot be installed like a user
+not-in-picker-untested	LSP-serenata	2026-10-08	skipped: not in the Install Package picker on 4215 (5,000+ entries searched), cannot be installed like a user
+skipped-by-age-or-type	FileIcons	2026-10-08	skipped: no Python (Rust build tooling only)
+skipped-by-age-or-type	FileIcons Mono	2026-10-08	skipped: no Python (same repo as FileIcons)
+skipped-by-age-or-type	Theme - Brackets	2026-10-08	skipped: no Python (theme only)
+skipped-by-age-or-type	SwiftKitten	2026-10-09	skipped: unmaintained (last update 2016-04); needs SourceKitten, no Windows support. Swift toolchain is installed but not needed
+skipped-by-age-or-type	CSScheme	2026-10-09	skipped: unmaintained (last update 2016-06); plain-CSS path was tested earlier, SCSS/Sass path not run
+skipped-by-age-or-type	RubyTest	2026-10-09	skipped: unmaintained (last update 2017-08)
+skipped-by-age-or-type	IJulia	2026-10-09	skipped: unmaintained (last update 2015-01)
+skipped-by-age-or-type	Cscope	2026-10-09	skipped: unmaintained (last update 2018-11)
+skipped-by-age-or-type	SublimeSBT	2026-10-09	skipped: unmaintained (last update 2018-04)
+not-in-picker-untested	FindResultsApplyChanges	2026-10-11	skipped, age3y list: channel entry has no releases and it is not in the Install Package picker (4729 entries searched), so a user cannot ins
+not-in-picker-untested	Open-Include	2026-10-11	skipped, age3y list: channel entry has no releases, not installable by a user
+not-in-picker-untested	Python Import Magic	2026-10-11	skipped, age3y list: only release is limited to Sublime Text below 3000, not offered on 4200/4215
+skipped-by-age-or-type	Pywin32	2026-10-11	skipped, age3y list: library-style package (pywin32 binaries for the 3.3 host, 3.8 MB) with no commands, menus or UI; exercising it needs ev
+skipped-by-age-or-type	SublimeLinter-ghc	2026-10-11	skipped, py1k list: already tested 2026-10-02 (row 'SublimeLinter-ghc 1.0.21', log line 6156, ghc PR #10); the list builder missed it becaus
+not-in-picker-untested	JsRun	2026-10-11	skipped, py1k list: the only release (1.0.0) is platforms=osx, so it is not in the Install Package picker on Windows; cannot be installed or
+already-tested-by-copy	PreventFakeClones	2026-10-12	not installable from Package Control (releases empty); manual copy works as described, no defects; removed
+already-tested-by-copy	SideBarFolders	2026-10-12	not installable (no releases); manual copy: Load Folder menu item has no command; emailed author; removed
+skipped-by-age-or-type	ollama-sublime (KalimeroMK)	2026-10-13	skipped by Donald 2026-10-13: Ollama has been removed from his machine
+skipped-by-age-or-type	PythonTestRunner	2026-10-13	skipped: Sublime Text 2 only
+skipped-by-age-or-type	Better Completion	2026-10-13	skipped: description says DEPRECATED, use TypeScript
+not-in-picker-untested	Travis YML Lint (sabhiram/sublime-travis-yml-lint)	2026-10-14	NOT installed: existing issue #1 already reports the dead lint service; lint.travis-ci.org no longer resolves (my DNS check 2026-10-14); ruf
+not-in-picker-untested	Prefixr	2026-10-17	Not installable: channel entry (legacy sublime.wbond.net/packages_2.json) has releases [] so it is absent from the Install Package list on 4
+not-in-picker-untested	HtmlTidy	2026-10-19	Not in the Package Control channel (picker filter "tidy" lists 5 others; already reported as welovewordpress/SublimeHtmlTidy#35). Not instal
+already-tested-by-copy	sublime-jslint	2026-10-19	Not in the Package Control channel under this name (picker filters jslint, fbzhong find only other packages); tested from a hand copy of fbz
+already-tested-by-copy	Edit History	2026-10-19	Not in the Package Control channel; tested from a hand copy of Stuk/sublime-edit-history on 4200. xrange NameError in History.clear on every
+already-tested-by-copy	PhpBeautifier	2026-10-19	Not in the channel; hand copy of SublimeText/PhpBeautifier on 4200. Command php_beautifier on a saved .txt file raises AttributeError: no at
+already-tested-by-copy	JsMinifier	2026-10-19	Not in the Package Control channel (filter minif lists only others). Hand copy of cgutierrez/JsMinifier on 4200: Minify.py does not load on 
+already-tested-by-copy	PhpTidy 554	2026-10-19	not in the channel; hand copy works with PHP 8.4 (reformatted a test file); plugin hardcodes Packages/PhpTidy so a zip install cannot work, 
+already-tested-by-copy	TidyHTML5 561	2026-10-19	not in the channel; hand copy works (bundled tidy.exe reformatted a test file); folder name TidyHTML5 is hardcoded in the plugin; nothing fi
+already-tested-by-copy	Copy File Name 565	2026-10-19	not in the channel; hand copy works (copy_filename puts the tab file name on the clipboard); sidebar menu entry calls a TextCommand, not tri
+already-tested-by-copy	IndentGuides 594	2026-10-19	not in the channel; hand copy does not load on the 3.3 host: import indentation fails, xrange and long are Python 2 (#6)
+already-tested-by-copy	sublime-closure-linter 861	2026-10-19	not in the channel install list (search closure: only two snippet packages), hand copy of fbzhong repo; Python 2 only (print statements, imp
+already-tested-by-copy	Codeigniter Codeintel Helper 896	2026-10-19	not in channel, hand copy of master, ST2-only; Py2 print SyntaxError and non-relative import fail on ST3/4; with both fixed the command writ
+already-tested-by-copy	CTags for PHP 902	2026-10-20	not in channel, hand copy; ST2-only by README (print statement SyntaxError on ST3/4, declared, issue #1 wontfix); nothing filed; successor P
+already-tested-by-copy	Laravel Generator 937	2026-10-20	Not in channel under this name (hand copy). Real Laravel 13 project built with composer in own folder. Artisan Command shows output only for
+already-tested-by-copy	AndyJS2 966	2026-10-20	not in channel; hand copy works (document.getEl completes with a list); nothing filed
+already-tested-by-copy	phpDocumentor 970	2026-10-20	not in channel; hand copy: Python 2 syntax (print statement, import thread), SyntaxError at load on ST3; known (#1 Support for ST3, closed 2
+already-tested-by-copy	Python Pep8 Lint 1001	2026-10-20	not in channel; hand copy: import pep8 fails on ST3/4 (ST2 plugin), from . import pep8 loads it and lint works; open #6, #7 not related
+already-tested-by-copy	Code Alignment 1012	2026-10-20	not in channel; hand copy: Python 2 syntax (print statement) SyntaxError at load, 32-bit Windows DLL only (README, x64 issue #3 expired); kn
+gone-genuine	Boxy Theme	2026-10-21	Not installable: the channel entry has no release for any platform and the repository (ihodev/sublime-boxy) and its owner account return 404
+gone-genuine	APPCloud	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Borat Ipsum	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Business Catalyst Liquid Snippets	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	CCL Tools	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	CFile	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	ChecksumUPC	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	CircleCi Status	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Color Scheme - AmyCable	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Color Scheme - JustBeforeDawn	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Devrabbit Paste	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Duotone Dark Red	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Easygit	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	FindInProject	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Full House Color Scheme	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	GreekTeX	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Groovy Imports	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	HTML Compressor	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Insert Filepath	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Inspr	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	InstaGoogling	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	J Language	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	JS Coverage	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	JavaScript Multiline	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	LiveStamps	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Mongoose CoffeeScript	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	One Dark Color Scheme	2026-10-21	Not installable: listed in the Install Package picker, but the install fails, Package Control console: HTTP error 404 downloading the releas
+gone-genuine	OpenEdge ABL	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Paste Laravel	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Peeko	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Primitive Filler	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Rails Developer Snippets	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Rant	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Retrosheet Syntax	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	SVG-SMIL-Snippets	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Scaffolder	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	ServiceNow API Autocompletion	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Solo Snippets	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Spandoc	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Spark	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Theme - Piatto	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	TideSDK Autocomplete	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Transience	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	TypeSnippets	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	UnicodeTeX	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Vorhees	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Vuetify	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	XpressEngine	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	YUI Compressor	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	Yii Framework Docs Search	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	dpaster	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+gone-genuine	sublime-symfony	2026-10-21	Not installable: the repository no longer exists and the release download URL returns HTTP 404 (checked with an HTTP request, not through th
+not-in-picker-untested	Unity Completions	2026-10-21	Skipped, not tested: the v2019.2.16 zip holds 209,208 snippet files (98 MB). Package Control downloads it (curl 9 MB/s) but the install was 
+not-in-picker-untested	AndyEdits	2026-10-21	Not in the ST4 Install list; tested unpacked from the repo zipball. output_edits begin_edit TypeError (patch tested), missing import sys on 
+not-in-picker-untested	AndyPython	2026-10-21	Not in the ST4 Install list; tested unpacked from the zipball. py_help begin_edit TypeError (patch tested), two SyntaxWarnings (fix tested);
+not-in-picker-untested	AutoPHPDollar	2026-10-22	Not in ST4 install list; tested GitHub master copy with .python-version 3.8. Constant before == or === gets a dollar (tested); SyntaxWarning
+already-tested-by-copy	BitcoinTicker	2026-10-22	Not in ST4 Install list; tested from a copy. convert_strings never read (__name__ settings file), begin_edit TypeError (fix tested), default
+already-tested-by-copy	BitrixHelp	2026-10-22	Not in ST4 Install list; tested from a copy. Works with default settings (list, fuzzy completion). User pages list replaces all defaults and
+not-in-picker-untested	Blogify	2026-10-22	skipped: ST2-only (absent from the ST4 install list; uses view.begin_edit/end_edit and Python 2 im_func); nothing installed, nothing filed
+already-tested-by-copy	Boo & BooJs	2026-10-22	not in ST4 install list; tested from manual copy: plugin does not load on Windows (signal.SIGPIPE AttributeError, fix tested), syntax ok, pa
+gone-genuine	BuffersBackup	2026-10-22	skipped: Bitbucket repo lewisjosh/buffersbackup returns 404 (gone), cannot install or report
+skipped-by-age-or-type	Build Switcher	2026-10-22	skipped: only release is sublime_text <3000 (ST2 only), not in ST4 install list (checked channel and picker); open issues exist (#7)
+skipped-by-age-or-type	BuildParts	2026-10-22	skipped: only release is sublime_text <3000 (ST2 only), not in ST4 install list (channel checked)
+gone-genuine	CMakeSnippets	2026-10-22	Skipped: Bitbucket repo returns 404 (gone), nowhere to report
+not-in-picker-untested	CNPunctuationAutopair	2026-10-22	Skipped: ST2-only release (sublime_text <3000), keymap only, idle since 2013
+not-in-picker-untested	CSS Auto Commenting	2026-10-22	Skipped: ST2-only release (sublime_text <3000); open issue 5 says it does not work in ST3; idle since 2014
+not-in-picker-untested	CSS Selector Reveal	2026-10-22	Skipped: ST2-only release (sublime_text <3000), idle since 2013, open issue asks for ST3
+skipped-by-age-or-type	CSScomb Alpha Sort	2026-10-22	Skipped: ST2-only release (sublime_text <3000), last release 2013
+not-in-picker-untested	CSharpreter	2026-10-22	Skipped: ST2-only release (sublime_text <3000), idle since 2012
+not-in-picker-untested	Clientside	2026-10-22	skipped (ST2-only, not in ST4 list, last push 2012)
+not-in-picker-untested	CloseAllButThis	2026-10-22	skipped (ST2-only: not in ST4 list, Python 2 print statement)
+not-in-picker-untested	Code Foo	2026-10-22	skipped (ST2-only: not in ST4 list, repo says Sublime Text 2 plug in, last push 2013)
+not-in-picker-untested	Code Preview	2026-10-22	skipped (not in ST4 list, last push 2013)
+gone-genuine	Color Scheme - Nice Blue Soda	2026-10-22	not installable: Package Control gets HTTP 404 from bitbucket.org/DanielSiepmann/color-scheme-nice-blue-soda/get/default.zip; channel matter
+not-in-picker-untested	CombineAndMinify	2026-10-22	not installed: joelcarlton/Sublime-CombineAndMinify#7 already reports it cannot load on ST3/4 (Python 2 construct, line 27); repo dormant si
+gone-genuine	Command Help	2026-10-22	not installable: Package Control gets HTTP 404 from bitbucket.org/klorenz/sublimecommandhelp/get/default.zip; channel matter, nothing filed
+not-in-picker-untested	Commandbox	2026-10-22	cannot load on ST4: BaseCommand.py uses async as a method name (SyntaxError); rename fix tested (loads); removed
+not-in-picker-untested	FoxCode	2026-10-23	skipped: not in the Install Package picker on build 4215 (ST2-era package, hidden by Package Control)
+not-in-picker-untested	GPD	2026-10-23	skipped: not in the Install picker on build 4215 (hidden by Package Control, like FoxCode)
+not-in-picker-untested	GTags	2026-10-23	skipped: not in the Install picker on build 4215 (hidden by Package Control)
+not-in-picker-untested	Ggu	2026-10-23	skipped: ST2-only, not offered by the 4215 picker (issues 1-4 already open, all ST2)
+not-in-picker-untested	Gherkin-highlight-sublimetext	2026-10-23	skipped: not offered by the 4215 Install Package picker (no match for Gherkin-highlight)
+not-in-picker-untested	GitGrep	2026-10-23	skipped: not offered by the 4215 Install Package picker (no match)
+gone-genuine	Glorified Copy 'n' Paste	2026-10-23	skipped: Package Control install fails, HTTP 404 on bitbucket.org/teddy_beer_maniac/.../get/0.4.6.zip (repo gone); nothing to test; nothing 
+gone-genuine	Go To Definition	2026-10-23	skipped: Package Control install fails, HTTP 404 on bitbucket.org/klorenz/sublimegotodefinition/get/default.zip; nothing to test; no tracker
+not-in-picker-untested	Go To Node Module Homepage	2026-10-23	skipped: not offered by the Install Package picker (ST2-only entry); nothing to test
+not-in-picker-untested	GoToDoc	2026-10-23	skipped: not offered by the Install Package picker (only unrelated GotoDocumentation matches)
+not-in-picker-untested	Google Apps Scripts	2026-10-23	skipped: not offered by the Install Package picker (ST2-only, hidden)
+not-in-picker-untested	Google Reader	2026-10-23	skipped: not offered by the Install Package picker
+not-in-picker-untested	Google Translate	2026-10-23	skipped: not offered by the Install Package picker (ST2-only)
+not-in-picker-untested	GotoRecent	2026-10-23	Skipped: not in the Package Control picker (not on PC, issue #1 asks to add)
+skipped-by-age-or-type	Grep Code Search	2026-10-23	Skipped: not offered by the Package Control picker (ST2 only)
+not-in-picker-untested	GuardHelpers	2026-10-23	Skipped: not offered by the Package Control picker
+gone-genuine	Hexcode	2026-10-23	skipped: not in the Install Package picker (Hexcode and Hex filters show other packages); repo bitbucket.org/asmodai/hexcode returns 404 (pa
+not-in-picker-untested	Hide Files	2026-10-23	skipped: not in the Install Package picker (Hide Files, HideFiles filters show only unrelated fuzzy hits); repo dunckr/hidefiles exists, las
+not-in-picker-untested	Hide Tabs	2026-10-23	skipped: not in the Install Package picker on build 4215 (filter Hide Tabs shows nothing); repo croach/SublimeHideTabs issue 6 asks for the 
+not-in-picker-untested	Hogan Build	2026-10-23	skipped: not in the Install Package picker on build 4215 (filters Hogan Build and Hogan show only fuzzy hits of other packages); repo mtdb/H
+not-in-picker-untested	Hookblime	2026-10-23	skipped: not in the Install Package picker on build 4215 (Hookblime and Hook filters show other packages); repo Pafsis/hookblime last pushed
+not-in-picker-untested	Ignore Unable to Open File Error	2026-10-23	SKIPPED not installed: obsolete (last push 2019); issue 1 already reports crash on 4152+; built-in find_in_files_suppress_errors since 4151 
+not-in-picker-untested	Indent.txt	2026-10-23	skipped: not offered by the Install Package picker (ST2-only entry, repo last pushed 2013); typed Indent.txt and Indent.t, no match
+not-in-picker-untested	Iris Path	2026-10-23	skipped: not in Package Control picker (no match for the name), nothing to install
+not-in-picker-untested	JRubyFX	2026-10-23	skipped: not in Package Control picker (no match for the name), nothing to install
+not-in-picker-untested	JS Minify	2026-10-23	skipped: not in Package Control picker (no match for the name), nothing to install
+not-in-picker-untested	JSHint Inline	2026-10-23	skipped: not in Package Control picker (no match for the name), nothing to install
+not-in-picker-untested	JSON to CSV Converter	2026-10-23	skipped: not in Package Control picker (no match for the name), nothing to install
+skipped-by-age-or-type	JavaSetterGetter	2026-10-23	skipped: not in picker, Package Control lists it for Sublime Text 2 only (st_versions [2])
+skipped-by-age-or-type	Jdf - Tool	2026-10-23	skipped: Package Control lists it for Sublime Text 2 only (st_versions [2]), hidden from the picker
+skipped-by-age-or-type	Just Paste	2026-10-24	skipped: Sublime Text 2 only plugin, hidden from the Install Package picker on build 4215 (searching Just Paste and Just shows no entry)
+not-in-picker-untested	KeymapManager	2026-10-24	skipped; not listed in the Install Package picker (ST2-only package, 2012), nothing installed
+not-in-picker-untested	Kraken Snippets	2026-10-24	skipped; not listed in the Install Package picker (ST2-only 2013 package), nothing installed
+skipped-by-age-or-type	LastEdit	2026-10-24	skipped: no exact LastEdit entry in the Install Package picker (only GoToLastEdit, GotoLastEditEnhanced, both tested); repo dead since 2013,
+not-in-picker-untested	Line Completion	2026-10-24	skipped: not in the Install Package picker on 4215 (ST2-only, README says Sublime Text 2); open issue 5 reports a Region TypeError
+skipped-by-age-or-type	List stylesheet variables	2026-10-24	skipped: already tested 2026-10-19 (row 870b, issues 22-26)
+not-in-picker-untested	Listenr	2026-10-24	skipped: not in the picker (ST2-only, hidden by Package Control); open issue 1 ST3 update
+not-in-picker-untested	Lookupdic	2026-10-24	skipped: not in the Install Package picker (ST2-only package hidden from ST4 picker)
+not-in-picker-untested	LoremPixel	2026-10-24	skipped: not in the Install Package picker (ST2-only package hidden from ST4 picker)
+not-in-picker-untested	LoremText	2026-10-24	skipped: not in the Install Package picker (zero matches for the exact name)
+not-in-picker-untested	Lucky Link	2026-10-24	skipped: not in the Install Package picker (ST2-only; closed issue asks for ST3 support)
+gone-genuine	MB Warband API	2026-10-24	not installable: Package Control gets HTTP 404 from the Bitbucket download (repo gone); nothing filed (no Package Control reports)
+not-in-picker-untested	MTML Completions	2026-10-24	skipped: not offered by the ST4 picker (search_packages finds nothing), ST2-era repo bit-part/MTML-ST2 last pushed 2014; nothing installed, 
+skipped-by-age-or-type	MXUnit	2026-10-24	skipped: not offered by the ST4 picker (search_packages finds only CFAutoMock, already tested); homepage mxunit.org, not a GitHub repo; noth
+not-in-picker-untested	Magento - TemplateCopy	2026-10-24	skipped: not offered by the ST4 picker (search_packages Magento lists 3 other packages); ST2-era repo dedg3/sublime-magento-TemplateCopy las
+gone-genuine	MakeCommands	2026-10-24	skipped: Package Control install fails, HTTP 404 on https://bitbucket.org/klorenz/makecommands/get/default.zip (repo gone, no GitHub copy, n
+not-in-picker-untested	MakeExecutable	2026-10-24	skipped: ST2-only, not offered by the Install Package picker on 4215 (last push 2013, issue #4 asks for Sublime 3 support); nothing installe
+gone-genuine	Makefile Improved	2026-10-24	skipped: Package Control install fails, HTTP 404 on https://bitbucket.org/klorenz/sublimemakefileimproved/get/default.zip (repo gone, no Git
+not-in-picker-untested	MarkPress	2026-10-24	skipped: not offered by the Install Package picker on 4215 (ST2-only, last push 2012); nothing installed
+not-in-picker-untested	Markboard3	2026-10-24	skipped: not offered by the Install Package picker on Windows 4215 (README: Mac OS X only, needs Pandoc which is not installed); nothing ins
+not-in-picker-untested	Markdown Todo	2026-10-24	skipped: ST2-only (channel sublime_text <3000), not in the 4215 picker; nothing installed; issues disabled on repo
+not-in-picker-untested	MarkdownBuild	2026-10-24	skipped: ST2-only (channel sublime_text <3000), not in the 4215 picker; nothing installed
+gone-genuine	Mercurial for Sublime	2026-10-24	not installable: release URL bitbucket.org/DanielSiepmann/mercurial-for-sublime/get/1.5.0.zip and repo page return 404 (Mercurial repo gone)
+not-in-picker-untested	Mimosa	2026-10-24	skipped, ST2-only (channel sublime_text <3000)
+not-in-picker-untested	Mina	2026-10-24	skipped, ST2-only (channel sublime_text <3000)
+not-in-picker-untested	Moai Debugger	2026-10-24	skipped, ST2-only (channel sublime_text <3000)
+not-in-picker-untested	Mocha Runner	2026-10-24	skipped, ST2-only (channel sublime_text <3000)
+not-in-picker-untested	ModJS - JavaScript Workflow Tooling	2026-10-24	skipped, ST2-only (channel sublime_text <3000)
+gone-genuine	Mongomapper Snippets	2026-10-24	not installable: channel URL heelhook/mongomapper-sublime-text2-snippets returns HTTP 404 (repo now pablof7z/...); channel reports banned, n
+not-in-picker-untested	Mootools Snippets	2026-10-24	not in the Install Package picker (no channel entry); not installable, skipped
+not-in-picker-untested	MySublimeQL	2026-10-24	skipped: needs MySQL client library (prerequisite not installed); last push 2013; issue #6 Error loading MySQL already open
+not-in-picker-untested	NPMInfo	2026-10-25	skipped: ST2-only (sublime_text <3000), hidden from ST4 picker; issue #2 already asks for ST3
+not-in-picker-untested	Named (Bind) Helpers	2026-10-25	skipped: ST2-only (sublime_text <3000)
+not-in-picker-untested	NaturalDocs	2026-10-25	skipped: not in the Install Package picker on 4215 (packagecontrol.io homepage is just NaturalDocs, no repository URL)
+not-in-picker-untested	Navigation History	2026-10-25	skipped: ST2-only (sublime_text <3000); issue #8 already asks for ST3
+not-in-picker-untested	New from Selection	2026-10-25	skipped: ST2-only plugin, not offered by the ST4 picker (Install Package search returns no match)
+not-in-picker-untested	NightCycle	2026-10-25	skipped: not offered by the ST4 picker (search returns no match)
+not-in-picker-untested	Nimpretty	2026-10-25	skipped: prerequisite not installed (nimpretty binary, Nim toolchain); not installing per policy
+not-in-picker-untested	NodeEval	2026-10-25	skipped: not offered by the ST4 picker; source read only (from imp import reload fails on Python 3.14, not run)
+not-in-picker-untested	NotionSave	2026-10-25	skipped: needs a Notion account and API token (prerequisite not available); no GitHub repo to file in
+not-in-picker-untested	Npaste	2026-10-25	skipped: uploads text to a third-party paste server (outward send), repo not on GitHub
+not-in-picker-untested	Number Manipulation	2026-10-25	skipped: not offered by the ST4 picker (ST2-only; open issue #12 asks for ST3 availability)
+not-in-picker-untested	Opa	2026-10-25	skipped: ST2-only package (st_versions [2]), not offered in the Package Control picker on 4215; nothing installed
+not-in-picker-untested	Open Recent Files	2026-10-25	skipped: ST2-only package (st_versions [2]), not offered in the Package Control picker on 4215; nothing installed
+not-in-picker-untested	Open Shading Language	2026-10-25	skipped: ST2-only package (st_versions [2]), not offered in the Package Control picker on 4215; nothing installed
+not-in-picker-untested	Open in Total Commander	2026-10-25	skipped: ST2-only package (st_versions [2]), not offered in the Package Control picker on 4215; nothing installed
+not-in-picker-untested	OpenFromPath	2026-10-25	skipped: ST2-only (st_versions [2]), not offered by the picker on this build
+not-in-picker-untested	P4Sublime	2026-10-25	skipped: ST2-only (st_versions [2]), not offered by the picker on this build
+not-in-picker-untested	PDB Finder	2026-10-25	skipped: ST2-only (st_versions [2]), not offered by the picker on this build
+not-in-picker-untested	Parallel Builder	2026-10-25	skipped: ST2-only (st_versions [2]), not offered by the picker
+not-in-picker-untested	Paste Anywhere	2026-10-25	skipped: ST2-only (st_versions [2]), not offered by the picker
+not-in-picker-untested	Paste to friendpaste.com	2026-10-25	skipped: ST2-only (st_versions [2])
+not-in-picker-untested	Paste to paste.pm	2026-10-25	skipped: ST2-only (st_versions [2]); open issue asks for ST3 support
+not-in-picker-untested	Path to File	2026-10-25	skipped: ST2-only (st_versions [2])
+not-in-picker-untested	PhpDox	2026-10-25	skipped: not listed in the Install picker on 4215 (ST2-only, last push 2012)
+skipped-by-age-or-type	Pipe Dream	2026-10-25	skipped: not listed in the Install picker on 4215 (ST2 only; its open issue #1 asks for ST3 support)
+skipped-by-age-or-type	Placehold.it Image Tag Generator	2026-10-25	skipped: not listed in the Install picker on 4215 (ST2 only; open issue #5 asks for Sublime Text 3)
+skipped-by-age-or-type	PloneReload	2026-10-25	skipped: not listed in the Install picker on 4215 (ST2 only)
+gone-genuine	Plugin UnitTest Harness	2026-10-25	not installable: Package Control gets HTTP 404 from bitbucket.org/klorenz/sublimepluginunittestharness (repo gone); nothing installed, nothi
+not-in-picker-untested	PowerMTML Completions	2026-10-25	skipped: ST2-only, not in the picker
+not-in-picker-untested	PowershellUtils	2026-10-25	skipped: ST2-only, not in the picker
+not-in-picker-untested	PreferenceSync	2026-10-25	skipped: uploads the User folder to a third-party service and overwrites it on download; not run
+gone-genuine	Preferences Editor	2026-10-25	not installable: bitbucket.org/klorenz/sublimepreferenceseditor returns 404; nothing filed
+not-in-picker-untested	Prevu	2026-10-25	skipped: ST2-only, not in the picker
+not-in-picker-untested	Project Sync	2026-10-25	skipped: prerequisite not installed (needs scp and rsync binaries; rsync absent)
+not-in-picker-untested	ProjectSpecific	2026-10-25	skipped: ST2-only, not in the picker
+not-in-picker-untested	ProtoBufCodeFormatter	2026-10-25	skipped: not in the Package Control picker (ST2-only or hidden); nothing installed, nothing filed
+not-in-picker-untested	Puppet Syntax checking	2026-10-25	skipped: not in the Package Control picker (ST2-only or hidden); nothing installed, nothing filed
+not-in-picker-untested	PyQt Search	2026-10-25	skipped: not in the Package Control picker (ST2-only or hidden); nothing installed, nothing filed
+not-in-picker-untested	PyTags	2026-10-25	skipped: not in the Package Control picker (ST2-only or hidden); nothing installed, nothing filed
+not-in-picker-untested	Python Anywhere Editor	2026-10-25	skipped: not in the Package Control picker (ST2-only or hidden); nothing installed, nothing filed
+not-in-picker-untested	Python PEP8 Indent	2026-10-25	skipped: not in the Install Package picker (ST2-only or hidden); nothing installed, nothing filed
+not-in-picker-untested	PythonOpenModule	2026-10-25	skipped: not in the Install Package picker (ST2-only or hidden); nothing installed, nothing filed
+not-in-picker-untested	PythonTidy	2026-10-25	skipped: not in the Install Package picker (ST2-only or hidden); nothing installed, nothing filed
+not-in-picker-untested	PythonVoiceCodingPlugin	2026-10-25	skipped: prerequisite not installed (needs a Caster/Dragon speech-recognition setup, not installable through the picker); nothing installed,
+not-in-picker-untested	Qiita for Sublime	2026-10-25	skipped: needs a Qiita.com account and login (2014 client, last push 2014-09); nothing installed, nothing filed
+not-in-picker-untested	QuickPrint	2026-10-25	skipped: not in the Install Package picker (ST2-only or hidden); nothing installed, nothing filed
+already-tested-by-copy	Rails Related Files	2026-10-25	not in picker, tested from clone of master; pluralize ^(?i)(ox)$ makes model/spec/test files silently do nothing; bare except hides it; remo
+already-tested-by-copy	Random HEX Color	2026-10-25	not in picker, tested from clone of master (updated for ST4 today): replace, insert at each cursor and ctrl+alt+c all work; no defect; prefs
+already-tested-by-copy	Random Message	2026-10-25	not in picker, tested from clone; Sublime Text 2 plugin (urllib2, except X, e) fails to load on Python 3 with ModuleNotFoundError, command n
+already-tested-by-copy	RandomizeLogMessages	2026-10-25	not in picker, tested from clone; Sublime Text 2 plugin (view.begin_edit) raises TypeError on every .js save in 4215; age, not filed; copy, 
+already-tested-by-copy	Read Only Buffer	2026-10-25	not in picker, tested from clone; commands work and persist per file; no Windows keymap, settings file name mismatch (by reading)
+already-tested-by-copy	ReadonlyWritable	2026-10-25	not in picker, tested from clone on Windows (set/clear read-only attribute works); non-Windows branch and is_enabled os.stat found by readin
+already-tested-by-copy	RecenterTopBottom	2026-10-25	not in picker, tested from clone; cycle top/middle/bottom works on short lines; wrong with wrapped lines (text rows vs screen rows)
+not-in-picker-untested	Recessify	2026-10-25	not in picker; Sublime Text 2-only (import commands, Python 2) and needs recess via global npm; read from clone, not run, nothing filed
+not-in-picker-untested	RenameTab	2026-10-25	Skipped: repo link is a Stack Overflow answer, no repository to file in.
+not-in-picker-untested	Resize Active Group	2026-10-25	Not in picker (clone copied). Works on 4215: 2-column layout flips 0.7/0.3 on group activation. No defects; comment posted on #3 saying it w
+not-in-picker-untested	Ruby Extract Method	2026-10-25	not in picker, copied from GitHub raw; loads on 4215, ruby_extract_method extracted a line into show_sum and set the clipboard; no defect fo
+not-in-picker-untested	Ruby Hash Reverter	2026-10-25	not in picker, copied from GitHub raw; works; strings rewritten (12:30, URLs); removed via picker, baseline verified
+not-in-picker-untested	RubyCheckOnSave	2026-10-25	not in picker, copied from GitHub raw; settings name via __name__ gives None -> TypeError on every .rb save (fix tested); /usr/bin/ruby defa
+not-in-picker-untested	RubyFormat	2026-10-25	not in picker, copied from GitHub raw; does not load on ST4 (py2 print), then import rubybeautifier fails; both fixes tested, formatter work
+not-in-picker-untested	RunCommand	2026-10-26	not in picker, copied from GitHub raw; Python 2 only (getargspec ImportError at line 10), palette commands do nothing silently; repo dormant
+not-in-picker-untested	S-Expressions Syntax	2026-10-26	skipped: maintainer whitequark blocked dpc00 (no contact, nothing filed in his repos)
+not-in-picker-untested	SBT Runner	2026-10-26	skipped: not in the Install Package picker (only SublimeSBT is); repo last pushed 2013-08, needs sbt which is not installed; nothing install
+not-in-picker-untested	SCRAPfy	2026-10-26	skipped: scrapfy.io (the paste service it uploads to) now redirects to oxway.co, product gone; repo last pushed 2014-08; nothing installed o
+not-in-picker-untested	Scaffolding	2026-10-26	skipped: not in the ST4 picker (2013 repo, ST2-era)
+not-in-picker-untested	ScalaTest	2026-10-26	skipped: not in the ST4 picker (2013 repo, ST2-era)
+gone-genuine	ScalaWorksheet	2026-10-26	not installable: Bitbucket download HTTP 404 (channel matter, nothing filed)
+not-in-picker-untested	SchemeCycler	2026-10-26	skipped: not in the ST4 picker (2012 repo; its own issue #6 says not listed for ST3)
+gone-genuine	ShaderLanguages	2026-10-26	not installable: Package Control gets HTTP 404 downloading https://bitbucket.org/asmodai/shaderlanguages/get/1.0.0.zip (repo gone or moved);
+not-in-picker-untested	Snipplr	2026-10-26	Not installable from the picker: no entry named Snipplr; nothing installed; repo issues disabled
+gone-genuine	Sphinx Office	2026-10-26	not installable: Package Control download 404 on bitbucket.org/klorenz/sublimesphinxoffice (repository gone); no GitHub repo to report to
+not-in-picker-untested	Split To Buffer	2026-10-26	not installable: not listed in the Package Control picker on 4215 (ST2-only package; repo last pushed 2013, open issue #1 asks if it is aliv
+not-in-picker-untested	SplitScreen	2026-10-26	not installable: not listed in the Package Control picker on 4215 (ST2-only package; repo last pushed 2012, open issue #1 says it hangs on S
+not-in-picker-untested	Sublime-Hhhhold	2026-10-26	not installable (not in picker)
