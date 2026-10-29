@@ -1,4 +1,12 @@
-﻿- [refocus-test-window-myself-2026-10-28](feedback_refocus_test_window_myself_2026_10_28.md) - HIS ORDER: he reads the main ST so focus leaves the test window; front it myself (front.ps1) and retry before any other route, never fail a test for it (skill rule 6g)
+﻿- [session-baton-2026-10-29-static-backlog](project_session_baton_2026_10_29_static_backlog.md) - START HERE (newest, audit): 1,240 packages whose latest result is static-only; live testing in main-list row order, DrSync (row 1) done, next row 4 0x0; hold lifted; how to list what is left
+
+- [no-not-tested-lines-in-prs-2026-10-29](feedback_no_not_tested_lines_in_prs_2026_10_29.md) - HIS ORDER: no "not tested" lines in PR texts; run those cases (found two regressions of my own in the P4 and riot PRs), say where it was tested; ColorHelper#285 still has some
+
+- [test-trouble-is-focus-or-his-hands-2026-10-29](feedback_test_trouble_is_focus_or_his_hands_2026_10_29.md) - his words: trouble is probably window focus or his own input; file-based runners, clean state before each run, look for dialogs before typing, check portable User folder after tests
+
+- [open-asks-tool-2026-10-29](reference_open_asks_tool_2026_10_29.md) - "who wrote back?" = run tools\open_asks.ps1 (open issues whose last comment is not ours, data\open_asks.tsv); first run 82 of 2166; refresh ISSUES.tsv first
+
+- [refocus-test-window-myself-2026-10-28](feedback_refocus_test_window_myself_2026_10_28.md) - HIS ORDER: he reads the main ST so focus leaves the test window; front it myself (front.ps1) and retry before any other route, never fail a test for it (skill rule 6g)
 
 # Audit notes index
 
@@ -199,3 +207,5 @@
 
 - [installs-ok-if-reversible-2026-10-28](feedback_installs_ok_if_reversible_2026_10_28.md) - HIS WORD: tool installs fine if undoable and no ban/damage risk (no accounts, no admin); revisit prerequisite-skipped packages; only 1 of ~45 is popular
 
+
+- [new-list-all-recorded-2026-10-29](project_new_list_all_recorded_2026_10_29.md) - packagecontrol.io/browse/new has 219 pages, all 5452 already recorded (names carry version suffixes: strip them when filtering); Cremisi was the only new one; LSP helper install order; session tab and reconnect facts

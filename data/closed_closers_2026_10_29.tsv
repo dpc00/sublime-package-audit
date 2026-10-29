@@ -1,0 +1,830 @@
+repository	number	reason	closer	merged
+cepthomas/Notr	1	COMPLETED	Commit	
+tonylchang/sublime-llm	2	NOT_PLANNED	none	
+Monnoroch/ColorHighlighter	486	NOT_PLANNED	none	
+kylebebak/Requester	41	NOT_PLANNED	none	
+SublimeLinter/SublimeLinter	1993	COMPLETED	PullRequest	true
+eecolella/GoToAnchor	3	NOT_PLANNED	none	
+ilyakam/ParentalControl	7	COMPLETED	none	
+jeffrand/CoberturaCoverage	1	NOT_PLANNED	none	
+li-vu/st-match	2	NOT_PLANNED	none	
+liulex/CopyAsHtml	8	NOT_PLANNED	none	
+stevengpa/RoadBookmarks	1	NOT_PLANNED	none	
+tm-minty/sublime-text-2-image2base64	15	NOT_PLANNED	none	
+tushortz/EasyImport	1	NOT_PLANNED	none	
+EivindArvesen/xkcd	9	NOT_PLANNED	none	
+aafulei/sublime-exact-quick-find	1	COMPLETED	none	
+foxxyz/sublime_alphpetize	17	COMPLETED	Commit	
+gillibrand/MakeBookmarklet	2	COMPLETED	none	
+irohiroki/RubyBlockConverter	12	NOT_PLANNED	none	
+jeechu/NewlineSeparatedToList	1	NOT_PLANNED	none	
+maltize/sublime-text-code-test-switcher	2	NOT_PLANNED	none	
+mradamh/sublime-unquote	5	NOT_PLANNED	none	
+mvoidex/SublimeSelectByRegex	3	NOT_PLANNED	none	
+pjdietz/sublime-path-tools	12	NOT_PLANNED	none	
+shagabutdinov/sublime-toggle-wrap	2	NOT_PLANNED	none	
+skuroda/ImprovedMacros	4	NOT_PLANNED	none	
+xavi-/sublime-selectuntil	23	NOT_PLANNED	none	
+BurnerPat/sublimetext-stringify	1	NOT_PLANNED	none	
+MaokaiLin/PowerCursors	10	NOT_PLANNED	none	
+SublimeText-Markdown/MarkdownEditing	824	NOT_PLANNED	none	
+SublimeText/AFileIcon	109	NOT_PLANNED	none	
+SublimeText/PHPGettersSetters	1	NOT_PLANNED	none	
+SublimeText/RSpec	80	COMPLETED	PullRequest	true
+braver/ColorConverter	6	NOT_PLANNED	none	
+braver/ColorHints	12	NOT_PLANNED	none	
+braver/IndentXML	1	NOT_PLANNED	none	
+crash5/CopyWithLineNumbersReloaded	3	COMPLETED	PullRequest	true
+deathaxe/sublime-s840d	6	COMPLETED	none	
+erichard/SublimePHPCompanion	157	NOT_PLANNED	none	
+facelessuser/RegReplace	118	NOT_PLANNED	none	
+jfcherng-sublime/ST-AutoSetSyntax	39	COMPLETED	none	
+jfcherng-sublime/ST-BootstrapAutocomplete	6	COMPLETED	none	
+naokazuterada/MarkdownTOC	175	COMPLETED	Commit	
+robballou/sublimetext-sshconfig	46	COMPLETED	none	
+robinchenyu/smartifdef	2	NOT_PLANNED	none	
+yaroslavyaroslav/OpenAI-sublime-text	164	COMPLETED	Commit	
+CaffeineOddity/MarkdownPreviewEnhanced	10	COMPLETED	Commit	
+Fanhuaji/Sublime-Fanhuaji	7	COMPLETED	none	
+Fanhuaji/Sublime-Fanhuaji	8	COMPLETED	none	
+Fanhuaji/Sublime-Fanhuaji	9	COMPLETED	none	
+HexRx/simple-ftp-deploy	21	NOT_PLANNED	none	
+HexRx/simple-ftp-deploy	22	NOT_PLANNED	none	
+HexRx/simple-ftp-deploy	23	NOT_PLANNED	none	
+HexRx/simple-ftp-deploy	24	NOT_PLANNED	none	
+Mr7F/sublime-jumper	3	COMPLETED	none	
+SublimeText/Sass	115	COMPLETED	none	
+ahu/AIComplete	1	NOT_PLANNED	none	
+alimony/sublime-sort-numerically	15	COMPLETED	Commit	
+alimony/sublime-sort-numerically	16	COMPLETED	Commit	
+colinta/SublimeStringEncode	52	COMPLETED	PullRequest	true
+colinta/SublimeStringEncode	53	NOT_PLANNED	none	
+colinta/SublimeStringEncode	54	NOT_PLANNED	none	
+colinta/SublimeStringEncode	55	NOT_PLANNED	none	
+evandrocoan/AmxxEditor	23	NOT_PLANNED	none	
+evandrocoan/OverrideEditSettingsDefaultContents	1	COMPLETED	none	
+joeyespo/sublimetext-console-exec	12	NOT_PLANNED	none	
+joeyespo/sublimetext-console-exec	13	NOT_PLANNED	none	
+kapitanluffy/sublime-compass	19	NOT_PLANNED	none	
+komsit37/sublime-q	48	NOT_PLANNED	none	
+noahcoad/SublimeMarkdownNav	1	COMPLETED	Commit	
+sublimehq/package_control	1759	COMPLETED	PullRequest	true
+sublimehq/package_control	1760	COMPLETED	PullRequest	true
+sublimehq/package_control	1761	NOT_PLANNED	none	
+sublimehq/package_control	1762	NOT_PLANNED	none	
+sublimehq/package_control	1763	COMPLETED	PullRequest	true
+sublimehq/package_control	1764	COMPLETED	PullRequest	true
+sublimehq/package_control	1765	COMPLETED	PullRequest	true
+sublimehq/package_control	1766	COMPLETED	PullRequest	true
+sublimehq/package_control	1767	COMPLETED	PullRequest	true
+sublimehq/package_control	1768	COMPLETED	PullRequest	true
+sublimehq/package_control	1769	NOT_PLANNED	none	
+sublimehq/package_control	1770	COMPLETED	PullRequest	true
+sublimehq/package_control	1771	COMPLETED	PullRequest	true
+sublimehq/package_control	1772	COMPLETED	none	
+sublimehq/package_control	1773	COMPLETED	none	
+sublimehq/package_control	1774	COMPLETED	PullRequest	true
+sublimehq/package_control	1775	NOT_PLANNED	none	
+sublimehq/package_control	1776	COMPLETED	PullRequest	true
+sublimehq/package_control	1777	NOT_PLANNED	none	
+sublimehq/package_control	1778	COMPLETED	PullRequest	true
+sublimehq/package_control	1779	COMPLETED	PullRequest	true
+sublimehq/package_control	1780	COMPLETED	PullRequest	true
+tonynupe/CiscoCollab	2	NOT_PLANNED	none	
+tonynupe/CiscoCollab	3	NOT_PLANNED	none	
+vonbehr/SubCalc	1	NOT_PLANNED	none	
+woodmix/JapanWordStop	1	COMPLETED	none	
+0x000C0A71/hyprlang-sublime-syntax	3	NOT_PLANNED	none	
+1000ch/Sublime-clean-css	2	NOT_PLANNED	none	
+1000ch/Sublime-svgo	33	NOT_PLANNED	none	
+Afzal7/syncrow	5	NOT_PLANNED	none	
+AskCodi/Sublime-AskCodi	2	NOT_PLANNED	none	
+Croebh/avrae-sublime	3	NOT_PLANNED	none	
+Croebh/avrae-sublime	5	NOT_PLANNED	none	
+Croebh/avrae-sublime	6	NOT_PLANNED	none	
+Daij-Djan/timestamp-sort-editor-plugin	1	NOT_PLANNED	none	
+Daij-Djan/timestamp-sort-editor-plugin	2	NOT_PLANNED	none	
+DamnWidget/anaconda_php	5	NOT_PLANNED	none	
+FabioFuschi-SNK/lessy-sublimeplugin	1	NOT_PLANNED	none	
+Haiquan-27/SSH-Panel	15	NOT_PLANNED	none	
+Haiquan-27/SSH-Panel	16	NOT_PLANNED	none	
+IPWright83/sublime-TestExplorer	2	NOT_PLANNED	none	
+IPWright83/sublime-TestExplorer	4	NOT_PLANNED	none	
+Infinidat/sublime-infinidat	1	NOT_PLANNED	none	
+JMendyk/Custom-Elements-Importer	1	NOT_PLANNED	none	
+JohhannasReyn/Lensort	1	COMPLETED	Commit	
+JohhannasReyn/Lensort	2	COMPLETED	PullRequest	true
+JohhannasReyn/Lensort	3	COMPLETED	PullRequest	true
+Jun-Software/JunLang_package	1	NOT_PLANNED	none	
+KaminoU/RegexLab	16	COMPLETED	none	
+KaminoU/RegexLab	17	COMPLETED	none	
+KnutHelland/sublime_jsimports	2	NOT_PLANNED	none	
+MNU-497/Sublime-AI-Bridge	1	NOT_PLANNED	none	
+MikeSiLVO/KodiDevKit	5	COMPLETED	none	
+MikeSiLVO/KodiDevKit	6	NOT_PLANNED	none	
+Mr7F/sublime-odoo	1	COMPLETED	none	
+Mr7F/sublime-telescope	1	COMPLETED	none	
+Natestah/BlitzSt	2	NOT_PLANNED	none	
+NeloGH/RemoteSync	8	NOT_PLANNED	none	
+Nessphoro/sublimeassembly	39	NOT_PLANNED	none	
+NoxArt/SublimeText2-FTPSync	284	COMPLETED	PullRequest	true
+Pegase745/sublime-flowtype	18	NOT_PLANNED	none	
+RAMBOO1990/sublime-json5	1	NOT_PLANNED	none	
+RobinWragg/JaiTools	6	NOT_PLANNED	none	
+RushabhJoshi/BladeFormatter	1	COMPLETED	none	
+STealthy-and-haSTy/CodeOwnerInsights	3	COMPLETED	none	
+STealthy-and-haSTy/CodeOwnerInsights	4	COMPLETED	none	
+STealthy-and-haSTy/CodeOwnerInsights	5	COMPLETED	none	
+SublimeText/ExtractSublimePackage	5	NOT_PLANNED	none	
+SublimeText/ExtractSublimePackage	6	COMPLETED	PullRequest	true
+SublimeText/GenerateUUID	12	NOT_PLANNED	none	
+SublimeText/StatusBarFileSize	15	NOT_PLANNED	none	
+SublimeText/UnitTesting	297	COMPLETED	PullRequest	true
+Suor/CommentsAwareEnter	18	NOT_PLANNED	none	
+Suor/GoToFile	2	NOT_PLANNED	none	
+Suor/RememberSyntax	1	NOT_PLANNED	none	
+Suor/sublime-hippie-autocomplete	8	NOT_PLANNED	none	
+Suor/sublime-hippie-autocomplete	9	NOT_PLANNED	none	
+TheClams/SmartVHDL	33	COMPLETED	none	
+Tomescape/project-this	1	NOT_PLANNED	none	
+Tomescape/project-this	2	NOT_PLANNED	none	
+WolframResearch/Sublime-WolframLanguage	11	NOT_PLANNED	none	
+Wuvist/subl_paste_md	3	NOT_PLANNED	none	
+YanWQ-monad/SmojSubmit	6	NOT_PLANNED	none	
+ZainIftikhar7vals/GotoRubyGem	4	NOT_PLANNED	none	
+ZainIftikhar7vals/GotoRubyGem	5	NOT_PLANNED	none	
+abathur/constellation	12	NOT_PLANNED	none	
+abathur/constellation	13	NOT_PLANNED	none	
+aghontpi/CPrettify-Sublime-text-3	16	NOT_PLANNED	none	
+ahmedam55/SassSolution	13	NOT_PLANNED	none	
+ahuff44/sublime-fish-tank	3	COMPLETED	none	
+airtoxin/fluent-logger-sublimetext	2	NOT_PLANNED	none	
+ajmyers/Sublime-TM1	10	NOT_PLANNED	none	
+akalongman/sublimetext-codeformatter	426	COMPLETED	none	
+akmittal/Hugofy-sublime	15	NOT_PLANNED	none	
+alanjaouen/sublimeGitMoji	25	NOT_PLANNED	none	
+amit-bansil/TicketMaster	20	NOT_PLANNED	none	
+andremacola/sublime-PHP_CBF	2	NOT_PLANNED	none	
+andremacola/sublime-PHP_CBF	3	NOT_PLANNED	none	
+appconditioner/SublimeWebDavSync	9	NOT_PLANNED	none	
+baslie/AutoTagMate	1	COMPLETED	none	
+benoitduval/redmine-pastie	3	NOT_PLANNED	none	
+benyue1978/sublime-mcp	1	NOT_PLANNED	none	
+billchurch/sublime-iRules	3	COMPLETED	PullRequest	true
+billymoon/Stylus	86	NOT_PLANNED	none	
+bisguzar/st3-micropython-tools	6	NOT_PLANNED	none	
+bite-your-idols/Combiner	6	NOT_PLANNED	none	
+bite-your-idols/Combiner	7	NOT_PLANNED	none	
+bite-your-idols/Combiner	8	NOT_PLANNED	none	
+bkader/ToptalMinifier	1	NOT_PLANNED	none	
+bolknote/PogodaStatusBar	1	COMPLETED	none	
+bradlc/sublime-tailwindcss	19	NOT_PLANNED	none	
+camila314/C-Family-Rewrite	3	NOT_PLANNED	none	
+cepthomas/SbotHighlight	1	NOT_PLANNED	none	
+cepthomas/SbotRender	1	NOT_PLANNED	none	
+cepthomas/SbotSignet	3	NOT_PLANNED	none	
+codeleventh/mdtoc	6	NOT_PLANNED	none	
+codeleventh/mdtoc	7	NOT_PLANNED	none	
+codeleventh/mdtoc	8	NOT_PLANNED	none	
+codeuniverse101/CompetitiveProgrammingParser	3	NOT_PLANNED	none	
+codeuniverse101/CompetitiveProgrammingParser	4	NOT_PLANNED	none	
+colinta/SublimeExcludeFromProject	1	NOT_PLANNED	none	
+colinta/SublimeGroupy	3	NOT_PLANNED	none	
+colinta/SublimeMarkAndMove	6	NOT_PLANNED	none	
+colinta/SublimeMoveText	17	NOT_PLANNED	none	
+colinta/SublimeScreencastDirector	4	NOT_PLANNED	none	
+colinta/SublimeSimpleMovements	3	NOT_PLANNED	none	
+convictss/ConvSublimeCalculate	1	NOT_PLANNED	none	
+convictss/ConvSublimeCalculate	2	NOT_PLANNED	none	
+dariusf/synesthesia	3	NOT_PLANNED	none	
+datevid/sublime-text-doctypes	2	NOT_PLANNED	none	
+daverosoff/PreTeXtual	49	NOT_PLANNED	none	
+davidAlgis/AutoWrapStrings	2	NOT_PLANNED	none	
+davidAlgis/AutoWrapStrings	3	NOT_PLANNED	none	
+davidAlgis/AutoWrapStrings	4	NOT_PLANNED	none	
+davidAlgis/AutoWrapStrings	5	NOT_PLANNED	none	
+daytonn/Minteresting	1	NOT_PLANNED	none	
+dcowsill/randomcase	1	COMPLETED	Commit	
+devdinu/SublimePluginHackerRank	2	NOT_PLANNED	none	
+dmi7ry/dfmt-sublime	5	COMPLETED	PullRequest	true
+dnatag/SublimePyunit	2	NOT_PLANNED	none	
+edankwan/Exec-Parser-Sublime-Plugin	1	NOT_PLANNED	none	
+emotion/base64-decode-autocharset	1	NOT_PLANNED	none	
+ericmartel/Sublime-Text-2-CSV-Plugin	12	NOT_PLANNED	none	
+evandrocoan/AmxxEditor	24	COMPLETED	none	
+evandrocoan/RememberCommandPaletteInput	4	COMPLETED	none	
+everyonesdesign/OpenSearchInNewTab	12	NOT_PLANNED	none	
+everyonesdesign/OpenSearchInNewTab	13	NOT_PLANNED	none	
+fuse-open/sublime-plugin	37	NOT_PLANNED	none	
+fuse-open/sublime-plugin	38	NOT_PLANNED	none	
+gepd/Deviot	347	NOT_PLANNED	none	
+gourmet/sublime	1	NOT_PLANNED	none	
+guilhermeleobas/IRView	8	COMPLETED	PullRequest	true
+guille/sublime-bulk-renamer	1	NOT_PLANNED	none	
+guillermooo/Mercurial	6	NOT_PLANNED	none	
+guillermooo/dart-sublime-bundle	591	NOT_PLANNED	none	
+haloway13/XmlTransformer	1	COMPLETED	none	
+haroon26/rails-migration-boy-subl	2	NOT_PLANNED	none	
+hectorqin/sublime-devdocs	4	NOT_PLANNED	none	
+hippasus/SublimeMorse	2	NOT_PLANNED	none	
+hockyy/mlir-toc	1	NOT_PLANNED	none	
+htch/SublimeMetaSubstitutionPlugin	1	NOT_PLANNED	none	
+huyhoang8398/Harpoon	13	NOT_PLANNED	none	
+huyhoang8398/UndoTree	1	NOT_PLANNED	none	
+huyhoang8398/UndoTree	2	NOT_PLANNED	none	
+huyhoang8398/UndoTree	3	NOT_PLANNED	none	
+huyhoang8398/WhereAmI	2	NOT_PLANNED	none	
+iccir/BuildSock	1	COMPLETED	Commit	
+iccir/BuildSock	2	COMPLETED	none	
+ichichikin/sublime-plugin-interactivity	1	COMPLETED	none	
+icjmaa/MySFTP	11	NOT_PLANNED	none	
+id-sakurata/CSS-Intellisense	1	NOT_PLANNED	none	
+ihdavids/orgextended	96	NOT_PLANNED	none	
+ilyaZar/Pain	2	NOT_PLANNED	none	
+ismnoiet/BowerInjector	7	NOT_PLANNED	none	
+jamesacklin/ShareToS3	1	NOT_PLANNED	none	
+jeromeetienne/tquery-sublime	2	NOT_PLANNED	none	
+jfcherng-sublime/ST-FollowLnk	1	COMPLETED	none	
+jfcherng-sublime/ST-RainbowIndent	10	NOT_PLANNED	none	
+jfcherng-sublime/ST-WindowsContextMenu	4	COMPLETED	PullRequest	true
+joelcarlton/Sublime-CombineAndMinify	7	NOT_PLANNED	none	
+jolyongray/amnesia-sublime	2	NOT_PLANNED	none	
+jrappen/sublime-distractionless	2	COMPLETED	none	
+kapitanluffy/sublime-semantic-highlighter	10	NOT_PLANNED	none	
+kassi/sublime-text-2-xmpfilter	1	NOT_PLANNED	none	
+kaste/FindInFiles-addon	2	COMPLETED	Commit	
+klmp200/NeoCodeMap	4	COMPLETED	none	
+klmp200/NeoCodeMap	5	COMPLETED	none	
+klmp200/NeoCodeMap	6	COMPLETED	none	
+klmp200/StickyLines	3	COMPLETED	none	
+klmp200/StickyLines	4	COMPLETED	none	
+kostasdizas/aw-watcher-sublime	10	COMPLETED	Commit	
+kostasdizas/aw-watcher-sublime	11	COMPLETED	Commit	
+ksherlock/65816.tmbundle	5	COMPLETED	Commit	
+ksherlock/65816.tmbundle	6	COMPLETED	PullRequest	true
+ksherlock/65816.tmbundle	7	COMPLETED	PullRequest	true
+kushaagr/recent-explorer-sublime	1	NOT_PLANNED	none	
+leoshome/StyleTokenHighlighter	2	NOT_PLANNED	none	
+makinda-jackson/makinda-icons	5	NOT_PLANNED	none	
+marekpiechut/sublime-rome-formatter	5	NOT_PLANNED	none	
+matthewkapfhammer/MotionBuilderSublime	6	NOT_PLANNED	none	
+matys18/sublime_kattis	7	NOT_PLANNED	none	
+mechatroner/sublime_rainbow_csv	47	COMPLETED	PullRequest	true
+mgiannini/sublime-fantom	4	NOT_PLANNED	none	
+mgutski/sublime-run-task	3	NOT_PLANNED	none	
+michaelblyons/SublimeSyntax-gettext	8	NOT_PLANNED	none	
+mitchvm/tabnav	4	COMPLETED	PullRequest	true
+mlf4aiur/SublimeConfluence	8	COMPLETED	none	
+molnarmark/markdowncodeblocks	3	COMPLETED	Commit	
+mwei-io/CompareLive	1	NOT_PLANNED	none	
+nathanshipley/SublimeSearchAllWindows	1	NOT_PLANNED	none	
+nexional/CompareBuff	3	COMPLETED	PullRequest	true
+nexional/CompareBuff	4	NOT_PLANNED	none	
+nhduy1985/sublime_mageruncommander	1	NOT_PLANNED	none	
+nickname13/SimpleSync	1	NOT_PLANNED	none	
+nickname13/SimpleSync	2	NOT_PLANNED	none	
+nojanath/SublimeKSP	567	COMPLETED	none	
+norseghost/sublime-beancount	24	NOT_PLANNED	none	
+nuclearpolygon/sublime-fix-json	1	NOT_PLANNED	none	
+nuclearpolygon/sublime-fix-json	2	NOT_PLANNED	none	
+nuclearpolygon/sublime-fix-json	3	NOT_PLANNED	none	
+odapg/LaTeXOutline	2	COMPLETED	none	
+oleg-shilo/sublime-codemap	50	NOT_PLANNED	none	
+oliverseal/sublime-text-valgrind	3	NOT_PLANNED	none	
+papaDoc/FastSwitch	7	NOT_PLANNED	none	
+papierkorp/sublime-templ	3	NOT_PLANNED	none	
+pavelrevak/mpytool-sublime	1	NOT_PLANNED	none	
+phughes3866/SphinxRefmate	2	NOT_PLANNED	none	
+phughes3866/SphinxRefmate	3	NOT_PLANNED	none	
+pichillilorenzo/JavaScriptEnhancements	85	NOT_PLANNED	none	
+poucotm/LikeGit	2	NOT_PLANNED	none	
+pratik-m/sublime-googlesql-syntax	1	NOT_PLANNED	none	
+publora/sublime-publora	1	NOT_PLANNED	none	
+pxninja/token-generator	2	NOT_PLANNED	none	
+radium-v/Better-Less	60	NOT_PLANNED	none	
+randolph555/sublime-run-command	1	NOT_PLANNED	none	
+randolph555/sublime-run-command	2	NOT_PLANNED	none	
+randy3k/LaTeXBox	45	NOT_PLANNED	none	
+ravengraves/Agentic	1	COMPLETED	Commit	
+ravengraves/Agentic	2	COMPLETED	none	
+ravengraves/Agentic	3	COMPLETED	none	
+raynode/NXSublimeCoverage	1	NOT_PLANNED	none	
+rhydlewis/BeancountAutocomplete	1	NOT_PLANNED	none	
+rhydlewis/BeancountAutocomplete	2	NOT_PLANNED	none	
+rhydlewis/BeancountAutocomplete	3	NOT_PLANNED	none	
+rimvaliulin/isorted	13	COMPLETED	PullRequest	true
+rozboris/Sublime-Tweet	21	NOT_PLANNED	none	
+rpardee/sas	43	NOT_PLANNED	none	
+s-clerc/slyblime	19	NOT_PLANNED	none	
+sagold/FuzzyFilePath	61	NOT_PLANNED	none	
+saludes/sublime-GF	1	NOT_PLANNED	none	
+scotartt/PandocReferencr	3	NOT_PLANNED	none	
+sdirishguy/MCPHelperSublimePlugin	1	NOT_PLANNED	none	
+sdirishguy/MCPHelperSublimePlugin	2	NOT_PLANNED	none	
+sdirishguy/MCPHelperSublimePlugin	3	NOT_PLANNED	none	
+shagabutdinov/sublime-named-mark	2	NOT_PLANNED	none	
+shuky19/sublime_debugger	61	NOT_PLANNED	none	
+smhg/sublime-propel	1	NOT_PLANNED	none	
+somebee/sublime-imba	10	NOT_PLANNED	none	
+stevengpa/RoadBookmarks	2	NOT_PLANNED	none	
+sumeetksinha/gmsh-Tools	1	NOT_PLANNED	none	
+svenfraeys/BrowserBookmarks	4	NOT_PLANNED	none	
+svenfraeys/SublimeBlender	15	NOT_PLANNED	none	
+sxr1223/VeribleFormatterVerilog	3	NOT_PLANNED	none	
+tahcia/sublime_text	1	NOT_PLANNED	none	
+tahcia/sublime_text	2	NOT_PLANNED	none	
+tahcia/sublime_text	3	NOT_PLANNED	none	
+tamarin-prover/editor-sublime	4	NOT_PLANNED	none	
+teared/VEX	15	NOT_PLANNED	none	
+teared/VEX	16	NOT_PLANNED	none	
+tonsky/Clojure-Sublimed	140	COMPLETED	PullRequest	true
+tonsky/Sublime-Executor	9	COMPLETED	PullRequest	true
+ukyouz/SublimeText-DefineParser	1	NOT_PLANNED	none	
+ukyouz/SublimeText-DefineParser	2	NOT_PLANNED	none	
+ukyouz/SublimeText-DefineParser	3	NOT_PLANNED	none	
+ulyssesapp/ulss-sublime-plugin	4	COMPLETED	PullRequest	true
+urschrei/jujutsu-sublime-plugin	28	NOT_PLANNED	none	
+vanyle/NimPlus	18	NOT_PLANNED	none	
+vifo/SublimePerlTidy	36	NOT_PLANNED	none	
+vonbehr/SubCalc	2	NOT_PLANNED	none	
+vovayatsyuk/sublime-magic-templates	7	NOT_PLANNED	none	
+vovayatsyuk/sublime-magic-templates	8	NOT_PLANNED	none	
+vsc-cnst/SublimeTextFileFilter	8	COMPLETED	none	
+vshimans/DiffP4Merge	1	NOT_PLANNED	none	
+warmdev/SublimeOutline	46	NOT_PLANNED	none	
+weituotian/md_numbered_headers	8	NOT_PLANNED	none	
+xalteropsx/CompareHistory	1	NOT_PLANNED	none	
+xalteropsx/CompareHistory	2	NOT_PLANNED	none	
+xalteropsx/CompareHistory	3	NOT_PLANNED	none	
+xiewandongqq/subversion_for_sublime_txt3	3	NOT_PLANNED	none	
+xjsender/haoide	219	NOT_PLANNED	none	
+xjsender/haoide	220	NOT_PLANNED	none	
+xjsender/haoide	221	NOT_PLANNED	none	
+yangweijie/SublimePHPNinJaManual	5	COMPLETED	none	
+yaroslavyaroslav/SublimeTokenCounter	2	COMPLETED	none	
+yasinahmed/CodeShot	1	NOT_PLANNED	none	
+yasinahmed/CodeShot	2	NOT_PLANNED	none	
+ytlw/C_CppSingleFileBuilder_MinghangYang	8	COMPLETED	none	
+zharkomi/SimpleIndent	1	NOT_PLANNED	none	
+zharkomi/SimpleIndent	2	NOT_PLANNED	none	
+zizhongyan/StataImproved	37	NOT_PLANNED	none	
+zizhongyan/StataImproved	38	NOT_PLANNED	none	
+zizhongyan/StataImproved	39	NOT_PLANNED	none	
+znuny/Znuny-Sublime	14	COMPLETED	Commit	
+znuny/Znuny-Sublime	15	COMPLETED	Commit	
+znuny/Znuny-Sublime	16	COMPLETED	none	
+znuny/Znuny-Sublime	17	COMPLETED	Commit	
+znuny/Znuny-Sublime	18	COMPLETED	Commit	
+1000ch/Sublime-clean-css	3	NOT_PLANNED	none	
+1000ch/Sublime-clean-css	4	NOT_PLANNED	none	
+54nd10/Tailwind-reorder	9	NOT_PLANNED	none	
+90-008/FlutterEnhancements	7	NOT_PLANNED	none	
+Isaac-the-Man/Sublime-Gitignore-Extended	1	NOT_PLANNED	none	
+JuliaEditorSupport/Julia-sublime	136	NOT_PLANNED	none	
+KenyC/LingExRef	1	NOT_PLANNED	none	
+MGorkov/explain-postgresql-sublime	1	NOT_PLANNED	none	
+MGorkov/explain-postgresql-sublime	2	NOT_PLANNED	none	
+MGorkov/explain-postgresql-sublime	3	NOT_PLANNED	none	
+PyaeSoneAungRgn/sublime-laravel-filament	1	NOT_PLANNED	none	
+PyaeSoneAungRgn/sublime-laravel-filament	2	NOT_PLANNED	none	
+RohanVashisht1234/bend-syntax-highlighter-sublime-text	1	NOT_PLANNED	none	
+RohanVashisht1234/bend-syntax-highlighter-sublime-text	2	NOT_PLANNED	none	
+STealthy-and-haSTy/EnhancedFontResizer	1	NOT_PLANNED	none	
+SelimJB/ScrollToCursor	1	NOT_PLANNED	none	
+SelimJB/ScrollToCursor	2	NOT_PLANNED	none	
+Sublime-Instincts/CommandsBrowser	14	NOT_PLANNED	none	
+SublimeText/FolderAliaser	1	NOT_PLANNED	none	
+SublimeText/SwitchWindow	5	NOT_PLANNED	none	
+SublimeText/WordHighlight	91	NOT_PLANNED	none	
+Whiley/WhileySyntaxBundle	5	NOT_PLANNED	none	
+Xiangjiaox/jwt-sublime-text	3	NOT_PLANNED	none	
+abhishek72850/pyrock	20	NOT_PLANNED	none	
+abhishek72850/pyrock	21	NOT_PLANNED	none	
+abhishek72850/pyrock	22	NOT_PLANNED	none	
+abhishek72850/pyrock	23	NOT_PLANNED	none	
+abhishek72850/pyrock	24	NOT_PLANNED	none	
+abhishek72850/pyrock	25	NOT_PLANNED	none	
+abhishek72850/pyrock	26	NOT_PLANNED	none	
+abhishek72850/pyrock	27	NOT_PLANNED	none	
+abhishek72850/pyrock	28	NOT_PLANNED	none	
+abhishek72850/pyrock	29	NOT_PLANNED	none	
+absszero/Jester	4	COMPLETED	PullRequest	true
+absszero/Jester	5	COMPLETED	PullRequest	true
+adael/SublimePhpCsFixer	48	NOT_PLANNED	none	
+aerobounce/Sublime-AutoClosePanel	1	NOT_PLANNED	none	
+aeternity/sublime-sophia	1	NOT_PLANNED	none	
+bicarlsen/vintage_relnums	6	NOT_PLANNED	none	
+bpicolo/CopyRelativePath	4	NOT_PLANNED	none	
+cibinmathew/sublime-aws-helper	1	NOT_PLANNED	none	
+cibinmathew/sublime_quickfix_list	2	NOT_PLANNED	none	
+educbraga/EasyCommit	1	NOT_PLANNED	none	
+educbraga/EasyCommit	2	NOT_PLANNED	none	
+felixcatto/ImportFileNames	1	NOT_PLANNED	none	
+fsaad/Sublime-AddRemoveFolder	1	COMPLETED	Commit	
+gillibrand/expand-selection-to-function-js	7	NOT_PLANNED	none	
+gillibrand/expand-selection-to-function-js	8	NOT_PLANNED	none	
+gnat/sublime-outline-notes-publisher	1	NOT_PLANNED	none	
+halfmoonvic/TimeNotify	1	NOT_PLANNED	none	
+icebaker/sublime-nano-bots	9	NOT_PLANNED	none	
+ichichikin/sublime-plugin-interactivity	2	COMPLETED	none	
+ichichikin/sublime-plugin-interactivity	3	COMPLETED	none	
+ichichikin/sublime-plugin-interactivity	4	COMPLETED	none	
+ihdavids/orgextended	97	NOT_PLANNED	none	
+ihdavids/orgextended	98	NOT_PLANNED	none	
+ilyakam/RemoveDuplicateLines	32	COMPLETED	PullRequest	true
+ivellioscolin/sublime-plugin-glassit	7	NOT_PLANNED	none	
+jasjuang/sublime_cmake_format	13	NOT_PLANNED	none	
+jasjuang/sublime_cmake_format	14	NOT_PLANNED	none	
+joernhees/sublime-compressor	16	COMPLETED	PullRequest	true
+jtojnar/sublime-image-link-insertion	2	COMPLETED	Commit	
+jugyo/SublimeSnippetMaker	25	COMPLETED	Commit	
+june07/sublime-Jenkinsfile	6	COMPLETED	none	
+kapitanluffy/sublime-file-watcher	2	NOT_PLANNED	none	
+kapitanluffy/sublime-file-watcher	3	NOT_PLANNED	none	
+kapitanluffy/sublime-file-watcher	4	NOT_PLANNED	none	
+kapitanluffy/sublime-file-watcher	5	NOT_PLANNED	none	
+kapitanluffy/sublime-plugin-logger	2	NOT_PLANNED	none	
+kapitanluffy/sublime-plugin-logger	3	NOT_PLANNED	none	
+kapitanluffy/sublime-plugin-logger	4	NOT_PLANNED	none	
+kaxing/sublime-custom-buffer-name	5	NOT_PLANNED	none	
+kdnk/sublime_text_highlighter	7	COMPLETED	PullRequest	true
+koroshiya/Sublime-Renpy	13	NOT_PLANNED	none	
+kyoobey/ProjectAndWorkspaceManagement	10	NOT_PLANNED	none	
+m-bartlett/SublimeFontSizePerView	3	COMPLETED	none	
+misuzu/direnv-subl	5	COMPLETED	PullRequest	true
+misuzu/direnv-subl	7	COMPLETED	PullRequest	true
+mvoidex/UnicodeMath	42	NOT_PLANNED	none	
+neno--/LogbackJsonLogViewer	1	NOT_PLANNED	none	
+neno--/LogbackJsonLogViewer	2	COMPLETED	PullRequest	true
+nickklaskala/DataWizard	3	NOT_PLANNED	none	
+nickklaskala/DataWizard	4	NOT_PLANNED	none	
+patoui/CopyRelativeCommand	1	NOT_PLANNED	none	
+predragnikolic/InlineFold	11	NOT_PLANNED	none	
+ruiokada/sublime-text-atomic-soft-tab-nav	3	NOT_PLANNED	none	
+shadax1/word_count	2	NOT_PLANNED	none	
+sindresorhus/sublime-autoprefixer	90	COMPLETED	Commit	
+soandrew/DiffTabs	10	NOT_PLANNED	none	
+spencerchristensen/sublime-open-in-cursor	1	NOT_PLANNED	none	
+spencerchristensen/sublime-open-in-cursor	2	NOT_PLANNED	none	
+sporto/rails-go-to-spec-sublime	23	NOT_PLANNED	none	
+timfjord/Projectionist	13	COMPLETED	PullRequest	true
+tosher/StGitlab	9	NOT_PLANNED	none	
+valentinbarral/IpynbPreviewAsMarkdown	2	NOT_PLANNED	none	
+valentinbarral/IpynbPreviewAsMarkdown	3	NOT_PLANNED	none	
+vim-zz/StickySearch	5	NOT_PLANNED	none	
+vitalfadeev/SublimeDlangAutoImport	1	NOT_PLANNED	none	
+yandexx/VeeamLogsHelper	3	NOT_PLANNED	none	
+yusufb/MarkdownTableCreator	3	NOT_PLANNED	none	
+sublimehq/sublime_text	6996	COMPLETED	none	
+SharanSharathi/sublime_qtpl	1	COMPLETED	none	
+bgreenlee/sublime-github	130	COMPLETED	PullRequest	true
+dreadatour/RPMSpec	8	COMPLETED	none	
+gerph/sublimetext-bbcbasic-syntax	7	COMPLETED	none	
+justinfx/MayaSublime	44	COMPLETED	Commit	
+mawelborn/ZipContents	5	COMPLETED	none	
+molnarmark/sublime-live-server	14	COMPLETED	PullRequest	true
+molnarmark/sublime-live-server	15	COMPLETED	PullRequest	true
+npadley/BeyondCompare	9	COMPLETED	none	
+ofekih/smpl-sublime	1	NOT_PLANNED	none	
+rumly111/simpleifdef	4	COMPLETED	none	
+rwols/sublime-bicep	3	COMPLETED	none	
+SublimeLinter/SublimeLinter-coffee	6	COMPLETED	PullRequest	true
+SublimeLinter/SublimeLinter-csslint	26	COMPLETED	PullRequest	true
+SublimeLinter/SublimeLinter-flake8	131	COMPLETED	PullRequest	true
+SublimeLinter/SublimeLinter-jshint	125	COMPLETED	PullRequest	true
+SublimeLinter/SublimeLinter-json	23	COMPLETED	PullRequest	true
+SublimeLinter/SublimeLinter-php	55	COMPLETED	PullRequest	true
+SublimeLinter/SublimeLinter-php	56	COMPLETED	PullRequest	true
+SublimeLinter/SublimeLinter-pylint	68	COMPLETED	PullRequest	true
+SublimeLinter/SublimeLinter-ruby	25	COMPLETED	Commit	
+SublimeLinter/SublimeLinter-xmllint	14	COMPLETED	PullRequest	true
+SublimeText/Liquid	21	COMPLETED	Commit	
+SublimeText/Vue	49	COMPLETED	Commit	
+guille/sublime-kotlin	1	COMPLETED	Commit	
+lojoja/sublime-syntax-edgeos	1	COMPLETED	Commit	
+ryboe/CSS3	235	COMPLETED	PullRequest	true
+seanfagan/webagent_syntax	2	COMPLETED	PullRequest	true
+seanfagan/webagent_syntax	3	COMPLETED	PullRequest	true
+SublimeLinter/SublimeLinter-coffeelint	33	COMPLETED	PullRequest	true
+SublimeLinter/SublimeLinter-gcc	19	COMPLETED	PullRequest	true
+SublimeLinter/SublimeLinter-stylelint	24	COMPLETED	PullRequest	true
+dennykorsukewitz/Sublime-AddFolderToProject	1	COMPLETED	none	
+dennykorsukewitz/Sublime-AddFolderToProject	2	COMPLETED	none	
+furikake/sublime-codec	20	COMPLETED	none	
+furikake/sublime-codec	21	COMPLETED	PullRequest	true
+Phidica/sublime-fish	33	COMPLETED	Commit	
+SublimeLinter/SublimeLinter-chktex	18	COMPLETED	Commit	
+SublimeLinter/SublimeLinter-erlc	9	COMPLETED	PullRequest	true
+SublimeLinter/SublimeLinter-golint	9	COMPLETED	Commit	
+SublimeLinter/SublimeLinter-gotype	19	COMPLETED	Commit	
+SublimeLinter/SublimeLinter-govet	17	COMPLETED	Commit	
+SublimeLinter/SublimeLinter-haml	6	COMPLETED	PullRequest	true
+SublimeLinter/SublimeLinter-hlint	9	COMPLETED	Commit	
+SublimeLinter/SublimeLinter-php-cs-fixer	3	COMPLETED	PullRequest	true
+alsolovyev/Nunjucks	30	COMPLETED	Commit	
+alsolovyev/Nunjucks	31	COMPLETED	PullRequest	true
+colinkiama/vala_sublime_text	15	COMPLETED	PullRequest	true
+facelessuser/ThemeTweaker	24	COMPLETED	Commit	
+kaste/SublimeLinter-addon-black-for-flake	8	COMPLETED	PullRequest	true
+kaste/SublimeLinter-contrib-ember-template	1	COMPLETED	Commit	
+sublimelsp/LSP-Dart	17	COMPLETED	PullRequest	true
+sublimelsp/LSP-volar	263	COMPLETED	PullRequest	true
+wallabyjs/public	3656	COMPLETED	none	
+wallabyjs/quokka	1034	COMPLETED	none	
+ColdBox/coldbox-sublime	10	COMPLETED	PullRequest	true
+SublimeLinter/SublimeLinter-ghc	8	COMPLETED	PullRequest	true
+SublimeLinter/SublimeLinter-ghc	9	COMPLETED	Commit	
+barryceelen/Claudette	23	COMPLETED	none	
+harrymander/SublimeLinter-contrib-clang-format	1	COMPLETED	PullRequest	true
+kaste/SublimeLinter-addon-filter	4	COMPLETED	Commit	
+kaste/SublimeLinter-contrib-quick-linter-js	2	COMPLETED	PullRequest	true
+kaste/SublimeLinter-contrib-ruff	5	COMPLETED	PullRequest	true
+sublimelsp/LSP-kotlin	16	COMPLETED	PullRequest	true
+sublimelsp/LSP-kotlin	17	COMPLETED	PullRequest	true
+sublimelsp/LSP-kotlin	18	COMPLETED	none	
+xmake-io/xmake-sublime	9	COMPLETED	PullRequest	true
+LexouDuck/SublimeText-Lean	2	COMPLETED	none	
+LexouDuck/SublimeText-Lean	3	COMPLETED	none	
+PlutoLang/Syntax-Highlighting	40	COMPLETED	none	
+SirNickolas/SublimeFluent	2	COMPLETED	Commit	
+dennykorsukewitz/Sublime-GitHubFileFetcher	1	COMPLETED	none	
+dennykorsukewitz/Sublime-GitHubFileFetcher	2	COMPLETED	none	
+dennykorsukewitz/Sublime-GitHubFileFetcher	3	COMPLETED	none	
+dennykorsukewitz/Sublime-GitHubFileFetcher	4	COMPLETED	none	
+dennykorsukewitz/Sublime-GitHubFileFetcher	5	COMPLETED	none	
+futureprogrammer360/Wrap	1	COMPLETED	Commit	
+gerardroche/sublime-git-open	5	COMPLETED	Commit	
+gerardroche/sublime-goto-php-manual	1	COMPLETED	Commit	
+gerardroche/sublime-laravel-testing-completions	2	COMPLETED	none	
+giampaolo/SublimeLinter-contrib-makefile	7	COMPLETED	PullRequest	true
+giampaolo/SublimeLinter-contrib-makefile	8	COMPLETED	PullRequest	true
+sublimelsp/LSP-leo	12	COMPLETED	PullRequest	true
+Jawuilp/Limitcode	9	COMPLETED	none	
+Robot-Will/Stino	539	NOT_PLANNED	none	
+SKrooshof/sublime-eazybi-mdx-syntax	1	COMPLETED	none	
+SublimeHaskell/SublimeHaskell	460	NOT_PLANNED	none	
+golang/sublime-build	45	NOT_PLANNED	none	
+ternjs/tern_for_sublime	192	NOT_PLANNED	none	
+zsong/SqlBeautifier	31	NOT_PLANNED	none	
+Jawuilp/Limitcode	10	COMPLETED	none	
+Jawuilp/Limitcode	11	COMPLETED	none	
+Jawuilp/Limitcode	12	NOT_PLANNED	none	
+Jawuilp/Limitcode	13	COMPLETED	none	
+Jawuilp/Limitcode	14	COMPLETED	none	
+Jawuilp/Limitcode	15	COMPLETED	none	
+Jawuilp/Limitcode	16	COMPLETED	none	
+Jawuilp/Limitcode	17	COMPLETED	none	
+Jawuilp/Limitcode	18	COMPLETED	none	
+Jawuilp/Limitcode	19	COMPLETED	none	
+Jawuilp/Limitcode	20	COMPLETED	none	
+Jawuilp/Limitcode	21	COMPLETED	none	
+Naereen/SublimeText3_SwitchDictionary	2	COMPLETED	none	
+epergo/SublimeLinter-contrib-ameba	8	COMPLETED	PullRequest	true
+kitzberger/SublimeFoldersSwitch	1	COMPLETED	Commit	
+lingo/sublime-fscompletion	19	COMPLETED	none	
+misuzu/direnv-subl	9	COMPLETED	PullRequest	true
+sublimehq/package_control_channel	9600	COMPLETED	none	
+ubuntugege/FcitxInput	3	COMPLETED	none	
+ubuntugege/FcitxInput	4	COMPLETED	none	
+aletez/find_in_files_walker	1	COMPLETED	none	
+Naereen/SublimeText3_SwitchDictionary	3	COMPLETED	none	
+dempfi/ayu	299	COMPLETED	Commit	
+retifrav/marlant	16	COMPLETED	none	
+AmjadHD/sublime_one_theme	8	COMPLETED	PullRequest	true
+akalongman/sublimetext-codeformatter	428	COMPLETED	Commit	
+akalongman/sublimetext-codeformatter	429	COMPLETED	Commit	
+braver/SideBarTools	60	COMPLETED	Commit	
+wpseek/sublime-text-2-wpseek	7	COMPLETED	PullRequest	true
+zam1024t/LocalizedMenu	54	COMPLETED	none	
+zam1024t/LocalizedMenu	55	COMPLETED	none	
+LDprg/FileTabRename	2	COMPLETED	Commit	
+aafulei/sublime-exact-quick-find	4	COMPLETED	none	
+iahu/unicode-escape	7	COMPLETED	none	
+mlf4aiur/SublimeConfluence	10	COMPLETED	none	
+molnarmark/markdowncodeblocks	5	COMPLETED	none	
+numerataz/sublime-plugin	5	COMPLETED	PullRequest	true
+numerataz/sublime-plugin	6	COMPLETED	PullRequest	true
+numerataz/sublime-plugin	7	COMPLETED	PullRequest	true
+numerataz/sublime-plugin	8	COMPLETED	PullRequest	true
+numerataz/sublime-plugin	9	COMPLETED	PullRequest	true
+numerataz/sublime-plugin	10	COMPLETED	PullRequest	true
+numerataz/sublime-plugin	21	NOT_PLANNED	none	
+predragnikolic/Sone	5	COMPLETED	Commit	
+predragnikolic/Sone	6	COMPLETED	none	
+sublimehq/sublime_text	7009	NOT_PLANNED	none	
+sublimelsp/LSP-Bicep	17	COMPLETED	PullRequest	true
+sublimelsp/LSP-bitbake	6	COMPLETED	PullRequest	true
+sublimelsp/LSP-esphome	28	COMPLETED	PullRequest	true
+sublimelsp/LSP-kotlin	26	COMPLETED	PullRequest	true
+yangweijie/SublimePHPNinJaManual	6	COMPLETED	none	
+yangweijie/SublimePHPNinJaManual	7	COMPLETED	none	
+yangweijie/SublimePHPNinJaManual	8	COMPLETED	none	
+ghyatzo/fight-color-scheme	1	COMPLETED	none	
+ghyatzo/fight-color-scheme	2	COMPLETED	PullRequest	true
+lojoja/sublime-syntax-edgeos	2	COMPLETED	Commit	
+nonisolated/cataracted-dark-sublime-text	2	COMPLETED	PullRequest	true
+numerataz/sublime-plugin	22	NOT_PLANNED	none	
+numerataz/sublime-plugin	24	NOT_PLANNED	none	
+numerataz/sublime-plugin	25	NOT_PLANNED	none	
+numerataz/sublime-plugin	26	NOT_PLANNED	none	
+numerataz/sublime-plugin	28	COMPLETED	PullRequest	true
+rakibulhaq/estomato	5	COMPLETED	none	
+sublimehq/package_control	1802	NOT_PLANNED	none	
+vlasikhin/Aethra	1	COMPLETED	none	
+SublimeText/LaTeXTools	1717	COMPLETED	PullRequest	true
+debjan/sublime-acp	1	COMPLETED	none	
+guilhermeleobas/IRView	13	COMPLETED	none	
+maxim/ColorSchemeCategorizer	1	COMPLETED	Commit	
+sublimelsp/LSP	3074	COMPLETED	PullRequest	true
+farcaller/DashDoc	72	COMPLETED	none	
+sublimehq/package_control_channel	9617	COMPLETED	none	
+biozz/sublime-taskfile	6	COMPLETED	none	
+REditorSupport/languageserver	794	COMPLETED	PullRequest	true
+twolfson/sublime-hooks	16	COMPLETED	none	
+pokidovea/copy_python_path	7	COMPLETED	PullRequest	true
+sublimehq/package_control	1803	NOT_PLANNED	none	
+XeCreators/Unyson-Snippets-Sublime	2	COMPLETED	PullRequest	true
+memoryleak/TerraformSnippets-AWS	3	COMPLETED	PullRequest	true
+TomasBarry/Sublime-create-webp-image	1	COMPLETED	none	
+FlashSystems/LogView	8	COMPLETED	PullRequest	true
+glennw/RustAutoComplete	32	COMPLETED	none	
+Marcool04/SublimeLinter-contrib-csl	1	COMPLETED	none	
+kairyou/SublimeSimpleSync	13	COMPLETED	none	
+corbanmailloux/sublime-mit-alloy	6	COMPLETED	PullRequest	true
+packagecontrol/pywin32	1	NOT_PLANNED	none	
+jgburet/jumpy-sublime	5	COMPLETED	Commit	
+SevenO2/ion-sublime-syntax	1	COMPLETED	none	
+dparrini/sublime_powersystems	1	COMPLETED	Commit	
+dparrini/sublime_opendss	2	COMPLETED	none	
+bluekitchen/btstack-packet-log	1	COMPLETED	Commit	
+bluekitchen/btstack-packet-log	2	COMPLETED	Commit	
+kairyou/SublimeTmpl	34	COMPLETED	none	
+wbond/package_control	1805	NOT_PLANNED	none	
+Nadock/json_stringify	4	COMPLETED	none	
+SublimeText/IndentGuides	6	NOT_PLANNED	none	
+sublimehq/package_control	1805	NOT_PLANNED	none	
+al63/SublimeFiles	30	COMPLETED	none	
+al63/SublimeFiles	31	COMPLETED	none	
+RoverWire/codeigniter-utilities	4	NOT_PLANNED	none	
+mikepfirrmann/openfolder	11	COMPLETED	Commit	
+harrism/sublimetext-cuda-cpp	10	COMPLETED	PullRequest	true
+petereichinger/Unity3D-Shader	10	NOT_PLANNED	none	
+josegonzalez/sublimetext-cakephp	12	COMPLETED	none	
+TenSoja/arff-syntax	1	COMPLETED	none	
+Fansaly/ASL-Syntax-Highlight	2	COMPLETED	Commit	
+Fansaly/ASL-Syntax-Highlight	3	COMPLETED	Commit	
+TikiTDO/AutoSlim	2	COMPLETED	none	
+dnicolson/BBEdit-Indent	1	COMPLETED	Commit	
+dnicolson/BBEdit-Indent	2	COMPLETED	Commit	
+whitequark/sublime-better-ocaml	9	NOT_PLANNED	none	
+whitequark/sublime-better-ocaml	10	NOT_PLANNED	none	
+dhelonious/BuildSystemInput	1	COMPLETED	none	
+HorlogeSkynet/CDNUpdates	1	COMPLETED	Commit	
+riga/CMSSWLookup	1	COMPLETED	none	
+junyuecao/sublime-cssrtl	3	NOT_PLANNED	none	
+markup-carve/sublime-carve	79	COMPLETED	PullRequest	true
+gsdlab/ClaferToolsST	4	COMPLETED	PullRequest	true
+jturcotte/SublimeCloseOldestFile	1	NOT_PLANNED	none	
+janraasch/sublimetext-commitment	5	COMPLETED	PullRequest	true
+unifreak/SublimeDirectCopy	1	COMPLETED	PullRequest	true
+unifreak/SublimeDirectOpen	1	COMPLETED	PullRequest	true
+bgx4k3p/DokuWikiSyntax	3	COMPLETED	none	
+bhargavrpatel/dota_kv	15	COMPLETED	none	
+20Tauri/DoxyDoxygen_contrib_HeaderDoc	2	COMPLETED	none	
+toboid/sublime-fsp-syntax	1	COMPLETED	PullRequest	true
+toboid/sublime-fsp-syntax	2	COMPLETED	Commit	
+hyrious/Glot	4	COMPLETED	Commit	
+khrizt/GotoLastEdit	10	COMPLETED	none	
+ivantsepp/goto-with-common-suffix	1	COMPLETED	Commit	
+hbh112233abc/HBH-Translator	2	COMPLETED	none	
+hbh112233abc/HBH-Translator	3	COMPLETED	none	
+alex-pobeditel-2004/highlime	2	COMPLETED	Commit	
+alex-pobeditel-2004/highlime	1	COMPLETED	Commit	
+Flet/SublimeLinter-contrib-standard	44	COMPLETED	none	
+Flet/SublimeLinter-contrib-standard	45	COMPLETED	none	
+rchl/IndentToParenthesis	3	COMPLETED	PullRequest	true
+lindskogen/InstacodeSublime	2	COMPLETED	none	
+lindskogen/InstacodeSublime	3	COMPLETED	none	
+BenjaminSchaaf/jam-sublime-syntax	3	NOT_PLANNED	none	
+digitrev/KoLMafiaAshSyntax	1	COMPLETED	none	
+digitrev/KoLMafiaAshSyntax	2	COMPLETED	none	
+digitrev/KoLMafiaAshSyntax	3	COMPLETED	none	
+BGR360/lc2k-sublime-plugin	1	COMPLETED	none	
+whitequark/LLVM-TableGen.tmBundle	1	COMPLETED	none	
+DavidGerva/LockTab-Sublime-Plugin	1	NOT_PLANNED	none	
+unifreak/SublimeLyricEditor	1	COMPLETED	PullRequest	true
+marconi/mako-tmbundle	13	COMPLETED	none	
+motine/MarkdownCodePacker	2	COMPLETED	none	
+amclain/sublime-netlinx	10	COMPLETED	none	
+josephmorrill/SublimeNppTabContextPlugin	1	COMPLETED	PullRequest	true
+ilyakam/NumberFormatter	22	COMPLETED	PullRequest	true
+daumiller/P4Gutter	3	COMPLETED	none	
+daumiller/P4Gutter	4	COMPLETED	none	
+shreyasminocha/Sublime-PGN	1	COMPLETED	Commit	
+migliori/sublime-phpformbuilder	1	COMPLETED	Commit	
+wh0am1-dev/sublime-PICO-8	19	COMPLETED	PullRequest	true
+klmp200/Pandoc-Converter	1	COMPLETED	none	
+muskatel/Parva_Syntax	1	COMPLETED	PullRequest	true
+daguej/sublime-pastewrap	1	NOT_PLANNED	none	
+praveenpuglia/color_scheme_poppins	7	COMPLETED	PullRequest	true
+petarjs/sublime-reqs-language	1	COMPLETED	PullRequest	true
+SublimeText/RichTextFormat	2	COMPLETED	none	
+RubyMotionJP/SublimeRubyMotionBuilder	45	COMPLETED	none	
+RubyMotionJP/SublimeRubyMotionBuilder	46	COMPLETED	none	
+RubyMotionJP/SublimeRubyMotionBuilder	47	COMPLETED	none	
+LucaVazz/SetlXHelper	8	NOT_PLANNED	none	
+woodruffw/SimpleSession	8	NOT_PLANNED	none	
+wghust/snippetSkydragon	1	COMPLETED	PullRequest	true
+baptistejamin/sublime-42-norminette	9	COMPLETED	none	
+wshxbqq/JdfSublime	1	NOT_PLANNED	none	
+jcldavid/JustPaste	1	NOT_PLANNED	none	
+maethu/SublimePloneReload	2	COMPLETED	none	
+beaugunderson/SublimeLinter-contrib-serplint	1	NOT_PLANNED	none	
+vaemoi/SublimeLinter-contrib-tailor	2	NOT_PLANNED	none	
+patrickrgaffney/SublimeLinter-contrib-terraform	5	NOT_PLANNED	none	
+uqbar-project/wollok-sublime-linter	1	NOT_PLANNED	none	
+jmeischner/SublimeLinter-contrib-xqlint	1	NOT_PLANNED	none	
+kliu/SublimeLogHelper	1	NOT_PLANNED	none	
+robcowie/SublimePaster	19	NOT_PLANNED	none	
+jamiesun/SublimeTalkincode	1	NOT_PLANNED	none	
+jbrooksuk/SublimeWebColors	3	NOT_PLANNED	none	
+ivershuo/sublime-sublimeweibo	1	NOT_PLANNED	none	
+cyrilf/Sublimipsum	3	NOT_PLANNED	none	
+smhg/sublime-suncycle	13	COMPLETED	none	
+aphex/SuperAnt	17	NOT_PLANNED	none	
+geoffroymontel/supercollider-package-for-sublime-text	10	NOT_PLANNED	none	
+acarabott/supercollider-sublime	11	NOT_PLANNED	none	
+pdaether/Sublime-SymfonyCommander	14	NOT_PLANNED	none	
+reinteractive-open/Syntax-Matcher	4	NOT_PLANNED	none	
+amisarca/Sublime-Text-Table-Cleaner	5	NOT_PLANNED	none	
+ejoubaud/SublimeTabsLimiter	4	NOT_PLANNED	none	
+jcowgar/sublime-task-timer	6	NOT_PLANNED	none	
+kostajh/sublime-taskwarrior	11	NOT_PLANNED	none	
+rundef/tau-time-tracker	2	NOT_PLANNED	none	
+SublimeText/ColdFusion	177	NOT_PLANNED	none	
+welovewordpress/SublimePhpTidy	38	NOT_PLANNED	none	
+Warin/SublimeTidyHTML	14	NOT_PLANNED	none	
+diestrin/nodejsLauncher	5	NOT_PLANNED	none	
+derekchiang/Sublime-CoffeeScript-Formatter	8	NOT_PLANNED	none	
+adamlilienfeldt/Sublime-Arduino	5	NOT_PLANNED	none	
+UnicornForest/Unity3DScriptReference	2	NOT_PLANNED	none	
+welefen/KeymapManager	8	NOT_PLANNED	none	
+06wj/cocos2d_lua_snippets	3	NOT_PLANNED	none	
+alek-sys/ChangeTracker	9	NOT_PLANNED	none	
+bitbonsai/JSHint-Inline	10	NOT_PLANNED	none	
+bitbonsai/JSHint-Inline	11	NOT_PLANNED	none	
+SubZane/Sublime-Placehold.it	10	NOT_PLANNED	none	
+chagel/itodo	9	NOT_PLANNED	none	
+agibsonsw/QuickPrint	1	NOT_PLANNED	none	
+rcaldwel/Django-Tools	2	NOT_PLANNED	none	
+paccator/GotoRecent	4	NOT_PLANNED	none	
+TooBug/CompactExpandCss	4	NOT_PLANNED	none	
+TooBug/CompactExpandCss	5	NOT_PLANNED	none	
+Stubbs/sublime-puppet-syntax	2	NOT_PLANNED	none	
+jtdeng/GoToDoc	4	NOT_PLANNED	none	
+mediaupstream/SublimeText-NodeEval	9	NOT_PLANNED	none	
+lfont/Sublime-Text-2-GoogleTranslate-Plugin	3	NOT_PLANNED	none	
+sc8696/sublime-css-auto-comments	7	NOT_PLANNED	none	
+sc8696/sublime-css-auto-comments	8	NOT_PLANNED	none	
+inflation/Gherkin-highlight-sublimetext	1	NOT_PLANNED	none	
+inflation/Gherkin-highlight-sublimetext	2	NOT_PLANNED	none	
+lyapun/sublime-text-2-python-test-runner	13	NOT_PLANNED	none	
+lyapun/sublime-text-2-python-test-runner	14	NOT_PLANNED	none	
+lyapun/sublime-text-2-python-test-runner	15	NOT_PLANNED	none	
+sahibalejandro/inline-calculator	3	NOT_PLANNED	none	
+sahibalejandro/inline-calculator	4	NOT_PLANNED	none	
+fintanmm/SublimeLoremPixel	2	NOT_PLANNED	none	
+fintanmm/SublimeLoremPixel	3	NOT_PLANNED	none	
+PogiNate/SublimeWiki	11	NOT_PLANNED	none	
+PogiNate/SublimeWiki	12	NOT_PLANNED	none	
+astropanic/Compline	6	NOT_PLANNED	none	
+leporo/SublimeYammy	1	NOT_PLANNED	none	
+gs/sublime-text-go-to-file	8	NOT_PLANNED	none	
+erinata/BuildParts	3	NOT_PLANNED	none	
+idosela/sublime_new_from_selection	2	NOT_PLANNED	none	
+idosela/sublime_new_from_selection	3	NOT_PLANNED	none	
+jugyo/SublimeGitGrep	1	NOT_PLANNED	none	
+harrison-m/indent.txt	2	NOT_PLANNED	none	
+pahlers/PathToFile	1	NOT_PLANNED	none	
+pahlers/PathToFile	2	NOT_PLANNED	none	
+sentience/DokuWiki	7	NOT_PLANNED	none	
+Apptorium/TeaCode-Sublime-Helper	3	NOT_PLANNED	none	
+joscandreu/ST2-TiSearch	1	NOT_PLANNED	none	
+bit-part/PowerMTML-ST2	1	NOT_PLANNED	none	
+achayan/sublimePyQtSearch	2	NOT_PLANNED	none	
+chaosphere2112/TextCommands	10	NOT_PLANNED	none	
+dsteinbach/npm-info	3	NOT_PLANNED	none	
+shammond42/cheater	7	NOT_PLANNED	none	
+jfromaniello/sublime-goto-node-module	2	NOT_PLANNED	none	
+GerjanOnline/SublimeFileCleanup	1	NOT_PLANNED	none	
+kawasako/sublime-plugin-Image2tag	2	NOT_PLANNED	none	
+frankdejonge/CopyNamespace	5	NOT_PLANNED	none	
+bit-part/MTML-ST2	3	NOT_PLANNED	none	
+minimedj/ErlDoc	1	NOT_PLANNED	none	
+superguigui/xtoy	3	NOT_PLANNED	none	
+HackerBaloo/SublimeOpenInTotalCommander	2	NOT_PLANNED	none	
+HackerBaloo/SublimeOpenInTotalCommander	3	NOT_PLANNED	none	
+angelsanchez/iris-path-sublime	1	NOT_PLANNED	none	
+sahibalejandro/quark-php-sublime	1	NOT_PLANNED	none	
+dunckr/hidefiles	1	NOT_PLANNED	none	
+apiad/sublime-flashback	4	NOT_PLANNED	none	

@@ -1,6 +1,6 @@
 ---
 name: file-gate-obsolete-packages-2026-10-27
-description: HIS ORDER 2026-10-27: no issues on obsolete packages; tools\file_gate.ps1 decides FILE or RECORD-ONLY before any gh issue create
+description: SUPERSEDED 2026-10-29 (Donald: "there is no gate, don't follow some stale rule"): file real defects whatever the age; only archived or issues-disabled repos are record-only. History of the 2026-10-27 gate below.
 metadata:
   type: feedback
 ---

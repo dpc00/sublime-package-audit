@@ -3,8 +3,7 @@ param([Parameter(Mandatory)][string]$Repo, [string]$Name)
 # Prints FILE or RECORD-ONLY with the reasons. RECORD-ONLY means: log the finding in RESULTS.tsv, file nothing.
 # FILE needs ALL of: repo not archived, Package Control (if listed) says ST3 or ST4 supported, and
 #   (last push within 3 years OR 3000+ unique installs).
-# HOLD (Donald, 2026-10-27: "it is too dangerous, sensitive toes"): no public GitHub action at all until he says go.
-Write-Output "RECORD-ONLY: HOLD, no issues, comments, closes or PRs until Donald lifts it"; exit 0
+# The 2026-10-27 hold ("too dangerous, sensitive toes") was lifted by Donald on 2026-10-29 ("We did PRs today, so of course it is lifted").
 $why = @()
 $m = gh repo view $Repo --json isArchived,pushedAt 2>$null | ConvertFrom-Json
 if (-not $m) { Write-Output "RECORD-ONLY: repo not found (404)"; exit 0 }
