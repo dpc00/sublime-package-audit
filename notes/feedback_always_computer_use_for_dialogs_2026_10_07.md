@@ -9,3 +9,5 @@ metadata:
 
 **Why:** he wants dialogs handled with computer-use; sublime-mcp's dismiss_native_window ignored my button name and clicked Cancel instead of Install.
 **How to apply:** after an Escape stop, retry computer-use (get_window_state then click); do not offer or switch to dismiss_native_window and do not wait for him. This supersedes the "use an alternative" advice in [[computer-use-false-escape-stop]].
+
+**SUPERSEDED 2026-10-30 (Donald):** the Why above is fixed: `dismiss_native_window(action="button", button="Install")` clicks the named button (tested on build 4215). Use sublime-mcp dialog tools first; computer-use only to read dialog text. See skill rule 6h.

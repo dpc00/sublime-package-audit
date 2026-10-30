@@ -1,3 +1,5 @@
+SUPERSEDED 2026-10-30: the gate is deleted; the final filing policy is SKILL rule 6f (file every real, reachable, welcome, new defect; record repo facts per 6i). Read the text below as history only.
+
 ---
 name: file-gate-obsolete-packages-2026-10-27
 description: SUPERSEDED 2026-10-29 (Donald: "there is no gate, don't follow some stale rule"): file real defects whatever the age; only archived or issues-disabled repos are record-only. History of the 2026-10-27 gate below.

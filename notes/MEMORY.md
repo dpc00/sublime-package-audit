@@ -1,4 +1,4 @@
-﻿- [session-baton-2026-10-29-static-backlog](project_session_baton_2026_10_29_static_backlog.md) - START HERE (newest, audit): 1,240 packages whose latest result is static-only; live testing in main-list row order, DrSync (row 1) done, next row 4 0x0; hold lifted; how to list what is left
+- [session-baton-2026-10-29-static-backlog](project_session_baton_2026_10_29_static_backlog.md) - START HERE (newest, audit): 1,240 packages whose latest result is static-only; live testing in main-list row order, DrSync (row 1) done, next row 4 0x0; hold lifted; how to list what is left
 
 - [no-not-tested-lines-in-prs-2026-10-29](feedback_no_not_tested_lines_in_prs_2026_10_29.md) - HIS ORDER: no "not tested" lines in PR texts; run those cases (found two regressions of my own in the P4 and riot PRs), say where it was tested; ColorHelper#285 still has some
 
@@ -199,7 +199,7 @@
 
 - [amclain-file-nothing-2026-10-27](feedback_amclain_file_nothing_2026_10_27.md) - amclain (sublime-netlinx #10) rebuked read-only reports for tooling we cannot run; file nothing more in his repos; Donald answering a thread does not close it (SimpleCov: Kevin Yank offered to transfer the repo, unanswered)
 
-- [file-gate-obsolete-packages-2026-10-27](feedback_file_gate_obsolete_packages_2026_10_27.md) - HIS ORDER: no issues on obsolete packages; tools\file_gate.ps1 gives FILE or RECORD-ONLY before any gh issue create (skill rule 6f)
+- [file-gate-obsolete-packages-2026-10-27](feedback_file_gate_obsolete_packages_2026_10_27.md) - SUPERSEDED 2026-10-30 by SKILL rule 6f (no gate; data\do_not_file.tsv). Old text: HIS ORDER: no issues on obsolete packages; tools\file_gate.ps1 gives FILE or RECORD-ONLY before any gh issue create (skill rule 6f)
 
 - [session-baton-2026-10-27-queue-done-hold](project_session_baton_2026_10_27_queue_done_hold.md) - START HERE (newest, audit): queue finished, hold on all GitHub action, email-only redesign with RESULTS.tsv#L links, mass closures and reopens, next main audit row 1739
 
@@ -209,3 +209,7 @@
 
 
 - [new-list-all-recorded-2026-10-29](project_new_list_all_recorded_2026_10_29.md) - packagecontrol.io/browse/new has 219 pages, all 5452 already recorded (names carry version suffixes: strip them when filtering); Cremisi was the only new one; LSP helper install order; session tab and reconnect facts
+
+- [portable-channels-override-2026-10-31](feedback_portable_channels_override_2026_10_31.md) - the empty picker on the portable was my rig's v4-only channels override, not the public file; removed, picker lists 4728; installs use the picker again, zip batches 199-211 were not the user flow
+
+- [limitcode-retest-1-1-13-2026-10-31](project_limitcode_retest_1_1_13_2026_10_31.md) - retest on his word: 1.1.13 fixes #11 #13 #14 #15 #17, #12 closed by design, nothing filed; installed and removed via picker, baseline verified
