@@ -1,9 +1,11 @@
 ---
 name: pr-queue-length-one-2026-10-26
-description: HIS WORDS (2026-10-26) on maintainer PR requests - one PR at a time, in the order received, delete the fork when merged or after a reasonable time; rewritten 2026-10-29 to hold only what he said
+description: SUPERSEDED 2026-10-29 - there is NO queue and no one-at-a-time rule; do what the maintainer requested (his words, restated 2026-10-31). Old text kept below as history; rewritten 2026-10-29 to hold only what he said
 metadata:
   type: feedback
 ---
+
+**NO LONGER IN FORCE.** 2026-10-29 Donald said "never mind one at a time, just do what he requested", and on 2026-10-31, when I repeated "the PR queue is one" in a status line, he said: "there is no queue. That is false." Do not state or apply a queue. A maintainer's PR request is simply done (read the file on the default branch first, check history, test, open the PR). Forks are deleted when their PR is merged.
 
 Donald, 2026-10-26, after saying that maintainers asking for PRs was making him ill ("I can't fork all that stuff"):
 

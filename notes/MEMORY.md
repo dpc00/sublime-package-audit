@@ -20,7 +20,7 @@
 
 - [protractorninja-account-gone-2026-10-26](project_protractorninja_gone_2026_10_26.md) - ProtractorNinja account and SPARC-sublime repo 404 on 2026-10-26 (deleted or suspended, cause unknown) after our #4 and comment on #1; file nothing
 
-- [pr-queue-length-one-2026-10-26](feedback_pr_queue_length_one_2026_10_26.md) - HIS DECISION: maintainer PR requests one at a time in order received, one fork at a time, delete it when merged or after a reasonable wait, then the next; lifts the PR pause only in this form
+- [pr-queue-length-one-2026-10-26](feedback_pr_queue_length_one_2026_10_26.md) - SUPERSEDED: there is NO PR queue (his words 10-29 and 10-31); do what the maintainer requested; delete a fork when its PR is merged
 
 - [whitequark-blocked-us-2026-10-25](feedback_whitequark_blocked_us_2026_10_25.md) - whitequark (Rainbowth) blocked dpc00 (403 Blocked, gh issue create exits 0 silently); file nothing in his repos; KeyError finding kept in findings\Rainbowth-onclose-keyerror.md
 

@@ -10,3 +10,5 @@ metadata:
 **Why:** a bare `/mcp` raises a menu only he can answer and cuts my turn off.
 
 **How to apply:** when he says to reconnect a server, check that only my own tab is open in the main Sublime (get_sheets settings=false), then `ui_type_text` the full line `/mcp reconnect computer-use-mcp` plus newline, and read the result back. Say one line first that the turn may be interrupted. Related: [[no-admin-installs-2026-10-24]].
+
+**2026-10-31 addendum:** the 1.18.0 server has no ai_terminal_send_string. My own tab can show up as the only sheet in the main Sublime with an unrelated name (it was called 'Previous session transcript tail'); I wrongly decided it was not my tab and asked Donald to run /mcp. Rule: if get_sheets shows exactly one sheet, that is my tab; ui_type_text the full '/mcp reconnect <server>' + newline (worked, reconnected at once). Do not ask him.
