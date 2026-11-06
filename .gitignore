@@ -1,0 +1,27 @@
+# The repo holds only the method: README, PROCEDURE, LICENSE and the four tool
+# scripts (about 32 KB of text). The data files and all working material stay
+# on disk and are deliberately not published.
+.git/
+__pycache__/
+*.py[cod]
+node_modules/
+.venv/
+venv/
+.env
+credentials.json
+client_secret*.json
+client_secrets*.json
+notes/
+findings/
+data/
+lists/
+scripts/
+.claude/
+.scratch/
+tools/
+!tools/rec.ps1
+!tools/pending.py
+!tools/readme_stats.py
+!tools/static_check_parse.py
+RESULTS.tsv
+ISSUES.tsv
