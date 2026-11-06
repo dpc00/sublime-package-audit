@@ -28,6 +28,8 @@ This table reads `RESULTS.tsv` only. Tests recorded in the session log or `ISSUE
 ## Provenance (`ALIASES.tsv`, `data/unresolved_resolution.tsv`)
 
 Package names are not identities; repositories are. `ALIASES.tsv` lists the package names that the live channel (`packagecontrol.io/channel_v3.json`) proves share one repository, so they are counted once. `data/unresolved_resolution.tsv`, produced by `tools/resolve_unresolved.py`, records what happened to names that no longer appear in the channel: matched after normalisation, matched by GitHub repository search, ambiguous, or no match at all. A name in the record that resolves nowhere is still an entry — it just is not evidence of a package that exists today.
+What the 792 names that left the channel turned out to be: 8 matched after normalisation, 107 matched a GitHub repository of the same name, 68 share their name with several repositories and stay unresolved, and 609 match no repository at all. Full detail in `data/unresolved_resolution.tsv` from `tools/resolve_unresolved.py`. Fifteen duplicate names are listed in `ALIASES.tsv`, eight of them cases where the same package was recorded twice because one copy had UTF-8 mojibake (`Inglês` and `InglÃªs`).
+
 
 ## Issues (`ISSUES.tsv`)
 
