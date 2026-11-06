@@ -55,7 +55,7 @@ def classify(note: str) -> str:
     # default and were counted as tested (2026-11-05).
     if re.match(r"^not[\s-]?tested\b", n):
         return "not_offered"
-    if re.search(r"\b(tested|retested|installed|live test)\b", n) and not re.search(r"\bnot tested\b", n):
+    if re.search(r"\b(tested|retested|installed|installs|works|loads|reloads|live test)\b", n) and not re.search(r"\bnot tested\b", n):
         return "tested"
     if re.search(r"no github repository link|no github repository|no repository link|no github repo\b", n):
         return "no_link"

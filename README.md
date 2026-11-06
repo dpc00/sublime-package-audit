@@ -1,21 +1,21 @@
 # Sublime Text package audit (2026)
 
-Donald Chitester (dpc00) with Claude (AI agent driving Sublime Text through [sublime-mcp](https://github.com/dpc00/sublime-mcp)). Counts to 2026-11-05.
+Donald Chitester (dpc00) with Claude (AI agent driving Sublime Text through [sublime-mcp](https://github.com/dpc00/sublime-mcp)). Counts to 2026-11-06.
 
 ## Packages (`RESULTS.tsv`)
 
 | measure | count |
 |---|---:|
-| packages tested (latest row shows a run, install or load; retests not counted) | 5387 |
-| packages not tested | 452 |
+| packages tested (latest row shows a run, install or load; retests not counted) | 5396 |
+| packages not tested | 443 |
 | — not installable | 105 |
 | — repository gone | 136 |
-| — no GitHub repository link | 59 |
+| — no GitHub repository link | 51 |
 | — not offered or skipped | 99 |
-| — static check only (NOT live-tested yet) | 36 |
+| — static check only (NOT live-tested yet) | 35 |
 | — read-only review, nothing run | 17 |
 
-`data/untested_installable_2026_11_03.tsv` lists the 258 packages that Package Control offered for Windows/ST4 but that the 2026-10-27 bulk pass had not tested. 208 of them have since been dealt with — 189 tested live, and 19 shown to have no release for build 4215 in the ST4 channel, so they never appear in the Install Package picker — leaving 50 that are still offered and still untested.
+`data/untested_installable_2026_11_03.tsv` lists the 258 packages that Package Control offered for Windows/ST4 but that the 2026-10-27 bulk pass had not tested. 212 of them have since been dealt with — 193 tested live, and 19 shown to have no release for build 4215 in the ST4 channel, so they never appear in the Install Package picker — leaving 46 that are still offered and still untested.
 
 Eight packages whose tests predate the 2026-10-27 bulk pass are counted as tested after checking their earlier rows and filed issues; that pass's "not tested" placeholder had overwritten them. Package Control alone has 26 issues.
 
@@ -25,24 +25,24 @@ This table reads `RESULTS.tsv` only. Tests recorded in the session log or `ISSUE
 
 | measure | count |
 |---|---:|
-| issues filed | 3137 |
-| repositories | 2198 |
-| open | 2276 |
+| issues filed | 3141 |
+| repositories | 2199 |
+| open | 2280 |
 | closed | 846 |
 | repository no longer readable | 15 |
 | closed within a week | 454 |
 | days to close, median / mean | 5 / 25.1 |
 
-Open/closed split as of 2026-11-05; closed does not mean fixed. `ISSUES.tsv` has 3139 rows: 2 are duplicate log rows for the same issue (3137 distinct issues).
+Open/closed split as of 2026-11-06; closed does not mean fixed. `ISSUES.tsv` has 3143 rows: 2 are duplicate log rows for the same issue (3141 distinct issues).
 
 ## Pull requests (GitHub, author dpc00)
 
 | state | count |
 |---|---:|
 | merged | 54 |
-| open | 9 |
+| open | 11 |
 | closed, not merged | 81 |
-| total | 144 |
+| total | 146 |
 
 ## Kinds of defect found
 
@@ -68,7 +68,7 @@ Open/closed split as of 2026-11-05; closed does not mean fixed. `ISSUES.tsv` has
 | reports | written by the AI agent, marked "Claude reports:" |
 | maintainers who asked not to be written to | respected; email instead where issues are disabled |
 | known mistake | [Theme-Treble#1](https://github.com/53v3n3d4/Theme-Treble/issues/1) first report corrected after a retest |
-| known mistake | 2026-10-27 static check replaced live testing for 1408 records and the audit was wrongly called complete; corrected 2026-10-29; 36 packages still have only a static check |
+| known mistake | 2026-10-27 static check replaced live testing for 1408 records and the audit was wrongly called complete; corrected 2026-10-29; 35 packages still have only a static check |
 
 ## Files
 
