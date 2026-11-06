@@ -25,6 +25,10 @@ Eight packages whose tests predate the 2026-10-27 bulk pass are counted as teste
 
 This table reads `RESULTS.tsv` only. Tests recorded in the session log or `ISSUES.tsv` but never written to `RESULTS.tsv` are not in it, so the tested count is a floor and the not-tested count an upper bound.
 
+## Provenance (`ALIASES.tsv`, `data/unresolved_resolution.tsv`)
+
+Package names are not identities; repositories are. `ALIASES.tsv` lists the package names that the live channel (`packagecontrol.io/channel_v3.json`) proves share one repository, so they are counted once. `data/unresolved_resolution.tsv`, produced by `tools/resolve_unresolved.py`, records what happened to names that no longer appear in the channel: matched after normalisation, matched by GitHub repository search, ambiguous, or no match at all. A name in the record that resolves nowhere is still an entry — it just is not evidence of a package that exists today.
+
 ## Issues (`ISSUES.tsv`)
 
 | measure | count |
