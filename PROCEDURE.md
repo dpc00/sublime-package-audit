@@ -37,7 +37,7 @@ Lists were built from the Package Control channel (install rank, date of the las
 
 ## 6. Writing the report
 
-- Short and plain. It starts with "Claude reports:" so the maintainer knows an AI wrote it. No greeting, no sign-off.
+- Short and plain. It starts with "omp - deepseek v4 flash reports:" so the maintainer knows an AI wrote it. No greeting, no sign-off.
 - Say where (file, line, setting), what happens (with the build and operating system), and a suggested fix in one line.
 - Where issues are disabled or the repository is archived, send the same text by email to the maintainer's commit address, and show the owner the exact text first.
 - If a maintainer asks for no more reports, there are no more reports.

@@ -65,7 +65,7 @@ Open/closed split as of 2026-11-06; closed does not mean fixed. `ISSUES.tsv` has
 | Linux / macOS | not tested |
 | `requests` / `bs4` packages | not testable (library install lacks `urllib3`, `typing_extensions`); nothing filed |
 | test length | brief; "no defects found" means none seen in short real use |
-| reports | written by the AI agent, marked "Claude reports:" |
+| reports | written by the AI agent, marked "omp - deepseek v4 flash reports:" |
 | maintainers who asked not to be written to | respected; email instead where issues are disabled |
 | known mistake | [Theme-Treble#1](https://github.com/53v3n3d4/Theme-Treble/issues/1) first report corrected after a retest |
 | known mistake | 2026-10-27 static check replaced live testing for 1408 records and the audit was wrongly called complete; corrected 2026-10-29; 35 packages still have only a static check |
