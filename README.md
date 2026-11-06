@@ -10,7 +10,7 @@ These are the ledger figures. `RESULTS.tsv` is the only source: 7,818 lines, col
 
 | measure | count |
 |---|---:|
-| packages tested (latest row shows a run, install or load; retests not counted) | 5396 |
+| packages tested (latest row shows a run, install or load; retests not counted) | 5401 |
 | packages not tested | 444 |
 | — not installable | 105 |
 | — repository gone | 136 |
@@ -35,15 +35,15 @@ What the 792 names that left the channel turned out to be: 8 matched after norma
 
 | measure | count |
 |---|---:|
-| issues filed | 3142 |
-| repositories | 2199 |
-| open | 2281 |
+| issues filed | 3143 |
+| repositories | 2200 |
+| open | 2282 |
 | closed | 846 |
 | repository no longer readable | 15 |
 | closed within a week | 454 |
 | days to close, median / mean | 5 / 25.1 |
 
-Open/closed split as of 2026-11-06; closed does not mean fixed. `ISSUES.tsv` has 3144 rows: 2 are duplicate log rows for the same issue (3142 distinct issues).
+Open/closed split as of 2026-11-06; closed does not mean fixed. `ISSUES.tsv` has 3145 rows: 2 are duplicate log rows for the same issue (3143 distinct issues).
 
 ## Pull requests (GitHub, author dpc00)
 
