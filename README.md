@@ -7,10 +7,10 @@ Donald Chitester (dpc00) with Claude (AI agent driving Sublime Text through [sub
 | measure | count |
 |---|---:|
 | packages tested (latest row shows a run, install or load; retests not counted) | 5396 |
-| packages not tested | 443 |
+| packages not tested | 444 |
 | — not installable | 105 |
 | — repository gone | 136 |
-| — no GitHub repository link | 51 |
+| — no GitHub repository link | 52 |
 | — not offered or skipped | 99 |
 | — static check only (NOT live-tested yet) | 35 |
 | — read-only review, nothing run | 17 |
@@ -25,24 +25,24 @@ This table reads `RESULTS.tsv` only. Tests recorded in the session log or `ISSUE
 
 | measure | count |
 |---|---:|
-| issues filed | 3141 |
+| issues filed | 3142 |
 | repositories | 2199 |
-| open | 2280 |
+| open | 2281 |
 | closed | 846 |
 | repository no longer readable | 15 |
 | closed within a week | 454 |
 | days to close, median / mean | 5 / 25.1 |
 
-Open/closed split as of 2026-11-06; closed does not mean fixed. `ISSUES.tsv` has 3143 rows: 2 are duplicate log rows for the same issue (3141 distinct issues).
+Open/closed split as of 2026-11-06; closed does not mean fixed. `ISSUES.tsv` has 3144 rows: 2 are duplicate log rows for the same issue (3142 distinct issues).
 
 ## Pull requests (GitHub, author dpc00)
 
 | state | count |
 |---|---:|
 | merged | 54 |
-| open | 11 |
-| closed, not merged | 81 |
-| total | 146 |
+| open | 12 |
+| closed, not merged | 82 |
+| total | 148 |
 
 ## Kinds of defect found
 
