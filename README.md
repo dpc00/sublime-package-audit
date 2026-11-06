@@ -4,6 +4,10 @@ Donald Chitester (dpc00) with Claude (AI agent driving Sublime Text through [sub
 
 ## Packages (`RESULTS.tsv`)
 
+These are the ledger figures. `RESULTS.tsv` is the only source: 7,818 lines, collapsing to 5,840 distinct packages once retests and corrections are folded into the latest row, of which 5,396 carry a conclusion.
+
+`data/st_io_packages.tsv` is **not** a second ledger. It is a shopping list built for a different purpose (installability per channel entry), it covers 4,843 channel entries — 4,606 marked tested, 237 pending — and an audited package may be absent from it entirely. Do not reconcile the two: when the question is "how much of the audit is done", the answer is the table above.
+
 | measure | count |
 |---|---:|
 | packages tested (latest row shows a run, install or load; retests not counted) | 5396 |
