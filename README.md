@@ -6,16 +6,16 @@ Donald Chitester (dpc00) with Claude (AI agent driving Sublime Text through [sub
 
 | measure | count |
 |---|---:|
-| packages tested (latest row shows a run, install or load; retests not counted) | 5384 |
-| packages not tested | 455 |
-| — not installable | 102 |
+| packages tested (latest row shows a run, install or load; retests not counted) | 5387 |
+| packages not tested | 452 |
+| — not installable | 105 |
 | — repository gone | 136 |
-| — no GitHub repository link | 63 |
-| — not offered or skipped | 100 |
-| — static check only (NOT live-tested yet) | 37 |
+| — no GitHub repository link | 59 |
+| — not offered or skipped | 99 |
+| — static check only (NOT live-tested yet) | 36 |
 | — read-only review, nothing run | 17 |
 
-`data/untested_installable_2026_11_03.tsv` lists the 258 packages that Package Control offered for Windows/ST4 but that the 2026-10-27 bulk pass had not tested. 204 of them have since been dealt with — 185 tested live, and 19 shown to have no release for build 4215 in the ST4 channel, so they never appear in the Install Package picker — leaving 54 that are still offered and still untested.
+`data/untested_installable_2026_11_03.tsv` lists the 258 packages that Package Control offered for Windows/ST4 but that the 2026-10-27 bulk pass had not tested. 208 of them have since been dealt with — 189 tested live, and 19 shown to have no release for build 4215 in the ST4 channel, so they never appear in the Install Package picker — leaving 50 that are still offered and still untested.
 
 Eight packages whose tests predate the 2026-10-27 bulk pass are counted as tested after checking their earlier rows and filed issues; that pass's "not tested" placeholder had overwritten them. Package Control alone has 26 issues.
 
@@ -39,10 +39,10 @@ Open/closed split as of 2026-11-05; closed does not mean fixed. `ISSUES.tsv` has
 
 | state | count |
 |---|---:|
-| merged | 53 |
+| merged | 54 |
 | open | 9 |
 | closed, not merged | 81 |
-| total | 143 |
+| total | 144 |
 
 ## Kinds of defect found
 
@@ -68,7 +68,7 @@ Open/closed split as of 2026-11-05; closed does not mean fixed. `ISSUES.tsv` has
 | reports | written by the AI agent, marked "Claude reports:" |
 | maintainers who asked not to be written to | respected; email instead where issues are disabled |
 | known mistake | [Theme-Treble#1](https://github.com/53v3n3d4/Theme-Treble/issues/1) first report corrected after a retest |
-| known mistake | 2026-10-27 static check replaced live testing for 1408 records and the audit was wrongly called complete; corrected 2026-10-29; 37 packages still have only a static check |
+| known mistake | 2026-10-27 static check replaced live testing for 1408 records and the audit was wrongly called complete; corrected 2026-10-29; 36 packages still have only a static check |
 
 ## Files
 
