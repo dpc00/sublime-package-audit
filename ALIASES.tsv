@@ -1,0 +1,9 @@
+repo	canonical	alias	basis
+20tauri/doxydoxygen	DoxyDoxygen	DoxyDoxygen (evolution)	channel_v3 maps both names to this repo (checked 2026-11-06)
+braver/fileicons	FileIcons	FileIcons Mono	channel_v3 maps both names to this repo (checked 2026-11-06)
+braver/fileicons	FileIcons	Icons - FileIcons	channel_v3 maps both names to this repo (checked 2026-11-06)
+petervaro/python	Cython+	Python 3	channel_v3 maps both names to this repo (checked 2026-11-06)
+shagabutdinov/sublime-autocompletion	Anyword completion	AutocompletionFuzzy	channel_v3 maps both names to this repo (checked 2026-11-06)
+shagabutdinov/sublime-open-path	Open project path by shortcut	OpenPath	channel_v3 maps both names to this repo (checked 2026-11-06)
+vaisaghvt/checktypos3	CheckTypos	CheckTypos3	channel_v3 maps both names to this repo (checked 2026-11-06)
+wallabyjs/sublime-text-releases	Quokka	Wallaby	channel_v3 maps both names to this repo (checked 2026-11-06)
