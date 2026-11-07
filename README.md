@@ -1,6 +1,6 @@
 # Sublime Text package audit (2026)
 
-Donald Chitester (dpc00) with Claude (AI agent driving Sublime Text through [sublime-mcp](https://github.com/dpc00/sublime-mcp)). Counts to 2026-11-06.
+Donald Chitester (dpc00) with Claude (AI agent driving Sublime Text through [sublime-mcp](https://github.com/dpc00/sublime-mcp)). Counts to 2026-11-07.
 
 ## Packages (`RESULTS.tsv`)
 
@@ -10,12 +10,12 @@ These are the ledger figures. `RESULTS.tsv` is the only source: 7,818 lines, col
 
 | measure | count |
 |---|---:|
-| packages tested (latest row shows a run, install or load; retests not counted) | 5401 |
-| packages not tested | 444 |
-| — not installable | 105 |
+| packages tested (latest row shows a run, install or load; retests not counted) | 5425 |
+| packages not tested | 443 |
+| — not installable | 106 |
 | — repository gone | 136 |
 | — no GitHub repository link | 52 |
-| — not offered or skipped | 99 |
+| — not offered or skipped | 97 |
 | — static check only (NOT live-tested yet) | 35 |
 | — read-only review, nothing run | 17 |
 
@@ -35,24 +35,24 @@ What the 792 names that left the channel turned out to be: 8 matched after norma
 
 | measure | count |
 |---|---:|
-| issues filed | 3143 |
-| repositories | 2200 |
-| open | 2282 |
-| closed | 846 |
+| issues filed | 3154 |
+| repositories | 2205 |
+| open | 2291 |
+| closed | 848 |
 | repository no longer readable | 15 |
-| closed within a week | 454 |
+| closed within a week | 456 |
 | days to close, median / mean | 5 / 25.1 |
 
-Open/closed split as of 2026-11-06; closed does not mean fixed. `ISSUES.tsv` has 3145 rows: 2 are duplicate log rows for the same issue (3143 distinct issues).
+Open/closed split as of 2026-11-07; closed does not mean fixed. `ISSUES.tsv` has 3156 rows: 2 are duplicate log rows for the same issue (3154 distinct issues).
 
 ## Pull requests (GitHub, author dpc00)
 
 | state | count |
 |---|---:|
-| merged | 54 |
+| merged | 55 |
 | open | 12 |
 | closed, not merged | 82 |
-| total | 148 |
+| total | 149 |
 
 ## Kinds of defect found
 
