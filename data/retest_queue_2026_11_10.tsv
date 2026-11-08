@@ -1,0 +1,241 @@
+repo	number	why	pushed_at	title
+runxel/GDL-sublime	12	open	2026-11-10	AttributeError on every save in a window without a project (GdlOnSave.on_post_save_async)
+runxel/GDL-sublime	13	open	2026-11-10	Convert to script / Build GSM without a project: dialog, then AttributeError in get_project_subroot
+sublimator/EditPreferences	13	open	2026-11-10	SyntaxWarnings on Python 3.12+: five invalid escape sequences in package_resources.py, extract_snippets.py and list_shor
+TheClams/PasteAsColumn	3	open	2026-11-09	Pasting a block longer than the buffer appends the lines in reverse order and pads them with spaces
+mjd507/Sublime-Translate	11	open	2026-11-09	Linux keymap binds alt+i to `translatet_input`; the command is `translate_input`, so the shortcut does nothing on Linux
+Doi9t/SortBy	29	open	2026-11-08	Sorting a selection containing blank lines silently deletes the blank lines
+Doi9t/SortBy	30	open	2026-11-08	alphabetically_case_sensitive can never be disabled (trailing-comma tuple bug in SortSettings)
+mdview2026/sublime-mdview	1	open	2026-11-08	mdview_preview crashes with AttributeError: sublime has no yes_no_dialog, so the install offer never appears
+streetsidesoftware/vscode-spell-checker	5602	open	2026-11-08	cSpell.maxFileSize is ignored by the extension (700 KB file still checked with limit 1000 bytes)
+streetsidesoftware/vscode-spell-checker	5603	open	2026-11-08	Non-numeric minWordLength silently disables all spell checking
+donkirkby/live-py-plugin	843	open	2026-11-07	Sublime Text: Start on an unsaved buffer raises TypeError (file_name() is None) and leaves a broken session
+educbraga/ToggleSidebarFocus	6	open	2026-11-07	toggle_sidebar_and_focus does nothing in a window with no folder open: is_sidebar_visible() is True there, so the open-f
+tushortz/intellekt	1	open	2026-11-07	NotADirectoryError
+HuiMi24/TtcnComplete	5	open	2026-11-06	Ten SyntaxWarnings on load: invalid escape sequences in four files (Python 3.12+)
+homobel/sublime-joy	1	open	2026-11-05	Syntax fails to load on Sublime Text 4: with_prototype recursion error
+joshraphael/sublime-rascript	7	open	2026-11-04	rascript.tmLanguage has no fileTypes, so .rascript files never get the syntax automatically
+sisoe24/Nuke-Tools-ST	6	open	2026-11-04	A malformed NukeServerSocket.ini kills the command, even when nss_port is set (the default argument is evaluated first)
+SublimeText-Markdown/MarkdownEditing	827	open	2026-11-03	Markdown Lint raises KeyError disable on a fresh install (mde.lint not in view settings)
+TomasBarry/Sublime-git-co-author	3	open	2026-11-02	Two files differ only by letter case, so Windows keeps one of them
+deathaxe/sublime-mtx	1	open	2026-11-02	Default convert_src_hex regex has an unbalanced parenthesis
+flashmodel/gemini-st	5	open	2026-11-02	Chat stays at 'Starting Gemini CLI...' with no error when the CLI exits immediately (stderr is never read)
+bosborne/BioPythonUtils	4	open	2026-11-01	Commands that write results to a new tab leave the tab empty (edit token of another view)
+bosborne/BioPythonUtils	5	open	2026-11-01	Remote BLAST blocks the whole editor while waiting for NCBI
+bosborne/BioPythonUtils	6	open	2026-11-01	Select Remote BLAST database raises KeyError: None until an application was chosen
+bosborne/BioPythonUtils	7	open	2026-11-01	Translate: RNA input passes validation, then fails with UnboundLocalError
+bosborne/BioPythonUtils	8	open	2026-11-01	Error dialogs contain a long run of spaces in the middle of the message
+bosborne/BioPythonUtils	9	open	2026-11-01	Key binding for Get Sequences by Taxon uses a command that does not exist
+bosborne/BioPythonUtils	11	open	2026-11-01	Bundled Biopython code: SyntaxWarning on Python 3.8+ and one module that cannot be compiled
+bosborne/BioPythonUtils	12	open	2026-11-01	Get Sequences by Id: an unknown id pastes NCBI's error text as if it were a record
+bosborne/BioPythonUtils	13	open	2026-11-01	UnboundLocalError after an error dialog in Search, Taxon and Translate (FASTA)
+bosborne/BioPythonUtils	14	open	2026-11-01	Get Sequences by Taxon ignores entrez_retmax
+bosborne/BioPythonUtils	15	open	2026-11-01	Translate rejects IUPAC ambiguity codes such as N
+bosborne/BioPythonUtils	16	open	2026-11-01	README says default entrez_retmax is 20, settings file ships 1000; Search logs the wrong record count
+bosborne/BioPythonUtils	17	open	2026-11-01	Get Sequences by Id returns the records in completion order, not the order of the ids
+bosborne/BioPythonUtils	18	open	2026-11-01	Get Sequences by Id raises RecursionError when a download takes longer than about 10 seconds
+sublimehq/package_control	1804	open	2026-11-01	PyPI libraries are installed without their Requires-Dist dependencies (requests without urllib3, idna, certifi, charset_
+numerataz/sublime-plugin	27	open	2026-10-30	Notes from a short Windows test session (console flash, status text, extra closing brackets)
+scriptkitz/PythonStautsBarShowSymbol	2	open	2026-10-30	Package name is misspelled: Stauts instead of Status
+taw/sublime-paradox	1	open	2026-10-30	A stray } is never marked invalid (scope, push, pop, brackets are not .tmLanguage keys)
+AustinTruex68/EasyFileHider	1	open	2026-10-29	Saving replaces the default file_exclude_patterns; the panel starts empty
+AustinTruex68/EasyFileHider	2	open	2026-10-29	Key binding is macOS only, README does not say so; console prints on every keystroke
+ivantsepp/goto-with-common-suffix	2	open	2026-10-29	A path whose middle components do not exist is silently opened as a different file
+jjchiw/ArangoExec	6	open	2026-10-29	Execute and Explain raise IndexError when the connections map is empty
+ice/sleet	1	open	2026-10-27	Syntax does not load: with_prototype recursion, file stays Plain Text
+wmertens/sublime-nix	16	open	2026-10-27	Package Control still installs v2.3.2 (2017); latest tag is V2.4.0 with a capital V
+TheSHEEEP/ST-OgreScripts	2	open	2026-10-25	README tells users to search for AngelScript
+wpseek/sublime-text-2-wpseek	9	open	2026-10-25	Every menu and palette entry is dead: the classes register as `wp_seek_com_…`, the package calls `wpseek_com_…`
+magneto538/Koala	12	open	2026-10-24	messages.json has a trailing comma, so Package Control cannot parse it
+magneto538/Koala-snippets	1	open	2026-10-24	Snippets use scope source.ksp; the KSP syntax package uses source.sksp, nothing expands
+magneto538/Koala-snippets	2	open	2026-10-24	math.clamp: placeholder {2:btm} is missing its dollar sign
+magneto538/Koala-snippets	3	open	2026-10-24	KOALA_LIGHT_MODE snippet has the trigger and content of ENABLE_DEBUG (gfd); duplicate MATH snippets
+moeffju/sublime-ledger-syntax	3	open	2026-10-24	Comments after the payee or after a posting are not scoped as comments
+Hibou57/External-Programs-ST3	6	open	2026-10-23	external_program crashes in its error handling (timeout, program not found) and stays busy
+sublimelsp/LSP-tombi	2	open	2026-10-23	Release 1.0.0 installed from Package Control fails to load: SyntaxError in plugin.py on Python 3.3
+Cognisant-llc/sublime-claude-code	3	open	2026-10-20	Package installs with errors
+pl-ca/ExpandCMacro	2	open	2026-10-19	Result panel is always empty, even when the macro expands
+pl-ca/ExpandCMacro	3	open	2026-10-19	Default settings cannot expand macros: current file is included relative to Sublime's working directory
+pl-ca/ExpandCMacro	4	open	2026-10-19	IndexError when the compiler (clang by default) is not installed
+SublimeText/LaTeXTools	1718	open	2026-10-18	MiKTeX: a failed build reports no errors because texify --quiet switches the log to file:line: style
+scalameta/metals-sublime	135	open	2026-10-18	Default server_version 'latest-stable' resolves to a milestone pre-release (2.0.0-M19), not the stable release (1.6.9)
+barryceelen/Claudette	21	open	2026-10-15	Text editor tool: allowed-roots check is textual only; a junction/symlink inside a project lets the tool read and create
+barryceelen/Claudette	22	open	2026-10-15	A newline is inserted into streamed text when a chunk ending in '.' is followed by a capitalized chunk, which splits cod
+LDprg/FileTabRename	4	open	2026-10-14	Clearing the name field renames the file to just its extension (.txt)
+eerohele/Tutkain	152	open	2026-10-13	Connecting to a Babashka socket REPL hangs Sublime Text permanently
+amitsnyderman/sublime-smarty	34	open	2026-10-12	{literal} blocks are not recognised in HTML (Smarty); the content is highlighted as Smarty
+evandrocoan/PlantUmlDiagrams	18	open	2026-10-10	Plugin does not load on Python 3.13+/3.14: ImportError logging._acquireLock from debug_tools; commands do nothing
+evandrocoan/WordingStatus	14	open	2026-10-10	SyntaxWarning on load: invalid escape sequence "\w" at WordingStatus.py line 99
+evandrocoan/debugtools	13	open	2026-10-10	Package Control installs an old build on Python 3.14: logging._acquireLock ImportError (QuickSettings cannot load)
+driade/phpfmt8	102	open	2026-10-09	SyntaxWarnings on load with Python 3.14 (invalid escapes, return in finally)
+driade/phpfmt8	103	open	2026-10-09	Format now on an unsaved buffer: TypeError in dofmt (os.path.split(None))
+driade/phpfmt8	104	open	2026-10-09	Bundled top-level diff_match_patch folder shadows the diff_match_patch library for other packages
+iccir/Timeless-Theme	19	open	2026-10-08	Icon support overwrites my C++ extensions list and does not restore it
+NoxArt/SublimeText2-FTPSync	288	open	2026-10-07	Commands on the current file fail when the active tab has no file
+NoxArt/SublimeText2-FTPSync	289	open	2026-10-07	Rename current file does nothing; FileNotFoundException ends the thread
+NoxArt/SublimeText2-FTPSync	290	open	2026-10-07	SyntaxWarnings on load with recent Python (is with a literal, invalid escapes)
+SublimeText/YamlPipelines	53	open	2026-10-07	Installing without the PowerShell package shows modal 'unable to read base syntax Packages/PowerShell/PowerShell.sublime
+aaortizb/niceDarkTheme	1	open	2026-10-07	Install button in the Terminus dialog does nothing
+lingo/sublime-fscompletion	20	open	2026-10-06	4 files never install on Windows: the name contains a character Windows forbids
+Mhdd-24/Sublime-MCP	1	open	2026-10-05	With the default SUBLIME_WORKDIR missing, every launch fails with "spawn <subl.exe> ENOENT" even though subl.exe exists
+Mhdd-24/Sublime-MCP	2	open	2026-10-05	The default subl.exe path on Windows does not exist on a standard Sublime Text install
+Mhdd-24/Sublime-MCP	3	open	2026-10-05	st_load_session opens the snapshot file as a text tab and does not restore the session
+Mhdd-24/Sublime-MCP	4	open	2026-10-05	st_list_session returns paths like /C/Users/... that st_open rejects
+Mhdd-24/Sublime-MCP	5	open	2026-10-05	st_status says running: true when only another Sublime Text instance is running
+Mhdd-24/Sublime-MCP	6	open	2026-10-05	Version differs between package.json (1.0.1) and the server (1.0.0)
+oleg-shilo/sublime-codemap	49	open	2026-10-05	Python mapper ignores async def functions and methods
+oleg-shilo/sublime-codemap	51	open	2026-10-05	Bundled mappers are copied to User/CodeMap once and never refreshed or removed: updates/fixes never reach existing users
+poucotm/Log-Highlight	52	open	2026-10-05	plistlib.readPlist/writePlist removed in Python 3.9+: colour scheme never applied on current ST builds
+futureprogrammer360/Wrap	2	open	2026-10-04	bracket_type longer than two characters raises ValueError and the wrap silently does nothing
+mitchvm/tabnav	6	open	2026-10-04	Console error 'top level value must be an array' from the fully commented-out Default keymaps
+ColdBox/coldbox-sublime	13	open	2026-10-02	The 3.2.0 release ships a truncated ColdBox.sublime-completions, so no ColdBox completions ever load
+SublimeLinter/SublimeLinter	1998	open	2026-10-02	Uninstalled linter packages stay registered in persist.linter_classes and keep linting until restart
+djrobby/DeWatermark	1	open	2026-10-02	Paste replaces letters in real Russian and Greek text
+oleg-shilo/cs-script-sublime	7	open	2026-10-02	Package import runs 'taskkill /f /im VBCSCompiler.exe' (kills every Roslyn build server on the machine) on first install
+SublimeLinter/SublimeLinter-cppcheck	25	open	2026-10-01	Error column is wrong when non-ASCII characters come earlier on the line (cppcheck counts bytes)
+SublimeLinter/SublimeLinter-javac	25	open	2026-10-01	Error column is off by one for each emoji (non-BMP character) earlier on the line
+SublimeLinter/SublimeLinter-tslint	46	open	2026-10-01	Error column is off by one for each emoji earlier on the line (TSLint counts UTF-16 units)
+etienne-monier/LedgerTools	10	open	2026-10-01	`import parsimonious.grammar` at module level is not declared as a dependency
+etienne-monier/LedgerTools	11	open	2026-10-01	messages.json is invalid JSON (trailing comma), so the install message is never shown
+etienne-monier/LedgerTools	12	open	2026-10-01	Amount alignment inserts spaces inside the account name when its digits match the amount (find() finds the first occurre
+etienne-monier/LedgerTools	13	open	2026-10-01	Postings with '&' (and other characters) in the account name are silently skipped by amount alignment
+csch0/SublimeText-Package-Reloader	3	open	2026-09-30	Package Reloader.py: `logger` and `package_dir` are used but never defined in the failing paths
+colinta/SublimeStringEncode	60	open	2026-09-29	Xml Deentitize does not decode numeric character references (Xml Entitize output cannot be undone)
+dmi7ry/dfmt-sublime	7	open	2026-09-29	Formatting does nothing when the file has a character outside the Windows code page (UnicodeEncodeError)
+rumly111/simpleifdef	5	open	2026-09-29	Highlights appear in non-C files (state from the last C view is reused)
+guilhermeleobas/IRView	10	open	2026-09-28	Windows/Linux: PDFs opened with macOS-only 'open' command
+guilhermeleobas/IRView	11	open	2026-09-28	No message when opt is not found: raw FileNotFoundError traceback
+guilhermeleobas/IRView	12	open	2026-09-28	With a current LLVM the opt flags (-dot-cfg, -dot-callgraph, ...) are rejected: no dot or PDF files, no message
+oleg-shilo/sublime-favorites	10	open	2026-09-26	messages.json is invalid JSON (missing comma after "1.0.4"), Package Control cannot show install/upgrade messages
+SublimeText/ExtractSublimePackage	8	open	2026-09-25	Invalid .sublime-package still raises UnboundLocalError: the except branch has no return
+iccir/BuildSock	3	open	2026-09-25	Linux: Sublime Text freezes when BuildSock is unloaded (join on accept thread)
+SublimeText/ColorHighlight	38	open	2026-09-21	Unable to decode ... circle.png in console on first highlight (ST 4215)
+noahcoad/SublimeGoogleSpellCheck	32	open	2026-09-19	A single word that is a prefix of the correction is never fixed (recieve stays recieve)
+thep0y/python-black	51	open	2026-09-15	format_on_save freezes the whole Sublime Text UI for the full formatting duration (confirmed: 57s on a ~520KB file) -- b
+davidson16807/sublime_contextual_move	1	open	2026-09-10	set_move_context raises AttributeError on first use (move_context is None)
+colinkiama/SublimeLinter-contrib-vala-lint	9	open	2026-09-04	README recommends Vala-TMBundle, which is no longer on Package Control (the syntax package is 'Vala')
+rux-lang/SublimeText	1	open	2026-08-23	The first closing brace of an inner block ends the function scope early
+gerardroche/sublime-sesame	15	open	2026-08-21	Valid sesame.path entry after a missing one is ignored when it uses ~ or %VAR% (list modified while iterating; follow-up
+gerardroche/sublime-sesame	16	open	2026-08-21	Folders with accents, parentheses, + etc. in the name are silently left out of the list (character whitelist)
+rust-lang/rust-enhanced	555	open	2026-07-29	After removing the package, the build output panel keeps Cargo.sublime-syntax and a modal Error loading syntax file dial
+colinta/SublimeSetSyntax	2	open	2026-07-28	Set Syntax Settings: the 'Tab Width: 8' and 'Reindent: 8' items set tab size 6
+tamasfe/taplo	894	open	2026-07-28	reorderInlineTables / reorder_inline_tables has no effect
+alexju/ClaudeCode-Sublime-Windows	1	open	2026-07-27	Windows: MCP server fails with socket has no attribute AF_UNIX, New Session does nothing
+braver/IndentXML	2	open	2026-07-25	Indent XML with invalid XML selected: TypeError String required (line 46)
+Croebh/avrae-sublime	4	open	2026-07-14	`avraeREST` error handler: UnboundLocalError on network failure (+ undefined `view`)
+rscherf/GitLink	81	open	2026-07-13	Branch's configured remote is never used: 'git config --get branch.X.remote' is passed as one argument, links always use
+huyhoang8398/WhereAmI	3	open	2026-06-30	Status text is never erased on uninstall/disable: stale frozen progress bar stays on all touched views
+JoeFerrucci/BookLeaf-SublimeText	1	open	2026-06-22	New File does not validate the name: folder part fails, .. escapes the storage folder
+JoeFerrucci/BookLeaf-SublimeText	2	open	2026-06-22	Install message is macOS only (Cmd keys, Finder, Library path) on all platforms
+yzhang-gh/vscode-markdown	1592	open	2026-06-13	Toggle bold/italic/strikethrough/code on a selection inside the markers adds another layer (*word* + Ctrl+I becomes bold
+yzhang-gh/vscode-markdown	1593	open	2026-06-13	Table formatter rewrites tables inside fenced code blocks, indented code, HTML comments and math blocks
+niosus/EasyClangComplete	782	open	2026-06-09	EasyClangComplete.sublime-settings is not valid JSON: Invalid control character
+niosus/EasyClangComplete	781	open	2026-06-09	RuntimeError: dictionary keys changed during iteration in module_reloader.py (Python 3.14)
+prettier/prettier-vscode	4015	open	2026-06-03	prettier.disableLanguages has no effect: the setting is declared but never read by the extension
+lostineverland/subgpt	2	open	2026-05-24	Plugin does not load: No module named 'funcypy'
+tellnobody1/sublime-idris-syntax	1	open	2026-05-24	Apostrophe in identifier (x') starts a character literal
+kbrose/vsc-python-indent	135	open	2026-05-16	Comment ending with an opening bracket (e.g. '# (') makes Enter indent the next line as a hanging indent
+colinta/extra	3	open	2026-05-15	Package Control install contains no Sublime syntax file
+poucotm/SublimeLinter-contrib-verilator	13	open	2026-05-14	Markers are shifted right after non-ASCII characters: Verilator columns are UTF-8 bytes, linter needs column_unit = 'utf
+OmkarGowda990/sublime-text-mcp	1	open	2026-05-10	requirements.txt allows mcp 2.x, and the server then fails to start
+OmkarGowda990/sublime-text-mcp	2	open	2026-05-10	set_syntax says "Syntax set" for names that have no syntax file, and the syntax is not changed
+OmkarGowda990/sublime-text-mcp	3	open	2026-05-10	goto_line, get_line_content and get_line_range accept lines past the end and report success
+OmkarGowda990/sublime-text-mcp	4	open	2026-05-10	find_in_file with an invalid regular expression says "No matches found"
+OmkarGowda990/sublime-text-mcp	5	open	2026-05-10	set_setting changes only the active view, but is described as a Sublime Text preference
+OmkarGowda990/sublime-text-mcp	6	open	2026-05-10	get_selection reports "Selected text" when nothing is selected, only a cursor
+53v3n3d4/Theme-Treble	1	open	2026-05-03	Treble Dark/Adaptive: selected tab is a blank white block with default settings and the Mariana colour scheme
+poucotm/Guna	47	open	2026-05-01	Uninstalling leaves its settings in Preferences.sublime-settings and a 'zzz Guna Widget zzz' package behind; the previou
+colinta/SublimeFileDiffs	98	open	2026-04-29	Diff with saved fails on Python 3.11+: ValueError invalid mode Ub in read_file
+Suor/sublime-reform	6	open	2026-04-22	Does not load on Python 3.10+ (ST 4215): from collections import Iterable in funcy.py
+Suor/sublime-reform	7	open	2026-04-22	move_word_right on the last word of the file swaps it with the trailing newline
+Suor/sublime-reform	8	open	2026-04-22	move_word_left / move_word_right raise AttributeError when the cursor is not on a word
+FichteFoll/CSScheme	20	open	2026-04-15	SCSS/Sass converters pass Ruby Sass flags that Dart Sass rejects (return code 64)
+nk9/just_sublime	36	open	2026-04-12	Check Justfile shows only 'Checking file' when the just program cannot be run
+colinta/SublimeTextFormatting	3	open	2026-04-08	text_formatting_prettify_json raises UnboundLocalError after every successful run
+colinta/SublimeTextFormatting	4	open	2026-04-08	text_formatting_maxlength on an empty line shows "string index out of range"
+braver/GitHubTools	2	open	2026-04-04	Windows: copied link drops the subfolder and has a backslash after the branch name
+poucotm/Verilog-Gadget	15	open	2026-03-27	messages.json has a trailing comma: Package Control logs Error parsing messages.json on install
+poucotm/Verilog-Gadget	16	open	2026-03-27	Commands do nothing and say nothing for unsaved buffers or non-Verilog extensions (probably what #13 is)
+renzojohnson/mercurial-color-scheme	1	open	2026-03-22	README shows four screenshots that are not in the repository
+memoryleak/AdvancedAnsibleSnippets	1	open	2026-03-07	Unescaped $PATH, $HOME and similar in 33 snippets are expanded and removed on insert
+colinta/SublimeSimpleMovements	4	open	2026-02-28	simple_movement_remove_dups is quadratic and blocks the UI on large selections
+ahmadawais/Sublime-WP-Customizer	6	open	2026-02-14	messages.json is invalid JSON (missing comma)
+ahmadawais/Sublime-WP-Customizer	7	open	2026-02-14	Add-Setting snippet joins two values: theme_modoption, refreshpostMessage
+cschlosser/doxdocgen	349	open	2026-02-10	constexpr and consteval are not stripped from the generated @return type (still in 1.4.0; follow-up to #171)
+cschlosser/doxdocgen	350	open	2026-02-10	C++20 requires clause before the return type is parsed as the return type: @return requires, or no @param/@return at all
+cschlosser/doxdocgen	351	open	2026-02-10	No @param for a reference-to-array parameter with a template bound: template<int N> void f(int (&arr)[N])
+rahulsharmagg/Candy-Dark	1	open	2026-02-08	Variables black1, black2 and black3 are set to "#" (not a colour)
+ethanal/SublimeEmoji	9	open	2026-01-24	Keycap-hash emoji (#️⃣) shows as a blank entry in the picker
+icnagy/SublimeLinter-contrib-flog	3	open	2026-01-21	Windows: no lint results, the regex drops the drive letter from the file name
+vontio/sublime-xml2json	9	open	2026-01-18	Pretty XML and Compact XML silently delete all comments
+vontio/sublime-xml2json	10	open	2026-01-18	Pretty XML moves and corrupts text that is mixed with child elements
+SublimeText/Mermaid	5	open	2025-12-03	Mermaid: View In Browser does nothing: mermaid_view was removed with the plugin, palette entry and two settings remain
+facelessuser/SerializedDataConverter	17	open	2025-12-03	YAML/PLIST to JSON silently gives an empty tab when the data contains an emoji (non-BMP character): lone surrogates from
+facelessuser/ThemeScheduler	15	open	2025-12-03	Settings change freezes Sublime for up to a second: kill() busy-waits on the main thread
+facelessuser/ThemeScheduler	16	open	2025-12-03	AttributeError in update_next when enabled with an empty themes list
+facelessuser/ThemeScheduler	18	open	2025-12-03	Empty or removed "themes" list raises AttributeError at update_next line 266 instead of turning scheduling off
+sixty4k/st2-zonefile	24	open	2025-12-03	Records without the IN class are not highlighted
+sixty4k/st2-zonefile	25	open	2025-12-03	Typo [I|i][N|n] in the record patterns accepts a literal pipe
+facelessuser/QuickCal	10	open	2025-11-28	Week number 53 is shown as 1 (ISO mode: 2020-12-28, 2026-12-28; Sunday-first: Dec 2022)
+alvarolm/GoGuru	48	open	2025-11-12	Package Control install fails: ImportError bad magic number (Python 2 .pyc files shipped in dep/shellenv)
+alvarolm/GoRename	13	open	2025-11-12	Plugin fails to load: bad magic number from committed Python 2 .pyc files in dep/shellenv
+norseghost/sublime-beancount	27	open	2025-11-06	Build system does not work with Windows paths (file_regex, PATH with colons and $HOME)
+norseghost/sublime-beancount	28	open	2025-11-06	Package Control installs 0.2.4 (2017); master has completions, keymap and a new syntax
+norseghost/sublime-beancount	29	open	2025-11-06	completions.py: hardcoded /usr/bin/env python3, fails on Windows with FileNotFoundError
+norseghost/sublime-beancount	30	open	2025-11-06	completions.py: index script path uses folder name sublime-beancount, but Package Control installs Beancount
+joelekstrom/sublime-context-MCP	2	open	2025-11-05	Disabling or unloading the plugin leaves port 8765 open, so clients hang instead of being refused
+joelekstrom/sublime-context-MCP	3	open	2025-11-05	JSON-RPC notifications such as notifications/initialized get an error reply
+joelekstrom/sublime-context-MCP	4	open	2025-11-05	ping is not answered
+joelekstrom/sublime-context-MCP	5	open	2025-11-05	A request body that is not valid JSON closes the connection with no reply
+bitst0rm-pub/Formatter	86	open	2025-10-09	SyntaxWarning on Python 3.14: break in a finally block (save_paste_manager.py)
+JonBons/Sublime-SQF-Language	46	open	2025-10-07	SQF.tmLanguage: block rule has a stray block key, console error on load and braces get no block scope
+pickledish/llm-completion	1	open	2025-09-17	Sends editor text to OpenAI while typing, with no key and no warning
+apehex/sublime-hypeon-scheme	2	open	2025-09-16	Typo in brackets_foreground: var(neon_neon_orange) is not defined
+SublimeText/TableEditor	4	open	2025-09-07	Enter in the header row of a Markdown table inserts a row above the separator line
+JesseTG/ribosome-sublime	2	open	2025-08-19	Package Control install has no usable syntaxes: only the unfilled {extension} template is installed
+mangecoeur/Citer	48	open	2025-08-10	Package Control release 0.9.0 is out of date: README config ignored, Search raises KeyError
+ssanj/Scoggle	6	open	2025-08-04	`sypes.CantDeterminePackageError` in components/scoggle.py: undefined name, so the "cannot determine package" case raise
+kaste/SublimeLinter-any-lsp	1	open	2025-08-02	Installing from Package Control leaves the package unloadable: SublimeLinter is imported but not declared as a dependenc
+anubhavkrishna1/sublime-jellyfish	1	open	2025-07-19	Nine globals are empty strings; caret comment says cyan but value is red
+SublimeLinter/SublimeLinter-cspell	2	open	2025-06-20	Markers are shifted right after emoji: cspell columns are UTF-16, linter needs column_unit = 'utf16'
+FichteFoll/SublimeLinter-contrib-sublime-syntax	9	open	2025-06-12	Unknown syntax in the first line of a syntax test opens a native error dialog
+SublimeText/PHPGettersSetters	2	open	2025-06-06	Static property gets a non-static getter and setter that use $this
+SublimeText/PHPGettersSetters	3	open	2025-06-06	Generated getters and setters ignore property types (int, ?string, array): docblocks say mixed, no type hints
+predragnikolic/NotMyCommitMessage	1	open	2025-05-21	Generate Message fails on Windows: git command not recognized
+Shopify/sublime-shadowenv	4	open	2025-05-13	Unhandled FileNotFoundError traceback when shadowenv is not installed
+Shopify/sublime-shadowenv	5	open	2025-05-13	KeyError on del os.environ[name] when an unexported variable is not set
+Shopify/sublime-shadowenv	6	open	2025-05-13	Any stderr output is treated as an error, even when shadowenv exits 0 with valid output
+SublimeLinter/SublimeLinter-bandit	10	open	2025-04-24	No results with current bandit: regex expects Location right after Severity, and captures the column as the line
+SublimeLinter/SublimeLinter-gjslint	12	open	2025-04-24	Deprecated implicit filename in cmd warns on every lint
+SublimeLinter/SublimeLinter-pug-lint	14	open	2025-04-24	Error markers are shifted right after emoji / non-BMP characters (columns are UTF-16 units)
+SublimeLinter/SublimeLinter-pycodestyle	9	open	2025-04-24	On Windows the error column is wrong when non-ASCII characters come earlier on the line (stdin decoded as cp1252)
+davidAlgis/AutoWrapStrings	1	open	2025-03-21	Wrapping a long string splits it onto a new line outside parentheses, silently changing the code
+stoivo/sublime-open-in-vscode	7	open	2025-03-10	Windows: default vscode-path is /usr/local/bin/code and the command fails silently
+stoivo/sublime-open-in-vscode	8	open	2025-03-10	File path with a space is not quoted for --goto
+tyrone-sudeium/st3-binaryplist	12	open	2025-03-03	Binary plists containing UID values (NSKeyedArchiver files) fail with InvalidFileException and are left as a hex dump
+zhuoqyin/yin-color-scheme	1	open	2025-02-28	Scheme name is empty, picker shows the file name "yincustom"
+SublimeText/EJS	9	open	2025-02-27	EJS tags inside <script> blocks are not recognised (only <style> and attributes are)
+apas/pastery	12	open	2025-02-18	Package Control installs v1.1.2 from 2016; master is not released
+HelloXiuXiu/react-js-snippets	1	open	2025-02-09	ael and rel snippets expand to invalid JavaScript: stray ) after the first argument
+nneonneo/sublime-replace-with-python	1	open	2025-01-29	No message when the code leaves a non-string in text (Replace with Python)
+nneonneo/sublime-replace-with-python	2	open	2025-01-29	Errors in the Sort Selections expression are not reported (Sort Lines and Replace do report them)
+lwilli/ClickableWSDL	2	open	2025-01-28	SyntaxWarning at line 397 and a stray debug print on every load
+cibinmathew/sublime-aws-helper	2	open	2025-01-19	Plugin never loads on current Sublime builds: boto3 is unavailable for the Python 3.14 host, but the palette command sta
+divinites/AsciiGraph	2	open	2025-01-16	Windows: 'AsciiGraph: Current Selection' fails with FileNotFoundError, echo.exe is inside the .sublime-package zip
+nf-core/sublime	7	open	2025-01-08	IndexError in show_output_channel_popup when an included module file does not exist (paths[0] on an empty list)
+feibuilds/MarkdownGlance	9	reopened	2026-11-07	Table cell missing from preview when the table wraps and a header cell has an emoji or CJK character
+dennykorsukewitz/Sublime-QuoteWithMarker	1	reopened	2026-10-07	Quote with Marker inserts the marker block into the middle of the text when nothing is selected
+SublimeText/Modelines	20	reopened	2026-09-21	Default modeline format allows calling arbitrary sublime.View methods (getattr(view, key)(value)) from file content, no 
+kylebebak/Requester	41	reopened	2026-08-25	FileExistsError on Windows when writing history backup file
+braver/ColorConverter	6	reopened	2026-03-11	Context-menu color conversion silently operates on the wrong character when triggered without a real mouse click
+facelessuser/TabsExtra	73	reopened	2026-02-16	numeric_sort: Sort Tabs silently fails when a filename starts with a digit (TypeError int vs str)
+facelessuser/ApplySyntax	164	reopened	2025-12-03	Malformed regex in a syntax rule bypasses the `reraise_exceptions` setting and throws uncaught on every file open/save
+facelessuser/FuzzyFileNav	47	reopened	2025-12-03	get_path_true_case crashes with IndexError on a bare drive root (e.g. `C:\`) on Windows
+facelessuser/EasyDiff	37	reopened	2025-11-27	Compare Both throws TypeError if run before "Set Left Side" has ever been used
+joeyespo/sublimetext-console-exec	12	reopened	2025-10-10	Windows: command fails when program path and an argument both contain spaces
+SublimeText/InsertNums	35	reopened	2025-09-17	Alphabet wrap option (~w) always raises TypeError: object of type 'int' has no len(); selections end up empty
+kaxing/sublime-custom-buffer-name	5	reopened	2025-07-15	Prefix containing '%' raises ValueError in strftime; new tabs are not named
+soandrew/DiffTabs	10	reopened	2023-12-30	FileNotFoundError when a tab's file was deleted on disk or the tab is an empty untitled buffer
+oakmac/sublime-pretty-edn	8	reopened	2023-03-27	Windows: scripts run directly -> OSError 193 (shebang ignored); call 'bb <script>' instead
+sublimehq/sublime_text	6981	reopened	2022-12-26	Main UI thread deadlocks on Windows when clicking a custom top-level menu bar item (non-client button-down reentrancy)
+bordaigorl/sublime-evernote	225	reopened	2022-09-20	SyntaxWarnings on load with Python 3.14 (invalid escape sequences, 'is' with str literal)

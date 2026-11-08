@@ -1,0 +1,42 @@
+[
+ {
+  "name": "GitGutter",
+  "version": "1.11.15",
+  "date": "2026-03-21"
+ },
+ {
+  "name": "BracketHighlighter",
+  "version": "2.33.1",
+  "date": "2026-09-17"
+ },
+ {
+  "name": "DocBlockr",
+  "version": "2.14.1",
+  "date": "2015-08-17"
+ },
+ {
+  "name": "MarkdownEditing",
+  "version": "3.6.4",
+  "date": "2026-10-10"
+ },
+ {
+  "name": "PackageResourceViewer",
+  "version": "1.1.0",
+  "date": "2018-12-17"
+ },
+ {
+  "name": "SideBarEnhancements",
+  "version": "12.0.6",
+  "date": "2025-07-03"
+ },
+ {
+  "name": "A File Icon",
+  "version": "4.0.1",
+  "date": "2026-10-11"
+ },
+ {
+  "name": "ColorHelper",
+  "version": "6.4.6",
+  "date": "2026-01-20"
+ }
+]
