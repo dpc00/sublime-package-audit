@@ -1,0 +1,4731 @@
+Bitly	0.1.4	Context.sublime-menu	Expecting value | Expecting value: line 1 column 1 (char 0)
+CSS Table of Contents	1.1.1	Default (OSX).sublime-keymap	Expecting value | Expecting value: line 1 column 1 (char 0)
+CloseTabsLeft	0.0.1	CloseTabsLeft.sublime-commands	Expecting ',' delimiter | Expecting ',' delimiter: line 6 column 1 (char 87)
+Dumbest Ipsum	1.0.0	DumbestIpsum.sublime-commands	Expecting ',' delimiter | Expecting ',' delimiter: line 7 column 3 (char 129)
+Dummy Image Generator	2012.11.26.13.51.19	Context.sublime-menu	Expecting value | Expecting value: line 1 column 1 (char 0)
+Eloquence	0.0.8	eloquence.sublime-syntax	yaml: unacceptable character #x0008: special characters are not allowed
+  in "<unicode string>", position 4785
+GoogleSQL	0.1.1	GoogleSQL.sublime-syntax	yaml: while scanning a double-quoted scalar
+  in "<unicode string>", line 139, column 14:
+        - match: "(\'\'\'|\"\"\")"
+ 
+HScript	7.3.0	HScript.sublime-syntax	yaml: expected '<document start>', but found '<block mapping start>'
+  in "<unicode string>", line 3, column 1:
+    name: HScr
+Hugofy	1.0.2	Hugofy.sublime-keymap	Expecting value | Expecting value: line 1 column 1 (char 0)
+IFJCode2017-syntax-highlight	1.2.1	ifjcode2017_syntaxhighlight.sublime-syntax	yaml: expected '<document start>', but found '<scalar>'
+  in "<unicode string>", line 2, column 1:
+    file_extensions: [IFJco
+Jester	1.0.66	Default.sublime-keymap	Expecting value | Expecting value: line 1 column 1 (char 0)
+KDL	2.0.7	KDL1.sublime-syntax	yaml: while scanning for the next token
+found character '\t' that cannot start any token
+  in "<unicode string>", line 25, col
+KDL	2.0.7	KDL2.sublime-syntax	yaml: while scanning for the next token
+found character '\t' that cannot start any token
+  in "<unicode string>", line 52, col
+KDL	2.0.7	KDL2⁄-.sublime-syntax	yaml: while scanning for the next token
+found character '\t' that cannot start any token
+  in "<unicode string>", line 12, col
+LBNF	1.0.0	lbnf.sublime-syntax	yaml: while scanning a double-quoted scalar
+  in "<unicode string>", line 328, column 18:
+            - match: "\'[^\']\'"
+   
+LightSearch	0.1.1	Default.sublime-keymap	Expecting value | Expecting value: line 10 column 1 (char 9)
+MIST	0.2.8	MIST.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+MLFi	1.0.6	csml.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+MLFi	1.0.6	mlfi-type.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+MLFi	1.0.6	mlfi.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+MapfileSyntax	1.0.3	mapfile.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Match	1.0.5	match.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+MySFTP	2.1.3	MySFTP.sublime-syntax	yaml: while scanning a double-quoted scalar
+  in "<unicode string>", line 21, column 14:
+        - match: "(\'.*\')"
+         
+Naomi	4.3.2	combinator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	comment.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	comment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	block.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	constant.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	custom-media-identifier.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	feature-query-list.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	feature-query.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	function-call.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	keyframe-block-list.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	color.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	number.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	ratio.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	double-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	single-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	unquoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	media-query-feature-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	media-query-list.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	media-query.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	optional-feature-query.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	optional-media-query-list.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	optional-media-query.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	optional-page-selector-list.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	optional-value.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	page-selector-list.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	block-content.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	block.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	property.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	ruleset.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	block-content.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	block.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	selector-list.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	selector-expression-as-arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	selector-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	ampersand.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	attribute.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	custom.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	id.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	pseudo-class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	pseudo-element.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	type.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	universal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	statement.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	url-list.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	value-no-unquoted-string.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	value.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	arrow-function.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	arrow-function.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	body.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	async.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	body.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	method.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	modifier.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	property.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	comment.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	comment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	block.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	docblock.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	eslint.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	line.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	constant.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	core.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	decorator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	destructuring.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	array.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	object.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	property.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	export.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	function-call.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	function-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	function.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	body.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	array.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	object.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	property.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	simple.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	simple.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	parameters.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	parameters.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	import.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	jest.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	jsx1-early.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	jsx1.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	literal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	array.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	number.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	object.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	property.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	double-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	polymer-template.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	regex.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	anchor.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	backref.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	backslash.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	capturing-group.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	character-class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	range.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	lookahead.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	negative-lookahead.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	non-capturing-group.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	operator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	quantifier.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	single-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	styled-component.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	template.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	node-js.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	operator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	arithmetic.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	assignment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	await.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	bitwise.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	comma.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	comparison.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	delete.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	in.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	logical.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	new.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	of.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	pipe.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	relational.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	rest.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	rest.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	shebang.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	spread.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	terminator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	typeof.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	void.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	optional-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	optional-statement-or-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	prolog.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	property-access.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	react-js.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	statement.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	variable-declaration.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	variable.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	web.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	associated-type.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	associated-type.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	cast.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	comment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	declare.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	function.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	function.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	parameters.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	simple.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	arguments.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	indexer.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	interface.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	module.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	namespace-path.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	object.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	operator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	array-shorthand.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	contravariant.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	covariant.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	intersection.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	nullable.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	typeof.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	union.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	optional-associated-type.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	optional-modifier.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	optional-modifier.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	optional-type-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	prolog.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	simple.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	tuple.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	type-aliasing.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	type-export.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	type-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	type-import.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	attribute.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	builtin.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	data.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	value.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	element.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	cdata.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	comment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	doctype.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	form-sectioning-root.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	form.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	script.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	sectioning-root.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	sectioning.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	shared.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	style.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	character-reference.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	number.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	double-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	single-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	unquoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	php.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	attribute.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	component.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	element.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	embedded-js.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	fragment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	double-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	single-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	shared.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	code-block.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	header.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	array-access.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	cast.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	cd-tor.inside.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	cd-tor.outside.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	comment.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	comment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	normal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	constant.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	normal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	align-mode.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	anchor.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	applied-price.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	border.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	chart-events.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	chart-positioning.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	chart-properties.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	chart-representation.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	color.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	core.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	corner.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	custom-indicator-properties.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	drawing-styles.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	error-codes.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	gann.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	indicator-lines.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	init-ret-code.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	object-periods.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	object-property.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	object-type.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	order-selection.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	order-type.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	series-identifiers.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	smoothing-methods.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	symbol-properties.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	timeframes.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	uninit-reason.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	enum.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	function-call.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	normal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	account.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	array.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	chart.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	checkup.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	common.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	conversion.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	custom-indicator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	datetime.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	file.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	indicators.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	market.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	math.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	object.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	string.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	timeseries.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	trade-signals.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	trade.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	function.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	body.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	parameter.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	parameters.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	goto.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	input.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	literal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	character.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	color.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	datetime.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	number.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	string.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	new.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	operator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	arithmetic.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	bitwise.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	comparison.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	logical.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	pointer.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	preprocessor.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	property.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	sizeof.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	statement-and-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	bodied.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	hanging.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	simple.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	struct.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	template.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	terminator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	type.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	modifiers.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	normal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	core.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	enums.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	structures.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	template-arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	typedef.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	unguarded-variable-declaration.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	variable-declaration.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	variable.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	naomi.css3.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	naomi.fjsx15.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	naomi.flow1.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	naomi.html5.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	naomi.jsnap1.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	naomi.jsx1.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	naomi.md1.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	naomi.mql4.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	naomi.php7.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	naomi.scss3.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	array-access.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	closure.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	comment.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	comment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	documentation.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	normal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	phpdoc.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	phpunit.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	constant.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	normal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	array.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	core.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	error.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	magic.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	math-gmp.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	math.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	output.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	string.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	declare.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	function-call.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	normal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	array.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	class-object.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	core.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	directories.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	error.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	filesystem.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	magic.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	math-gmp.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	math.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	mb_string.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	output.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	spl.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	string.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	variable.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	function.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	body.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	name.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	parameter.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	parameters.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	return-type-hint.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	magic.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	goto.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	interface.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	literal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	array.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	number.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	double-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	embedded-variable.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	heredoc.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	nowdoc.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	single-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	member-variable.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	modifier.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	modifier.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	namespace.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	name.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	path.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	new.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	operator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	arithmetic.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	bitwise.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	comparison.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	logical.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	string.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	statement-and-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	bodied.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	hanging.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	label.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	simple.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	terminator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	trait.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	type.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	normal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	core.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	exception.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	interface.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	use.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	variable.no-dollar.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	variable.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	attribute.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	comment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	constant.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	function-call.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	function.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	parameter.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	parameters.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	interpolation.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	keyword.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	literal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	color.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	number.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	double-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	single-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	unquoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	mixin.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	parameters.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	operator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	arithmetic.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	comparison.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	logical.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	selector.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	attribute.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	id.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	interpolation.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	keyframe.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	operator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	placeholder.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	pseudo-class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	pseudo-element.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	embedded.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	form.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	sectioning-root.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	sectioning.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	trap.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	statement-and-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	bodied.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	simple.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	terminator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	variable-declaration.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	variable.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	email.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	email.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	link.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Naomi	4.3.2	link.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Ngx HTML	1.6.0	Context.sublime-menu	Expecting value | Expecting value: line 36 column 1 (char 35)
+OrgExtended	1.2.56	orgdateeditor.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+OrgExtended	1.2.56	orgdatepicker.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+OrgExtended	1.2.56	orginput.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Polar	0.0.2	syntax_test.Polar.sublime-syntax	yaml: expected '<document start>', but found '<scalar>'
+  in "<unicode string>", line 9, column 1:
+    // <- source.polar comm
+PrintDebugger	1.0.4	Default (Linux).sublime-keymap	Expecting value | Expecting value: line 15 column 1 (char 14)
+PrintDebugger	1.0.4	Default (OSX).sublime-keymap	Expecting value | Expecting value: line 15 column 1 (char 14)
+PrintDebugger	1.0.4	Default (Windows).sublime-keymap	Expecting value | Expecting value: line 15 column 1 (char 14)
+Restart	2016.11.26.17.35.59	Default.sublime-commands	Expecting value | Expecting value: line 1 column 1 (char 0)
+SEWL	1.9.0	sewl.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+Scala Syntax	1.1.0	syntax_test_syntax.sublime-syntax	yaml: while parsing a flow sequence
+  in "<unicode string>", line 28, column 9:
+        x7: [a-w&&[^c-g]z] [abh-w d-]
+        
+Solium Gutter	0.3.0	dependencies.json	unparsable: AttributeError
+StickyLines	1.2.0	dependencies.json	unparsable: JSONDecodeError
+Sublime wxapp	0.3.1	WXML.sublime-syntax	yaml: while scanning for the next token
+found character '\t' that cannot start any token
+  in "<unicode string>", line 79, col
+Swan	1.0.0	SWAN.sublime-syntax	yaml: while scanning for the next token
+found character '\t' that cannot start any token
+  in "<unicode string>", line 79, col
+TabNav	3.5.0	Default (Linux).sublime-keymap	Expecting value | Expecting value: line 293 column 1 (char 296)
+TabNav	3.5.0	Default (OSX).sublime-keymap	Expecting value | Expecting value: line 292 column 1 (char 291)
+TabNav	3.5.0	Default (Windows).sublime-keymap	Expecting value | Expecting value: line 293 column 1 (char 296)
+VEX	7.3.0	VEX.sublime-syntax	yaml: expected '<document start>', but found '<block mapping start>'
+  in "<unicode string>", line 3, column 1:
+    name: VEX
+
+Varicolor	0.2.1	varicolor-v0.2.1.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+WRAMPAssemblyLanguage	1.1.1	wramp.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+mIRC Scripting Language (Highlighting and Autocomplete)	1.1.1	mIRC-msl.sublime-syntax	yaml: unacceptable character #x0003: special characters are not allowed
+  in "<unicode string>", position 16539
+naomi-syntax	0.1.0	combinator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	comment.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	comment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	block.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	constant.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	custom-media-identifier.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	feature-query-list.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	feature-query.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	function-call.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	keyframe-block-list.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	color.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	number.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	ratio.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	double-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	single-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	unquoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	media-query-feature-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	media-query-list.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	media-query.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	optional-feature-query.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	optional-media-query-list.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	optional-media-query.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	optional-page-selector-list.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	optional-value.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	page-selector-list.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	block-content.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	block.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	property.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	ruleset.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	block-content.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	block.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	selector-list.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	selector-expression-as-arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	selector-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	ampersand.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	attribute.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	custom.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	id.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	pseudo-class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	pseudo-element.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	type.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	universal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	statement.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	url-list.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	value-no-unquoted-string.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	value.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	arrow-function.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	arrow-function.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	body.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	async.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	body.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	method.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	modifier.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	property.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	comment.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	comment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	block.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	docblock.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	eslint.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	line.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	constant.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	core.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	decorator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	destructuring.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	array.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	object.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	property.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	export.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	function-call.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	function-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	function.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	body.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	array.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	object.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	property.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	simple.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	simple.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	parameters.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	parameters.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	import.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	jest.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	jsx1-early.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	jsx1.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	literal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	array.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	number.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	object.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	property.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	double-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	polymer-template.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	regex.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	anchor.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	backref.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	backslash.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	capturing-group.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	character-class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	range.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	lookahead.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	negative-lookahead.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	non-capturing-group.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	operator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	quantifier.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	single-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	styled-component.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	template.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	node-js.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	operator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	arithmetic.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	assignment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	await.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	bitwise.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	comma.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	comparison.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	delete.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	in.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	logical.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	new.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	of.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	pipe.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	relational.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	rest.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	rest.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	shebang.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	spread.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	terminator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	typeof.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	void.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	optional-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	optional-statement-or-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	prolog.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	property-access.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	react-js.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	statement.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	variable-declaration.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	variable.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	web.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	associated-type.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	associated-type.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	cast.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	comment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	declare.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	function.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	function.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	parameters.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	simple.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	arguments.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	indexer.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	interface.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	module.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	namespace-path.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	object.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	operator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	array-shorthand.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	contravariant.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	covariant.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	intersection.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	nullable.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	typeof.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	union.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	optional-associated-type.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	optional-modifier.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	optional-modifier.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	optional-type-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	prolog.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	simple.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	tuple.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	type-aliasing.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	type-export.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	type-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	type-import.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	attribute.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	builtin.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	data.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	value.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	element.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	cdata.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	comment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	doctype.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	form-sectioning-root.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	form.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	script.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	sectioning-root.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	sectioning.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	shared.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	style.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	character-reference.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	number.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	double-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	single-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	unquoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	php.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	attribute.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	component.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	element.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	embedded-js.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	fragment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	double-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	single-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	shared.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	code-block.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	header.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	array-access.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	cast.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	cd-tor.inside.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	cd-tor.outside.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	comment.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	comment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	normal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	constant.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	normal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	align-mode.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	anchor.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	applied-price.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	border.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	chart-events.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	chart-positioning.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	chart-properties.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	chart-representation.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	color.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	core.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	corner.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	custom-indicator-properties.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	drawing-styles.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	error-codes.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	gann.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	indicator-lines.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	init-ret-code.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	object-periods.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	object-property.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	object-type.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	order-selection.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	order-type.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	series-identifiers.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	smoothing-methods.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	symbol-properties.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	timeframes.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	uninit-reason.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	enum.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	function-call.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	normal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	account.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	array.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	chart.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	checkup.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	common.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	conversion.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	custom-indicator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	datetime.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	file.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	indicators.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	market.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	math.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	object.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	string.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	timeseries.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	trade-signals.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	trade.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	function.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	body.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	parameter.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	parameters.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	goto.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	input.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	literal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	character.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	color.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	datetime.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	number.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	string.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	new.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	operator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	arithmetic.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	bitwise.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	comparison.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	logical.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	pointer.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	preprocessor.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	property.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	sizeof.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	statement-and-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	bodied.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	hanging.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	simple.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	struct.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	template.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	terminator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	type.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	modifiers.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	normal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	core.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	enums.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	structures.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	template-arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	typedef.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	unguarded-variable-declaration.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	variable-declaration.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	variable.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	naomi.css3.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	naomi.fjsx15.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	naomi.flow1.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	naomi.html5.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	naomi.jsnap1.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	naomi.jsx1.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	naomi.md1.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	naomi.mql4.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	naomi.php7.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	naomi.scss3.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	array-access.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	closure.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	comment.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	comment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	documentation.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	normal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	phpdoc.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	phpunit.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	constant.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	normal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	array.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	core.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	error.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	magic.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	math-gmp.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	math.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	output.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	string.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	declare.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	function-call.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	normal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	array.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	class-object.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	core.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	directories.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	error.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	filesystem.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	magic.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	math-gmp.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	math.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	mb_string.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	output.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	spl.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	string.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	variable.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	function.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	body.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	name.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	parameter.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	parameters.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	return-type-hint.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	magic.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	goto.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	interface.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	literal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	array.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	number.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	double-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	embedded-variable.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	heredoc.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	nowdoc.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	single-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	member-variable.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	modifier.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	modifier.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	namespace.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	name.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	path.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	new.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	operator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	arithmetic.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	bitwise.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	comparison.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	logical.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	string.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	statement-and-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	bodied.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	hanging.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	label.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	simple.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	terminator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	trait.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	type.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	normal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	core.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	exception.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	interface.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	use.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	variable.no-dollar.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	variable.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	attribute.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	comment.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	constant.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	function-call.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	function.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	parameter.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	parameters.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	interpolation.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	keyword.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	literal.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	color.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	number.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	double-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	single-quoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	unquoted.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	mixin.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	parameters.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	operator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	arithmetic.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	comparison.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	logical.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	selector.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	attribute.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	id.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	interpolation.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	keyframe.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	operator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	placeholder.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	pseudo-class.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	arguments.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	pseudo-element.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	embedded.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	form.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	other.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	sectioning-root.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	sectioning.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	trap.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	statement-and-expression.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	bodied.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	simple.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	terminator.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	variable-declaration.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	variable.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	email.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	email.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	link.no-pop.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+naomi-syntax	0.1.0	link.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 
+org_agenda	1.0.2	org_agenda.sublime-syntax	yaml: while scanning a directive
+  in "<unicode string>", line 1, column 1:
+    %YAML1.2
+    ^
+expected alphabetic or numeric 

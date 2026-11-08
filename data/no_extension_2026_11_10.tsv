@@ -1,0 +1,120 @@
+no_extension	ACP	1.9.8	1	ACPLog.sublime-syntax
+no_extension	ADBView	2019.09.09.15.55.40	1	adb.tmLanguage
+no_extension	ANSIescape	0.3.8	2	ANSI.sublime-syntax; ANSI.tmLanguage
+no_extension	AcademicMarkdown	0.1.9	2	AcademicMarkdown.tmLanguage; AcademicYaml.tmLanguage
+no_extension	AceJump	1.8.4	1	AceJump.tmLanguage
+no_extension	Algorithm Competition Assistant	3.0.8	1	TestSyntax.sublime-syntax
+no_extension	Ansible	23.09.1	1	Ansible.sublime-syntax
+no_extension	Architect	1.0.1	1	arc.tmLanguage
+no_extension	BuildSock	0.3.0	1	IssuePanel.sublime-syntax
+no_extension	BuildX	1.3.0	1	BuildX.sublime-syntax
+no_extension	C Family Rewrite (C23 and C++23)	1.0.1	4	C++.sublime-syntax; C.sublime-syntax; ObjC++.sublime-syntax; ObjC.sublime-syntax
+no_extension	C++YouCompleteMe	0.1.7	1	ErrorPanel.tmLanguage
+no_extension	CMakeBuilder	2.1.0	7	CTest.sublime-syntax; Configure.sublime-syntax; Diagnosis.sublime-syntax; Make.sublime-syntax; Ninja+CL.sublime-syntax; 
+no_extension	ChapelLang	0.2.0	1	Chapel.tmLanguage
+no_extension	ChoiceScript	1.0.0	1	ChoiceScript.sublime-syntax
+no_extension	Clang-Complete	0.1.14	1	ErrorPanel.tmLanguage
+no_extension	Claude Code IDE	0.3.8	1	Recent Activity.sublime-syntax
+no_extension	CodeLines	2.0.0	2	CodeLines.sublime-syntax; FileSize.sublime-syntax
+no_extension	Codex	1.160.0	2	Markdown.sublime-syntax; ChatMarkdown.sublime-syntax
+no_extension	ColorSchemeUnit	2.2.3	1	text-ui-result.sublime-syntax
+no_extension	Commandbox	0.0.1	1	CommandboxResults.tmLanguage
+no_extension	Core dna snippets	1.0.1	1	Smarty coreDNA.tmLanguage
+no_extension	CppFastOlympicCoding	1.4.12	2	StressSyntax.sublime-syntax; TestSyntax.sublime-syntax
+no_extension	DBTextWorks	2013.03.11.17.25.06	1	DBText.tmLanguage
+no_extension	Debugger	0.12.2	4	DebuggerConsole.sublime-syntax; DebuggerProtocol.sublime-syntax; Disassembly.sublime-syntax; LLDBDisassembly.sublime-syn
+no_extension	DokuWiki Syntax	1.0.1	1	DokuWiki text.sublime-syntax
+no_extension	ECT	2013.04.03.15.04.36	4	ect_html.tmLanguage; ect_html2.tmLanguage; ect_html3.tmLanguage; ect_html4.tmLanguage
+no_extension	ElixirTest	1.2.0	1	TestConsole.tmLanguage
+no_extension	Enki Theme	1.5.1	1	console-textline-panel.sublime-syntax
+no_extension	FindInFiles-addon	1.5.6	1	FindInFiles.sublime-syntax
+no_extension	Fluentd	1.1.0	1	Fluentd.tmLanguage
+no_extension	Formatter	1.8.15	1	Console.sublime-syntax
+no_extension	GDL	3.4.5	1	GDL.sublime-syntax
+no_extension	GearboxSencha	1.1.1	1	siesta-runner.tmLanguage
+no_extension	GeminiCLI	2.1.3	1	GeminiChat.sublime-syntax
+no_extension	Git Mode	0.2.1	6	GitModeBranch.tmLanguage; GitModeGraph.tmLanguage; GitModeIssue.tmLanguage; GitModeRevision.tmLanguage; GitModeStash.tmL
+no_extension	GitCommitMsg	2014.02.27.22.55.13	1	GitCommitMsg.tmLanguage
+no_extension	GitHubIssue	3.3.0	1	list.sublime-syntax
+no_extension	GitHubPullRequest	0.0.4	1	GitHubPullRequestFiles.sublime-syntax
+no_extension	GitSavvy	2.61.0	15	blame.sublime-syntax; branch.sublime-syntax; dashboard.sublime-syntax; diff.sublime-syntax; diff_view.sublime-syntax; gr
+no_extension	GoGdb	2014.04.22.04.23.07	3	gdb_disasm.tmLanguage; gdb_registers.tmLanguage; gdb_session.tmLanguage
+no_extension	GoGuru	0.1.22	1	GoGuruResults.tmLanguage
+no_extension	GoOracle	0.1.4	1	GoOracleResults.tmLanguage
+no_extension	GoRename	0.1.13	1	GoRenameResults.tmLanguage
+no_extension	Golang Build	0.9.0	1	Golang Build Output.tmLanguage
+no_extension	Gulp	6.1.3	1	GulpResults.tmLanguage
+no_extension	Helium	0.6.4	1	Helium.sublime-syntax
+no_extension	Hyperscript	1.0.10	3	HTML (Hyperscript no tag attributes).sublime-syntax; HTML (Hyperscript).sublime-syntax; Hyperscript.tmLanguage
+no_extension	IRC	0.4.0	1	IRC.tmLanguage
+no_extension	IRC Syntax	2.3.0	1	IRC.sublime-syntax
+no_extension	ImpactJS	2015.12.08.20.18.52	1	ImpactJS.tmLanguage
+no_extension	Infinidat Plugin	0.3.8	1	infilog.tmLanguage
+no_extension	JSCustom	4.4.0	1	Styled Components.sublime-syntax
+no_extension	JavaScript Ultimate	4.0.1	1	javascript.sublime-syntax
+no_extension	Javatar	2.0.0-prebeta.6	2	JavaCompilationError.tmLanguage; JavaStackTrace.tmLanguage
+no_extension	Jester	1.0.66	1	text-ui-result.sublime-syntax
+no_extension	Jujutsu	0.4.8	1	JJLog.sublime-syntax
+no_extension	KDL	2.0.7	4	KDL1.sublime-syntax; KDL2.sublime-syntax; KDL2⁄-.sublime-syntax; KDL_.sublime-syntax
+no_extension	LLM	1.0.3	1	ChatMarkdown.sublime-syntax
+no_extension	LaTeXOutline	2.6.2	1	latexoutline.sublime-syntax
+no_extension	Log Highlight	2.2.5	1	Log Highlight.tmLanguage
+no_extension	Markdeep	1.3.0	1	markdeep.sublime-syntax
+no_extension	MarkdownEditing	3.6.4	4	Bash (for Markdown).sublime-syntax; Markdown.sublime-syntax; MultiMarkdown.sublime-syntax; Zsh (for Markdown).sublime-sy
+no_extension	Match	1.0.5	1	match.sublime-syntax
+no_extension	Mercurial	0.9.0	4	Mercurial Log.tmLanguage; Mercurial Status Report.tmLanguage; Sublime Hg CLI.tmLanguage; SublimeHg Command Line.tmLangua
+no_extension	Mina	2013.03.20.17.15.43	1	MinaConsole.tmLanguage
+no_extension	Mise	1.6.0	1	Mise Build.sublime-syntax
+no_extension	MySFTP	2.1.3	1	MySFTP.sublime-syntax
+no_extension	On Save	2.1.1	1	OnSave.tmLanguage
+no_extension	OpenAI completion	6.3.2	1	ChatMarkdown.sublime-syntax
+no_extension	PHPUnit	2015.07.17.15.28.37	1	PHPUnit TextRunner.tmLanguage
+no_extension	PHPUnitKit	3.19.4	1	text-ui-result.sublime-syntax
+no_extension	PyRock	2.0.0	1	test_output.sublime-syntax
+no_extension	PyTags	2012.12.15.22.34.57	1	Python.tmLanguage
+no_extension	Python Open Module (New)	2021.03.31.09.08.12	1	Python Module Path.tmLanguage
+no_extension	QuickCal	2.5.0	1	Calendar.sublime-syntax
+no_extension	RAScript	0.3.0	1	rascript.tmLanguage
+no_extension	RISC OS CMHG Syntax	1.0.0	1	RISCOSCMHG.sublime-syntax
+no_extension	RISC OS Command Syntax	1.0.1	1	RISCOSCommand.sublime-syntax
+no_extension	RemoteSync	1.6.2	1	RemoteSyncOutput.sublime-syntax
+no_extension	Responsys Built-In Function	1.0.0	1	responsys_builtin_function.tmLanguage
+no_extension	RubyMotionBuilder	2016.10.24.12.45.43	1	RubyMotion.tmLanguage
+no_extension	RubyTest	2026.10.30.14.04.54	1	TestConsole.tmLanguage
+no_extension	SBT Runner	2013.08.14.04.57.32	1	TestConsole.tmLanguage
+no_extension	Shebang	2012.08.10.20.32.39	1	Output.tmLanguage
+no_extension	Shlisp Syntax	2014.07.09.20.13.12	1	Shlisp.tmLanguage
+no_extension	SideBarEnhancements	12.0.6	1	FindFilesResults.sublime-syntax
+no_extension	SimpleSyntax	2017.12.131	8	ssDslash.sublime-syntax; ssDslash.tmLanguage; ssExcla.sublime-syntax; ssExcla.tmLanguage; ssHash.sublime-syntax; ssHash.
+no_extension	Six	0.8.107-dev.20190630.1	4	Six Ex Mode.sublime-syntax; Six Help.sublime-syntax; Six Mappings Output.sublime-syntax; Six Search.sublime-syntax
+no_extension	StGitlab	1.0.10	1	StGitlab.sublime-syntax
+no_extension	SubMerge	1.1.6	2	SubMergeFolder.sublime-syntax; SubMergeMetadata.sublime-syntax
+no_extension	Sublime V8	2013.12.06.08.25.06	1	Console.tmLanguage
+no_extension	SublimeAnarchyDebug	0.1.0	2	lldb_console.sublime-syntax; lldb_stack.sublime-syntax
+no_extension	Sublundo	0.2.3	1	Sublundo.sublime-syntax
+no_extension	TabTeleport	1.3.2	1	tabteleport.tmLanguage
+no_extension	Teaspoon	2014.11.21.02.35.17	1	TestConsole.tmLanguage
+no_extension	Telescope	3.0.3	2	Telescope Input.sublime-syntax; Telescope.sublime-syntax
+no_extension	TermMate	0.7.5	2	ChatDiff.sublime-syntax; ChatMD.sublime-syntax
+no_extension	Test Runner	1.4.1	1	TestRunnerOutput.tmLanguage
+no_extension	TestExUnit	0.0.2	1	TestConsole.tmLanguage
+no_extension	TestManager	1.3.2	1	TestList.sublime-syntax
+no_extension	TestRSpec	2.3.0	1	RSpecConsole.sublime-syntax
+no_extension	Text Reader	2012.10.16.08.44.56	1	TextReader.tmLanguage
+no_extension	Theme - Kronuz	1.2.3	1	Console.sublime-syntax
+no_extension	ToolRunner	2021.2.1	2	MSSQL Query Results.tmLanguage; ToolRunner Output.tmLanguage
+no_extension	Topas Syntax	0.2.2	1	Topas.tmLanguage
+no_extension	UHM Syntax	0.1.4	2	UHM.sublime-syntax; UHM.tmLanguage
+no_extension	UVMLog	0.1.0	1	UVMLog.sublime-syntax
+no_extension	UnitTesting	1.12.2	1	unit-testing-test-result.sublime-syntax
+no_extension	VintageEx	2013.02.13.20.11.30	1	VintageEx Cmdline.tmLanguage
+no_extension	Vintageous	4.0.7	1	VintageousEx Cmdline.tmLanguage
+no_extension	WebDevShell	1.2.0	1	WebDevShell.sublime-syntax
+no_extension	Witcher Script Syntax	1.0.7	1	witcherscript.tmLanguage
+no_extension	Xdebug Client	1.1.2	1	Xdebug.tmLanguage
+no_extension	YcmdCompletion	0.1.5	1	ErrorPanel.tmLanguage
+no_extension	iOS build system	1.0.2	1	iOS-build-log.sublime-syntax
+no_extension	jrnl	0.2.0	1	jrnl.tmLanguage
+no_extension	sublimious	0.9.0	1	keyhelper.sublime-syntax
+no_extension	xonsh	0.2.1	1	xonsh.sublime-syntax
+no_extension	xpath	3.0.0	1	xpath.sublime-syntax

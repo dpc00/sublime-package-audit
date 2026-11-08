@@ -1,0 +1,30 @@
+package	version	released	repo	entries	offenders	example_path	status
+AmbientTalk 2	1.1.0	2016-04-24	titouanc/sublime-ambienttalk	36	20	sublime-ambienttalk-1.1.0/Preferences/Spell Check : Disable for Source.tmPreferences	filed https://github.com/titouanc/sublime-ambienttalk/issues/4
+Axios Snippets	1.0.0	2020-04-05	cvhau/sublime-axios-snippets	18	2	sublime-axios-snippets-1.0.0/promise-new.sublime-snippet	filed https://github.com/cvhau/sublime-axios-snippets/issues/4
+Baobab React ES6 Snippets	1.0.0	2016-12-03	luccitan/sublime-baobab-react-es6	63	1	sublime-baobab-react-es6-1.0.0/snippets/coffee/react_component.sublime-snippet 	unfiled - issues disabled on the repo
+Bootstrap 3 Jade Snippets	1.1.31	2016-06-27	rs459/bootstrap3-jade-sublime-plugin	224	1	bootstrap3-jade-sublime-plugin-1.1.31/navigation/bst-navbar:button.sublime-snippet	filed https://github.com/rs459/bootstrap3-jade-sublime-plugin/issues/21
+CakePHP (tmbundle)	2012.01.06.01.56.51	2012-01-06	cakephp/cakephp-tmbundle	169	8	cakephp-tmbundle-master/Snippets/$this->Html->script().tmSnippet	filed https://github.com/cakephp/cakephp-tmbundle/issues/7
+Cocos Creator Snippet	1.0.4	2017-08-28	lyzz0612/Cocos-Creator-Snippet	2404	12	"Cocos-Creator-Snippet-1.0.4/creator_snippet/cc/Boolean	.sublime-snippet"	filed https://github.com/lyzz0612/Cocos-Creator-Snippet/issues/4
+Craft-Twig	4.1.0	2019-01-13	BarrelStrength/Craft-Twig.tmbundle	137	43	Craft-Twig.tmbundle-4.1.0/Snippets/php: dd.tmSnippet	filed https://github.com/barrelstrength/Craft-Twig.tmbundle/issues/33
+Cubescript Syntax Highlighting	1.0.0	2015-02-04	srbs/cubescript-syntax-sublime	57	2	cubescript-syntax-sublime-1.0.0/Symbol List: Outermost Functions.tmPreferences	filed https://github.com/srbs/cubescript-syntax-sublime/issues/2
+Dylan	2012.10.16.04.58.04	2012-10-16	dylan-lang/dylan.tmbundle	13	2	dylan.tmbundle-master/Preferences/Spell Checking: Enable for comments.tmPreferences	unfiled - issues disabled on the repo
+ExpressionEngine	2011.09.03.15.33.05	2011-09-03	Etsur/EE-ST2	132	63	EE-ST2-master/Snippets/Tag Pair - {tag_name}{:tag_name}.tmSnippet	filed https://github.com/christopherhealey/EE-ST2/issues/5
+FEI Syntax-n-Snippets	2016.11.23.11.32.50	2016-11-23	jaabell/fei-syntax-n-snippets	165	1	fei-syntax-n-snippets-master/snippets/define_NDMaterial_constitutive_integration_algorithm_Forward_Euler|Forward_Euler_Subincrement|Backward_Euler|Backward_Euler_ddlambda|Backward_Euler_ddlambda_Subincrement.sublime-snippet	unfiled - repo archived
+FileSystem Autocompletion	0.4.1	2026-10-06	lingo/sublime-fscompletion	56	4	"sublime-fscompletion-0.4.1/testing/test with spaces/dir with spaces/another with spaces/file"""	filed https://github.com/lingo/sublime-fscompletion/issues/20
+Firebase Snippets	2015.06.16.22.36.56	2015-06-16	dhcar/firebaseSnippets	59	1	firebaseSnippets-master/firebase-limitTolast.sublime-snippet	filed https://github.com/dhcar/firebaseSnippets/issues/5
+FreeMarker	2013.03.12.20.03.10	2013-03-12	briancavalier/textmate-freemarker-bundle	33	3	textmate-freemarker-bundle-master/Preferences/Typing Pairs: Defaults.tmPreferences	filed https://github.com/briancavalier/textmate-freemarker-bundle/issues/8
+Git CoAuthor	1.1.0	2020-04-05	TomasBarry/Sublime-git-co-author	13	1	Sublime-git-co-author-1.1.0/readme.md	filed https://github.com/TomasBarry/Sublime-git-co-author/issues/3
+Haml	2014.05.07.00.15.23	2014-05-07	phuibonhoa/handcrafted-haml-textmate-bundle	97	6	handcrafted-haml-textmate-bundle-master/Commands/Wrap Each Selected Line in Open:Close Tag.tmCommand	unfiled - issues disabled on the repo
+Kirby2 CMS Snippets	1.4.0	2017-10-03	mauricerenck/sublime-kirby2	515	1	sublime-kirby2-1.4.0/snippets/pages::extractValue_pages::extractValue.sublime-snippet	unfiled - repo archived
+Linguist Syntax	0.1.1	2023-09-14	hronro/sublime-linguist-syntax	527	1	sublime-linguist-syntax-0.1.1/syntaxes/F*.tmLanguage	filed https://github.com/hronro/sublime-linguist-syntax/issues/1
+NotmuchAddress	1.0.0	2017-06-11	yeled/sublime-notmuch-address	7	1	sublime-notmuch-address-1.0.0/Default (OSX).sublime-keymap 	filed https://github.com/yeled/sublime-notmuch-address/issues/4
+OpenType Feature Bundle	1.3.0	2018-01-26	brew/opentype-feature-bundle	18	1	opentype-feature-bundle-1.3.0/Preferences/Typing Pairs: Substitute.tmPreferences	filed https://github.com/brew/opentype-feature-bundle/issues/20
+Placeholders	2012.11.11.21.11.33	2012-11-11	mrmartineau/Placeholders	18	4	Placeholders-master/lorem - Long para <p>.sublime-snippet	unfiled - repo archived
+RTagsComplete	0.10.0	2019-04-14	tillt/rtagscomplete	92	1	"RTagsComplete-0.10.0/Icon
+"	filed https://github.com/tillt/RTagsComplete/issues/49
+Scala Snippets	1.0.0	2016-06-18	watzon/sublime-scala-snippets	34	3	sublime-scala-snippets-1.0.0/Snippets/Special:ReturnInsideparentheses.sublime-snippet	unfiled - repo archived
+Sencha	2013.08.16.06.50.17	2013-08-16	rdougan/Sencha.sublime	33	5	Sencha.sublime-master/Snippets/Extend Block: config.sublime-snippet	filed https://github.com/rdougan/Sencha.sublime/issues/5
+Soy	0.2.2	2015-02-18	Medium/soy-sublime	21	7	soy-sublime-0.2.2/Preferences/Style: brache.tmPreferences	unfiled - repo archived
+Stylus-Snippets	2015.07.27.08.00.23	2015-07-27	billymoon/Stylus-Snippets	495	310	Stylus-Snippets-master/Snippets/background-attachment:fixed.tmSnippet	filed https://github.com/billymoon/Stylus-Snippets/issues/3
+YASMJinja2	1.0.0	2019-06-25	m-messiah/yasm-jinja2	28	2	yasm-jinja2-1.0.0/Preferences/Symbol List: Blocks.tmPreferences	unfiled - issues disabled on the repo
+iconfont snippets	0.3.6	2016-07-31	badprint/ST-iconFont-snippets	2314	1	ST-iconFont-snippets-0.3.6/readme.md	filed https://github.com/badprint/ST-iconFont-snippets/issues/4
