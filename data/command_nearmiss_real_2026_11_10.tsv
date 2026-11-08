@@ -1,0 +1,34 @@
+AGSBS Markdown Helper	0.6.2	Default.sublime-keymap	insert_panel	insert_page
+Boo & BooJs	2013.12.09.23.38.57	Default.sublime-keymap	boo_goto_declaration	boo_go_to_declaration
+Define Parser	0.2.3	Main.sublime-menu	build_define_database	rebuild_define_database
+Django Manage Commands	1.8.3	Default.sublime-commands	django_check	django_click
+ESpec	1.0.5	Default (OSX).sublime-keymap	open_rspec_file	open_espec_file
+GitGutter	1.11.15	Default (Linux).sublime-keymap,Default (OSX).sublime-keymap,Default (Windows).sublime-keymap,Default.sublime-commands,Main.sublime-menu	git_gutter_blame	git_gutter_base
+GitSavvy	2.61.0	Default.sublime-keymap	gs_log_graph_edit_files	gs_log_graph_edit_filters
+Highlime	0.2.0	Default (Linux).sublime-keymap,Default (OSX).sublime-keymap,Default (Windows).sublime-keymap,Default.sublime-commands,Main.sublime-menu	highlime_pause	highlime_base
+IJulia	2015.01.28.20.16.01	Default.sublime-commands	julia_transfer_current	i_julia_transfer_current
+LightPaper Markdown	2013.12.15.05.58.52	Default.sublime-commands,Main.sublime-menu	lightpaper	light_paper
+MarkLogic	1.2.0	Default (Linux).sublime-keymap,Default (OSX).sublime-keymap,Default (Windows).sublime-keymap	ml_hint	ml_lint
+Merlin	0.4.0	Context.sublime-menu,Default.sublime-commands	merlin_locate_ml	merlin_locate_mli
+Merlin	0.4.0	Default.sublime-commands	merlin_locate_name_ml	merlin_locate_name_mli
+MicroPython Tools	1.0.5	Context.sublime-menu,micropython.sublime-commands	mp_get_file	mp_put_file
+NimPlus	1.1.0	Main.sublime-menu	nimplus_open_site	nim_plus_open_site
+NinetyFive	1.6.0	Default.sublime-commands	set_ninetyfive_key	set_ninety_five_key
+NoDialogs	1.0.4	Default (Linux).sublime-keymap,Default (OSX).sublime-keymap,Default (Windows).sublime-keymap,NoDialogs.sublime-commands	no_dialogs_create_move_prompt	no_dialogs_create_save_prompt
+Package Control	4.2.8	Default.sublime-commands	disable_package	disable_packages
+Package Control	4.2.8	Default.sublime-commands	enable_package	enable_packages
+Package Control	4.2.8	Default.sublime-commands	remove_package	remove_packages
+Pieces	1.10.9	Pieces.sublime-commands	pieces_enable_ltm	pieces_enablelt_m
+Pieces	1.10.9	Pieces.sublime-commands	pieces_disable_ltm	pieces_disablelt_m
+Pretty JSON	1.3.3	Default (Windows).sublime-keymap,Default.sublime-commands	un_pretty_json	jq_pretty_json
+RSL	1.1.0	Default.sublime-commands	rsl_run_sal_smc	rsl_run_sal_wfc
+SublimErl	2013.03.22.23.34.21	Context.sublime-menu,Default (Linux).sublime-keymap,Default (OSX).sublime-keymap	sublim_erl_test	sublim_erl_text
+Toggle File	1.2.3	Default (Linux).sublime-keymap,Default (OSX).sublime-keymap,Default (Windows).sublime-keymap,Default.sublime-commands,Main.sublime-menu	togglefile	toggle_file
+Translate-CN	2.0.2	Default (Linux).sublime-keymap	translatet_input	translate_input
+anaconda_php	0.1.6	Default (Linux).sublime-keymap,Default (OSX).sublime-keymap,Default (Windows).sublime-keymap	anaconda_php_fixer	anaconda_php_fix
+haoide	3.6.2	main.sublime-commands	export_custom_labels	export_custom_lables
+subversion_for_sublime_txt3	1.1.12	Context.sublime-menu,Side Bar.sublime-menu	svnup	svnci
+subversion_for_sublime_txt3	1.1.12	Side Bar.sublime-menu	svnst	svnci
+wpseek WordPress Developer Assistant	2026.10.25.15.56.28	Context.sublime-menu,Default.sublime-commands,Main.sublime-menu	wpseek_com_search_selection	wp_seek_com_search_selection
+wpseek WordPress Developer Assistant	2026.10.25.15.56.28	Context.sublime-menu,Default.sublime-commands	wpseek_com_open_selection	wp_seek_com_open_selection
+wpseek WordPress Developer Assistant	2026.10.25.15.56.28	Default.sublime-commands,Main.sublime-menu	wpseek_com_search_from_input	wp_seek_com_search_from_input

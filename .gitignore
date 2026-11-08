@@ -1,0 +1,27 @@
+# Published: the method (README, PROCEDURE, LICENSE, the skills) and the records that are now one row
+# per package / one per issue, so anyone can check the numbers. Kept off: caches, scratch, working logs,
+# dated notes and anything regenerable.
+.git/
+__pycache__/
+*.py[cod]
+node_modules/
+.venv/
+venv/
+.env
+credentials.json
+client_secret*.json
+client_secrets*.json
+.scratch/
+
+# caches
+data/channel_pc.json
+
+# working logs and old snapshots
+
+# --- omp .gitignore basics (2026-11-09) ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+

@@ -1,0 +1,1 @@
+2026-11-11T05:25:09	dialog	3999614	Sublime Text	OK	MarkdownGlance needs the Package Control libraries Markdown and pymdown-extensions, which are not installed. /  / Run "Package Control: Satisfy Libraries" from the Command Palette, then restart Sublime Text. Package Control installs them with the package; a manual install has to ask for them.

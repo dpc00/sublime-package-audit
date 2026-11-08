@@ -1,0 +1,38 @@
+[
+ {
+  "pkg": "BracketHighlighter",
+  "install_s": 2.5,
+  "dialogs": [],
+  "errors": []
+ },
+ {
+  "pkg": "DocBlockr",
+  "install_s": 1.5,
+  "dialogs": [],
+  "errors": []
+ },
+ {
+  "pkg": "AdvancedNewFile",
+  "install_s": 1.4,
+  "dialogs": [],
+  "errors": []
+ },
+ {
+  "pkg": "TrailingSpaces",
+  "install_s": 1.6,
+  "dialogs": [],
+  "errors": []
+ },
+ {
+  "pkg": "Alignment",
+  "install_s": 1.6,
+  "dialogs": [],
+  "errors": []
+ },
+ {
+  "pkg": "Case Conversion",
+  "install_s": 1.6,
+  "dialogs": [],
+  "errors": []
+ }
+]

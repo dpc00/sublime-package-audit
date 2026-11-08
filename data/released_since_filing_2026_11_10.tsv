@@ -1,0 +1,43 @@
+repo	number	package	version	release_date	filed	title
+sublimator/EditPreferences	13	Edit Preferences	2026.11.10.03.16.24	2026-11-10	2026-10-30	SyntaxWarnings on Python 3.12+: five invalid escape sequences in package_resources.py, ext
+Doi9t/SortBy	29	SortBy	2.2.0	2026-11-08	2026-09-28	Sorting a selection containing blank lines silently deletes the blank lines
+Doi9t/SortBy	30	SortBy	2.2.0	2026-11-08	2026-09-28	alphabetically_case_sensitive can never be disabled (trailing-comma tuple bug in SortSetti
+tushortz/intellekt	1	Intellekt	0.2.1	2026-11-07	2020-07-17	NotADirectoryError
+homobel/sublime-joy	1	Joy	2.0.1	2026-11-05	2026-10-24	Syntax fails to load on Sublime Text 4: with_prototype recursion error
+flashmodel/gemini-st	5	GeminiCLI	2.1.3	2026-11-02	2026-10-02	Chat stays at 'Starting Gemini CLI...' with no error when the CLI exits immediately (stder
+bosborne/BioPythonUtils	4	BioPythonUtils	2026.11.01.16.44.25	2026-11-01	2026-10-31	Commands that write results to a new tab leave the tab empty (edit token of another view)
+bosborne/BioPythonUtils	5	BioPythonUtils	2026.11.01.16.44.25	2026-11-01	2026-10-31	Remote BLAST blocks the whole editor while waiting for NCBI
+bosborne/BioPythonUtils	6	BioPythonUtils	2026.11.01.16.44.25	2026-11-01	2026-10-31	Select Remote BLAST database raises KeyError: None until an application was chosen
+bosborne/BioPythonUtils	7	BioPythonUtils	2026.11.01.16.44.25	2026-11-01	2026-10-31	Translate: RNA input passes validation, then fails with UnboundLocalError
+bosborne/BioPythonUtils	8	BioPythonUtils	2026.11.01.16.44.25	2026-11-01	2026-10-31	Error dialogs contain a long run of spaces in the middle of the message
+bosborne/BioPythonUtils	9	BioPythonUtils	2026.11.01.16.44.25	2026-11-01	2026-10-31	Key binding for Get Sequences by Taxon uses a command that does not exist
+bosborne/BioPythonUtils	11	BioPythonUtils	2026.11.01.16.44.25	2026-11-01	2026-10-31	Bundled Biopython code: SyntaxWarning on Python 3.8+ and one module that cannot be compile
+bosborne/BioPythonUtils	12	BioPythonUtils	2026.11.01.16.44.25	2026-11-01	2026-10-31	Get Sequences by Id: an unknown id pastes NCBI's error text as if it were a record
+bosborne/BioPythonUtils	13	BioPythonUtils	2026.11.01.16.44.25	2026-11-01	2026-10-31	UnboundLocalError after an error dialog in Search, Taxon and Translate (FASTA)
+bosborne/BioPythonUtils	14	BioPythonUtils	2026.11.01.16.44.25	2026-11-01	2026-10-31	Get Sequences by Taxon ignores entrez_retmax
+bosborne/BioPythonUtils	15	BioPythonUtils	2026.11.01.16.44.25	2026-11-01	2026-10-31	Translate rejects IUPAC ambiguity codes such as N
+bosborne/BioPythonUtils	16	BioPythonUtils	2026.11.01.16.44.25	2026-11-01	2026-10-31	README says default entrez_retmax is 20, settings file ships 1000; Search logs the wrong r
+bosborne/BioPythonUtils	17	BioPythonUtils	2026.11.01.16.44.25	2026-11-01	2026-10-31	Get Sequences by Id returns the records in completion order, not the order of the ids
+bosborne/BioPythonUtils	18	BioPythonUtils	2026.11.01.16.44.25	2026-11-01	2026-10-31	Get Sequences by Id raises RecursionError when a download takes longer than about 10 secon
+feibuilds/MarkdownGlance	9	MarkdownGlance	0.7.0	2026-11-01	2026-10-24	Table cell missing from preview when the table wraps and a header cell has an emoji or CJK
+wmertens/sublime-nix	16	Nix	2.5.0	2026-10-27	2026-10-25	Package Control still installs v2.3.2 (2017); latest tag is V2.4.0 with a capital V
+SublimeText/LaTeXTools	1718	LaTeXTools	4.5.17	2026-10-18	2026-10-13	MiKTeX: a failed build reports no errors because texify --quiet switches the log to file:l
+barryceelen/Claudette	21	Claudette	1.7.2	2026-10-15	2026-10-02	Text editor tool: allowed-roots check is textual only; a junction/symlink inside a project
+barryceelen/Claudette	22	Claudette	1.7.2	2026-10-15	2026-10-02	A newline is inserted into streamed text when a chunk ending in '.' is followed by a capit
+amitsnyderman/sublime-smarty	34	Smarty	0.2.5	2026-10-12	2026-09-29	{literal} blocks are not recognised in HTML (Smarty); the content is highlighted as Smarty
+SublimeText-Markdown/MarkdownEditing	827	MarkdownEditing	3.6.4	2026-10-10	2026-10-09	Markdown Lint raises KeyError disable on a fresh install (mde.lint not in view settings)
+scalameta/metals-sublime	135	LSP-metals	0.22.0	2026-10-08	2026-10-01	Default server_version 'latest-stable' resolves to a milestone pre-release (2.0.0-M19), no
+SublimeText/YamlPipelines	53	YamlPipelines	0.4.1	2026-10-05	2026-09-25	Installing without the PowerShell package shows modal 'unable to read base syntax Packages
+dennykorsukewitz/Sublime-QuoteWithMarker	1	Quote With Marker	1.0.3	2026-10-05	2026-10-04	Quote with Marker inserts the marker block into the middle of the text when nothing is sel
+oleg-shilo/sublime-codemap	49	CodeMap	1.0.20	2026-10-05	2026-09-25	Python mapper ignores async def functions and methods
+oleg-shilo/sublime-codemap	51	CodeMap	1.0.20	2026-10-05	2026-09-25	Bundled mappers are copied to User/CodeMap once and never refreshed or removed: updates/fi
+SublimeLinter/SublimeLinter	1998	SublimeLinter	4.30.1	2026-10-02	2026-09-29	Uninstalled linter packages stay registered in persist.linter_classes and keep linting unt
+oleg-shilo/cs-script-sublime	7	CS-Script	1.4.7	2026-10-02	2026-09-25	Package import runs 'taskkill /f /im VBCSCompiler.exe' (kills every Roslyn build server on
+SublimeLinter/SublimeLinter-cppcheck	25	SublimeLinter-cppcheck	2.1.0	2026-10-01	2026-09-29	Error column is wrong when non-ASCII characters come earlier on the line (cppcheck counts 
+SublimeLinter/SublimeLinter-javac	25	SublimeLinter-javac	1.4.0	2026-10-01	2026-09-29	Error column is off by one for each emoji (non-BMP character) earlier on the line
+SublimeLinter/SublimeLinter-tslint	46	SublimeLinter-tslint	1.7.0	2026-10-01	2026-09-29	Error column is off by one for each emoji earlier on the line (TSLint counts UTF-16 units)
+poucotm/Log-Highlight	52	Log Highlight	2.2.5	2026-09-27	2026-09-26	plistlib.readPlist/writePlist removed in Python 3.9+: colour scheme never applied on curre
+oleg-shilo/sublime-favorites	10	Favorites	1.0.9	2026-09-26	2026-09-25	messages.json is invalid JSON (missing comma after "1.0.4"), Package Control cannot show i
+shagabutdinov/sublime-shell-status	4	ShellStatus	2017.10.06.04.12.07	2017-10-06	2016-08-01	No example status command created
+cschreib/sublime-idl	1	Interactive Data Language (IDL)	1.0.2	2017-03-30	2016-05-17	Division operator parsed as keyword in function/procedure call
+jlknuth/KeyboardSpellCheck	2	KeyboardSpellCheck	1.3.3	2015-08-20	2014-11-02	Main command not working

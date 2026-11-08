@@ -1,0 +1,21 @@
+| highlighting or scoping is wrong | 577 | [hyprlang-sublime-syntax#3](https://github.com/0x000C0A71/hyprlang-sublime-syntax/issues/3) — `clear_scopes: true` in rgba_color removes source.hyprlang, so rgba( ) and its c |
+| crash on use | 529 | [ColumnMassage#1](https://github.com/0x7FFFFFFFFFFFFFFF/ColumnMassage/issues/1) — Only the first line changes, then IndexError, when the output length differs |
+| a command, setting, snippet or key does nothing | 316 | [niceDarkTheme#1](https://github.com/aaortizb/niceDarkTheme/issues/1) — Install button in the Terminus dialog does nothing |
+| Windows cannot use the file or the name | 274 | [ST-iconFont-snippets#4](https://github.com/badprint/ST-iconFont-snippets/issues/4) — Two files differ only by letter case, so Windows keeps one of them |
+| the snippet is wrong or its trigger is wrong | 209 | [sublime-bemjson-snippets#8](https://github.com/1vank1n/sublime-bemjson-snippets/issues/8) — The efc snippet has the trigger etc and clashes with the etc snippet |
+| a command gives the wrong output | 197 | [SublimeJSCSFormatter#46](https://github.com/elicwhite/SublimeJSCSFormatter/issues/46) — Format fails with an error dialog when Node prints a warning to stderr, result i |
+| the package does not load | 186 | [sublime-jekyll#100](https://github.com/23maverick23/sublime-jekyll/issues/100) — Plugin fails to load on ST 4215: ModuleNotFoundError: No module named imghdr (re |
+| it blocks or hangs the UI | 181 | [ColumnMassage#1](https://github.com/0x7FFFFFFFFFFFFFFF/ColumnMassage/issues/1) — Only the first line changes, then IndexError, when the output length differs |
+| a build or run command is broken | 151 | [pyrock#24](https://github.com/abhishek72850/pyrock/issues/24) — On timeout process.terminate() (shell=True) leaves the python indexer running as |
+| Python 3 syntax warnings | 143 | [go-playground-sublime#3](https://github.com/0x4445565A/go-playground-sublime/issues/3) — SyntaxWarning: invalid escape sequence in go-playground.py on Python 3.12+ |
+| package metadata or install problem | 119 | [gotham-theme-sublime#6](https://github.com/0xhjohnson/gotham-theme-sublime/issues/6) — README color_scheme path (Gotham-Theme) fails after a Package Control install (p |
+| completion or popup is wrong | 120 | [SublimeAutoItScript#38](https://github.com/AutoIt/SublimeAutoItScript/issues/38) — CompilerDirectives.sublime-completions is not valid JSON: Invalid control charac |
+| behaviour differs from the README | 126 | [gotham-theme-sublime#6](https://github.com/0xhjohnson/gotham-theme-sublime/issues/6) — README color_scheme path (Gotham-Theme) fails after a Package Control install (p |
+| a .sublime-* file will not parse | 104 | [SublimeAutoItScript#38](https://github.com/AutoIt/SublimeAutoItScript/issues/38) — CompilerDirectives.sublime-completions is not valid JSON: Invalid control charac |
+| fails on an unsaved or untitled tab | 86 | [StataLinux#22](https://github.com/acarril/StataLinux/issues/22) — Run all on an unsaved buffer raises TypeError (file_name is None) |
+| a key binding is wrong or clashes | 61 | [CPrettify-Sublime-text-3#18](https://github.com/aghontpi/CPrettify-Sublime-text-3/issues/18) — Default (Windows).sublime-keymap is {} instead of an array: console error at loa |
+| dependency or library problem | 58 | [syncrow#5](https://github.com/Afzal7/syncrow/issues/5) — `import yaml` at module level, but the package neither bundles PyYAML nor declar |
+| a menu entry is wrong or missing | 55 | [pyrock#26](https://github.com/abhishek72850/pyrock/issues/26) — Import Symbol lists hundreds of impossible imports (re-exported names indexed as |
+| a theme or asset is missing | 42 | [Theme-Dark-Material#14](https://github.com/artifactdev/Theme-Dark-Material/issues/14) — The theme refers to a missing texture: assets/commons/overlay_bar_vertical.png |
+| writes to the wrong place or encoding | 42 | [ClearDirtyFlag#2](https://github.com/2shortplanks/ClearDirtyFlag/issues/2) — Files with non-ASCII text are never cleared (open() without encoding) |
+| a setting is not applied | 11 | [sublime_ansible_vault#22](https://github.com/adambullmer/sublime_ansible_vault/issues/22) — OS-specific settings are ignored: get_setting returns project_settings.get(key) |
