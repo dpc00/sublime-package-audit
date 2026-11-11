@@ -49,6 +49,8 @@ Remove the package, wait for Package Control's "Removed package" line, close eve
 
 ## 8. Things that fooled the audit
 
+- `RESULTS.tsv` has two shapes (2026-11-11): rows written from that date on are `package, date, verdict, detail` and the file starts with a header; the ~5,700 older rows are `package, date, prose` with no verdict column. Any whole-file tool must branch on the field count before grouping, or a bulk rewrite will do to one half what the 2026-11-09 incident did to the ledger. Normalising the history is a deliberate pass: backup, dry run, then write.
+
 - The maintainer gate is a judgement, not a stopwatch (Donald, 2026-11-11): the question is "has the maintainer abandoned his work?", so a repo whose last push was a few months ago is still active, and the answer has to come from the project's own shape — release history, issues answered, whether the code is maintained — not from counting days since the last commit. Do not turn it into "no commit in 90 days, therefore ledger only".
 - A repo with GitHub issues disabled has no tracker to file in at all; that, not inactivity, is why a finding stays in the ledger in that case.
 
