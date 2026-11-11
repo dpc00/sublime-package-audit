@@ -48,14 +48,36 @@ Rows written before 2026-11-11 predate the verdict column and still carry prose 
 
 Counts are a floor, not a ceiling: they only count what reached the files.
 
-## The kinds of defect that keep turning up
+## What was found
 
-- a command, setting or snippet that names something that does not exist, so it silently does nothing
-- a palette entry whose command was renamed in the code but not in the command file
-- output written to the wrong place, or a command that fails on an unsaved tab
-- `.sublime-*` files that are not valid JSON, so the whole file is ignored
-- release archives containing file names Windows cannot create, so Package Control skips them
-- packages that cannot load at all on a current Sublime Text (Python 2 leftovers)
+The defects cluster into a few shapes. Each line is a real report from `ISSUES.tsv`, and the links are
+the clearest example of that shape.
+
+- **A crash in the console.** The command half-works, then raises: `ColumnMassage#1` changes the first
+  line and then throws `IndexError`; `sublime-language-1c-bsl#11` raises when SublimeLinter is not
+  installed.
+- **Windows cannot use the file, or the name.** `Craft-Twig.tmbundle#33` ships 43 files with characters
+  Windows forbids, so Package Control silently skips them; `ST-iconFont-snippets#4` ships two files
+  that differ only by letter case, so only one survives.
+- **Python 2 code on a Python 3 host.** `go-playground-sublime#3` emits `SyntaxWarning: invalid escape
+  sequence`; elsewhere an implicit relative import, or a call to `inspect.getargspec`, kills the plugin
+  at load.
+- **A command or setting that silently does nothing.** `niceDarkTheme#1`: the Install button in the
+  dialog is inert. `sublime-exact-quick-find#4`: a `.python-version` pins 3.14, so on build 4200 the
+  plugin is ignored entirely. This is the largest family, and the hardest to notice from the outside.
+- **A `.sublime-*` file that is not valid JSON,** so Sublime throws the whole file away:
+  `ChoiceScript.sublime-completions` has an invalid control character, `Dart - Pubspec.sublime-build`
+  a missing comma.
+- **A command that assumes a saved file.** `StataLinux#22` raises `TypeError` when `file_name()` is
+  `None`; `DXL#6` raises `AttributeError` on an untitled tab.
+
+Two of these were found by reading the release archives rather than by using the packages, and the
+lists are in `data/`: packages shipping file names Windows cannot create (Package Control skips those
+files without a word), and packages shipping a `.sublime-*` file that does not parse.
+
+The pattern behind most of the silent ones is a name that changed on one side only: a command renamed
+in the code but not in the palette file, a setting key spelled differently where it is read, a keymap
+binding to a command nobody registered.
 
 ## Limits
 
