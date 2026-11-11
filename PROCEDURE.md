@@ -48,6 +48,7 @@ Lists were built from the Package Control channel (install rank, date of the las
 Remove the package, wait for Package Control's "Removed package" line, close every tab and window the test opened, remove any file the test created, restore the two settings files, quit the test copy, and write the result down. Leftovers from earlier packages cause false findings in later ones.
 
 ## 8. Things that fooled the audit
+- Before testing a package, read its rows in `RESULTS.tsv` (2026-11-11: Jinja2 was tested a third time in the same day because the candidate list was trusted over the ledger; the retest had to be merged back into the existing row). One row per package per date: a retest replaces it, never adds another.
 
 - `RESULTS.tsv` has two shapes (2026-11-11): rows written from that date on are `package, date, verdict, detail` and the file starts with a header; the ~5,700 older rows are `package, date, prose` with no verdict column. Any whole-file tool must branch on the field count before grouping, or a bulk rewrite will do to one half what the 2026-11-09 incident did to the ledger. Normalising the history is a deliberate pass: backup, dry run, then write.
 
