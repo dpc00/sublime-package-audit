@@ -115,7 +115,7 @@ Calendar Popup	2026-09-25	3529
 Callback mistakes	2026-09-25	3807	
 clean-css	2026-09-25	4351	
 Clojure Sublimed	2026-09-25	3855	
-CodeMap	2026-09-25	3597	
+CodeMap	2026-11-11	757	RETEST 2026-11-11 of 1.0.20 (release_time 2026-10-05 11:41:01) against our #51, portable 4215; second live round the same day on the same rig. HALF FIXED, plus a new defect. Fixed: the refresh works - a stock mapper (py.py, is_stock_mapper = True) edited by hand is restored from the package on the next start (5004 bytes, edit gone), and a mapper marked is_stock_mapper = False is preserved (5637 bytes, edit kept); show_code_map renders 'def alpha() :4 / class Beta() :8 / def gamma() :9' into a read-only Code - Map in group 1. NEW DEFECT: the README's documented opt-out is 'is_default_mapper = False' but stock_mapper_needs_update scans for 'is_stock_mapper = False', so a user who follows the README - set is_default_mapper = False, marker line appended - gets py.py overwritten back to the stock copy on the next restart (measured, edit and setting both gone). Still open: uninstall through Package Control leaves the whole Packages/User/CodeMap behind (mappers, md syntax, Default.sublime-keymap, Code - Map, Code - Map.source) and the README says nothing about deleting it; the leftover reproduced in the second round. Second round: #49's shipped fix verified - with 1.0.20 served, show_code_map on a fixture (class Repo; def sync_method; async def fetch_data; async def _helper; async def main; def plain) rendered all six entries with correct line numbers, the three async defs included; on 1.0.19 they were absent. Both #51 findings reported on #51. Removed, User/CodeMap deleted, probes recycled, session cleared, hashes at baseline (87f3aacc, 2aaf53b1).
 CodeOwnerInsights	2026-09-25	3678	
 CodeShot	2026-09-25	3554	
 Colored Comments	2026-09-25	4049	
@@ -3622,7 +3622,6 @@ Nyan Cat	2026-10-27	0	retest queue row 263: macOS-only by code (enabled only whe
 objc .strings syntax language	2026-10-27	0	Main list row 280: repository gone (404); nothing to test
 OctoTool	2026-10-27	0	Retest queue row 397: ST2-only (import thread), needs Octopress; nothing filed
 ofLang	2026-10-27	0	Retest queue row 399: a completions file only; read only, no defect seen
-Okami â€“ Adaptive Color Schemes	2026-10-27	0	Main list row 472: static check only (tools\static_check.ps1: JSON-ish, XML and Python 3 parse of the repo files), not installed or run; clean (pushed 2018-08-06 | clean)
 Okami – Adaptive Color Schemes	2026-10-27	0	Record only 2026-10-27: no earlier record found; repo last pushed 2018-08-06 (obsolete under the file gate), colour scheme package; not installed, nothing filed.
 ollama-sublime (KalimeroMK)	2026-10-27	0	Retest queue row 469: no repository found by search and no link in the queue; nothing to test
 Opa	2026-10-27	0	retest queue row 296: repo MLstate/OpaSublimeText holds only index.html (a web page), no package files; nothing to install, nothing filed
