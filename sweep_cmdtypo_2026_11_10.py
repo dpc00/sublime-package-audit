@@ -21,7 +21,13 @@ pkgs = d["packages_cache"]["https://packagecontrol.io/repository.json"]
 
 
 def snake(cls):
-    return re.sub(r"(?<!^)(?=[A-Z])", "_", re.sub(r"Command$", "", cls)).lower()
+    """Sublime's rule: an underscore at a lowercase->uppercase boundary and between
+    an acronym and the next word (WPSeekCom -> wp_seek_com), never inside a run of
+    capitals, and never before the first letter."""
+    name = re.sub(r"Command$", "", cls)
+    name = re.sub(r"([A-Z]+)([A-Z][a-z])", r"\1_\2", name)
+    name = re.sub(r"([a-z0-9])([A-Z])", r"\1_\2", name)
+    return name.lower()
 
 
 def near(a, b):
