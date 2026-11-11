@@ -1,0 +1,13 @@
+package	version	command	class	def_run	has_kwargs	decorators	has_input
+Coq	2020.02.13.23.28.08	coq_search	CoqSearchCommand	self, edit, kind, coq_search_query=None, coq_search_result=None	no		yes
+Django Manage Commands	1.8.3	django_new_project	DjangoNewProjectCommand	self	no		no
+Flask Starter	1.3.0	relativeflask	RelativeflaskCommand	self, edit	no		no
+Flask Starter	1.3.0	relativeflaskfactory	RelativeflaskfactoryCommand	self, edit	no	@staticmethod	no
+Pandoc Academic	2017.02.21.00.50.36	pandoc_convertor	PandocConvertorCommand		no		no
+Pep	0.24.0	pg_pep_find_usages	PgPepFindUsagesCommand	self, edit	no		no
+Pep	0.24.0	pg_pep_goto_definition	PgPepGotoDefinitionCommand	self, edit, goto_on_highlight=True, goto_side_by_side=False,	no		no
+Pep	0.24.0	pg_pep_show_doc	PgPepShowDocCommand	self, edit, show="popup"	no		no
+Simple Import	1.1.0	simple_import	SimpleImportCommand	self, edit, push_mode=False, panel_mode=False	no		no
+Subforce - Perforce for Sublime	1.0.1	subforce_login	SubforceLoginCommand	self	no		no
+Sublundo	0.2.3	sublundo_open_file	SublundoOpenFileCommand	self, f	no		no
+WindowsContextMenu	3.0.1	wcm_toggle_open_with	WcmToggleOpenWithCommand	self, app_menu_set: AppContextMenuSet	no	@override @_provide_app_menu_set(error_prompt=False) @override @_provide_app_menu_set(error_prompt=True)	no
