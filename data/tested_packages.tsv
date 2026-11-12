@@ -2569,7 +2569,7 @@ Pane Navigation	2026-10-25	0	row 1065: skipped, ST2-only (st_versions [2]), not 
 Pane Resizer	2026-10-25	0	row 1066: clean; resize_pane out widened the active group on a 2-column layout, no console error; layout restored; removed and verified
 Panezr	2026-10-25	0	row 1067: clean; 18 empty tabs trimmed to 12 by the width rule, no console errors; README does not name the panezr setting key (not filed); removed and verified
 Papyrus Assembly	2026-10-25	1	Build systems hardcode C:\Users\mark.hanna path, WinError 2 reproduced; syntax highlighting fine
-Paradox	2026-10-25	2	stray } rule dead (scope/push/pop/brackets not tmLanguage keys); comment scope percent-sign; txt not hijacked
+Paradox	2026-11-12	2	stray } rule dead (scope/push/pop/brackets not tmLanguage keys); comment scope percent-sign; txt not hijacked; recheck 2026-11-12: maintainer merged the fix for both, unreleased - channel still serves 1.0.0 (2015-12-05)
 Particle Reverse Polish Language	2026-10-25	3	indent patterns count words in comments; true/digits inside words highlighted; comment scope double-dash; completions fine
 Parva Syntax	2026-10-25	4	PVM line-number command deletes unrecognised lines (blank regex matches all), F8 global in every file wiped a plain-text buffer, digit rule no boundary, placeholder typos
 Paste as One Line	2026-10-25	2	tabs deleted not spaced; trailing space left; menu item has no caption (not verified on screen); clipboard changed by test (copy)

@@ -3,6 +3,11 @@
 Every package in the Package Control channel, installed in Sublime Text on Windows and used the way a
 person would use it. What breaks is reported to the maintainer; what holds up is recorded as clean.
 
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.me/DChitester)
+
+Donate via PayPal: https://www.paypal.me/DChitester
+Contact: donaldchitester@gmail.com
+
 Donald Chitester ([dpc00](https://github.com/dpc00)), with an AI agent driving Sublime Text through
 [sublime-mcp](https://github.com/dpc00/sublime-mcp).
 
@@ -57,7 +62,7 @@ real report of it.
 
 | what goes wrong | reports | an example |
 |---|---:|---|
-| highlighting or scoping is wrong | 577 | [hyprlang-sublime-syntax#3](https://github.com/0x000C0A71/hyprlang-sublime-syntax/issues/3) — `clear_scopes: true` removes `source.hyprlang`, so `rgba()` and its contents lose every scope |
+| highlighting or scoping is wrong | 578 | [hyprlang-sublime-syntax#3](https://github.com/0x000C0A71/hyprlang-sublime-syntax/issues/3) — `clear_scopes: true` removes `source.hyprlang`, so `rgba()` and its contents lose every scope |
 | it crashes on use | 529 | [ColumnMassage#1](https://github.com/0x7FFFFFFFFFFFFFFF/ColumnMassage/issues/1) — only the first line changes, then `IndexError` when the output length differs |
 | a command, setting, snippet or key does nothing | 316 | [niceDarkTheme#1](https://github.com/aaortizb/niceDarkTheme/issues/1) — the Install button in the Terminus dialog does nothing |
 | Windows cannot use the file or the name | 274 | [ST-iconFont-snippets#4](https://github.com/badprint/ST-iconFont-snippets/issues/4) — two files differ only by letter case, so Windows keeps one |

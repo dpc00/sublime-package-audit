@@ -2796,7 +2796,8 @@ tanepiper/SublimeText-Nodejs	113	IndexError in get_working_dir when no folder is
 Tardog/dw-site-tools	2	Import existing .ste: UnboundLocalError when the file cannot be opened	open	2026-10-22		https://github.com/Tardog/dw-site-tools/issues/2		2026-10-30	issue
 tarzan/sublime-text-elixir-tests	6	Palette captions say Ruby: Run All Ruby Tests, Run Last Ruby Test	open	2026-10-17		https://github.com/tarzan/sublime-text-elixir-tests/issues/6		2026-10-30	issue
 tatky/Sublime_Responsys_Built-In_Function	1	commalist completion is malformed: missing colon in the optional field	open	2026-10-26		https://github.com/tatky/Sublime_Responsys_Built-In_Function/issues/1		2026-10-30	issue
-taw/sublime-paradox	1	A stray } is never marked invalid (scope, push, pop, brackets are not .tmLanguage keys)	open	2026-10-25		https://github.com/taw/sublime-paradox/issues/1		2026-10-30	issue
+taw/sublime-paradox	1	A stray } is never marked invalid (scope, push, pop, brackets are not .tmLanguage keys)	closed	2026-10-25	2026-11-12	https://github.com/taw/sublime-paradox/issues/1		2026-11-12	issue
+taw/sublime-paradox	2	# comments are scoped comment.line.percent-sign	closed	2026-10-25	2026-11-12	https://github.com/taw/sublime-paradox/issues/2		2026-11-12	issue
 tbpalsulich/hacs_sublime_text_theme	1	Keywords are highlighted inside longer words (no word boundaries)	open	2026-10-23		https://github.com/tbpalsulich/hacs_sublime_text_theme/issues/1		2026-10-30	issue
 tbremer/px-rem-tooltip-sublime	5	SyntaxWarning: invalid escape sequence \d on load (Python 3.12+)	open	2026-10-25		https://github.com/tbremer/px-rem-tooltip-sublime/issues/5		2026-10-30	issue
 TeamRemote/remote-sublime	16	debug ("Closing and shutting down socket {s}".format(self.socket))	open	2021-05-18		https://github.com/TeamRemote/remote-sublime/issues/16		2026-10-30	issue
