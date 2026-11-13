@@ -32,6 +32,19 @@ portable is not the same test. Do not switch instances mid-test, and never carry
 - `st_portable` → MCP server `sublime-mcp-portable`, `http://127.0.0.1:9512/sse`
   (`mcp_port: 9512`, `http_port: 9510`, `require_consent_for_destructive: false`).
 - `ST-portable-4215-omp-1|2|3` → `mcp_port` 9542 / 9552 / 9562. Leave them alone.
+- **Two MCP entries exist and only one is the rig.** `sublime-mcp` is `http://127.0.0.1:9502/mcp`,
+  served by the **`C:\Program Files\Sublime Text`** install — Donald's own editor, full of his open
+  tabs and his agent terminal. `sublime-mcp-portable` is `http://127.0.0.1:9512/mcp`, served by
+  `st_portable`. Calling the wrong one opens files, raises dialogs and installs packages in his live
+  editor while reporting paths that look portable (2026-11-12: two st_portable paths opened as tabs
+  in the main window, four dialogs raised there, and the fix looked "verified" against a grammar the
+  portable never loaded). Tell them apart by process, not by path: the port owner's **parent**
+  `sublime_text.exe` must be `C:\Users\donal\tools\st_portable\...`, and the `list_native_windows`
+  hwnd must equal that process's `MainWindowHandle`. If `opencode mcp list` shows
+  `sublime-mcp-portable  failed: ECONNREFUSED`, the portable is simply not running — launch it, then
+  reconnect with
+  `opencode api post '/api/experimental/mcp/sublime-mcp-portable/connect?location%5Bdirectory%5D=<cwd>'`
+  and confirm the status is connected before the first call.
 - **Confirm the target before any test call:** read that instance's `MCP Commander.sublime-settings`
   for the port, then check that `list_native_windows` returns the hwnd of the window you just
   launched — not another install's window. A session that matched on the directory name
